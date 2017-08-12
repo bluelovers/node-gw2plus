@@ -1,0 +1,42 @@
+<OverlayData>
+  <MarkerCategory name="temp">
+    <MarkerCategory name="Cin Business"/>
+    <MarkerCategory name="Letters from E"/>
+    <MarkerCategory name="Lessons Learned Flashpoint"/>
+    <MarkerCategory name="One Path Ends">
+      <MarkerCategory name="Storyteller: Balthazar"/>
+      <MarkerCategory name="Storyteller: Dwayna"/>
+      <MarkerCategory name="Storyteller: Grenth"/>
+      <MarkerCategory name="Storyteller: Lyssa"/>
+      <MarkerCategory name="Storyteller: Melandru"/>
+      <MarkerCategory name="Storyteller: Abaddon"/>
+      <MarkerCategory name="Risen Research"/>
+      <MarkerCategory name="Pruning the Weed"/>
+      <MarkerCategory name="Withered Rose"/>
+    </MarkerCategory>
+    <MarkerCategory name="Where’s Balthazar?">
+      <MarkerCategory name="King Crab"/>
+      <MarkerCategory name="Into the Mind of Madness"/>
+      <MarkerCategory name="Art Critic"/>
+      <MarkerCategory name="Cleaning Up the Mess"/>
+    </MarkerCategory>
+    <MarkerCategory name="Flashpoint">
+      <MarkerCategory name="Burnin’ Down the House"/>
+      <MarkerCategory name="Rock Collector"/>
+      <MarkerCategory name="Druid Stone">
+        <MarkerCategory name="The Druid Stone"/>
+        <MarkerCategory name="Awakening the Druid Stone"/>
+        <MarkerCategory name="Sprouting the Druid Stone"/>
+        <MarkerCategory name="A Henge Away from Home"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Not All Who Wander Are Lost"/>
+    <MarkerCategory name="Head of the Snake">
+      <MarkerCategory name="A Meeting of Ministers">
+        <MarkerCategory name="Upper City Security Chief"/>
+        <MarkerCategory name="Shadow in the Shadows"/>
+        <MarkerCategory name="Sacrificial Lambs"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+</OverlayData>
