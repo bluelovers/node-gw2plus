@@ -1,0 +1,17 @@
+<OverlayData>
+  <MarkerCategory name="LS">
+    <MarkerCategory name="LS3">
+      <MarkerCategory name="The Head of the Snake">
+        <MarkerCategory name="A Meeting of Ministers">
+          <MarkerCategory name="Sacrificial Lambs"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1190" xpos="50.9192" ypos="141.118" zpos="-74.3144" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.sacrificial_lambs" GUID="n3fpEaNPVU2WfnvffkkCRA=="/>
+    <POI MapID="1190" xpos="110.224" ypos="142.688" zpos="-76.3964" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.sacrificial_lambs" GUID="JOje1eFVkUqgg0uWY2deTA=="/>
+    <POI MapID="1190" xpos="161.173" ypos="145.438" zpos="-88.2488" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.sacrificial_lambs" GUID="pLCT8+l7VEG0GYMOXJC1Yw=="/>
+    <POI MapID="1190" xpos="-8.89096" ypos="138.684" zpos="-105.308" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.sacrificial_lambs" GUID="2dVH/XwcE06A8XCou2FKPg=="/>
+  </POIs>
+</OverlayData>
