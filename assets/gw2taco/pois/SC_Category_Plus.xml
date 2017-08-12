@@ -1,0 +1,36 @@
+<OverlayData fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
+        <MarkerCategory name="Currency"/>
+      </MarkerCategory>
+      <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
+        <MarkerCategory name="Currency"/>
+      </MarkerCategory>
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+        <MarkerCategory name="Currency"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Other" data-allowsub="true">
+      <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
+      <MarkerCategory name="Leather" iconSize="0.5"/>
+      <MarkerCategory name="Cloth" iconSize="0.5"/>
+      <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" data-allowsub="true"/>
+    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3"/>
+  </MarkerCategory>
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles">
+    <MarkerCategory name="Start"/>
+    <MarkerCategory name="Guilde">
+      <MarkerCategory name="End"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="jumpingpuzzle">
+    <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
+    <MarkerCategory name="Portal"/>
+  </MarkerCategory>
+  <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
+</OverlayData>
