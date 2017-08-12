@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "es2017",
+    "sourceMap": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "locale": "zh-TW",
+    "pretty": true,
+    "exclude": [
+      "node_modules"
+    ],
+    "newLine": "lf"
+  }
+}

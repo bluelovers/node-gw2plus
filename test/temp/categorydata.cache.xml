@@ -387,6 +387,8 @@
         <MarkerCategory name="Lessons Learned"/>
       </MarkerCategory>
       <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Pruning The Weed"/>
+        <MarkerCategory name="Risen Research"/>
         <MarkerCategory name="Storyteller">
           <MarkerCategory name="Balthazar"/>
           <MarkerCategory name="Dwayna"/>
@@ -397,7 +399,11 @@
         </MarkerCategory>
         <MarkerCategory name="Wheres Balthazar">
           <MarkerCategory name="Art Critic"/>
+          <MarkerCategory name="Cleaning Up The Mess"/>
+          <MarkerCategory name="Into The Mind Of Madness"/>
+          <MarkerCategory name="King Crab"/>
         </MarkerCategory>
+        <MarkerCategory name="Withered Rose"/>
       </MarkerCategory>
       <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
         <MarkerCategory name="A Meeting of Ministers">
@@ -405,6 +411,8 @@
           <MarkerCategory name="Shadow In The Shadows"/>
           <MarkerCategory name="Upper City Security Chief"/>
         </MarkerCategory>
+        <MarkerCategory name="Cin Business"/>
+        <MarkerCategory name="Not All Who Wander Are Lost"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
