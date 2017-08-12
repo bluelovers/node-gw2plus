@@ -1,0 +1,62 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World">
+    <MarkerCategory name="LS3" DisplayName="Season 3">
+      <MarkerCategory name="One Path Ends">
+        <MarkerCategory name="Storyteller">
+          <MarkerCategory name="Balthazar"/>
+          <MarkerCategory name="Dwayna"/>
+          <MarkerCategory name="Melandru"/>
+          <MarkerCategory name="Grenth"/>
+          <MarkerCategory name="Lyssa"/>
+          <MarkerCategory name="Abaddon"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1203" xpos="-909.348" ypos="115.067" zpos="143.453" type="ls.ls3.one_path_ends.storyteller.balthazar" GUID="KiiyNr90G0qTwSjr9Ua1rA=="/>
+    <POI MapID="1203" xpos="-693.361" ypos="133.048" zpos="354.968" type="ls.ls3.one_path_ends.storyteller.balthazar" GUID="eDtfMVZzKUGQIhHwR0f6PA=="/>
+    <POI MapID="1203" xpos="-746.024" ypos="114.955" zpos="353.517" type="ls.ls3.one_path_ends.storyteller.balthazar" GUID="+heUo6swPEes+yNlXQuX/g=="/>
+    <POI MapID="1203" xpos="-308.517" ypos="98.569" zpos="350.873" type="ls.ls3.one_path_ends.storyteller.balthazar" GUID="W6jo3W6YeUq24aqOo9Q+2w=="/>
+    <POI MapID="1203" xpos="-296.161" ypos="70.2355" zpos="314.489" type="ls.ls3.one_path_ends.storyteller.balthazar" GUID="fBqq2mkN10eXRUBYe2fgGg=="/>
+    <POI MapID="1203" xpos="-806.429" ypos="-22.8433" zpos="-102.338" type="ls.ls3.one_path_ends.storyteller.dwayna" GUID="q+2gQz8ftUO/X2RKEcfxsg=="/>
+    <POI MapID="1203" xpos="-977.609" ypos="3.48093" zpos="-293.419" type="ls.ls3.one_path_ends.storyteller.dwayna" GUID="e4qpbXKirka4/rhS5yO3kA=="/>
+    <POI MapID="1203" xpos="-979.146" ypos="3.60107" zpos="-281.933" type="ls.ls3.one_path_ends.storyteller.melandru" GUID="oHLm5V0CMkStBV/WO6v5EQ=="/>
+    <POI MapID="1203" xpos="-896.9" ypos="126.142" zpos="-140.194" type="ls.ls3.one_path_ends.storyteller.dwayna" GUID="NDry2anZek6PkhNkI26K4g=="/>
+    <POI MapID="1203" xpos="-658.104" ypos="145.614" zpos="-296.391" type="ls.ls3.one_path_ends.storyteller.dwayna" GUID="5hQBjGqWek+73mlVzXTWMA=="/>
+    <POI MapID="1203" xpos="-654.613" ypos="136.154" zpos="-87.4385" type="ls.ls3.one_path_ends.storyteller.dwayna" GUID="As3B6BJ3EUSZYvLf0uD5OA=="/>
+    <POI MapID="1203" xpos="-697.959" ypos="6.23612" zpos="-15.8235" type="ls.ls3.one_path_ends.storyteller.dwayna" GUID="BmCJMrimW0SWajxjFGecvw=="/>
+    <POI MapID="1203" xpos="-663.449" ypos="76.2349" zpos="-143.77" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="8ht6yFIfEEeC3gwUq+W+5g=="/>
+    <POI MapID="1203" xpos="-658.964" ypos="77.0586" zpos="-140.491" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="hVspupeCok+OPOhXGanJsg=="/>
+    <POI MapID="1203" xpos="-469.745" ypos="-63.0526" zpos="-160.468" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="cQ9U0iSKP0KCB3Ab7Mzt9A=="/>
+    <POI MapID="1203" xpos="-575.47" ypos="51.1988" zpos="-212.895" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="yILvkCjt00eyXPNCk0Xjlw=="/>
+    <POI MapID="1203" xpos="-506.754" ypos="67.1976" zpos="-69.8768" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="apVlVtws5UCpn4qISWIGQw=="/>
+    <POI MapID="1203" xpos="-401.649" ypos="34.906" zpos="-238.413" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="ZVrjuc0Zx0ub3tVNB6jizw=="/>
+    <POI MapID="1203" xpos="773.58" ypos="17.9612" zpos="-184.75" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="AdpIwniLiEG/BS8SdSJnHw=="/>
+    <POI MapID="1203" xpos="328.473" ypos="-61.7446" zpos="356.536" type="ls.ls3.one_path_ends.storyteller.grenth" GUID="FEB78mopg0S7fED4tfpwbg=="/>
+    <POI MapID="1203" xpos="136.528" ypos="131.192" zpos="308.847" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="msTbC065M0OOKMclxNvb/Q=="/>
+    <POI MapID="1203" xpos="86.0967" ypos="149.109" zpos="200.535" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="oGiuq2/C2k+Kkd95zkb6BA=="/>
+    <POI MapID="1203" xpos="111.756" ypos="117.095" zpos="202.696" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="1WE/jpQVO06533sz4SQ3Pw=="/>
+    <POI MapID="1203" xpos="89.7254" ypos="88.6386" zpos="175.577" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="7x+wTj4lv0C8RfatCkydXg=="/>
+    <POI MapID="1203" xpos="-184.57" ypos="173.342" zpos="346.954" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="ZTsFr0kfnU+kjFntz+g30w=="/>
+    <POI MapID="1203" xpos="-93.9941" ypos="141.793" zpos="250.474" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="tKJJwdy+RUm8Ha+D7doWEA=="/>
+    <POI MapID="1203" xpos="254.014" ypos="-59.5492" zpos="332.967" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="nsN25O31QkeJpcVAQ3jToA=="/>
+    <POI MapID="1203" xpos="597.879" ypos="-98.3895" zpos="-25.8775" type="ls.ls3.one_path_ends.storyteller.lyssa" GUID="oeaqRxhsiUu0h4vjxuYz6g=="/>
+    <POI MapID="1203" xpos="-321.134" ypos="103.063" zpos="-360.189" type="ls.ls3.one_path_ends.storyteller.melandru" GUID="BI+vAOJ5tEGXW3hL9OtVMQ=="/>
+    <POI MapID="1203" xpos="-252.939" ypos="92.2813" zpos="-352.104" type="ls.ls3.one_path_ends.storyteller.melandru" GUID="LA+8chSw/kisWesSgSssRQ=="/>
+    <POI MapID="1203" xpos="-132.69" ypos="170.898" zpos="-130.473" type="ls.ls3.one_path_ends.storyteller.melandru" GUID="z203hkQQ4UaxMw3SnYdcVw=="/>
+    <POI MapID="1203" xpos="52.1693" ypos="64.297" zpos="-306.638" type="ls.ls3.one_path_ends.storyteller.melandru" GUID="7N53akxfUEaXB+PJAC5gjQ=="/>
+    <POI MapID="1203" xpos="-63.977" ypos="-2.48076" zpos="-165.728" type="ls.ls3.one_path_ends.storyteller.melandru" GUID="A2ce1xv5SUaIegnvWRSSTw=="/>
+    <POI MapID="1203" xpos="589.606" ypos="18.5512" zpos="104.688" type="ls.ls3.one_path_ends.storyteller.balthazar" GUID="lmGO9dTdiUyUyfCCSuvWvg=="/>
+    <POI MapID="1203" xpos="-429.813" ypos="128.112" zpos="148.503" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="SEc9sGIsIkyGaJK9JgSkNQ=="/>
+    <POI MapID="1203" xpos="-635.6" ypos="166.886" zpos="-126.274" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="XdFoJgQFm0G38HBzKRPxpg=="/>
+    <POI MapID="1203" xpos="-984.17" ypos="3.70289" zpos="-290.151" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="jvcm7vnSYk24AvMqDIiYbA=="/>
+    <POI MapID="1203" xpos="-647.218" ypos="122.587" zpos="303.948" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="x/wBj5FRFEOuLUJuw9rrew=="/>
+    <POI MapID="1203" xpos="-699.071" ypos="78.1209" zpos="194.492" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="l9ICgHlyiUaDn0x3+4RUIw=="/>
+    <POI MapID="1203" xpos="-801.347" ypos="-14.7406" zpos="113.69" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="hU95qG29PkK2FzGHg7AtpQ=="/>
+    <POI MapID="1203" xpos="-606.772" ypos="125.853" zpos="49.1307" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="+xK4W2HCN0KdSmhpiN2vmQ=="/>
+    <POI MapID="1203" xpos="-248.366" ypos="71.7723" zpos="124.51" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="6gtG42dDfkClqquoyskdmQ=="/>
+    <POI MapID="1203" xpos="-413.37" ypos="-7.27795" zpos="90.9593" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="tWLqmMEUUE+Eo9kxjiVEHA=="/>
+    <POI MapID="1203" xpos="84.3343" ypos="133.746" zpos="362.103" type="ls.ls3.one_path_ends.storyteller.abaddon" GUID="mPJ5JeDmrkyjBMxaGbOQ4Q=="/>
+  </POIs>
+</OverlayData>
