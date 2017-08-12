@@ -1,0 +1,50 @@
+{
+
+  "env": {
+    "production": {
+      "retainLines": false,
+      "sourceMaps": true
+    },
+
+    "development": {
+      "retainLines": true,
+      "sourceMaps": true,
+      "auxiliaryCommentAfter": true
+    }
+  },
+
+  "sourceRoot": ".",
+
+  "ignore": [
+    "node_modules",
+    "dist"
+  ],
+
+  "presets": [
+    [
+      "env",
+      {
+        "debug": true,
+        "exclude": [
+          "transform-async-to-generator",
+          "transform-es2015-destructuring",
+          "transform-es2015-for-of",
+          "transform-es2015-function-name",
+          "transform-es2015-literals",
+          "transform-es2015-parameters",
+          "transform-exponentiation-operator",
+          "transform-regenerator"
+        ],
+        "include": [
+        ],
+
+        "loose": false,
+        //"modules": "commonjs",
+
+        "targets": {
+          "node": "current"
+        }
+      }
+    ]
+  ]
+}
