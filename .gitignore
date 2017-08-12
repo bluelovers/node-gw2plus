@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/vendor/
+!/test/temp/categorydata.cache.xml
+!/test/temp/assets.gw2taco.cache.json
+/test/temp/
+/.idea/
+/node_modules/
+!/test/temp/categorydata.cache.xml
+!/test/temp/assets.gw2taco.cache.json
