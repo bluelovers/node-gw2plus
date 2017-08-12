@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="LS">
+    <MarkerCategory name="LS3">
+      <MarkerCategory name="One Path Ends">
+        <MarkerCategory name="Wheres Balthazar">
+          <MarkerCategory name="Cleaning Up The Mess"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1202" xpos="-40.7117" ypos="135.087" zpos="-410.847" type="ls.ls3.one_path_ends.wheres_balthazar.cleaning_up_the_mess" GUID="eq0lwf4rx0y7lUQ9oQ7S6A=="/>
+  </POIs>
+</OverlayData>
