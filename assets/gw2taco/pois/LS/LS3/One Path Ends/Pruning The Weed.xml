@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="LS">
+    <MarkerCategory name="LS3">
+      <MarkerCategory name="One Path Ends">
+        <MarkerCategory name="Pruning The Weed"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1203" xpos="-659.411" ypos="127.651" zpos="107.843" type="ls.ls3.one_path_ends.pruning_the_weed" GUID="NTbj95u4GUi8HYG3XejW2g=="/>
+  </POIs>
+</OverlayData>
