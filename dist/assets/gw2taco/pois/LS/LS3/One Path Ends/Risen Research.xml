@@ -1,0 +1,18 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Risen Research"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1203" xpos="-35.9039" ypos="106.327" zpos="-353.76" type="ls.ls3.one_path_ends.risen_research" GUID="iYAnl1NHHUe1UcmLkdavPQ=="/>
+    <POI MapID="1203" xpos="179.318" ypos="50.7957" zpos="-286.176" type="ls.ls3.one_path_ends.risen_research" GUID="qOHlgVNzIEW1xNljWL6I8g=="/>
+    <POI MapID="1203" xpos="-272.924" ypos="111.612" zpos="-221.569" type="ls.ls3.one_path_ends.risen_research" GUID="CmSE6SOlo0OmCzzARc+Dtg=="/>
+    <POI MapID="1203" xpos="-688.865" ypos="36.4691" zpos="-311.217" type="ls.ls3.one_path_ends.risen_research" GUID="QazP2Qy2YkOwF3JxSU63mg=="/>
+    <POI MapID="1203" xpos="-856.644" ypos="73.0473" zpos="-135.571" type="ls.ls3.one_path_ends.risen_research" GUID="v8ThlgEr8UKtv8wSis7QwA=="/>
+    <POI MapID="1203" xpos="-694.131" ypos="68.5103" zpos="-6.21902" type="ls.ls3.one_path_ends.risen_research" GUID="eLZF/F74c0qjuJ6OFBXJBA=="/>
+    <POI MapID="1203" xpos="-442.099" ypos="95.4347" zpos="157.044" type="ls.ls3.one_path_ends.risen_research" GUID="ZZsYxbNqUk2QFLmMYjWL9Q=="/>
+  </POIs>
+</OverlayData>
