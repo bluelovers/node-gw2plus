@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
+        <MarkerCategory name="Cin Business"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1185" xpos="-337.362" ypos="0.557151" zpos="42.1953" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="S2k8G53WbUWFQmetgg0x2A=="/>
+    <POI MapID="1185" xpos="-157.396" ypos="0.230635" zpos="102.567" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="pOaRP8t8b0mzaj3FX2v6fg=="/>
+    <POI MapID="1185" xpos="-16.9454" ypos="5.59401" zpos="124.158" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="XKjMahexmkO3Cmhit6YS8Q=="/>
+    <POI MapID="1185" xpos="-158.338" ypos="91.5842" zpos="695.13" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="ZjRpCzFo10Gusv/jxvObzA=="/>
+    <POI MapID="1185" xpos="342.174" ypos="56.8559" zpos="-316.237" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="m47zeK6J6kuCWk3fas1S8g=="/>
+    <POI MapID="1185" xpos="21.2376" ypos="34.3048" zpos="-444.229" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="vi7/HqsoKkmOhAPRsGfryw=="/>
+    <POI MapID="1185" xpos="-357.261" ypos="33.8638" zpos="-575.224" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="70N4EYOzbUGFGn+FMQMRXA=="/>
+    <POI MapID="1185" xpos="-337.786" ypos="-0.680716" zpos="-612.904" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="9BsNP9piyUGEqCkKwOoo7w=="/>
+    <POI MapID="1185" xpos="155.839" ypos="66.0151" zpos="713.484" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="2yYHLTX5fk60HKoI5sdaHg=="/>
+    <POI MapID="1185" xpos="100.295" ypos="96.5289" zpos="689.122" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="xk6cDtbuqUi9u1NxwGVamw=="/>
+    <POI MapID="1185" xpos="-106.321" ypos="33.7727" zpos="-703.981" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="fmFScr2DS06lZYi83TZL+g=="/>
+    <POI MapID="1185" xpos="-186.272" ypos="44.8184" zpos="330.681" type="ls.ls3.the_head_of_the_snake.cin_business" GUID="zT8vwHWu50S9gyCyaBJxrg=="/>
+  </POIs>
+</OverlayData>
