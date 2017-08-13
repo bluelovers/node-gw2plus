@@ -7,7 +7,6 @@
       <MarkerCategory name="Hard"/>
       <MarkerCategory name="Elder"/>
       <MarkerCategory name="Ancient" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
@@ -18,7 +17,6 @@
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Mithril"/>
         <MarkerCategory name="Orichalcum" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png">
         <MarkerCategory name="Copper"/>
@@ -28,9 +26,7 @@
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Mithril"/>
         <MarkerCategory name="Orichalcum"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Copper">
@@ -42,7 +38,6 @@
         <MarkerCategory name="Lettuce"/>
         <MarkerCategory name="Onions"/>
         <MarkerCategory name="Potato"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Iron">
         <MarkerCategory name="Clam"/>
@@ -50,7 +45,6 @@
         <MarkerCategory name="Spinach"/>
         <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
         <MarkerCategory name="Taproots"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Steel">
         <MarkerCategory name="Cabbage"/>
@@ -60,7 +54,6 @@
         <MarkerCategory name="VariedMushrooms" DisplayName="Varied Mushrooms"/>
         <MarkerCategory name="YoungHerbs" DisplayName="Young Herbs"/>
         <MarkerCategory name="Zucchini"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Darksteel">
         <MarkerCategory name="Blackberries"/>
@@ -71,7 +64,6 @@
         <MarkerCategory name="Scallions"/>
         <MarkerCategory name="SugarPumpkin" DisplayName="Sugar Pumpkin"/>
         <MarkerCategory name="VariegatedTaproots" DisplayName="Variegated Taproots"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Mithril">
         <MarkerCategory name="Artichoke"/>
@@ -85,7 +77,6 @@
         <MarkerCategory name="Raspberries"/>
         <MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs"/>
         <MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Orichalcum">
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
@@ -100,33 +91,25 @@
         <MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms"/>
         <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png"/>
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="MapSpecific">
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true">
       <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
       <MarkerCategory name="Leather" iconSize="0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png"/>
       <MarkerCategory name="Cloth" iconSize="0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png"/>
       <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400" data-iconFile="Data/Chest.png">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png">
@@ -136,11 +119,9 @@
       <MarkerCategory name="AuricBasin" DisplayName="Auric Basin"/>
       <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="DragonsStand" DisplayName="Dragon's Stand" iconFile="Data/crystallineore.png" behavior="6"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="AStudyInGold" DisplayName="A Study in Gold" iconFile="Data/Auric_Basin.png" behavior="3"/>
@@ -148,30 +129,24 @@
     <MarkerCategory name="RisingFlames" DisplayName="Rising Flames" fadeFar="16800" fadeNear="8400">
       <MarkerCategory name="TokenCollector" DisplayName="Token Collector" iconFile="Data/Rising_Flames.png" fadeFar="16800" fadeNear="8400" behavior="3" resetLength="30"/>
       <MarkerCategory name="TabletsoftheUnseen" DisplayName="Tablets of the Unseen" fadeFar="16800" fadeNear="8400" behavior="3"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="ACrackInTheIce" DisplayName="A Crack in the Ice">
       <MarkerCategory name="QuirkyQuagganQuest" DisplayName="Quirky Quaggan Quest" iconFile="Data/A_Crack_In_the_Ice.png" behavior="3"/>
       <MarkerCategory name="ThoroughSampling" DisplayName="Thorough Sampling" iconFile="Data/A_Crack_In_the_Ice.png" behavior="3"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="SoldierTag" iconFile="Data/raid1_achievements.png" behavior="3"/>
     <MarkerCategory name="JournalEntry" iconFile="Data/raid1_achievements.png" behavior="3"/>
     <MarkerCategory name="TornPage" iconFile="Data/raid1_achievements.png" behavior="3"/>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
       <MarkerCategory name="FireCracker" iconFile="data/Lunar_New_Year_Dailies.png" behavior="2" iconSize="0.5"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Halloween">
       <MarkerCategory name="CarvingPumpkin" DisplayName="Carving Pumpkin" iconFile="data/Halloween.png" behavior="6" iconSize="0.5"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Wintersday">
       <MarkerCategory name="Orphan" iconFile="data/karma.png" behavior="2"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="SAB">
       <MarkerCategory name="BombLocation" iconFile="Data/Bomb.png" iconSize="0.5" alpha="1.0" fadeNear="6000" fadeFar="7000"/>
@@ -181,14 +156,11 @@
       <MarkerCategory name="FurnitureShops" iconFile="Data/storyline_purple.png" behavior="2" iconSize="0.2" alpha="0.9" heightOffset="0" fadeNear="2000" fadeFar="2200"/>
       <MarkerCategory name="Shop" iconFile="Data/Gold_coin.png" alpha="0.9" iconSize="0.5"/>
       <MarkerCategory name="TribulationTrail" iconFile="Data/storyline_green.png" iconSize="0.3" alpha="0.9" heightOffset="0.7" fadeNear="2000" fadeFar="2200"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Timed">
       <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Raid">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
@@ -201,7 +173,6 @@
       <MarkerCategory name="Counter_4" DisplayName="Counter - 4" iconFile="Data/four.png"/>
       <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
       <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="WvW" minSize="16" maxSize="32">
       <MarkerCategory name="Camp" DisplayName="Camp" iconFile="Data/camp.png"/>
@@ -211,7 +182,6 @@
       <MarkerCategory name="Generic" DisplayName="Generic" iconFile="Data/generic.png"/>
       <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
       <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
@@ -234,42 +204,34 @@
         <MarkerCategory name="tricksytrekksa" DisplayName="Tricksy Trekksa"/>
         <MarkerCategory name="trilliamidwell" DisplayName="Trillia Midwell"/>
         <MarkerCategory name="Yanonka" iconFile="Data/Bounty_bw.png" color="ff80ff80"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Adventure">
       <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="guildrace" DisplayName="Guild Races">
     <MarkerCategory name="bearlope" DisplayName="Bear Lope">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Spiketrap" iconFile="Data/GuildRaces/spikes.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Stonetrap" iconFile="Data/GuildRaces/boulders.png" iconSize="0.5" behavior="0"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="ghostwolfrun" DisplayName="Ghost Wolf Run">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Dodgejump" iconFile="Data/GuildRaces/dodgejump.png" behavior="0"/>
       <MarkerCategory name="Spiketrap" iconFile="Data/GuildRaces/spikes.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Stonetrap" iconFile="Data/GuildRaces/boulders.png" iconSize="0.5" behavior="0"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="crabscuttle" DisplayName="Crab Scuttle">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Dodgejump" iconFile="Data/GuildRaces/dodgejump.png" behavior="0"/>
       <MarkerCategory name="Trap" iconFile="Data/GuildRaces/bomb.png" behavior="0"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="devourerburrow" DisplayName="Devourer Burrow">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Dodgejump" iconFile="Data/GuildRaces/dodgejump.png" behavior="0"/>
       <MarkerCategory name="Spiketrap" iconFile="Data/GuildRaces/spikes.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Stonetrap" iconFile="Data/GuildRaces/boulders.png" iconSize="0.5" behavior="0"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="spiderscurry" DisplayName="Spider Scurry">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
@@ -277,16 +239,13 @@
       <MarkerCategory name="Teleport" iconFile="Data/GuildRaces/spiderport.png" iconSize="0.75" behavior="0"/>
       <MarkerCategory name="Spiketrap" iconFile="Data/GuildRaces/spikes.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Stonetrap" iconFile="Data/GuildRaces/boulders.png" iconSize="0.5" behavior="0"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="chickenrun" DisplayName="Chicken Run">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Dodgejump" iconFile="Data/GuildRaces/dodgejump.png" behavior="0"/>
       <MarkerCategory name="Spiketrap" iconFile="Data/GuildRaces/spikes.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Stonetrap" iconFile="Data/GuildRaces/boulders.png" iconSize="0.5" behavior="0"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/jpguide.png" iconSize="0.75" triggerRange="5">
     <MarkerCategory name="Start" iconFile="Data/jpstart.png" iconSize="1.5"/>
@@ -301,7 +260,6 @@
         <MarkerCategory name="LoreclawExpanse" DisplayName="Loreclaw Expanse"/>
         <MarkerCategory name="PigIronQuarry" DisplayName="Pig Iron Quarry" triggerRange="2"/>
         <MarkerCategory name="WallBreachBlitz" DisplayName="Wall Breach Blitz"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Kryta" triggerRange="3">
         <MarkerCategory name="DemongrubPits" DisplayName="Demongrub Pits" triggerRange="5"/>
@@ -316,12 +274,10 @@
         <MarkerCategory name="UnderNewManagement" DisplayName="Under New Management"/>
         <MarkerCategory name="UrmaugsSecret" DisplayName="Urmaug's Secret"/>
         <MarkerCategory name="WeyandtsRevenge" DisplayName="Weyandt's Revenge"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="HeartOfMaguuma" DisplayName="Heart of Maguuma">
         <MarkerCategory name="EggBearer" DisplayName="Egg Bearer"/>
         <MarkerCategory name="HighestGear" DisplayName="Highest Gear"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="MaguumaJungle" DisplayName="Maguuma Jungle" triggerRange="3">
         <MarkerCategory name="ConundrumCubed" DisplayName="Conundrum Cubed"/>
@@ -332,23 +288,19 @@
         <MarkerCategory name="MorgansLeap" DisplayName="Morgan's Leap"/>
         <MarkerCategory name="SpekkssLaboratory" DisplayName="Spekks's Laboratory"/>
         <MarkerCategory name="SpelunkersDelve" DisplayName="Spelunker's Delve"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="MaguumaWastes" DisplayName="Maguuma Wastes">
         <MarkerCategory name="ProspectValleyCrashSite" DisplayName="Prospect Valley Crash Site"/>
         <MarkerCategory name="DryDockScratch" DisplayName="Dry Dock Scratch"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="RingOfFire" DisplayName="Ring of Fire">
         <MarkerCategory name="SkipUpTheVolcano" DisplayName="Skip Up The Volcano"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="RuinsOfOrr" DisplayName="Ruins of Orr">
         <MarkerCategory name="AntreOfAdjournment" DisplayName="Antre of Adjournment" triggerRange="3"/>
         <MarkerCategory name="BuriedArchives" DisplayName="Buried Archives"/>
         <MarkerCategory name="ScavengersChasm" DisplayName="Scavenger's Chasm" behavior="7" resetLength="30"/>
         <MarkerCategory name="TheViziersTower" DisplayName="The Vizier's Tower" triggerRange="3"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="ShiverpeakMountains" DisplayName="Shiverpeak Mountains">
         <MarkerCategory name="CoddlersCove" DisplayName="Coddler's Cove"/>
@@ -359,27 +311,21 @@
         <MarkerCategory name="ShatteredIceRuins" DisplayName="Shattered Ice Ruins"/>
         <MarkerCategory name="TribulationCaverns" DisplayName="Tribulation Caverns" triggerRange="3"/>
         <MarkerCategory name="TribulationRiftScaffolding" DisplayName="Tribulation Rift Scaffolding"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="TheMists" DisplayName="The Mists" triggerRange="3">
         <MarkerCategory name="MistlockMountaineer" DisplayName="Mistlock Mountaineer"/>
         <MarkerCategory name="MistwroughtVault" DisplayName="Mistwrought Vault"/>
         <MarkerCategory name="ObsidianSanctum" DisplayName="Obsidian Sanctum"/>
-        <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png">
     <MarkerCategory name="Start"/>
     <MarkerCategory name="Guilde">
       <MarkerCategory name="End"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="LS" DisplayName="Living World" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
     <MarkerCategory name="LS3" DisplayName="Season 3">
@@ -446,8 +392,6 @@
         <MarkerCategory name="Sprouting the Druid Stone"/>
         <MarkerCategory name="A Henge Away from Home"/>
       </MarkerCategory>
-      <MarkerCategory name="druid_stone"/>
-      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Not All Who Wander Are Lost"/>
     <MarkerCategory name="Head of the Snake">
@@ -457,24 +401,6 @@
         <MarkerCategory name="Sacrificial Lambs"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="one_path_ends">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="where___s_balthazar_">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="flashpoint">
-      <MarkerCategory name="druid_stone">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-    </MarkerCategory>
-    <MarkerCategory name="head_of_the_snake">
-      <MarkerCategory name="a_meeting_of_ministers">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
 </OverlayData>
