@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
+        <MarkerCategory name="Not All Who Wander Are Lost"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1185" xpos="297.821" ypos="18.9545" zpos="-671.916" type="ls.ls3.the_head_of_the_snake.not_all_who_wander_are_lost" GUID="X+qEAeUCrUqlTI1X8TsrRw=="/>
+    <POI MapID="1185" xpos="362.147" ypos="36.3082" zpos="-662.778" type="ls.ls3.the_head_of_the_snake.not_all_who_wander_are_lost" GUID="ANkXLRJmqUOpcB4jum8/tA=="/>
+  </POIs>
+</OverlayData>

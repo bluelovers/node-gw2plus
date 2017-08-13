@@ -1,0 +1,18 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
+        <MarkerCategory name="A Meeting of Ministers">
+          <MarkerCategory name="Upper City Security Chief"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1190" xpos="48.3563" ypos="140.885" zpos="-136.757" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.upper_city_security_chief" GUID="LGS3EK6jr0KxgHIoCT+QzQ=="/>
+    <POI MapID="1190" xpos="87.3877" ypos="140.14" zpos="-137.916" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.upper_city_security_chief" GUID="ymYTBXIZgkWjXbnFczhfoQ=="/>
+    <POI MapID="1190" xpos="87.077" ypos="141.861" zpos="-110.588" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.upper_city_security_chief" GUID="kGzTRi9+UEqMDMOpoWTrfA=="/>
+    <POI MapID="1190" xpos="32.758" ypos="138.152" zpos="-88.1181" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.upper_city_security_chief" GUID="/wHtB6Z+aEKWlPs4vzkiYA=="/>
+    <POI MapID="1190" xpos="59.9306" ypos="138.519" zpos="-51.0297" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.upper_city_security_chief" GUID="FykWcqdu2USrH6m+bXMZjw=="/>
+  </POIs>
+</OverlayData>

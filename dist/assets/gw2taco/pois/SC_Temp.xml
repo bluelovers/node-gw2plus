@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="temp" data-allowsub="true">
+    <MarkerCategory name="Letters from E"/>
+    <MarkerCategory name="Flashpoint">
+      <MarkerCategory name="Burnin’ Down the House"/>
+      <MarkerCategory name="Rock Collector"/>
+      <MarkerCategory name="Druid Stone">
+        <MarkerCategory name="The Druid Stone"/>
+        <MarkerCategory name="Awakening the Druid Stone"/>
+        <MarkerCategory name="Sprouting the Druid Stone"/>
+        <MarkerCategory name="A Henge Away from Home"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Treasure Mushroom"/>
+      <MarkerCategory name="Champion"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</OverlayData>

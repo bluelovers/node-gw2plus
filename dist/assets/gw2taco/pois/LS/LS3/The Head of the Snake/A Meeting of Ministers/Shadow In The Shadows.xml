@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
+        <MarkerCategory name="A Meeting of Ministers">
+          <MarkerCategory name="Shadow In The Shadows"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1190" xpos="66.1359" ypos="139.928" zpos="-78.9593" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.shadow_in_the_shadows" GUID="nVlQ9EUyTUeQSwAfveoFjw=="/>
+    <POI MapID="1190" xpos="79.9611" ypos="140.166" zpos="-128.105" type="ls.ls3.the_head_of_the_snake.a_meeting_of_ministers.shadow_in_the_shadows" GUID="puNnyAfUc0ex8O/+KPi7EQ=="/>
+  </POIs>
+</OverlayData>

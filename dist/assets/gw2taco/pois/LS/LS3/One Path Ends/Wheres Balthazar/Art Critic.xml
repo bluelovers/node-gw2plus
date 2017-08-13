@@ -1,0 +1,30 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Wheres Balthazar">
+          <MarkerCategory name="Art Critic"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1202" xpos="215.074" ypos="141.602" zpos="-318.118" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="oigXX1Jk+EyCIqWS7yNWXg=="/>
+    <POI MapID="1202" xpos="177.983" ypos="141.726" zpos="-337.182" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="h3ctegt7k0OPm02WfpPCpA=="/>
+    <POI MapID="1202" xpos="109.58" ypos="141.269" zpos="-315.316" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="q19W9eYAykGcVeSI8pVIbw=="/>
+    <POI MapID="1202" xpos="85.2597" ypos="141.667" zpos="-332.969" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="u0jssIF2X0C0IXCjgaZxuA=="/>
+    <POI MapID="1202" xpos="110.146" ypos="141.271" zpos="-333.287" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="hzJMPnsTsUKwW11t7AvgYg=="/>
+    <POI MapID="1202" xpos="-14.2204" ypos="140.989" zpos="-329.516" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="MQj9mXDe3k+37E7FXSQOnQ=="/>
+    <POI MapID="1202" xpos="22.7055" ypos="141.274" zpos="-359.529" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="QN0R77dktkiNW9PHAQwvJw=="/>
+    <POI MapID="1202" xpos="-14.7915" ypos="141.2" zpos="-319.253" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="jvu1xN4OJUu8lt8BGMtunA=="/>
+    <POI MapID="1202" xpos="-61.7546" ypos="135.078" zpos="-421.38" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="fHwzmFWlBkaX+RPEq157Fw=="/>
+    <POI MapID="1202" xpos="81.9768" ypos="135.078" zpos="-397.44" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="6Ce0C3orj0WvBZJe7klCHQ=="/>
+    <POI MapID="1202" xpos="109.66" ypos="135.078" zpos="-398.238" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="LNAqouSOXkO5ZgDJLXzTzQ=="/>
+    <POI MapID="1202" xpos="98.3868" ypos="135.078" zpos="-456.947" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="g6Pq30gJR0SPVM40c418DQ=="/>
+    <POI MapID="1202" xpos="120.151" ypos="150.357" zpos="-219.185" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="xMLz2RaXA0+SYtYY5WN57g=="/>
+    <POI MapID="1202" xpos="122.493" ypos="150.359" zpos="-255.483" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="m53v+49sQUaHMtxcaS9GpQ=="/>
+    <POI MapID="1202" xpos="76.8376" ypos="150.357" zpos="-258.365" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="6NsvT/9YdkKjPnu5gskMnw=="/>
+    <POI MapID="1202" xpos="76.6813" ypos="150.382" zpos="-215.674" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="TLDXcATf/0ijtjejugeOtA=="/>
+    <POI MapID="1202" xpos="86.5559" ypos="141.274" zpos="-315.291" type="ls.ls3.one_path_ends.wheres_balthazar.art_critic" GUID="0LBjOiHbkUugnDEawjuxzA=="/>
+  </POIs>
+</OverlayData>

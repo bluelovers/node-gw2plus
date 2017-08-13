@@ -1,0 +1,201 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Copper">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Darksteel">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Other" data-allowsub="true">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400" data-iconFile="Data/Chest.png">
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="RisingFlames" DisplayName="Rising Flames" fadeFar="16800" fadeNear="8400">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="ACrackInTheIce" DisplayName="A Crack in the Ice">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Halloween">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Wintersday">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="SAB">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Timed">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="WvW" minSize="16" maxSize="32">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
+      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Adventure">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="guildrace" DisplayName="Guild Races">
+    <MarkerCategory name="bearlope" DisplayName="Bear Lope">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="ghostwolfrun" DisplayName="Ghost Wolf Run">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="crabscuttle" DisplayName="Crab Scuttle">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="devourerburrow" DisplayName="Devourer Burrow">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="spiderscurry" DisplayName="Spider Scurry">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="chickenrun" DisplayName="Chicken Run">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/jpguide.png" iconSize="0.75" triggerRange="5">
+    <MarkerCategory name="Guide">
+      <MarkerCategory name="Ascalon">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Kryta" triggerRange="3">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="HeartOfMaguuma" DisplayName="Heart of Maguuma">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="MaguumaJungle" DisplayName="Maguuma Jungle" triggerRange="3">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="MaguumaWastes" DisplayName="Maguuma Wastes">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="RingOfFire" DisplayName="Ring of Fire">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="RuinsOfOrr" DisplayName="Ruins of Orr">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="ShiverpeakMountains" DisplayName="Shiverpeak Mountains">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="TheMists" DisplayName="The Mists" triggerRange="3">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png">
+    <MarkerCategory name="Guilde">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Storyteller">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Wheres Balthazar">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
+        <MarkerCategory name="A Meeting of Ministers">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="temp" data-allowsub="true">
+    <MarkerCategory name="Flashpoint">
+      <MarkerCategory name="Druid Stone">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
+</OverlayData>
