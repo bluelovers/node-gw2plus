@@ -25,5 +25,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "gw2plus": "evtc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/node-gw2plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bluelovers/node-gw2plus/issues"
+  },
+  "homepage": "https://github.com/bluelovers/node-gw2plus#readme"
 }
