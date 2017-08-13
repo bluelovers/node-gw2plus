@@ -3,3 +3,4 @@
 /test/temp/
 /.idea/
 /node_modules/
+*.bak
