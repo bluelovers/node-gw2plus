@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Wheres Balthazar">
+          <MarkerCategory name="Into The Mind Of Madness"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1202" xpos="125.038" ypos="141.259" zpos="-303.269" type="ls.ls3.one_path_ends.wheres_balthazar.into_the_mind_of_madness" GUID="PcaOy2cqkESX/M3L9NMt3g=="/>
+    <POI MapID="1202" xpos="95.6389" ypos="150.879" zpos="-238.016" type="ls.ls3.one_path_ends.wheres_balthazar.into_the_mind_of_madness" GUID="6zaqWchMXk2KVx5KJxSV4A=="/>
+    <POI MapID="1202" xpos="-39.7917" ypos="135.248" zpos="-440.091" type="ls.ls3.one_path_ends.wheres_balthazar.into_the_mind_of_madness" GUID="cJKOFMMkHEyz9lF4i/m13A=="/>
+    <POI MapID="1202" xpos="171.538" ypos="141.256" zpos="-313.183" type="ls.ls3.one_path_ends.wheres_balthazar.into_the_mind_of_madness" GUID="K9RglTx9QEqJgy/TFUplMQ=="/>
+    <POI MapID="1202" xpos="85.0324" ypos="58.216" zpos="-641.81" type="ls.ls3.one_path_ends.wheres_balthazar.into_the_mind_of_madness" GUID="HjhnQMx5SUi4pzHZ/hs+wQ=="/>
+    <POI MapID="1202" xpos="213.308" ypos="-29.7604" zpos="-433.428" type="ls.ls3.one_path_ends.wheres_balthazar.into_the_mind_of_madness" GUID="bjViVXWie0q100oyfv7xEg=="/>
+  </POIs>
+</OverlayData>
