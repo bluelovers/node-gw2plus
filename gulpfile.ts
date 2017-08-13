@@ -11,7 +11,7 @@ import * as Promise from 'bluebird';
 import * as minimatch from 'minimatch';
 import * as globule from 'globule';
 
-import project_config, { project_root, dist_root, temp_root, gw2taco_path } from './project.config.ts';
+import project_config, { project_root, dist_root, temp_root, gw2taco_path } from './project.config';
 
 import gw2taco, { Category, Node, Poi } from './src/gw2taco';
 
