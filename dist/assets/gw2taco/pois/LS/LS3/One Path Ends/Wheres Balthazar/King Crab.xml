@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Wheres Balthazar">
+          <MarkerCategory name="King Crab"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1203" xpos="324.453" ypos="42.5109" zpos="-342.589" type="ls.ls3.one_path_ends.wheres_balthazar.king_crab" GUID="7liR7f+ZwU2Q+W1tenHmDw=="/>
+    <POI MapID="1202" xpos="177.445" ypos="-30.7425" zpos="-407.704" type="ls.ls3.one_path_ends.wheres_balthazar.king_crab" GUID="KzTtGBZx8U2X/0VIcdbTQA=="/>
+  </POIs>
+</OverlayData>
