@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
+        <MarkerCategory name="Lessons Learned"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1195" xpos="319.046" ypos="418.229" zpos="63.292" type="ls.ls3.flashpoint.lessons_learned" GUID="QmwRUZiqZkSI/o6ojamBOA=="/>
+    <POI MapID="1195" xpos="-244.44" ypos="412.939" zpos="-430.166" type="ls.ls3.flashpoint.lessons_learned" GUID="3VVDRqDGoEWaI9lfwxferw=="/>
+    <POI MapID="1195" xpos="-375.052" ypos="436.211" zpos="-436.169" type="ls.ls3.flashpoint.lessons_learned" GUID="y3GJ7U0DgEG+wWdIK9nqQw=="/>
+    <POI MapID="1195" xpos="310.322" ypos="431.685" zpos="-3.04598" type="ls.ls3.flashpoint.lessons_learned" GUID="nuT8MuGpVkOqAisjIMOMnQ=="/>
+    <POI MapID="1195" xpos="17.3519" ypos="327.707" zpos="-1012.93" type="ls.ls3.flashpoint.lessons_learned" GUID="M65+i35LsUOEPjzQrWv3jw=="/>
+    <POI MapID="1195" xpos="135.698" ypos="276.982" zpos="252.89" type="ls.ls3.flashpoint.lessons_learned" GUID="pulJKRZAzUeZT26PtYHuEw=="/>
+    <POI MapID="1195" xpos="-360.417" ypos="506.293" zpos="49.1774" type="ls.ls3.flashpoint.lessons_learned" GUID="klEh3NIdHEawxUZyVnOIGA=="/>
+    <POI MapID="1195" xpos="559.113" ypos="340.885" zpos="-132.703" type="ls.ls3.flashpoint.lessons_learned" GUID="nTEEafnwuEuqt2VhPy0n9w=="/>
+    <POI MapID="1195" xpos="-167.678" ypos="247.198" zpos="215.162" type="ls.ls3.flashpoint.lessons_learned" GUID="RBIdeh0foEGUw3ZeeFAtng=="/>
+    <POI MapID="1195" xpos="335.112" ypos="205.189" zpos="-589.627" type="ls.ls3.flashpoint.lessons_learned" GUID="AWQVctzCUUGq/YnxeqXYkQ=="/>
+    <POI MapID="1195" xpos="203.663" ypos="517.09" zpos="159.228" type="ls.ls3.flashpoint.lessons_learned" GUID="w73rCFOEF06QQfuM/OiTrg=="/>
+    <POI MapID="1195" xpos="228.414" ypos="246.409" zpos="-907.575" type="ls.ls3.flashpoint.lessons_learned" GUID="IhNHToi9V0++XBF2JzpiZQ=="/>
+  </POIs>
+</OverlayData>
