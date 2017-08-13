@@ -9,7 +9,7 @@ import * as cu from '../src/gw2taco/category/util';
 import * as fs from '../src/lib/fs';
 import * as myutil from '../src/lib/util';
 
-import project_config, { project_root, dist_root, temp_root, gw2taco_path } from '../project.config.ts';
+import project_config, { project_root, dist_root, temp_root, gw2taco_path } from '../project.config';
 
 (async () =>
 {
