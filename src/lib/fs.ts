@@ -14,6 +14,9 @@ for (let fn of [
 	'stat',
 	'realpath',
 	'readlink',
+	'copy',
+	'outputFile',
+	'emptyDir',
 ])
 {
 	fs[fn] = util.promisify(fs[fn]);
