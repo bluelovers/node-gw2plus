@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Withered Rose"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1203" xpos="-587.381" ypos="127.769" zpos="114.757" type="ls.ls3.one_path_ends.withered_rose" GUID="MdXV9vBTQkOsXPJwBCRIiA=="/>
+    <POI MapID="1203" xpos="297.792" ypos="43.6397" zpos="-354.202" type="ls.ls3.one_path_ends.withered_rose" GUID="+QPLV8mfsUuTg5MeCOxVgQ=="/>
+  </POIs>
+</OverlayData>
