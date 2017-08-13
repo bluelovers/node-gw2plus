@@ -95,7 +95,7 @@ gulp.task('assets:copy', ['dist:clear'], async function ()
 		{
 			let _path = path.relative(project_root, src);
 
-			console.log(_path, globule.isMatch(patterns, _path));
+			//console.log(_path, globule.isMatch(patterns, _path));
 
 			if (globule.isMatch(patterns, _path))
 			{
@@ -211,7 +211,7 @@ gulp.task('assets:cache', async function ()
 	await fs.outputFile(path.join(temp_root, `assets.gw2taco.cache.json`), JSON.stringify(ls, null, "  "));
 });
 
-gulp.task('category:cache', ['dist:pretty', 'assets:copy', 'assets:cache'], async function ()
+gulp.task('category:cache', ['assets:copy', 'assets:cache'], async function ()
 {
 	const cu = require('./src/gw2taco/category/util');
 
