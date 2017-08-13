@@ -77,7 +77,7 @@ gulp.task('gw2taco:link', async function ()
 
 gulp.task('dist:clear', async function ()
 {
-	return fs.emptyDir(path.join(dist_root, 'assets/gw2taco'));
+	return await fs.emptyDir(path.join(dist_root, 'assets/gw2taco'));
 });
 
 gulp.task('assets:copy', ['dist:clear'], async function ()
@@ -89,7 +89,7 @@ gulp.task('assets:copy', ['dist:clear'], async function ()
 		'**/*.{psd,bak}',
 	];
 
-	return fs.copy(path.join(project_root, 'assets/gw2taco'), path.join(dist_root, 'assets/gw2taco'), {
+	await fs.copy(path.join(project_root, 'assets/gw2taco'), path.join(dist_root, 'assets/gw2taco'), {
 		preserveTimestamps: true,
 		filter: function (src, dest)
 		{
@@ -154,7 +154,7 @@ gulp.task('dist:pretty', async function ()
 	}
 });
 
-gulp.task('assets:cache', async function ()
+gulp.task('assets:cache', ['assets:copy'], async function ()
 {
 	const currentTask = this.currentTask;
 
@@ -211,7 +211,7 @@ gulp.task('assets:cache', async function ()
 	await fs.outputFile(path.join(temp_root, `assets.gw2taco.cache.json`), JSON.stringify(ls, null, "  "));
 });
 
-gulp.task('category:cache', ['assets:copy', 'assets:cache'], async function ()
+gulp.task('category:cache', ['assets:cache'], async function ()
 {
 	const cu = require('./src/gw2taco/category/util');
 
@@ -414,7 +414,11 @@ gulp.task('category:undefined', ['category:cache'], async function ()
 
 				if (!c && (ls[b].elem.children().length || ls[b].elem.attr('data-allowsub')))
 				{
-					let p = cat.makeTree(d.split('.'), []);
+					let p = cat.makeTree(d.split('.'), [], {
+						gw2taco: true,
+						lc: false,
+						space: true,
+					});
 				}
 
 				return a;
@@ -456,4 +460,57 @@ gulp.task('arcdps:evtc', async function ()
 	{
 		process.argv = old;
 	}
+});
+
+gulp.task('category:attr', ['category:undefined'], async function ()
+{
+	const cu = require('./src/gw2taco/category/util');
+
+	let cat_cache = await Category.load(path.join(temp_root, `categorydata.cache.xml`));
+
+	cat_cache = cat_cache.toList();
+
+	let options = {
+		cwd: path.join(dist_root, 'assets/gw2taco'),
+		absolute: true,
+	};
+
+	let ls = await globby([
+		'**/*.xml',
+	], options)
+		.then(async (list) =>
+		{
+			for (let file of list)
+			{
+				let doc = await Category.load(file);
+
+				//console.log(doc);
+
+				let ls = doc.toList();
+
+				for (let id in ls)
+				{
+					if (cat_cache[id])
+					{
+						let attrs = {};
+
+						for (let attr in cat_cache[id].elem[0].attribs)
+						{
+							if (attr == 'name') continue;
+
+							let value = cat_cache[id].elem[0].attribs[attr];
+							attrs[attr] = value;
+						}
+
+						ls[id].elem[0].attribs = Object.assign(ls[id].elem[0].attribs, cat_cache[id].elem[0].attribs)
+					}
+				}
+
+				let out = doc.dump();
+
+				await fs.writeFile(file, out);
+			}
+		})
+	;
+
 });

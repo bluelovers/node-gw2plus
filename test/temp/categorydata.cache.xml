@@ -327,8 +327,8 @@
       <MarkerCategory name="End"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="LS" DisplayName="Living World" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
-    <MarkerCategory name="LS3" DisplayName="Season 3">
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
       <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
         <MarkerCategory name="Lessons Learned"/>
       </MarkerCategory>
@@ -363,26 +363,7 @@
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="temp" data-allowsub="true">
-    <MarkerCategory name="Cin Business"/>
     <MarkerCategory name="Letters from E"/>
-    <MarkerCategory name="Lessons Learned Flashpoint"/>
-    <MarkerCategory name="One Path Ends">
-      <MarkerCategory name="Storyteller_ Balthazar" DisplayName="Storyteller: Balthazar"/>
-      <MarkerCategory name="Storyteller_ Dwayna" DisplayName="Storyteller: Dwayna"/>
-      <MarkerCategory name="Storyteller_ Grenth" DisplayName="Storyteller: Grenth"/>
-      <MarkerCategory name="Storyteller_ Lyssa" DisplayName="Storyteller: Lyssa"/>
-      <MarkerCategory name="Storyteller_ Melandru" DisplayName="Storyteller: Melandru"/>
-      <MarkerCategory name="Storyteller_ Abaddon" DisplayName="Storyteller: Abaddon"/>
-      <MarkerCategory name="Risen Research"/>
-      <MarkerCategory name="Pruning the Weed"/>
-      <MarkerCategory name="Withered Rose"/>
-    </MarkerCategory>
-    <MarkerCategory name="Where___s Balthazar_" DisplayName="Where’s Balthazar?">
-      <MarkerCategory name="King Crab"/>
-      <MarkerCategory name="Into the Mind of Madness"/>
-      <MarkerCategory name="Art Critic"/>
-      <MarkerCategory name="Cleaning Up the Mess"/>
-    </MarkerCategory>
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Burnin___ Down the House" DisplayName="Burnin’ Down the House"/>
       <MarkerCategory name="Rock Collector"/>
@@ -393,13 +374,9 @@
         <MarkerCategory name="A Henge Away from Home"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Not All Who Wander Are Lost"/>
-    <MarkerCategory name="Head of the Snake">
-      <MarkerCategory name="A Meeting of Ministers">
-        <MarkerCategory name="Upper City Security Chief"/>
-        <MarkerCategory name="Shadow in the Shadows"/>
-        <MarkerCategory name="Sacrificial Lambs"/>
-      </MarkerCategory>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Treasure Mushroom"/>
+      <MarkerCategory name="Champion"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>

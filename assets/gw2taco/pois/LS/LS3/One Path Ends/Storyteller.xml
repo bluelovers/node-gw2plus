@@ -1,6 +1,6 @@
 <OverlayData>
-  <MarkerCategory name="LS" DisplayName="Living World">
-    <MarkerCategory name="LS3" DisplayName="Season 3">
+  <MarkerCategory name="LS">
+    <MarkerCategory name="LS3">
       <MarkerCategory name="One Path Ends">
         <MarkerCategory name="Storyteller">
           <MarkerCategory name="Balthazar"/>

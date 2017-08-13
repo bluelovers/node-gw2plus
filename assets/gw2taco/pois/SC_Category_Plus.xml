@@ -32,5 +32,8 @@
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
   </MarkerCategory>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
+  </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
 </OverlayData>
