@@ -51,6 +51,12 @@ const gw2taco_path_old = path.join(project_root, 'vendor/GW2TacO');
 			'Other',
 			'QuartzCrystal',
 		],
+		'temp.thorough sampling trigger': [
+			'LS',
+			'LS3',
+			'A Crack in the Ice',
+			'Thorough Sampling',
+		],
 	};
 
 	pois.filter()
@@ -215,7 +221,7 @@ const gw2taco_path_old = path.join(project_root, 'vendor/GW2TacO');
 						pois_target.poi_root.append(elem);
 					}
 
-					//_this.remove();
+					_this.remove();
 				}
 			}
 
