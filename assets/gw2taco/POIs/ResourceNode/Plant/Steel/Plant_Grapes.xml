@@ -1,0 +1,26 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="Grapes"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="27" xpos="-431.153" ypos="28.0175" zpos="-1046.65" type="resourcenode.plant.steel.grapes" GUID="gQ1Mym+z2km50h3xnFMgXw=="/>
+    <POI MapID="27" xpos="-434.787" ypos="30.9837" zpos="-1025.4" type="resourcenode.plant.steel.grapes" GUID="yPTcsaf94E+rXaCqcngvXg=="/>
+    <POI MapID="27" xpos="-463.596" ypos="35.4396" zpos="-1009.1" type="resourcenode.plant.steel.grapes" GUID="++1mwekWHkehpkzOnGiwDQ=="/>
+    <POI MapID="27" xpos="-473.259" ypos="38.5532" zpos="-998.554" type="resourcenode.plant.steel.grapes" GUID="R/uzCBjHr0OdUgZT5XeYlw=="/>
+    <POI MapID="27" xpos="-481.015" ypos="39.8767" zpos="-996.076" type="resourcenode.plant.steel.grapes" GUID="jr/nqMgED0CYAvr9NzgFRQ=="/>
+    <POI MapID="27" xpos="-481.624" ypos="39.1545" zpos="-987.031" type="resourcenode.plant.steel.grapes" GUID="COzcE02x4EeAlcguzHrIMw=="/>
+    <POI MapID="27" xpos="-469.45" ypos="35.0803" zpos="-983.97" type="resourcenode.plant.steel.grapes" GUID="AEOaeQ3Vg02dkId2ZC/YbA=="/>
+    <POI MapID="27" xpos="-463.699" ypos="32.5233" zpos="-969.728" type="resourcenode.plant.steel.grapes" GUID="ml/3/6uWekK12akgxJNnTQ=="/>
+    <POI MapID="21" xpos="559.635" ypos="34.0849" zpos="-835.561" type="resourcenode.plant.steel.grapes" GUID="XCSrz0YFTkexw9TvTwoi1Q=="/>
+    <POI MapID="21" xpos="556.151" ypos="36.5416" zpos="-853.302" type="resourcenode.plant.steel.grapes" GUID="JvU6pOkvH0C38D/zOu5wpw=="/>
+    <POI MapID="21" xpos="536.679" ypos="37.2528" zpos="-850.093" type="resourcenode.plant.steel.grapes" GUID="umm4x+hdlU24HUnMwA5bTA=="/>
+    <POI MapID="21" xpos="535.299" ypos="36.7355" zpos="-843.222" type="resourcenode.plant.steel.grapes" GUID="5ncKpz9SV0yRze31i/HPCg=="/>
+    <POI MapID="21" xpos="540.507" ypos="35.4047" zpos="-834.047" type="resourcenode.plant.steel.grapes" GUID="3jVkn96DpE24qsS3ISLM0g=="/>
+    <POI MapID="21" xpos="547.911" ypos="33.5551" zpos="-821.911" type="resourcenode.plant.steel.grapes" GUID="nCb2kMaMgE+k4L6+u1AaEQ=="/>
+    <POI MapID="21" xpos="537.153" ypos="34.0157" zpos="-812.349" type="resourcenode.plant.steel.grapes" GUID="h0EvhrZi/EGAYliyvQbJLQ=="/>
+  </POIs>
+</OverlayData>
