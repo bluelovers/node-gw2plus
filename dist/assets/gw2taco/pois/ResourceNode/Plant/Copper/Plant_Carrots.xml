@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Copper">
+        <MarkerCategory name="Carrots"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="73" xpos="628.015" ypos="4.44431" zpos="-551.112" type="resourcenode.plant.copper.carrots" GUID="fd7P67cKNEKwMXckhgsdVA=="/>
+    <POI MapID="73" xpos="515.104" ypos="22.6817" zpos="-628.023" type="resourcenode.plant.copper.carrots" GUID="Vnhqn8ey5EuStbFYVD43wg=="/>
+    <POI MapID="31" xpos="-900.433" ypos="32.4275" zpos="-312.346" type="resourcenode.plant.copper.carrots" GUID="BHYz2EnZB0603/n1wpA6WA=="/>
+    <POI MapID="28" xpos="323.914" ypos="71.6833" zpos="190.909" type="resourcenode.plant.copper.carrots" GUID="6UB8FrPvaE6BCukReQiwTQ=="/>
+  </POIs>
+</OverlayData>
