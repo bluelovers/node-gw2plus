@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="LS">
+    <MarkerCategory name="LS3">
+      <MarkerCategory name="A Crack in the Ice">
+        <MarkerCategory name="Thorough Sampling"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1178" xpos="-709.311" ypos="36.3628" zpos="-72.0364" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="x2RwKaHq0EG94b8pHxKv6Q=="/>
+    <POI MapID="1178" xpos="-655.978" ypos="61.492" zpos="180.239" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="pG29zoZAYUeCCsJ+detI3Q=="/>
+    <POI MapID="1178" xpos="-626.257" ypos="57.5342" zpos="111.64" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="oiz9DWtZpUSJDAtnE86l3A=="/>
+    <POI MapID="1178" xpos="-610.444" ypos="54.5015" zpos="243.569" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="gCJ+iM/fQk2ZjWT2+id+oA=="/>
+    <POI MapID="1178" xpos="480.922" ypos="46.4562" zpos="-224.826" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="kBqLDnSHeEKX+JV7cqL7zQ=="/>
+    <POI MapID="1178" xpos="-56.6286" ypos="31.1313" zpos="-343.089" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="4XM1c+V+B0CQf2donGiX6A=="/>
+    <POI MapID="1178" xpos="688.578" ypos="38.9865" zpos="241.832" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="FjYCY/jEA0u1Sralid8EaA=="/>
+    <POI MapID="1178" xpos="484.65" ypos="59.7757" zpos="-32.3412" type="ls.ls3.a_crack_in_the_ice.thorough_sampling" GUID="5mfiuUG0C02oU3CnOG3HPw=="/>
+  </POIs>
+</OverlayData>

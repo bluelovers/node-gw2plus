@@ -201,7 +201,11 @@ gulp.task('assets:cache', ['assets:copy'], async function ()
 
 			return ls.reduce((a, b) =>
 			{
-				a[b.toString().toLowerCase().replace(/\.(gif|jpg|jpeg|png)$/, '').replace(/[\\\/\-]+/g, '.')] = b;
+				let k = b.toString().toLowerCase().replace(/\.(gif|jpg|jpeg|png)$/, '').replace(/[\\\/\-]+/g, '.');
+
+				k = Poi.normalize(k);
+
+				a[k] = b;
 
 				return a;
 			}, {});
