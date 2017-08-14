@@ -1,0 +1,35 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Ore">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Copper"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="375" xpos="2.95147" ypos="341.971" zpos="-211.081" type="resourcenode.ore.normal.copper" GUID="JBREB4Uw90+XKkkrSvjKjA=="/>
+    <POI MapID="28" xpos="175.874" ypos="73.034" zpos="479.455" type="resourcenode.ore.normal.copper" GUID="Of+Tviw5UkimJ5oLKpvhDQ=="/>
+    <POI MapID="28" xpos="285.474" ypos="76.3991" zpos="503.307" type="resourcenode.ore.normal.copper" GUID="DzBejdg+skqFsQrFJalJFQ=="/>
+    <POI MapID="28" xpos="316.986" ypos="76.4205" zpos="528.543" type="resourcenode.ore.normal.copper" GUID="622/ffE0iEaMseSTp/Z3Zw=="/>
+    <POI MapID="28" xpos="372.029" ypos="72.8459" zpos="538.102" type="resourcenode.ore.normal.copper" GUID="q0zZg9LHhUu0E47KNG4jnQ=="/>
+    <POI MapID="248" xpos="150.622" ypos="82.3322" zpos="174.464" type="resourcenode.ore.normal.copper" GUID="2KOngQTvIkihtKtsh17IGA=="/>
+    <POI MapID="28" xpos="-7.73461" ypos="124.502" zpos="658.721" type="resourcenode.ore.normal.copper" GUID="okEY1/SuDUyBRuFP5HIb+A=="/>
+    <POI MapID="28" xpos="-345.694" ypos="113.564" zpos="-42.4688" type="resourcenode.ore.normal.copper" GUID="RJ2N2OmTGUmdzqXGGAU8mQ=="/>
+    <POI MapID="28" xpos="-256.753" ypos="80.7561" zpos="-6.59925" type="resourcenode.ore.normal.copper" GUID="tnZLyw6Bc0y7bwPYxAyGiA=="/>
+    <POI MapID="28" xpos="-258.88" ypos="80.3595" zpos="0.00496095" type="resourcenode.ore.normal.copper" GUID="bfkPlZvmskqxXkxmWDHJsg=="/>
+    <POI MapID="28" xpos="122.421" ypos="51.219" zpos="34.5111" type="resourcenode.ore.normal.copper" GUID="Qg+n7lNTM06pZho2vegvjA=="/>
+    <POI MapID="28" xpos="290.823" ypos="-17.7491" zpos="-122.973" type="resourcenode.ore.normal.copper" GUID="ugPyc0RwBky6iQ9eD9Xszg=="/>
+    <POI MapID="28" xpos="266.577" ypos="58.5371" zpos="109.247" type="resourcenode.ore.normal.copper" GUID="6xY/vkfy10a+5pDLnvGfCA=="/>
+    <POI MapID="28" xpos="440.272" ypos="77.9377" zpos="487.642" type="resourcenode.ore.normal.copper" GUID="YJyNZNTmRUycF/RML1NFvg=="/>
+    <POI MapID="28" xpos="398.823" ypos="74.8389" zpos="620.083" type="resourcenode.ore.normal.copper" GUID="T9VJSsA+AU6axiMYlm8pXg=="/>
+    <POI MapID="28" xpos="317.721" ypos="76.8642" zpos="589.866" type="resourcenode.ore.normal.copper" GUID="tmHzuz+vH0icVqUxZ79qeg=="/>
+    <POI MapID="28" xpos="-47.6255" ypos="127.373" zpos="653.522" type="resourcenode.ore.normal.copper" GUID="jjZ9zRdR7UO/TDbnIxrEQw=="/>
+    <POI MapID="28" xpos="387.288" ypos="70.794" zpos="245.687" type="resourcenode.ore.normal.copper" GUID="5pGQZvt5rkmrNRZPD+3/BQ=="/>
+    <POI MapID="32" xpos="-896.409" ypos="53.5203" zpos="-60.621" type="resourcenode.ore.normal.copper" GUID="Xahy6lpX50Gvnt6ap9TiDA=="/>
+    <POI MapID="32" xpos="-849.947" ypos="61.852" zpos="2.76702" type="resourcenode.ore.normal.copper" GUID="i+D/gKLD3UqecGLqHMLung=="/>
+    <POI MapID="31" xpos="848.809" ypos="41.6966" zpos="490.459" type="resourcenode.ore.normal.copper" GUID="SMXJA7yS+0+dmVmND3+CJA=="/>
+    <POI MapID="19" xpos="302.662" ypos="2.15553" zpos="-415.19" type="resourcenode.ore.normal.copper" GUID="80oVe0+dOEOHxM/pu6+vRg=="/>
+    <POI MapID="19" xpos="281.867" ypos="-0.0947541" zpos="-358.685" type="resourcenode.ore.normal.copper" GUID="uI8h4q1rE0uimDt46y1Tag=="/>
+    <POI MapID="35" xpos="-8.43609" ypos="11.6191" zpos="851.639" type="resourcenode.ore.normal.copper" GUID="X1MN+CZyokuJpX2CFT9XKQ=="/>
+  </POIs>
+</OverlayData>
