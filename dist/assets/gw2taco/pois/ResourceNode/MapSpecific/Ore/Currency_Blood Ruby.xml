@@ -1,0 +1,43 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1165" xpos="-86.6861" ypos="536.795" zpos="74.159" type="resourcenode.mapspecific.ore.currency" GUID="nMpz2dEoNkeqZpz0wqzGcQ=="/>
+    <POI MapID="1165" xpos="5.24587" ypos="562.553" zpos="63.0961" type="resourcenode.mapspecific.ore.currency" GUID="ghzfS+c8uEyq9CUFEUQ8fw=="/>
+    <POI MapID="1165" xpos="-59.4578" ypos="526.701" zpos="86.8536" type="resourcenode.mapspecific.ore.currency" GUID="sPrCW/pFIUGxJHs/aIuajg=="/>
+    <POI MapID="1165" xpos="201.12" ypos="174.382" zpos="143.022" type="resourcenode.mapspecific.ore.currency" GUID="FPnhkZGYbECkHGcGUqi8kg=="/>
+    <POI MapID="1165" xpos="42.2592" ypos="517.227" zpos="49.3188" type="resourcenode.mapspecific.ore.currency" GUID="EcZExlUb+keVD40or7HuGQ=="/>
+    <POI MapID="1165" xpos="187.014" ypos="488.688" zpos="17.8535" type="resourcenode.mapspecific.ore.currency" GUID="sSKlVg5aV0SeF1beEXPuhA=="/>
+    <POI MapID="1165" xpos="199.957" ypos="774.829" zpos="123.625" type="resourcenode.mapspecific.ore.currency" GUID="uGqFA8Mw1Uihu4fvzCwuQg=="/>
+    <POI MapID="1165" xpos="52.9839" ypos="555.093" zpos="-119.216" type="resourcenode.mapspecific.ore.currency" GUID="wbAxsA7ur0iJmPylUg5OTQ=="/>
+    <POI MapID="1165" xpos="35.5305" ypos="696.995" zpos="-0.443446" type="resourcenode.mapspecific.ore.currency" GUID="hWIKA5uAJU2lj+6C7SpPOA=="/>
+    <POI MapID="1165" xpos="-101.919" ypos="520.908" zpos="120.934" type="resourcenode.mapspecific.ore.currency" GUID="3a0igtNC70a0zJ4Wc59Gfg=="/>
+    <POI MapID="1165" xpos="18.1208" ypos="552.166" zpos="15.7159" type="resourcenode.mapspecific.ore.currency" GUID="ANmj7BqfHkyMblVDTHu1kA=="/>
+    <POI MapID="1165" xpos="-96.2375" ypos="533.174" zpos="31.872" type="resourcenode.mapspecific.ore.currency" GUID="km4YmFkOa0qJ4eRRWIR9/Q=="/>
+    <POI MapID="1165" xpos="-70.6116" ypos="529.325" zpos="43.9622" type="resourcenode.mapspecific.ore.currency" GUID="uLQzYHbV+U2GVgD0gz+Ojg=="/>
+    <POI MapID="1165" xpos="-159.412" ypos="512.984" zpos="122.474" type="resourcenode.mapspecific.ore.currency" GUID="G+4YAT1oUEiiqYT+BUU+2w=="/>
+    <POI MapID="1165" xpos="-15.7989" ypos="538.833" zpos="193.988" type="resourcenode.mapspecific.ore.currency" GUID="DMLxlhT7d02jOq37pTQaXg=="/>
+    <POI MapID="1165" xpos="125.904" ypos="522.401" zpos="161.243" type="resourcenode.mapspecific.ore.currency" GUID="xk2pH1opeECmqOgnGmADxA=="/>
+    <POI MapID="1165" xpos="178.362" ypos="518.63" zpos="147.103" type="resourcenode.mapspecific.ore.currency" GUID="yp9DgjCaaky6peL0cRNdKw=="/>
+    <POI MapID="1165" xpos="129.958" ypos="494.249" zpos="115.384" type="resourcenode.mapspecific.ore.currency" GUID="iMznu7JaSkS1TpVgsnfuVA=="/>
+    <POI MapID="1165" xpos="139.079" ypos="177.071" zpos="204.609" type="resourcenode.mapspecific.ore.currency" GUID="/pYnNZztk02B1bAFGVgZsQ=="/>
+    <POI MapID="1165" xpos="173.641" ypos="177.216" zpos="73.8344" type="resourcenode.mapspecific.ore.currency" GUID="nWI5VJDetk+FK1L2gkCByw=="/>
+    <POI MapID="1165" xpos="-227.723" ypos="94.8861" zpos="-45.0638" type="resourcenode.mapspecific.ore.currency" GUID="iBkoUG0ODEGtPPriSfTRqA=="/>
+    <POI MapID="1165" xpos="50.531" ypos="780.745" zpos="87.6292" type="resourcenode.mapspecific.ore.currency" GUID="6dvhr41YzUi8gBHWImRKxQ=="/>
+    <POI MapID="1165" xpos="-60.6428" ypos="669.284" zpos="121.841" type="resourcenode.mapspecific.ore.currency" GUID="i0KnmjAYNUe2FQjMfX3kxQ=="/>
+    <POI MapID="1165" xpos="197.086" ypos="337.962" zpos="81.6265" type="resourcenode.mapspecific.ore.currency" GUID="Em4md8kLUEuzaUsuQBzGMQ=="/>
+    <POI MapID="1165" xpos="88.6429" ypos="369.75" zpos="128.378" type="resourcenode.mapspecific.ore.currency" GUID="DtB8Y9aSQEGBoNm6sWvApg=="/>
+    <POI MapID="1165" xpos="82.2248" ypos="326.68" zpos="130.874" type="resourcenode.mapspecific.ore.currency" GUID="AKmXBQBIX0SEddhJZSXQfA=="/>
+    <POI MapID="1165" xpos="-42.3537" ypos="150.795" zpos="71.7444" type="resourcenode.mapspecific.ore.currency" GUID="dIu1TYdvnEeBmMumvtkXBA=="/>
+    <POI MapID="1165" xpos="-214.692" ypos="98.8392" zpos="37.1099" type="resourcenode.mapspecific.ore.currency" GUID="avAF9nc0QEqQBGp3+KyFbw=="/>
+    <POI MapID="1165" xpos="104.763" ypos="620.362" zpos="21.9688" type="resourcenode.mapspecific.ore.currency" GUID="hKX5mm6VCE6tVlXwOf/CmA=="/>
+    <POI MapID="1165" xpos="44.5878" ypos="612.128" zpos="54.3348" type="resourcenode.mapspecific.ore.currency" GUID="u09FbkBKj02osx7d53Q95w=="/>
+    <POI MapID="1165" xpos="115.128" ypos="494.17" zpos="18.8647" type="resourcenode.mapspecific.ore.currency" GUID="FOIhnDcdLke72OpypZaJdw=="/>
+    <POI MapID="248" xpos="183.31" ypos="73.0417" zpos="241.419" type="resourcenode.mapspecific.ore.currency" GUID="FIaE37C+Bke9g570Yj9TXQ=="/>
+  </POIs>
+</OverlayData>
