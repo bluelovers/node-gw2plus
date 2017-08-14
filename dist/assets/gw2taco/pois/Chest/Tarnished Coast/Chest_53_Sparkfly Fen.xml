@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400" data-iconFile="Data/Chest.png">
+    <MarkerCategory name="Permanent"/>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="53" xpos="-237.626" ypos="36.9076" zpos="-432.696" type="chest.permanent" GUID="WUyiMzVLPk6ZJFwnQAVY2g=="/>
+    <POI MapID="53" xpos="-658.984" ypos="0.237431" zpos="-538.779" type="chest.permanent" GUID="OUfFIi/P0EGQ6gQ/ljPlMQ=="/>
+    <POI MapID="53" xpos="607.21" ypos="27.1718" zpos="669.79" type="chest.permanent" GUID="t26y5ROwQUKcXPh5bUHbaA=="/>
+    <POI MapID="53" xpos="281.619" ypos="35.2442" zpos="993.091" type="chest.permanent" GUID="YFQMSuy/yUuKiQ/vcc2fuA=="/>
+    <POI MapID="53" xpos="-460.486" ypos="-38.0028" zpos="-115.125" type="chest.permanent" GUID="nNgRbYX6Ik6fiOBh5QxzXg=="/>
+  </POIs>
+</OverlayData>
