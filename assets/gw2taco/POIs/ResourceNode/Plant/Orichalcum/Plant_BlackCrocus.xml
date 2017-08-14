@@ -1,0 +1,30 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="BlackCrocus"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="62" xpos="316.667" ypos="40.9517" zpos="909.697" type="resourcenode.plant.orichalcum.blackcrocus" GUID="CEGfUv2EjUmKXeYVF/50Ww=="/>
+    <POI MapID="62" xpos="67.9713" ypos="66.5292" zpos="1091.44" type="resourcenode.plant.orichalcum.blackcrocus" GUID="GThaLQ1SsUWLGNhKzFQXCQ=="/>
+    <POI MapID="62" xpos="-63.8193" ypos="29.0517" zpos="-475.82" type="resourcenode.plant.orichalcum.blackcrocus" GUID="xtUOTjinoUm7jH8Tj/GB1A=="/>
+    <POI MapID="62" xpos="407.81" ypos="1.61003" zpos="-958.219" type="resourcenode.plant.orichalcum.blackcrocus" GUID="OqOwiI1M6kWU02o9Wek5Iw=="/>
+    <POI MapID="62" xpos="-329.207" ypos="10.4999" zpos="-296.381" type="resourcenode.plant.orichalcum.blackcrocus" GUID="xsCAZ1TJbUuIy61npQIIhw=="/>
+    <POI MapID="62" xpos="139.202" ypos="11.0992" zpos="-618.647" type="resourcenode.plant.orichalcum.blackcrocus" GUID="bLIJ6I/OtkKyxNdXXp0Stg=="/>
+    <POI MapID="62" xpos="-391.548" ypos="7.09862" zpos="-505.254" type="resourcenode.plant.orichalcum.blackcrocus" GUID="2vibU5xbSEmS9ePMKWN6tg=="/>
+    <POI MapID="65" xpos="822.638" ypos="27.0004" zpos="-173.108" type="resourcenode.plant.orichalcum.blackcrocus" GUID="I5LMH0BhxkS1JlQrYEJ4rQ=="/>
+    <POI MapID="62" xpos="264.746" ypos="52.6763" zpos="783.672" type="resourcenode.plant.orichalcum.blackcrocus" GUID="0/rlFliRM0G0/uYOh3zIAA=="/>
+    <POI MapID="62" xpos="382.156" ypos="52.0459" zpos="816.269" type="resourcenode.plant.orichalcum.blackcrocus" GUID="cuuW5agygUGkIGpdYf2XRw=="/>
+    <POI MapID="62" xpos="83.7759" ypos="48.6292" zpos="1033.31" type="resourcenode.plant.orichalcum.blackcrocus" GUID="11aEDhvjPU6+ybzTpxjlSw=="/>
+    <POI MapID="62" xpos="-368.134" ypos="18.2369" zpos="-279.333" type="resourcenode.plant.orichalcum.blackcrocus" GUID="d4/bx5hx2Emp1znZj40ZBw=="/>
+    <POI MapID="62" xpos="122.806" ypos="37.7323" zpos="-458.412" type="resourcenode.plant.orichalcum.blackcrocus" GUID="E0xdERtsY0qqXZohJxIKlQ=="/>
+    <POI MapID="62" xpos="-10.1627" ypos="32.2625" zpos="-66.7102" type="resourcenode.plant.orichalcum.blackcrocus" GUID="TAAxIeqNgEWEAzDQUyHqTA=="/>
+    <POI MapID="62" xpos="-338.227" ypos="16.1321" zpos="-540.471" type="resourcenode.plant.orichalcum.blackcrocus" GUID="f/iQhVAan0mAcviavbWI/Q=="/>
+    <POI MapID="62" xpos="129.526" ypos="15.754" zpos="151.525" type="resourcenode.plant.orichalcum.blackcrocus" GUID="PLAwNDwNyk6Bjv/XSvC0Ww=="/>
+    <POI MapID="62" xpos="420.707" ypos="14.0954" zpos="-869.344" type="resourcenode.plant.orichalcum.blackcrocus" GUID="f5V/hdVuR02YafSFdNd66w=="/>
+    <POI MapID="62" xpos="-175.776" ypos="8.23229" zpos="29.4105" type="resourcenode.plant.orichalcum.blackcrocus" GUID="DqfMYiTNvU2iCac7rjtpNg=="/>
+    <POI MapID="62" xpos="50.5426" ypos="20.6681" zpos="-15.2944" type="resourcenode.plant.orichalcum.blackcrocus" GUID="KeabMJTBw0+cytMnbnLi0g=="/>
+  </POIs>
+</OverlayData>
