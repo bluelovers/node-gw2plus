@@ -1,0 +1,20 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="ButternutSquash"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="22" xpos="-692.021" ypos="57.0129" zpos="-725.317" type="resourcenode.plant.mithril.butternutsquash" GUID="99KK3zyQm0+dRf7bpYi7xQ=="/>
+    <POI MapID="22" xpos="-692.403" ypos="57.4188" zpos="-729.086" type="resourcenode.plant.mithril.butternutsquash" GUID="Wj4z9czYbkmB6T+391gk2w=="/>
+    <POI MapID="22" xpos="-689.266" ypos="57.2669" zpos="-722.517" type="resourcenode.plant.mithril.butternutsquash" GUID="ARNJTuOjnESm7syXWHbP3g=="/>
+    <POI MapID="22" xpos="-685.183" ypos="57.2109" zpos="-716.423" type="resourcenode.plant.mithril.butternutsquash" GUID="2VHKYMmm4EOnfwEZdcvHYQ=="/>
+    <POI MapID="22" xpos="-684.568" ypos="59.9871" zpos="-724.379" type="resourcenode.plant.mithril.butternutsquash" GUID="Yn/QekL2UUSmaGzEFD77Zw=="/>
+    <POI MapID="22" xpos="-684.081" ypos="61.0941" zpos="-728.294" type="resourcenode.plant.mithril.butternutsquash" GUID="Ha2m7hqSgkyCU/5glJmf9g=="/>
+    <POI MapID="22" xpos="-683.217" ypos="61.5781" zpos="-730.716" type="resourcenode.plant.mithril.butternutsquash" GUID="/FSn4ufSpEGp4eNHL6qv2Q=="/>
+    <POI MapID="22" xpos="-685.944" ypos="61.8469" zpos="-733.334" type="resourcenode.plant.mithril.butternutsquash" GUID="RFQQQOvcxkWG+ugbBt3A2g=="/>
+    <POI MapID="30" xpos="642.203" ypos="2.09421" zpos="-611.477" type="resourcenode.plant.mithril.butternutsquash" GUID="BBd+0GoD3UGQ3L/ITIqQbA=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,27 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Darksteel">
+        <MarkerCategory name="SugarPumpkin"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="25" xpos="-397.103" ypos="32.0488" zpos="706.514" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="0Zlm4NhYi0iwZnx95yI+qw=="/>
+    <POI MapID="25" xpos="-391.434" ypos="33.3705" zpos="718.241" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="4/O9fKZgqEWB3jpCFnDRmQ=="/>
+    <POI MapID="25" xpos="-408.606" ypos="38.0089" zpos="741.542" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="PH2DrrOXmE+NgZFOf/gorA=="/>
+    <POI MapID="25" xpos="-423.52" ypos="38.8399" zpos="747.262" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="4FnuuRPnvEiEvlUtXHlA2Q=="/>
+    <POI MapID="25" xpos="-437.366" ypos="38.1692" zpos="770.966" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="346dV22PH0mU70LxmDtZxg=="/>
+    <POI MapID="25" xpos="-431.927" ypos="37.9751" zpos="727.263" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="Wx6GVHzugUqFDVF8exTPJg=="/>
+    <POI MapID="25" xpos="-419.761" ypos="35.9485" zpos="717.449" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="DhbsqazSQU+K8RKoxaS8TA=="/>
+    <POI MapID="25" xpos="-434.448" ypos="36.2141" zpos="705.657" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="/2nxKR99cUGfKdfpyBG8Lw=="/>
+    <POI MapID="73" xpos="616.45" ypos="69.5839" zpos="17.7071" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="fx2dhLyXZ0qQcbSuAxUPtQ=="/>
+    <POI MapID="73" xpos="620.39" ypos="68.848" zpos="18.9532" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="kaBXWU/bykaocj+ut517Kg=="/>
+    <POI MapID="73" xpos="622.268" ypos="68.3918" zpos="16.3202" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="Mdh981o57USMDszK0S2twQ=="/>
+    <POI MapID="73" xpos="626.738" ypos="67.2258" zpos="11.014" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="O4mTS7EHVE+aRnsuCSfcgQ=="/>
+    <POI MapID="73" xpos="626.596" ypos="67.4753" zpos="19.4934" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="iYJMzitwfESMYkOvPRhwcw=="/>
+    <POI MapID="73" xpos="631.133" ypos="66.9593" zpos="16.7576" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="iB564z7OQ0igQmkwCwiBmg=="/>
+    <POI MapID="73" xpos="633.897" ypos="66.7149" zpos="10.1109" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="d8ePZSCOzkme2LmJwCqzcQ=="/>
+    <POI MapID="73" xpos="620.627" ypos="67.9079" zpos="9.89193" type="resourcenode.plant.darksteel.sugarpumpkin" GUID="gBvyyke4KUmUX3REYaAh+g=="/>
+  </POIs>
+</OverlayData>

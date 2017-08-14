@@ -1,0 +1,25 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Omnomberries"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="62" xpos="-107.422" ypos="8.30651" zpos="670.82" type="resourcenode.plant.orichalcum.omnomberries" GUID="wZ0WXNndIUGv+ztnEzLYZA=="/>
+    <POI MapID="62" xpos="-35.9082" ypos="20.1275" zpos="85.0301" type="resourcenode.plant.orichalcum.omnomberries" GUID="XgiS6O2qAEi50jzwwZuGRA=="/>
+    <POI MapID="62" xpos="-299.168" ypos="51.0741" zpos="-823.124" type="resourcenode.plant.orichalcum.omnomberries" GUID="9f4cL9CiR0aFHB/8JGqsXQ=="/>
+    <POI MapID="62" xpos="-376.694" ypos="43.5309" zpos="-861.204" type="resourcenode.plant.orichalcum.omnomberries" GUID="0fu2mjDOAkyJ+NmxaqeOcw=="/>
+    <POI MapID="62" xpos="-236.766" ypos="18.4599" zpos="395.239" type="resourcenode.plant.orichalcum.omnomberries" GUID="rMdyTvPj+0yl0816FlMBbQ=="/>
+    <POI MapID="62" xpos="-297.056" ypos="50.7195" zpos="-784.756" type="resourcenode.plant.orichalcum.omnomberries" GUID="F6cARf0XvUCk8EJYaBqAYw=="/>
+    <POI MapID="65" xpos="789.477" ypos="30.0665" zpos="-273.481" type="resourcenode.plant.orichalcum.omnomberries" GUID="wLbP9VIvIkmR/iB9huaEEw=="/>
+    <POI MapID="65" xpos="791.845" ypos="39.2497" zpos="-296.076" type="resourcenode.plant.orichalcum.omnomberries" GUID="j+PVuJM7wk+dNnL5/6gIOA=="/>
+    <POI MapID="65" xpos="-422.486" ypos="9.21685" zpos="-259.663" type="resourcenode.plant.orichalcum.omnomberries" GUID="eYsYPXDUR0KkLyrZMklj/g=="/>
+    <POI MapID="62" xpos="-314.372" ypos="46.9891" zpos="-725.674" type="resourcenode.plant.orichalcum.omnomberries" GUID="YmM5VrZVq0mh5wMm0Z3LhQ=="/>
+    <POI MapID="248" xpos="134.73" ypos="82.3594" zpos="199.747" type="resourcenode.plant.orichalcum.omnomberries" GUID="Dj9B5NztbU+y47aEAmtvFA=="/>
+    <POI MapID="62" xpos="-364.891" ypos="2.19681" zpos="1001.85" type="resourcenode.plant.orichalcum.omnomberries" GUID="aiODFbiMDkikgg3/vUZYWA=="/>
+    <POI MapID="62" xpos="-78.2122" ypos="15.9738" zpos="30.3581" type="resourcenode.plant.orichalcum.omnomberries" GUID="4hypODkny06b9tPuUfAStg=="/>
+    <POI MapID="375" xpos="127.683" ypos="343.42" zpos="-276.493" type="resourcenode.plant.orichalcum.omnomberries" GUID="1typqUmeN0uuu/5Mclh5tQ=="/>
+  </POIs>
+</OverlayData>

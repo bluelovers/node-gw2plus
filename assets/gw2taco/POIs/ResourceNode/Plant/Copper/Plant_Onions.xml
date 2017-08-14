@@ -1,0 +1,20 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Copper">
+        <MarkerCategory name="Onions"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="17" xpos="782.723" ypos="19.5965" zpos="-604.123" type="resourcenode.plant.copper.onions" GUID="ccLRneePJUeZwFV2K9NEQg=="/>
+    <POI MapID="23" xpos="-907.993" ypos="94.2019" zpos="500.532" type="resourcenode.plant.copper.onions" GUID="FcplC+pbn0aEb8yYOAJJ7Q=="/>
+    <POI MapID="23" xpos="-225.435" ypos="10.3272" zpos="-387.817" type="resourcenode.plant.copper.onions" GUID="SnUd16jO0kCf26SuxJSJEA=="/>
+    <POI MapID="31" xpos="-807.774" ypos="27.9574" zpos="-258.526" type="resourcenode.plant.copper.onions" GUID="FBDXh5qvp0Ky+qD4Uf1onA=="/>
+    <POI MapID="31" xpos="-730.918" ypos="23.3836" zpos="-211.483" type="resourcenode.plant.copper.onions" GUID="MRD8Se6hjkKed0qTpQc0Jg=="/>
+    <POI MapID="17" xpos="-131.204" ypos="36.171" zpos="474.611" type="resourcenode.plant.copper.onions" GUID="kb3lDwdsRk+mIBaGeFCvPQ=="/>
+    <POI MapID="28" xpos="-9.52224" ypos="90.0611" zpos="575.556" type="resourcenode.plant.copper.onions" GUID="F/h8+VlrEUed57YzeQ5ugw=="/>
+    <POI MapID="28" xpos="464.445" ypos="72.7852" zpos="276.842" type="resourcenode.plant.copper.onions" GUID="nMM33JKa10eDvlFuHhwG0A=="/>
+    <POI MapID="28" xpos="295.521" ypos="73.5377" zpos="248.991" type="resourcenode.plant.copper.onions" GUID="vBsjiluJoEesyzI15f2utA=="/>
+  </POIs>
+</OverlayData>

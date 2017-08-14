@@ -6,7 +6,7 @@ import { Category, Node, Poi } from '../src/gw2taco';
 import * as path from 'path';
 
 import * as cu from '../src/gw2taco/category/util';
-import * as fs from '../src/lib/fs';
+import fs from '../src/lib/fs';
 import * as myutil from '../src/lib/util';
 
 import project_config, { project_root, dist_root, temp_root, gw2taco_path } from '../project.config';
@@ -47,7 +47,7 @@ import project_config, { project_root, dist_root, temp_root, gw2taco_path } from
 
 				POIS:
 				{
-					let pois_target_id = '.';
+					let pois_target_id:any = '.';
 
 					if (types2[type])
 					{

@@ -1,0 +1,28 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Copper">
+        <MarkerCategory name="Potato"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="35" xpos="397.569" ypos="47.6062" zpos="-389.356" type="resourcenode.plant.copper.potato" GUID="oGf9FuD+WUC+HmRbJaPqQQ=="/>
+    <POI MapID="35" xpos="403.114" ypos="47.6062" zpos="-391.394" type="resourcenode.plant.copper.potato" GUID="5vS2kbX+QU2Egc8+JFZ4Yw=="/>
+    <POI MapID="35" xpos="414.714" ypos="47.6062" zpos="-389.052" type="resourcenode.plant.copper.potato" GUID="/DSIzyjXPUaBRTgzmezJbQ=="/>
+    <POI MapID="35" xpos="407.221" ypos="47.6062" zpos="-384.656" type="resourcenode.plant.copper.potato" GUID="B3W03jDK0EW7BQuMq6XeCQ=="/>
+    <POI MapID="35" xpos="409.092" ypos="47.6062" zpos="-378.614" type="resourcenode.plant.copper.potato" GUID="cEce6DcekEOqyCh0USBEvQ=="/>
+    <POI MapID="35" xpos="406.878" ypos="47.6062" zpos="-373.125" type="resourcenode.plant.copper.potato" GUID="DzDVPDd3Hk2oDVizdrU5Bg=="/>
+    <POI MapID="35" xpos="401.243" ypos="47.6062" zpos="-378.454" type="resourcenode.plant.copper.potato" GUID="crEMbVUS2kq/MxgJfb19Ng=="/>
+    <POI MapID="35" xpos="400.165" ypos="47.6062" zpos="-383.714" type="resourcenode.plant.copper.potato" GUID="NroyPkfkykCIrPkApRYSpA=="/>
+    <POI MapID="19" xpos="741.323" ypos="19.0533" zpos="-540.516" type="resourcenode.plant.copper.potato" GUID="r3xFJaZ6zECChQ+U/xxPqg=="/>
+    <POI MapID="19" xpos="743.355" ypos="19.5234" zpos="-546.739" type="resourcenode.plant.copper.potato" GUID="OmrWAYdhk0qNktXxFxrcaA=="/>
+    <POI MapID="19" xpos="738.088" ypos="21.3371" zpos="-549.529" type="resourcenode.plant.copper.potato" GUID="rd6HeHZzOESlCwjHwbpTKA=="/>
+    <POI MapID="19" xpos="744.73" ypos="21.045" zpos="-553.942" type="resourcenode.plant.copper.potato" GUID="WNf1TcK6lUORYNdqFsUviw=="/>
+    <POI MapID="19" xpos="751.146" ypos="20.5098" zpos="-554.039" type="resourcenode.plant.copper.potato" GUID="5tOLV5hfH0WucoV/ke5Sew=="/>
+    <POI MapID="19" xpos="748.713" ypos="19.7818" zpos="-549.624" type="resourcenode.plant.copper.potato" GUID="C9gM4GR0+ku4+Kd/DPYEFg=="/>
+    <POI MapID="19" xpos="753.157" ypos="18.7051" zpos="-546.748" type="resourcenode.plant.copper.potato" GUID="63Q5agY070evHpcsZ7NZ0A=="/>
+    <POI MapID="19" xpos="748.814" ypos="18.064" zpos="-540.484" type="resourcenode.plant.copper.potato" GUID="ro9Jf/6CzkK9Kmiw6BV8Eg=="/>
+    <POI MapID="968" xpos="-391.139" ypos="163.215" zpos="-325.456" type="resourcenode.plant.copper.potato" GUID="BXn9EYE0w0+OQJJ1GlD0oQ=="/>
+  </POIs>
+</OverlayData>

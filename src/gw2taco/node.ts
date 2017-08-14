@@ -10,7 +10,7 @@ import { getClassStatic } from '../lib/util';
 import { pd } from 'pretty-data';
 import * as prettifyXml from 'prettify-xml';
 
-import * as fs from '../lib/fs';
+import fs from '../lib/fs';
 
 import * as shortid from 'shortid';
 

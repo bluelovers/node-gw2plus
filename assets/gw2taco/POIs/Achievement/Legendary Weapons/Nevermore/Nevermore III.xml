@@ -1,0 +1,41 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Legendary Weapons">
+      <MarkerCategory name="Nevermore">
+        <MarkerCategory name="Nevermore III"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="28" xpos="-504.37" ypos="103.526" zpos="46.4171" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="x0FM85o7a0Sslv/CZKyO2g=="/>
+    <POI MapID="34" xpos="-503.123" ypos="5.96315" zpos="665.7" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="TMoJCVEbVkqFXx1g+mEA+Q=="/>
+    <POI MapID="22" xpos="976.857" ypos="71.4773" zpos="-34.906" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="4UrtWNZxM0uctnbWCVTRmw=="/>
+    <POI MapID="19" xpos="-56.9934" ypos="18.3009" zpos="14.1951" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="MjmMsSGUuUWU19/D2F9+jA=="/>
+    <POI MapID="25" xpos="485.336" ypos="2.88564" zpos="-690.441" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="yCxVDZtW/0W5bNt0NbyQ3g=="/>
+    <POI MapID="27" xpos="468.069" ypos="123.802" zpos="-68.0533" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="QmTEwCRddkyAsGyRJmqokQ=="/>
+    <POI MapID="24" xpos="-483.103" ypos="18.2956" zpos="-115.89" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="YrNL2anwDUiITZp/k8JCsA=="/>
+    <POI MapID="39" xpos="-255.913" ypos="22.883" zpos="545.692" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="+kAreBp0yECevwytog+DFA=="/>
+    <POI MapID="32" xpos="694.912" ypos="24.4376" zpos="232.801" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="XdwxvAV0AkCn+LB5FHWGqA=="/>
+    <POI MapID="19" xpos="-1086.22" ypos="39.5101" zpos="-322.214" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="ypfxiHozMECAUK03KL8ePg=="/>
+    <POI MapID="19" xpos="805.686" ypos="39.904" zpos="520.356" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="c5HLIci0rEySld67zQl5mA=="/>
+    <POI MapID="19" xpos="1217.01" ypos="49.5071" zpos="597.028" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="rSDf0mTLHUWd8xgOcBrwdw=="/>
+    <POI MapID="32" xpos="370.396" ypos="61.4517" zpos="-562.682" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="gQK3suXI2UmK6YfuDGjcwg=="/>
+    <POI MapID="32" xpos="-275.94" ypos="51.3303" zpos="252.031" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="ua9hy4lyaUOVWnc4SLM0Eg=="/>
+    <POI MapID="32" xpos="-247.431" ypos="8.19362" zpos="46.6453" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="T+V2hohUjECUJZwbzUMnKA=="/>
+    <POI MapID="20" xpos="-219.491" ypos="6.99085" zpos="-30.855" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="uvHaSSFNyUqb5Wl1RgWjHg=="/>
+    <POI MapID="31" xpos="1067.52" ypos="110.872" zpos="-509.312" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="xS39Mdxqq0es/u9tAfzgow=="/>
+    <POI MapID="50" xpos="-569.603" ypos="6.25504" zpos="136.385" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="c8I2MkXgQkKCqWUEwdVNpA=="/>
+    <POI MapID="1045" xpos="335.375" ypos="125.186" zpos="-366.284" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="1YIRtnpc5ky6iEKNS5T9Uw=="/>
+    <POI MapID="1052" xpos="588.139" ypos="6.16885" zpos="-47.3975" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="3HF53uTFjUq6piOSuVKeMg=="/>
+    <POI MapID="1043" xpos="-320.33" ypos="278.125" zpos="-775.397" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="bam5Dkl05UWr70CT21lFjA=="/>
+    <POI MapID="1043" xpos="108.74" ypos="250.389" zpos="-671.617" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="NP9NUMi9uUOC5+cadudLsA=="/>
+    <POI MapID="1043" xpos="-199.347" ypos="47.161" zpos="221.913" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="W8ieoWMiO02zVwEw98iEww=="/>
+    <POI MapID="1015" xpos="-256.398" ypos="374.061" zpos="-374.557" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="TeTZddSibEGaq4zneizSBQ=="/>
+    <POI MapID="35" xpos="-321.748" ypos="23.8405" zpos="883.563" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="r+UfWgfym0KC1whQwW/zaA=="/>
+    <POI MapID="952" xpos="95.2592" ypos="712.402" zpos="8.04096" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="cm2JtWs7n0S4NJIpBYIvLQ=="/>
+    <POI MapID="958" xpos="807.812" ypos="591.174" zpos="828.867" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="541q/oXpPkeiJYESWjInLA=="/>
+    <POI MapID="950" xpos="82.3811" ypos="21.6519" zpos="832.052" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="EacHwpDr7E2nyiygNNg6oQ=="/>
+    <POI MapID="15" xpos="452.544" ypos="1.75657" zpos="-289.133" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="XRkbquCLuE6mIYqCdbCL/A=="/>
+    <POI MapID="27" xpos="-304.332" ypos="116.836" zpos="947.891" type="achievement.legendary_weapons.nevermore.nevermore_iii" GUID="pTUfiGbfv0+tYHOI42D5zA=="/>
+  </POIs>
+</OverlayData>

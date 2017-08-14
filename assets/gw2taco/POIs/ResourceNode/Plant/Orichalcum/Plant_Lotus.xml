@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Lotus"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="62" xpos="-4.76945" ypos="-0.478632" zpos="236.58" type="resourcenode.plant.orichalcum.lotus" GUID="TI0EJZpp6EW6KBlg63hJuQ=="/>
+    <POI MapID="62" xpos="144.148" ypos="-0.205482" zpos="-716.603" type="resourcenode.plant.orichalcum.lotus" GUID="fOI4+4bwqUiFK05tggq7Sw=="/>
+    <POI MapID="62" xpos="158.014" ypos="-0.632918" zpos="-913.621" type="resourcenode.plant.orichalcum.lotus" GUID="CXnMpcev+kOygpmbNOysoA=="/>
+    <POI MapID="62" xpos="-162.53" ypos="-0.485974" zpos="-569.421" type="resourcenode.plant.orichalcum.lotus" GUID="T9fOvaJ+vEu72VMy4LJ8Jw=="/>
+    <POI MapID="65" xpos="749.693" ypos="0.0541735" zpos="103.368" type="resourcenode.plant.orichalcum.lotus" GUID="aZlYfwA4MEaT1CH8T53XWQ=="/>
+    <POI MapID="62" xpos="-269.808" ypos="-0.734915" zpos="1021.52" type="resourcenode.plant.orichalcum.lotus" GUID="fRGPxs0s4U2vYYEFisep8Q=="/>
+    <POI MapID="62" xpos="-380.175" ypos="-0.785616" zpos="1005.13" type="resourcenode.plant.orichalcum.lotus" GUID="yQSiIdqa6USdub4c4l7TQQ=="/>
+    <POI MapID="248" xpos="128.866" ypos="82.5836" zpos="204.107" type="resourcenode.plant.orichalcum.lotus" GUID="PHDbZMaebkmVKMcUj17HSA=="/>
+    <POI MapID="1175" xpos="-678.476" ypos="0.431942" zpos="-563.122" type="resourcenode.plant.orichalcum.lotus" GUID="wglydN5JJE2LUDHt6dgEmQ=="/>
+    <POI MapID="1175" xpos="-720.085" ypos="-0.302702" zpos="-586.522" type="resourcenode.plant.orichalcum.lotus" GUID="DA+Gx60xXU2dSh2iY36YUA=="/>
+    <POI MapID="1175" xpos="-557.713" ypos="0.237494" zpos="-645.2" type="resourcenode.plant.orichalcum.lotus" GUID="uVP/mnIE7kSnuxHhgtAzGQ=="/>
+    <POI MapID="1175" xpos="-601.963" ypos="0.00840599" zpos="-588.438" type="resourcenode.plant.orichalcum.lotus" GUID="lOjZjGNv/Ue8nYHwnMlGFA=="/>
+  </POIs>
+</OverlayData>

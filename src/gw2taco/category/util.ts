@@ -4,10 +4,10 @@
 
 import * as Category from '../category';
 import * as path from 'path';
-import * as fs from '../../lib/fs';
+import fs from '../../lib/fs';
 import * as Promise from 'bluebird';
 
-export async function loadAll(ls: Array, options?: object = { cwd : '' }): Promise<Array>
+export async function loadAll(ls: Array, options = { cwd : '' }): Promise<Array>
 {
 	let a = [];
 
