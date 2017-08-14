@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Chest">
+    <MarkerCategory name="Permanent"/>
+    <MarkerCategory name="Meta"/>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="22" xpos="-956.459" ypos="74.05" zpos="-646.603" type="chest.permanent" GUID="bxgq1S56GEeENJNvxbCOhA=="/>
+    <POI MapID="22" xpos="-427.664" ypos="59.0202" zpos="-750.587" type="chest.permanent" GUID="ufvJ/sH4uUOTsmHT1dAN5w=="/>
+    <POI MapID="22" xpos="-272.533" ypos="5.2361" zpos="-797.27" type="chest.meta" GUID="6J8+4wedD0muXE/uiSmhlg=="/>
+    <POI MapID="22" xpos="980.318" ypos="71.7655" zpos="-38.6588" type="chest.permanent" GUID="r/9Ro3USKUqwXc1UlZch0Q=="/>
+  </POIs>
+</OverlayData>

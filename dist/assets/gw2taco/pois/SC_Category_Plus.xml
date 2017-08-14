@@ -19,7 +19,9 @@
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400" iconFile="Data/Chest.png" data-iconFile="Data/Chest.png">
-    <MarkerCategory name="MapSpecific" data-allowsub="true" DisplayName="Map Specific" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png"/>
+    <MarkerCategory name="MapSpecific" data-allowsub="true" DisplayName="Map Specific" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png">
+      <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
+    </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
   </MarkerCategory>
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png">

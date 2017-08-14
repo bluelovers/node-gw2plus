@@ -1,0 +1,8 @@
+<OverlayData>
+  <MarkerCategory name="Chest">
+    <MarkerCategory name="Permanent"/>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="34" xpos="-520.555" ypos="4.38949" zpos="666.819" type="chest.permanent" GUID="gOd3pjO4Tk6bciSGz+YpAg=="/>
+  </POIs>
+</OverlayData>
