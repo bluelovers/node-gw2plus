@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Darksteel">
+        <MarkerCategory name="Coral"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="22" xpos="862.95" ypos="-9.36022" zpos="-512.06" type="resourcenode.plant.darksteel.coral" GUID="koeAgcd0J0+bOJ5ACsL2Xg=="/>
+    <POI MapID="25" xpos="3.0997" ypos="-21.9247" zpos="-857.008" type="resourcenode.plant.darksteel.coral" GUID="Vl+Djju5MUmXAOHmSh/YNA=="/>
+  </POIs>
+</OverlayData>
