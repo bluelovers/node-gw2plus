@@ -13,6 +13,8 @@ import project_config, { project_root, dist_root, temp_root, gw2taco_path } from
 
 const gw2taco_path_old = path.join(project_root, 'vendor/GW2TacO');
 
+import gw2api, { getMapAll, getMapInfo } from '../src/gw2api/map';
+
 (async () =>
 {
 	const assets_iconfile = require(path.join(temp_root, `assets.gw2taco.cache.json`));
@@ -27,6 +29,8 @@ const gw2taco_path_old = path.join(project_root, 'vendor/GW2TacO');
 	let pois = await Poi.load(path.join(gw2taco_path_old, 'poidata.xml'));
 
 	let types = [];
+
+	let _cache_ = {};
 
 	let types2 = {
 		'temp.nevermore iii': [
@@ -57,176 +61,242 @@ const gw2taco_path_old = path.join(project_root, 'vendor/GW2TacO');
 			'A Crack in the Ice',
 			'Thorough Sampling',
 		],
+		'resourcenode.other.candy cron': [
+			'ResourceNode',
+			'Other',
+			'Candy Cron',
+		],
 	};
 
-	pois.filter()
-		.each(function (i, elem)
+	let ls = pois.filter();
+
+	//console.log(ls);
+
+	for (let i in Object.keys(ls))
+	{
+		let elem = ls[i];
+
+		let _this = pois.$(elem);
+
+		let type = _this.attr('type');
+
+		if (type && !type.match(/undefined/))
 		{
-			let _this = pois.$(elem);
+			let elem = _this.clone();
 
-			let type = _this.attr('type');
+			let type_new = null;
 
-			if (type)
+			POIS:
 			{
-				let elem = _this.clone();
+				//console.log(type);
 
-				let type_new = null;
+				let pois_target_id: any = '.';
 
-				POIS:
+				if (types2[type])
 				{
-					//console.log(type);
-
-					let pois_target_id: any = '.';
-
-					if (types2[type])
-					{
-						pois_target_id = types2[type];
-					}
-					else if (types.includes(type))
-					{
-						pois_target_id = type;
-					}
-					else if (cats[type] && type.match(/^(?:resourcenode.wood)\.(.+)$/i))
-					{
-						pois_target_id = cats[type].name_id.split('.');
-						type_new = pois_target_id.slice(0);
-
-						pois_target_id[pois_target_id.length - 1] = pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
-					}
-					else if (cats[type] && type.match(/^(?:resourcenode.ore.rich)\.(.+)$/i))
-					{
-						pois_target_id = [
-							'ResourceNode',
-							'Ore',
-							'Rich',
-						];
-						type_new = cats[type].name_id;
-
-						pois_target_id[pois_target_id.length - 1] = pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
-					}
-					else if (cats[type] && type.match(/^(?:resourcenode.ore.normal)\.(.+)$/i))
-					{
-						pois_target_id = cats[type].name_id.split('.');
-						type_new = pois_target_id.slice(0);
-
-						pois_target_id[pois_target_id.length - 1] = pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
-					}
-					else if (cats[type] && type.match(/^(?:resourcenode.plant)\.(.+)$/i))
-					{
-						pois_target_id = cats[type].name_id.split('.');
-						type_new = pois_target_id.slice(0);
-
-						pois_target_id[pois_target_id.length - 1] = pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
-					}
-					else if (type.match(/^(?:resourcenode\.mapspecific|resourcenode.wood|resourcenode.ore.normal)\.(.+)$/i))
-					{
-						let k = RegExp.$1;
-
-						pois_target_id = [
-							'ResourceNode',
-							'MapSpecific',
-							'Plant',
-							'Currency',
-						];
-
-						switch (k)
-						{
-							case 'winterberrie':
-
-								pois_target_id[2] = 'Plant';
-
-								type_new = pois_target_id.slice(0);
-								pois_target_id[pois_target_id.length - 1] = 'Currency_' + 'Fresh Winterberry';
-
-								break;
-							case 'petrified':
-
-								pois_target_id[2] = 'Wood';
-
-								type_new = pois_target_id.slice(0);
-								pois_target_id[pois_target_id.length - 1] = 'Currency_' + 'Petrified Wood';
-
-								break;
-							case 'bloodstone crystals':
-
-								pois_target_id[2] = 'Ore';
-
-								type_new = pois_target_id.slice(0);
-								pois_target_id[pois_target_id.length - 1] = 'Currency_' + 'Blood Ruby';
-
-								break;
-							default:
-
-								break POIS;
-
-								break;
-						}
-
-						//console.log(777, pois_target_id, type_new);
-
-						//break POIS;
-					}
-					else
-					{
-						break POIS;
-					}
-
-					let options = {
-						gw2taco: false,
-						lc: false,
-						space: true,
-					};
-
-					if (Array.isArray(pois_target_id))
-					{
-						pois_target_id = pois_target_id
-							.map(v =>
-							{
-								return Category.normalize(v, options);
-							})
-							.join('/')
-						;
-					}
-
-					if (type_new === null)
-					{
-						type_new = pois_target_id.split('/');
-					}
-
-					if (Array.isArray(type_new))
-					{
-						type_new = type_new
-							.map(v =>
-							{
-								return Category.normalize(v, options);
-							})
-							.join('.')
-						;
-					}
-
-					let pois_target = get_pois_new(pois_target_id, pois_new);
-
-					type_new = Category.normalize(type_new, options);
-
-					let c = pois_target.cat.makeTree(type_new.split('.'), [], options);
-
-					elem.attr('type', Poi.normalize2(type_new));
-
-					pois_target.poi_root.append(elem);
-
-					{
-						let elem = _this.clone();
-
-						let pois_target = get_pois_new(pois_target_id + '_bak', pois_new);
-						pois_target.poi_root.append(elem);
-					}
-
-					_this.remove();
+					pois_target_id = types2[type];
 				}
-			}
+				else if (types.includes(type))
+				{
+					pois_target_id = type;
+				}
+				else if (cats[type] && type.match(/^(?:resourcenode.wood)\.(.+)$/i))
+				{
+					pois_target_id = cats[type].name_id.split('.');
+					type_new = pois_target_id.slice(0);
 
-			//console.log(i, type);
-		})
+					pois_target_id[pois_target_id.length - 1]
+						= pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
+				}
+				else if (cats[type] && type.match(/^(?:resourcenode.ore.rich)\.(.+)$/i))
+				{
+					pois_target_id = [
+						'ResourceNode',
+						'Ore',
+						'Rich',
+					];
+					type_new = cats[type].name_id;
+
+					pois_target_id[pois_target_id.length - 1]
+						= pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
+				}
+				else if (cats[type] && type.match(/^(?:resourcenode.ore.normal)\.(.+)$/i))
+				{
+					pois_target_id = cats[type].name_id.split('.');
+					type_new = pois_target_id.slice(0);
+
+					pois_target_id[pois_target_id.length - 1]
+						= pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
+				}
+				else if (cats[type] && type.match(/^(?:resourcenode.plant)\.(.+)$/i))
+				{
+					pois_target_id = cats[type].name_id.split('.');
+					type_new = pois_target_id.slice(0);
+
+					pois_target_id[pois_target_id.length - 1]
+						= pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
+				}
+				else if (type.match(/^(?:chest)\.(.+)$/i))
+				{
+					pois_target_id = [
+						'Chest',
+					];
+
+					type_new = pois_target_id.slice(0);
+
+					let k = RegExp.$1;
+
+					switch (k)
+					{
+						case 'mapspecific.ember bay':
+						case 'mapspecific.bitterfrost frontier':
+
+							type_new = type_new
+								.concat([
+									'MapSpecific',
+									'KeyRequired',
+								])
+							;
+
+							break;
+						case 'meta':
+						case 'permanent':
+
+							type_new = cats[type] ? cats[type].name_id : type;
+
+							break;
+						default:
+							break POIS;
+							break;
+					}
+
+					let map_id = elem.attr('MapID');
+
+					if (!Object.keys(_cache_).length)
+					{
+						_cache_ = await gw2api.getMapAll();
+					}
+
+					//console.log(map_id, _cache_[map_id].name);
+
+					if (_cache_[map_id])
+					{
+						pois_target_id.push(_cache_[map_id].region_name);
+
+						map_id += '_' + _cache_[map_id].name;
+					}
+
+					pois_target_id[pois_target_id.length] = 'Chest' + '_' + map_id;
+				}
+				else if (type.match(/^(?:resourcenode\.mapspecific|resourcenode.wood|resourcenode.ore.normal)\.(.+)$/i))
+				{
+					let k = RegExp.$1;
+
+					pois_target_id = [
+						'ResourceNode',
+						'MapSpecific',
+						'Plant',
+						'Currency',
+					];
+
+					switch (k)
+					{
+						case 'winterberrie':
+
+							pois_target_id[2] = 'Plant';
+
+							type_new = pois_target_id.slice(0);
+							pois_target_id[pois_target_id.length - 1] = 'Currency_' + 'Fresh Winterberry';
+
+							break;
+						case 'petrified':
+
+							pois_target_id[2] = 'Wood';
+
+							type_new = pois_target_id.slice(0);
+							pois_target_id[pois_target_id.length - 1] = 'Currency_' + 'Petrified Wood';
+
+							break;
+						case 'bloodstone crystals':
+
+							pois_target_id[2] = 'Ore';
+
+							type_new = pois_target_id.slice(0);
+							pois_target_id[pois_target_id.length - 1] = 'Currency_' + 'Blood Ruby';
+
+							break;
+						default:
+
+							break POIS;
+
+							break;
+					}
+
+					//console.log(777, pois_target_id, type_new);
+
+					//break POIS;
+				}
+				else
+				{
+					break POIS;
+				}
+
+				let options = {
+					gw2taco: false,
+					lc: false,
+					space: true,
+				};
+
+				if (Array.isArray(pois_target_id))
+				{
+					pois_target_id = pois_target_id
+						.map(v =>
+						{
+							return Category.normalize(v, options);
+						})
+						.join('/')
+					;
+				}
+
+				if (type_new === null)
+				{
+					type_new = pois_target_id.split('/');
+				}
+
+				if (Array.isArray(type_new))
+				{
+					type_new = type_new
+						.map(v =>
+						{
+							return Category.normalize(v, options);
+						})
+						.join('.')
+					;
+				}
+
+				let pois_target = get_pois_new(pois_target_id, pois_new);
+
+				type_new = Category.normalize(type_new, options);
+
+				let c = pois_target.cat.makeTree(type_new.split('.'), [], options);
+
+				elem.attr('type', Poi.normalize2(type_new));
+
+				pois_target.poi_root.append(elem);
+
+				{
+					let elem = _this.clone();
+
+					let pois_target = get_pois_new(pois_target_id + '_bak', pois_new);
+					pois_target.poi_root.append(elem);
+				}
+
+				_this.remove();
+			}
+		}
+
+		//console.log(i, type);
+	}
 	;
 
 	for (let pois_target_id in pois_new)
