@@ -1,0 +1,47 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1175" xpos="238.47" ypos="13.0737" zpos="-496.97" type="resourcenode.mapspecific.wood.currency" GUID="iN+jKXjgvEyzIe0y2Wr85g=="/>
+    <POI MapID="1175" xpos="417.165" ypos="11.4614" zpos="-460.371" type="resourcenode.mapspecific.wood.currency" GUID="t3w1t4MC6EWyWIb4vfksjw=="/>
+    <POI MapID="1175" xpos="519.2" ypos="7.00541" zpos="-371.097" type="resourcenode.mapspecific.wood.currency" GUID="QaynaTQ3WUG+adwc2ynNMw=="/>
+    <POI MapID="1175" xpos="-172.446" ypos="15.8327" zpos="-617.037" type="resourcenode.mapspecific.wood.currency" GUID="8BDCXPfDQkCw8jTL3f7hNA=="/>
+    <POI MapID="1175" xpos="639.872" ypos="4.03748" zpos="-240.584" type="resourcenode.mapspecific.wood.currency" GUID="YLAFOnvsfEK5PvRAXbAlXg=="/>
+    <POI MapID="1175" xpos="19.9083" ypos="59.0251" zpos="-86.5504" type="resourcenode.mapspecific.wood.currency" GUID="QrygJIloXE2WAaG+Q6HPVg=="/>
+    <POI MapID="1175" xpos="257.819" ypos="19.9694" zpos="-319.849" type="resourcenode.mapspecific.wood.currency" GUID="hle+opHWCE2zsvKg3pVXQg=="/>
+    <POI MapID="1175" xpos="132.701" ypos="61.6768" zpos="97.894" type="resourcenode.mapspecific.wood.currency" GUID="UJr/P1q/EUKaZTOy4Xg9ug=="/>
+    <POI MapID="1175" xpos="209.842" ypos="61.5619" zpos="89.0264" type="resourcenode.mapspecific.wood.currency" GUID="7RKl3XICfEyIgpRn5vTH0A=="/>
+    <POI MapID="1175" xpos="-746.86" ypos="23.1242" zpos="-343.422" type="resourcenode.mapspecific.wood.currency" GUID="eZ63sOZg50aTwfnDDdfYaw=="/>
+    <POI MapID="1175" xpos="682.983" ypos="2.44788" zpos="-151.406" type="resourcenode.mapspecific.wood.currency" GUID="tdq3/17cCEi3h6oVfRDN2w=="/>
+    <POI MapID="1175" xpos="368.604" ypos="7.18011" zpos="-513.891" type="resourcenode.mapspecific.wood.currency" GUID="PLL+hzkV+kmxwqr9Kxmrbg=="/>
+    <POI MapID="1175" xpos="-912.401" ypos="2.58347" zpos="-34.8835" type="resourcenode.mapspecific.wood.currency" GUID="lfIDCn+nXUWjVyrTNJI02A=="/>
+    <POI MapID="1175" xpos="-809.161" ypos="32.376" zpos="108.467" type="resourcenode.mapspecific.wood.currency" GUID="ed2WlJF8mE+A6Y4roGrS4A=="/>
+    <POI MapID="1175" xpos="-513.559" ypos="46.8445" zpos="-323.183" type="resourcenode.mapspecific.wood.currency" GUID="ymOfExqGnEaOkHXJfDUPcw=="/>
+    <POI MapID="1175" xpos="497.132" ypos="14.5841" zpos="-223.626" type="resourcenode.mapspecific.wood.currency" GUID="ZTWOlyoA1kqR/Q5rp+RcIQ=="/>
+    <POI MapID="1175" xpos="140.747" ypos="45.6551" zpos="-239.325" type="resourcenode.mapspecific.wood.currency" GUID="v++EiufYF0SEwoxZSdtTZg=="/>
+    <POI MapID="1175" xpos="-846.016" ypos="21.5571" zpos="-127.714" type="resourcenode.mapspecific.wood.currency" GUID="U8ZFe7hVmkCHJb6VHOPWEA=="/>
+    <POI MapID="1175" xpos="-231.124" ypos="14.1601" zpos="-610.635" type="resourcenode.mapspecific.wood.currency" GUID="Wk5gGRqd9k2nl35K+QZP9g=="/>
+    <POI MapID="1175" xpos="846.804" ypos="1.58556" zpos="-122.04" type="resourcenode.mapspecific.wood.currency" GUID="ahl7bjqKv0KHbzL6uhD+Sw=="/>
+    <POI MapID="1175" xpos="623.533" ypos="13.0447" zpos="-30.4908" type="resourcenode.mapspecific.wood.currency" GUID="iHuWGGOhKka1jJSk73MNWQ=="/>
+    <POI MapID="1175" xpos="346.361" ypos="8.29752" zpos="-615.683" type="resourcenode.mapspecific.wood.currency" GUID="4UGULh8eakC8e3lO5LWveQ=="/>
+    <POI MapID="1175" xpos="187.339" ypos="77.7425" zpos="172.562" type="resourcenode.mapspecific.wood.currency" GUID="gy3ZYcshLUecMCxWbhcw7A=="/>
+    <POI MapID="1175" xpos="107.187" ypos="84.3195" zpos="164.67" type="resourcenode.mapspecific.wood.currency" GUID="DIb2zgJxKECJzFdUXqON8g=="/>
+    <POI MapID="1175" xpos="45.9948" ypos="74.1086" zpos="114.662" type="resourcenode.mapspecific.wood.currency" GUID="xe38/MLNaUGO7h9ydu3arw=="/>
+    <POI MapID="1175" xpos="402.041" ypos="17.4988" zpos="-350.463" type="resourcenode.mapspecific.wood.currency" GUID="fCIvF+MXQEmeV0p7N4hL1w=="/>
+    <POI MapID="1175" xpos="-205.795" ypos="21.3724" zpos="-573.193" type="resourcenode.mapspecific.wood.currency" GUID="0FmIQgUYrEyo85B4g/3y6A=="/>
+    <POI MapID="1175" xpos="375.467" ypos="24.3564" zpos="-221.603" type="resourcenode.mapspecific.wood.currency" GUID="/WiCxjQytUC7lObjsbo41w=="/>
+    <POI MapID="1175" xpos="569.917" ypos="39.3352" zpos="-142.478" type="resourcenode.mapspecific.wood.currency" GUID="IWCIi3HcNU+8oyT/+jmBog=="/>
+    <POI MapID="1175" xpos="693.345" ypos="1.99696" zpos="-369.04" type="resourcenode.mapspecific.wood.currency" GUID="LDBUHkQWfEu2/ImfI41mVA=="/>
+    <POI MapID="1175" xpos="630.948" ypos="6.87051" zpos="-240.376" type="resourcenode.mapspecific.wood.currency" GUID="j9TdL0VyLEGvOAZu+qNAOw=="/>
+    <POI MapID="1175" xpos="521.819" ypos="44.2257" zpos="-4.09826" type="resourcenode.mapspecific.wood.currency" GUID="IQcv6uBwNU24P8+NDr+rdg=="/>
+    <POI MapID="1175" xpos="-61.6779" ypos="68.1255" zpos="-8.25845" type="resourcenode.mapspecific.wood.currency" GUID="BJr9tCyYBUSDc463Ejd6NQ=="/>
+    <POI MapID="1175" xpos="-717.675" ypos="13.2937" zpos="-377.421" type="resourcenode.mapspecific.wood.currency" GUID="GoHQfA6YIE6vmM1R6quezA=="/>
+    <POI MapID="1175" xpos="169.8" ypos="17.2949" zpos="-475.543" type="resourcenode.mapspecific.wood.currency" GUID="WRW8+1qA2EK1M9CYNcQg1A=="/>
+    <POI MapID="1175" xpos="251.391" ypos="79.6737" zpos="-32.8034" type="resourcenode.mapspecific.wood.currency" GUID="x/TsIhkWRESxv3IYHylZEg=="/>
+  </POIs>
+</OverlayData>
