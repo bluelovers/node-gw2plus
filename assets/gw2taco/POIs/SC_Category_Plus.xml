@@ -32,6 +32,7 @@
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
   </MarkerCategory>
+  <MarkerCategory name="Achievement" data-allowsub="true"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
   </MarkerCategory>
