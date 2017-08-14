@@ -1,0 +1,31 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Cactus"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="988" xpos="135.463" ypos="33.3439" zpos="-300.075" type="resourcenode.plant.orichalcum.cactus" GUID="+z7r9SqsIk67O0uWaqXKOQ=="/>
+    <POI MapID="988" xpos="-375.277" ypos="114.842" zpos="-319.962" type="resourcenode.plant.orichalcum.cactus" GUID="evsRENURLkOt58s/PJBboQ=="/>
+    <POI MapID="1015" xpos="-248.489" ypos="413.222" zpos="-35.6119" type="resourcenode.plant.orichalcum.cactus" GUID="fkytwulKUUiTF4U4i1c5uQ=="/>
+    <POI MapID="1175" xpos="-93.2059" ypos="-38.0021" zpos="-823.949" type="resourcenode.plant.orichalcum.cactus" GUID="BwJHAnlGMkuxvvvCOB0T+g=="/>
+    <POI MapID="1015" xpos="54.2119" ypos="413.194" zpos="-202.288" type="resourcenode.plant.orichalcum.cactus" GUID="Gg3h/Sz140a3D0wrPmjUig=="/>
+    <POI MapID="1015" xpos="-262.805" ypos="415.686" zpos="127.949" type="resourcenode.plant.orichalcum.cactus" GUID="i8+c01be90OpKst3t19zug=="/>
+    <POI MapID="1015" xpos="-62.2698" ypos="417.991" zpos="188.146" type="resourcenode.plant.orichalcum.cactus" GUID="fjCLn8W7G0aWqxZR+HG7mw=="/>
+    <POI MapID="1015" xpos="-376.37" ypos="436.063" zpos="-158.597" type="resourcenode.plant.orichalcum.cactus" GUID="cAo3eHDm4E6e0khGNh6dNw=="/>
+    <POI MapID="1015" xpos="121.681" ypos="416.05" zpos="35.5921" type="resourcenode.plant.orichalcum.cactus" GUID="4PUry6kRW0+eDMTjt07Oyw=="/>
+    <POI MapID="1015" xpos="131.785" ypos="420.205" zpos="-16.4456" type="resourcenode.plant.orichalcum.cactus" GUID="PWqvChpjVkmy55S0G7kz7w=="/>
+    <POI MapID="1015" xpos="28.8981" ypos="417.155" zpos="94.5583" type="resourcenode.plant.orichalcum.cactus" GUID="1+E6j4o0OU2UUPMsf3q+/Q=="/>
+    <POI MapID="1015" xpos="-156.115" ypos="423.257" zpos="-154.316" type="resourcenode.plant.orichalcum.cactus" GUID="JL2apdBKTkijC9zNT20Gmg=="/>
+    <POI MapID="1015" xpos="279.404" ypos="415.199" zpos="-359.536" type="resourcenode.plant.orichalcum.cactus" GUID="wSVBw+FwFEuswnLRKEY5gQ=="/>
+    <POI MapID="1015" xpos="104.842" ypos="413.381" zpos="-273.691" type="resourcenode.plant.orichalcum.cactus" GUID="dxLVVwZZk0KxobIcS5+37Q=="/>
+    <POI MapID="1015" xpos="72.9829" ypos="414.281" zpos="-362.335" type="resourcenode.plant.orichalcum.cactus" GUID="KuOWAHLCPEyo5/ewcFN17w=="/>
+    <POI MapID="1015" xpos="8.67503" ypos="413.021" zpos="-344.979" type="resourcenode.plant.orichalcum.cactus" GUID="pHUc9TsRNU+WfWEtiqFjlw=="/>
+    <POI MapID="1015" xpos="-202.285" ypos="418.29" zpos="-196.948" type="resourcenode.plant.orichalcum.cactus" GUID="VIuyOFt7XUuaQHwi3/OpvA=="/>
+    <POI MapID="1015" xpos="-214.493" ypos="416.823" zpos="-118.57" type="resourcenode.plant.orichalcum.cactus" GUID="pdFODRm8VE2jnSIH73qqfA=="/>
+    <POI MapID="1015" xpos="-161.822" ypos="418.855" zpos="-31.7052" type="resourcenode.plant.orichalcum.cactus" GUID="fBJFO9H/f0ek07VkHb3TdQ=="/>
+    <POI MapID="1015" xpos="-147.734" ypos="418.344" zpos="38.3454" type="resourcenode.plant.orichalcum.cactus" GUID="yZ+aidyqWU62RSIYvwawRA=="/>
+  </POIs>
+</OverlayData>
