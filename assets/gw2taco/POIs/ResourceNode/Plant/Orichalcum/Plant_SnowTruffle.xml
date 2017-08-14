@@ -1,0 +1,16 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="SnowTruffle"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="248" xpos="128.985" ypos="82.9156" zpos="207.682" type="resourcenode.plant.orichalcum.snowtruffle" GUID="Yz8OYWSb0kiCZ6b6rjTYKQ=="/>
+    <POI MapID="30" xpos="514.174" ypos="22.9465" zpos="-695.217" type="resourcenode.plant.orichalcum.snowtruffle" GUID="48xG3/eVHEe1UXQzdafzYQ=="/>
+    <POI MapID="30" xpos="-23.2341" ypos="16.922" zpos="-358.098" type="resourcenode.plant.orichalcum.snowtruffle" GUID="FCZLtEl9PUa9HbQs3S++sg=="/>
+    <POI MapID="30" xpos="469.922" ypos="23.856" zpos="215.887" type="resourcenode.plant.orichalcum.snowtruffle" GUID="9W5zWakt3kqMptXH4QYvzQ=="/>
+    <POI MapID="62" xpos="408.005" ypos="41.5183" zpos="418.677" type="resourcenode.plant.orichalcum.snowtruffle" GUID="pQkRvqziKkyyBvQZin2ccA=="/>
+  </POIs>
+</OverlayData>
