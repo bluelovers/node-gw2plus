@@ -119,6 +119,7 @@
       <MarkerCategory name="AuricBasin" DisplayName="Auric Basin"/>
       <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="DragonsStand" DisplayName="Dragon's Stand" iconFile="Data/crystallineore.png" behavior="6"/>
+      <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
