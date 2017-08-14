@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Other" data-allowsub="true">
+      <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="988" xpos="309.699" ypos="46.8125" zpos="-408.046" type="resourcenode.other.quartzcrystal" GUID="4bYIuNU5mkmaFdGrOBAbIg=="/>
+    <POI MapID="988" xpos="293.974" ypos="80.2761" zpos="-456.145" type="resourcenode.other.quartzcrystal" GUID="8jI+B+UoTUmEhd9mVb8S8Q=="/>
+    <POI MapID="248" xpos="233.956" ypos="75.3303" zpos="180.717" type="resourcenode.other.quartzcrystal" GUID="CQlMYO4hQ0qEbvKF7riO8A=="/>
+    <POI MapID="375" xpos="114.949" ypos="342.179" zpos="-310.933" type="resourcenode.other.quartzcrystal" GUID="9ZEbZTUHtkaB2ArKArho9Q=="/>
+  </POIs>
+</OverlayData>
