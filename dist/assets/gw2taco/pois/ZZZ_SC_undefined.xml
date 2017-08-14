@@ -163,7 +163,7 @@
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png">
     <MarkerCategory name="Legendary Weapons" iconFile="Data/Achievement/Legendary_Weapons.png" data-iconFile="Data/Achievement/Legendary_Weapons.png">
-      <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary_Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary_Weapons/Nevermore.png">
+      <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary Weapons/Nevermore.png">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -172,6 +172,9 @@
   </MarkerCategory>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="A Crack in the Ice" iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png" data-iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
