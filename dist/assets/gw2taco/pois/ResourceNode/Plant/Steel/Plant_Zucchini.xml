@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="Zucchini"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="27" xpos="-147.459" ypos="99.2351" zpos="-1379.3" type="resourcenode.plant.steel.zucchini" GUID="kBV60U0sbEyW9X0oDcF6NA=="/>
+  </POIs>
+</OverlayData>
