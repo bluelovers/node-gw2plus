@@ -4,7 +4,7 @@
 
 import gulp from './src/gulp/hook';
 
-import * as fs from './src/lib/fs';
+import fs from './src/lib/fs';
 import * as path from 'path';
 import * as globby from 'globby';
 import * as Promise from 'bluebird';
@@ -45,6 +45,8 @@ gulp.task('gw2taco:link', async function ()
 					src = await fs.realpath(src);
 
 					let stat = await fs.lstat(target);
+
+					//console.log(src, target, stat);
 
 					if (!stat.isSymbolicLink() && !fs.existsSync(target + '.gw2taco'))
 					{
@@ -300,12 +302,23 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 				{
 					let iconFile = p.attr('iconFile') || attrs['iconFile'];
 
-					let k = Poi.normalize(name_id);
-
-					if ((1 || !iconFile || iconFile == p.attr('data-iconFile')) && assets_iconfile[k])
+					if (1 || !iconFile || iconFile == p.attr('data-iconFile'))
 					{
-						attrs['iconFile'] = `Data/${assets_iconfile[k]}`;
-						attrs['data-iconFile'] = iconFile || attrs['iconFile'];
+						let k = Poi.normalize(name_id);
+						let k2 = Poi.normalize(name_id.split('.').slice(0, -1).concat([attrs['DisplayName'] || p.attr('DisplayName') || p.attr('name')]).join('.'));
+
+						//console.log(k, k2);
+
+						if (assets_iconfile[k])
+						{
+							attrs['iconFile'] = `Data/${assets_iconfile[k]}`;
+							attrs['data-iconFile'] = iconFile || attrs['iconFile'];
+						}
+						else if (k2 != k && assets_iconfile[k2])
+						{
+							attrs['iconFile'] = `Data/${assets_iconfile[k2]}`;
+							attrs['data-iconFile'] = iconFile || attrs['iconFile'];
+						}
 					}
 				}
 
