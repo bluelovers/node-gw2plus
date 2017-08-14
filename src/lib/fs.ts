@@ -12,15 +12,19 @@ for (let fn of [
 	'unlink',
 	'symlink',
 	'stat',
+	'lstat',
 	'realpath',
 	'readlink',
-	'copy',
-	'outputFile',
-	'emptyDir',
+
+	//'copy',
+	//'outputFile',
+	//'emptyDir',
+	//'remove',
+
 ])
 {
 	fs[fn] = util.promisify(fs[fn]);
 }
 
-export = fs;
-fs.default = fs;
+export default fs;
+//fs.default = fs;
