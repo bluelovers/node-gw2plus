@@ -162,6 +162,12 @@
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png">
+    <MarkerCategory name="Legendary Weapons" iconFile="Data/Achievement/Legendary_Weapons.png" data-iconFile="Data/Achievement/Legendary_Weapons.png">
+      <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary_Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary_Weapons/Nevermore.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
