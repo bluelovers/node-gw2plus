@@ -1,0 +1,58 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Gold"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="73" xpos="278.016" ypos="6.12856" zpos="-116.091" type="resourcenode.ore.normal.gold" GUID="PbDYp8lP0ECwEnXbVxaUlw=="/>
+    <POI MapID="73" xpos="-69.8069" ypos="-30.673" zpos="79.9143" type="resourcenode.ore.normal.gold" GUID="oeOtLWUgqE2S9lGtca/Gyg=="/>
+    <POI MapID="375" xpos="8.68503" ypos="341.971" zpos="-215.209" type="resourcenode.ore.normal.gold" GUID="q936jmIaO0awKLP2KLcc3A=="/>
+    <POI MapID="73" xpos="-133.525" ypos="-65.3157" zpos="-52.9149" type="resourcenode.ore.normal.gold" GUID="RJUnKZGUPESU8BUKxUjEFA=="/>
+    <POI MapID="73" xpos="393.473" ypos="-6.07131" zpos="-25.3754" type="resourcenode.ore.normal.gold" GUID="56/yjrOdBUeuwdmLhPvukA=="/>
+    <POI MapID="17" xpos="68.9409" ypos="70.8674" zpos="725.397" type="resourcenode.ore.normal.gold" GUID="aEFSv3orG0e0U+t42G474Q=="/>
+    <POI MapID="73" xpos="201.89" ypos="-10.2967" zpos="-35.8422" type="resourcenode.ore.normal.gold" GUID="vOOJzC1w5UaCLzYEa6cJnQ=="/>
+    <POI MapID="73" xpos="-385.93" ypos="-63.772" zpos="804.22" type="resourcenode.ore.normal.gold" GUID="oHJs54mI2UuSlHT5A5qy/g=="/>
+    <POI MapID="73" xpos="-290.168" ypos="-79.2392" zpos="682.266" type="resourcenode.ore.normal.gold" GUID="DIIGyXqVjkKgYsGyIaDaww=="/>
+    <POI MapID="73" xpos="-325.975" ypos="-78.7815" zpos="590.653" type="resourcenode.ore.normal.gold" GUID="7f5jJ0OQxkitxR8RBeEQog=="/>
+    <POI MapID="73" xpos="-370.207" ypos="-82.2043" zpos="668.602" type="resourcenode.ore.normal.gold" GUID="OkZYnmCygUyl0Ong8UTkhw=="/>
+    <POI MapID="73" xpos="203.57" ypos="-13.2581" zpos="20.5632" type="resourcenode.ore.normal.gold" GUID="UsyPLMnz4UeI+yPYu2u9GQ=="/>
+    <POI MapID="25" xpos="-518.095" ypos="51.7054" zpos="-560.768" type="resourcenode.ore.normal.gold" GUID="tPkB4K48Nkm2cgD6lOetxQ=="/>
+    <POI MapID="73" xpos="490.143" ypos="-4.92761" zpos="-49.016" type="resourcenode.ore.normal.gold" GUID="oT0Ed+dAdU281HA4zmHx3w=="/>
+    <POI MapID="73" xpos="-98.2104" ypos="-56.6504" zpos="-31.4781" type="resourcenode.ore.normal.gold" GUID="UdxFoup2Gk+6p39KcyKflg=="/>
+    <POI MapID="73" xpos="-125.294" ypos="-57.973" zpos="29.6047" type="resourcenode.ore.normal.gold" GUID="TVYZO6EgmEuwy1P98WZzuQ=="/>
+    <POI MapID="25" xpos="311.167" ypos="8.27873" zpos="-830.291" type="resourcenode.ore.normal.gold" GUID="M+Fih9qbCUK1/ctz366w9g=="/>
+    <POI MapID="25" xpos="135.425" ypos="36.6643" zpos="-1007.32" type="resourcenode.ore.normal.gold" GUID="5ndQnV/N8E+3WBLseAfoPA=="/>
+    <POI MapID="25" xpos="177.43" ypos="3.50005" zpos="-1164.83" type="resourcenode.ore.normal.gold" GUID="Vg+NA7M3MESzuOqKozaKdg=="/>
+    <POI MapID="25" xpos="-310.022" ypos="44.4268" zpos="-749.769" type="resourcenode.ore.normal.gold" GUID="f3jC+edzEEqbBaPl7lOn8A=="/>
+    <POI MapID="17" xpos="-114.377" ypos="44.5118" zpos="761.508" type="resourcenode.ore.normal.gold" GUID="dNRErYtg/USAdLnKVBVUXg=="/>
+    <POI MapID="17" xpos="229.495" ypos="44.404" zpos="57.8556" type="resourcenode.ore.normal.gold" GUID="Jy3Lk7uxokW3FhmblShZbw=="/>
+    <POI MapID="73" xpos="316.995" ypos="-6.69262" zpos="-75.9274" type="resourcenode.ore.normal.gold" GUID="F594EzF51UaYB/SjvNg7Mw=="/>
+    <POI MapID="248" xpos="145.094" ypos="82.3957" zpos="177.889" type="resourcenode.ore.normal.gold" GUID="BTz1mFfTkUCUolI3IWr/vQ=="/>
+    <POI MapID="20" xpos="-38.1139" ypos="33.8088" zpos="87.5839" type="resourcenode.ore.normal.gold" GUID="eTImmvSJTUSHyZp+4OaGaw=="/>
+    <POI MapID="73" xpos="138.702" ypos="-14.6632" zpos="273.158" type="resourcenode.ore.normal.gold" GUID="ZislzoY400al4y654B2Svg=="/>
+    <POI MapID="73" xpos="98.388" ypos="-9.2221" zpos="30.9473" type="resourcenode.ore.normal.gold" GUID="j9Ir6jdByE2EdOjeO3GevA=="/>
+    <POI MapID="73" xpos="26.8717" ypos="-23.426" zpos="211.075" type="resourcenode.ore.normal.gold" GUID="3HnfAFdxi0+BugtcuioeLg=="/>
+    <POI MapID="73" xpos="-0.296764" ypos="6.64132" zpos="-22.05" type="resourcenode.ore.normal.gold" GUID="Z+X0VakkLUO9fA+ewMtb8Q=="/>
+    <POI MapID="29" xpos="-50.9565" ypos="51.5686" zpos="587.017" type="resourcenode.ore.normal.gold" GUID="OwyghBsQnE6Tn2ribIfl3g=="/>
+    <POI MapID="29" xpos="230.568" ypos="41.7353" zpos="829.57" type="resourcenode.ore.normal.gold" GUID="YSztY8EnGUOKuT2ZBxB98g=="/>
+    <POI MapID="20" xpos="290.461" ypos="16.5846" zpos="457.148" type="resourcenode.ore.normal.gold" GUID="M3wCifQxlkyLdCKPU1f6Zw=="/>
+    <POI MapID="20" xpos="67.0075" ypos="0.329903" zpos="505.262" type="resourcenode.ore.normal.gold" GUID="qANDsx8VV0OhFO1960kMNA=="/>
+    <POI MapID="20" xpos="121.566" ypos="0.294085" zpos="445.151" type="resourcenode.ore.normal.gold" GUID="zTFnfYC9g0+g0l6v7IgAPw=="/>
+    <POI MapID="25" xpos="-84.044" ypos="0.856557" zpos="-812.588" type="resourcenode.ore.normal.gold" GUID="JazsUvETgU2PwF4Hgjh5og=="/>
+    <POI MapID="73" xpos="705.159" ypos="1.53611" zpos="-260.601" type="resourcenode.ore.normal.gold" GUID="BqsEYpkFmUewXupuRoizdg=="/>
+    <POI MapID="73" xpos="-302.471" ypos="-44.1353" zpos="529.507" type="resourcenode.ore.normal.gold" GUID="iqbIhaK6bUejbrgwmI4QZw=="/>
+    <POI MapID="73" xpos="-297.805" ypos="-92.664" zpos="658.551" type="resourcenode.ore.normal.gold" GUID="/mO4/oVz9UCMkJX/2UTHHQ=="/>
+    <POI MapID="73" xpos="344.523" ypos="-7.96163" zpos="-50.8186" type="resourcenode.ore.normal.gold" GUID="EW26NZeCoES0fQ0pzgqJcw=="/>
+    <POI MapID="73" xpos="325.626" ypos="-5.94708" zpos="-48.7122" type="resourcenode.ore.normal.gold" GUID="skcSSFVshUSo0oukTK7sQA=="/>
+    <POI MapID="17" xpos="636.39" ypos="104.581" zpos="535.12" type="resourcenode.ore.normal.gold" GUID="wDgPd8OTX0usxvAMVC7SLg=="/>
+    <POI MapID="26" xpos="-378.64" ypos="66.8174" zpos="443.46" type="resourcenode.ore.normal.gold" GUID="+9EmrgGJV0agXvx90i+Jcg=="/>
+    <POI MapID="26" xpos="-306.983" ypos="64.3967" zpos="423.585" type="resourcenode.ore.normal.gold" GUID="g1aLAznxVU2r/Hdul3OPmQ=="/>
+    <POI MapID="25" xpos="253.217" ypos="0.169367" zpos="-842.525" type="resourcenode.ore.normal.gold" GUID="SOHuOieDpkWHKwhx8XRBXA=="/>
+    <POI MapID="25" xpos="110.322" ypos="5.08656" zpos="-761.81" type="resourcenode.ore.normal.gold" GUID="Ty8BeJ2sBUOg37oqb4qmJA=="/>
+    <POI MapID="73" xpos="170.924" ypos="-30.2273" zpos="44.2677" type="resourcenode.ore.normal.gold" GUID="hFuCMTbP/kmLXUK4m7YPEA=="/>
+    <POI MapID="26" xpos="601.885" ypos="76.7042" zpos="-593.597" type="resourcenode.ore.normal.gold" GUID="BuA85lMhX0u0Sb22txP39g=="/>
+  </POIs>
+</OverlayData>

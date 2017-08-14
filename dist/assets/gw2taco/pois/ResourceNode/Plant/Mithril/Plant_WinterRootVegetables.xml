@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="30" xpos="523.599" ypos="21.9578" zpos="-706.54" type="resourcenode.plant.mithril.winterrootvegetables" GUID="7avCv0eI4UKp52nb9g+3Sg=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,51 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="Passiflora"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="873" xpos="94.3532" ypos="42.1227" zpos="45.4896" type="resourcenode.plant.mithril.passiflora" GUID="ZFReEDWV3UuHVO32kZV9vA=="/>
+    <POI MapID="873" xpos="164.544" ypos="40.0896" zpos="75.6189" type="resourcenode.plant.mithril.passiflora" GUID="+Sp4AjewMkW5MHX3Nn2JuQ=="/>
+    <POI MapID="873" xpos="-440.293" ypos="37.4815" zpos="-283.97" type="resourcenode.plant.mithril.passiflora" GUID="a3JGPf+IZ0KOiJ+uB30/og=="/>
+    <POI MapID="873" xpos="575.828" ypos="33.3461" zpos="-214.892" type="resourcenode.plant.mithril.passiflora" GUID="nQQw7F17YEKAGZgkqmI1rg=="/>
+    <POI MapID="873" xpos="622.387" ypos="35.3217" zpos="-176.039" type="resourcenode.plant.mithril.passiflora" GUID="wpznPPx0FUarRJrHiB5efQ=="/>
+    <POI MapID="873" xpos="572.944" ypos="41.8435" zpos="-59.0728" type="resourcenode.plant.mithril.passiflora" GUID="Tw8zPDtSHU200qUI0ZmcdA=="/>
+    <POI MapID="873" xpos="546.169" ypos="41.3772" zpos="-28.0618" type="resourcenode.plant.mithril.passiflora" GUID="clKH2zawmkalIUznPPX0rg=="/>
+    <POI MapID="873" xpos="590.085" ypos="35.2765" zpos="-9.1206" type="resourcenode.plant.mithril.passiflora" GUID="ogRxxVouyUmS4zLmd7X4sw=="/>
+    <POI MapID="873" xpos="654.077" ypos="25.1161" zpos="-4.99677" type="resourcenode.plant.mithril.passiflora" GUID="OLGAVKHjskKdCqor55gU7w=="/>
+    <POI MapID="873" xpos="13.3304" ypos="23.7296" zpos="-328.387" type="resourcenode.plant.mithril.passiflora" GUID="WEAk7llu9029nv71Dd66gA=="/>
+    <POI MapID="873" xpos="504.603" ypos="46.0408" zpos="-299.349" type="resourcenode.plant.mithril.passiflora" GUID="tqTBPBTk30a9WihxZYu6cA=="/>
+    <POI MapID="873" xpos="499.539" ypos="47.6209" zpos="-233.563" type="resourcenode.plant.mithril.passiflora" GUID="KBLw+FX/1UmMQiEXHtXMmw=="/>
+    <POI MapID="873" xpos="467.528" ypos="46.7929" zpos="-183.97" type="resourcenode.plant.mithril.passiflora" GUID="jTDJ0jE3LkWBFU7DlnxCKQ=="/>
+    <POI MapID="873" xpos="653.412" ypos="28.763" zpos="-54.5728" type="resourcenode.plant.mithril.passiflora" GUID="lUYt6MLodEm8pddHhhOOfg=="/>
+    <POI MapID="873" xpos="614.279" ypos="29.2931" zpos="-38.759" type="resourcenode.plant.mithril.passiflora" GUID="ppFE9NzEFkqjhS8bqAi07g=="/>
+    <POI MapID="873" xpos="283.776" ypos="3.9755" zpos="100.829" type="resourcenode.plant.mithril.passiflora" GUID="T9BAGhtSC022+ZaD2pCfiw=="/>
+    <POI MapID="873" xpos="141.692" ypos="44.0482" zpos="52.9145" type="resourcenode.plant.mithril.passiflora" GUID="aN2hoz46qUuftQir2yC0WQ=="/>
+    <POI MapID="873" xpos="184.579" ypos="47.7438" zpos="-44.7563" type="resourcenode.plant.mithril.passiflora" GUID="p6F16cViI0WrjEIWzZTxFw=="/>
+    <POI MapID="873" xpos="546.646" ypos="25.1989" zpos="22.4951" type="resourcenode.plant.mithril.passiflora" GUID="UMlAZjawxUiN3Fk/H0EUoA=="/>
+    <POI MapID="873" xpos="672.305" ypos="21.8692" zpos="22.5896" type="resourcenode.plant.mithril.passiflora" GUID="ZJVeYB4oL0e63ASftVy18Q=="/>
+    <POI MapID="873" xpos="543.731" ypos="36.9618" zpos="-93.4492" type="resourcenode.plant.mithril.passiflora" GUID="tz+vNIb8O0q8vRwuH4lLfw=="/>
+    <POI MapID="873" xpos="493.259" ypos="38.198" zpos="-115.913" type="resourcenode.plant.mithril.passiflora" GUID="RgezmQiT1Uuur5EizKSYDA=="/>
+    <POI MapID="873" xpos="596.225" ypos="27.79" zpos="-260.013" type="resourcenode.plant.mithril.passiflora" GUID="1v7hyYqaa02rgpzU1HQrzw=="/>
+    <POI MapID="873" xpos="472.716" ypos="33.2095" zpos="-268.729" type="resourcenode.plant.mithril.passiflora" GUID="zSKUeM4DzkirFeclcyVayw=="/>
+    <POI MapID="873" xpos="461.588" ypos="49.2376" zpos="-98.3158" type="resourcenode.plant.mithril.passiflora" GUID="RoZekFzCOUe3dbqS+IP0vA=="/>
+    <POI MapID="873" xpos="619.234" ypos="31.3066" zpos="-116.767" type="resourcenode.plant.mithril.passiflora" GUID="anxNRMfw8EyxyqTD765tKw=="/>
+    <POI MapID="873" xpos="108.329" ypos="44.8408" zpos="-54.4476" type="resourcenode.plant.mithril.passiflora" GUID="0CT6oFs7mEatnNXA49B9+w=="/>
+    <POI MapID="873" xpos="568.238" ypos="19.0799" zpos="94.0389" type="resourcenode.plant.mithril.passiflora" GUID="G2nzs6pip0uYw06WqBQSBw=="/>
+    <POI MapID="873" xpos="534.872" ypos="36.0782" zpos="-115.249" type="resourcenode.plant.mithril.passiflora" GUID="WH/rg4lXvEueAdsJy1FDuw=="/>
+    <POI MapID="873" xpos="351.508" ypos="42.5567" zpos="-145.202" type="resourcenode.plant.mithril.passiflora" GUID="HnsU1jYDpkSykLRiZhdqNw=="/>
+    <POI MapID="873" xpos="532.365" ypos="35.4845" zpos="-158.432" type="resourcenode.plant.mithril.passiflora" GUID="ydQnbMSWIkOyDMXH1oz+GA=="/>
+    <POI MapID="873" xpos="660.756" ypos="36.6225" zpos="-132.227" type="resourcenode.plant.mithril.passiflora" GUID="3yd+tBFkMUmSnEB6wktSIg=="/>
+    <POI MapID="873" xpos="374.572" ypos="51.1219" zpos="-99.5524" type="resourcenode.plant.mithril.passiflora" GUID="mSqVMfsi7EO2rPpzQyDOow=="/>
+    <POI MapID="873" xpos="-537.544" ypos="31.6706" zpos="-269.547" type="resourcenode.plant.mithril.passiflora" GUID="QsZ0sG4l3EaM01j+bjdHDQ=="/>
+    <POI MapID="873" xpos="-598.43" ypos="30.6055" zpos="-243.935" type="resourcenode.plant.mithril.passiflora" GUID="5y7DHY+2FECM7XIlnoYZpw=="/>
+    <POI MapID="1175" xpos="-554.822" ypos="38.4037" zpos="-858.843" type="resourcenode.plant.mithril.passiflora" GUID="h1cs7JnbKk6JyzV2XJumtQ=="/>
+    <POI MapID="1175" xpos="-866.405" ypos="27.5351" zpos="-224.037" type="resourcenode.plant.mithril.passiflora" GUID="foIepGe8WUCsMJuJecbq6Q=="/>
+    <POI MapID="1175" xpos="-769.456" ypos="2.71667" zpos="-387.919" type="resourcenode.plant.mithril.passiflora" GUID="L8jsJftr5E6EaEm+9FpcJg=="/>
+    <POI MapID="1175" xpos="-569.391" ypos="14.6086" zpos="-684.06" type="resourcenode.plant.mithril.passiflora" GUID="uva4NHUl8EWcnjEEzDDCcg=="/>
+    <POI MapID="1175" xpos="-691.651" ypos="21.0434" zpos="-626.377" type="resourcenode.plant.mithril.passiflora" GUID="w4Yku+PbKk+Mg4TSvPx+Tw=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="BloomingPassiflora" DisplayName="Blooming Passiflora" iconFile="Data/ResourceNode/Plant/Mithril.BloomingPassiflora.png" data-iconFile="Data/ResourceNode/Plant/Mithril.BloomingPassiflora.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="873" xpos="-341.554" ypos="41.0692" zpos="67.3884" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="OsmwZ0LNPU6AWVctlkK0qw=="/>
+    <POI MapID="873" xpos="-305.593" ypos="0.859732" zpos="370.238" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="UZRkuoap7UegnKD3CpCbzQ=="/>
+    <POI MapID="873" xpos="684.564" ypos="18.5784" zpos="33.2623" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="FERbXhUj9EehsRp7uhx6TA=="/>
+    <POI MapID="873" xpos="543.37" ypos="46.5537" zpos="-196.836" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="jePLnilElESC4IFtBeI03w=="/>
+    <POI MapID="873" xpos="542.784" ypos="41.2335" zpos="-41.5371" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="C56ZXyxFiUu1nVC/dJxHQw=="/>
+    <POI MapID="873" xpos="-511.159" ypos="34.0289" zpos="271.443" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="Jlwzc4IzdUieos1WJ3sSRw=="/>
+    <POI MapID="873" xpos="-531.414" ypos="54.7555" zpos="313.961" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="j+P8PujKA0KERykgG+QV2g=="/>
+    <POI MapID="873" xpos="395.654" ypos="58.7663" zpos="-178.881" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="KGugtMciZkKpbYszhvhrYA=="/>
+    <POI MapID="1175" xpos="-755.863" ypos="4.38362" zpos="-845.748" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="bWGByQSSaUq74KWPOsS5bQ=="/>
+    <POI MapID="1175" xpos="-465.863" ypos="30.958" zpos="-844.042" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="UgyNWUGqQkSEg2HQ/Gl7+Q=="/>
+    <POI MapID="1175" xpos="-864.752" ypos="18.6723" zpos="-421.294" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="TkwD8ZtqaUCLlF+XZHboog=="/>
+    <POI MapID="873" xpos="-166.815" ypos="42.8134" zpos="-209.578" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="DByt6Hj3iEeZGeFv22wNwA=="/>
+  </POIs>
+</OverlayData>

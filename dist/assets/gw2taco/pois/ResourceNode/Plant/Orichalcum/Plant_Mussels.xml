@@ -1,0 +1,58 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Mussels"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1052" xpos="967.865" ypos="391.411" zpos="-3.10853" type="resourcenode.plant.orichalcum.mussels" GUID="9lF1nHSmbEir/XNoLbfVXw=="/>
+    <POI MapID="1052" xpos="947.94" ypos="355.601" zpos="-0.554832" type="resourcenode.plant.orichalcum.mussels" GUID="NEB/okAYdU2zI1uEIh1M3w=="/>
+    <POI MapID="1052" xpos="937.697" ypos="355.348" zpos="7.05883" type="resourcenode.plant.orichalcum.mussels" GUID="6ljQggAfH0K1Tov5ZlHQYg=="/>
+    <POI MapID="1052" xpos="901.159" ypos="327.002" zpos="26.8435" type="resourcenode.plant.orichalcum.mussels" GUID="B0WJK8mqZE2wO33o8C4U2w=="/>
+    <POI MapID="1052" xpos="867.437" ypos="322.862" zpos="31.9177" type="resourcenode.plant.orichalcum.mussels" GUID="18OIQmI0zUKP6UjBzVleNw=="/>
+    <POI MapID="1052" xpos="855.857" ypos="322.871" zpos="43.4282" type="resourcenode.plant.orichalcum.mussels" GUID="UpqrQmg33U6USfSC+WyCRA=="/>
+    <POI MapID="1043" xpos="404.92" ypos="242.098" zpos="-189.6" type="resourcenode.plant.orichalcum.mussels" GUID="4IrfmauDZEK0g5aWewiuBw=="/>
+    <POI MapID="1043" xpos="455.265" ypos="242.883" zpos="-186.849" type="resourcenode.plant.orichalcum.mussels" GUID="SctVQAqBHEWoo3z/nzBWIw=="/>
+    <POI MapID="1043" xpos="-63.8319" ypos="-3.51066" zpos="-53.3511" type="resourcenode.plant.orichalcum.mussels" GUID="ua01exXys0WG88xTb+N/zg=="/>
+    <POI MapID="1043" xpos="-87.4451" ypos="-3.02181" zpos="-98.777" type="resourcenode.plant.orichalcum.mussels" GUID="PHmVrq5ZqU6hxV9I5V7+Kw=="/>
+    <POI MapID="1052" xpos="924.632" ypos="349.582" zpos="286.041" type="resourcenode.plant.orichalcum.mussels" GUID="wiDsWQsGQEOi5uDdQPVZcQ=="/>
+    <POI MapID="1052" xpos="934.552" ypos="353.813" zpos="265.909" type="resourcenode.plant.orichalcum.mussels" GUID="Ky2ZC82CdEymoGQmZA02rg=="/>
+    <POI MapID="1052" xpos="942.959" ypos="348.715" zpos="121.952" type="resourcenode.plant.orichalcum.mussels" GUID="dqqFfMJ6lUGyq2Ebwph47w=="/>
+    <POI MapID="1165" xpos="-227.722" ypos="502.292" zpos="-76.3404" type="resourcenode.plant.orichalcum.mussels" GUID="3ijrJXF6B0SZm5tptdDMWw=="/>
+    <POI MapID="1165" xpos="-277.045" ypos="503.213" zpos="-78.1009" type="resourcenode.plant.orichalcum.mussels" GUID="v7OhnZ8WN0exasBUFEMSiA=="/>
+    <POI MapID="1165" xpos="-327.536" ypos="521.321" zpos="-84.1568" type="resourcenode.plant.orichalcum.mussels" GUID="pTMK0S9wlEyRZ88oJLQsGg=="/>
+    <POI MapID="1165" xpos="-354.886" ypos="534.344" zpos="-93.201" type="resourcenode.plant.orichalcum.mussels" GUID="MfzeBMp6HUuUeAoFHlkd+g=="/>
+    <POI MapID="1165" xpos="-228.931" ypos="502.296" zpos="-91.0705" type="resourcenode.plant.orichalcum.mussels" GUID="R1aqxOIyUE6X/2+yixb7zA=="/>
+    <POI MapID="1165" xpos="-380.412" ypos="541.925" zpos="-105.176" type="resourcenode.plant.orichalcum.mussels" GUID="Pzq26DFqiUu7dLOTlYQXNQ=="/>
+    <POI MapID="1175" xpos="98.5544" ypos="-24.3195" zpos="-441.902" type="resourcenode.plant.orichalcum.mussels" GUID="oTTX26Rny0+2/06s+0YXng=="/>
+    <POI MapID="1175" xpos="-760.1" ypos="-30.6811" zpos="-500.135" type="resourcenode.plant.orichalcum.mussels" GUID="de1RaDoM7kyBpGPuy7XyvA=="/>
+    <POI MapID="1175" xpos="-736.698" ypos="-23.902" zpos="-473.026" type="resourcenode.plant.orichalcum.mussels" GUID="bkl4N5G4xU2aqwuvrZBKUg=="/>
+    <POI MapID="1175" xpos="-781.869" ypos="-9.70722" zpos="-436.616" type="resourcenode.plant.orichalcum.mussels" GUID="remNb2p5OUaCUpStJERivQ=="/>
+    <POI MapID="1175" xpos="779.28" ypos="-13.0924" zpos="-310.025" type="resourcenode.plant.orichalcum.mussels" GUID="ZZNwyq1kdU+imaHJjKSpoA=="/>
+    <POI MapID="1175" xpos="-95.2206" ypos="-42.5907" zpos="-757.843" type="resourcenode.plant.orichalcum.mussels" GUID="GEQNlkWwSECB9pS4dl6mKQ=="/>
+    <POI MapID="1043" xpos="203.016" ypos="121.763" zpos="-16.2892" type="resourcenode.plant.orichalcum.mussels" GUID="qmnevemwCEa5jYXabrPFeA=="/>
+    <POI MapID="1043" xpos="195.369" ypos="122.033" zpos="36.245" type="resourcenode.plant.orichalcum.mussels" GUID="nwqzWSfo7kyNmKvMPQ6WEw=="/>
+    <POI MapID="1043" xpos="-82.7208" ypos="-3.44319" zpos="-54.1988" type="resourcenode.plant.orichalcum.mussels" GUID="KsKfIY62yE+47vYIjZFCRQ=="/>
+    <POI MapID="1041" xpos="570.925" ypos="49.5083" zpos="-90.4865" type="resourcenode.plant.orichalcum.mussels" GUID="tbniRM/AiEy+j1N0aRvlfA=="/>
+    <POI MapID="1041" xpos="535.85" ypos="55.883" zpos="-127.781" type="resourcenode.plant.orichalcum.mussels" GUID="XE9JYcTbi0OChZm+U1ZM7w=="/>
+    <POI MapID="1041" xpos="84.6153" ypos="49.857" zpos="676.2" type="resourcenode.plant.orichalcum.mussels" GUID="OLWnq1/f9EKHtjZ06kZeYQ=="/>
+    <POI MapID="1041" xpos="462.484" ypos="0.0283797" zpos="380.569" type="resourcenode.plant.orichalcum.mussels" GUID="y6yza5B1wk+XAY4dFlL91Q=="/>
+    <POI MapID="1041" xpos="464.813" ypos="-0.23172" zpos="401.021" type="resourcenode.plant.orichalcum.mussels" GUID="c5MBjU/UGUm5PwoqzB1dsw=="/>
+    <POI MapID="1041" xpos="255.022" ypos="39.8032" zpos="427.816" type="resourcenode.plant.orichalcum.mussels" GUID="Vl/YF/3uLEi6agKF3jEW7A=="/>
+    <POI MapID="1041" xpos="143.994" ypos="42.6516" zpos="547.693" type="resourcenode.plant.orichalcum.mussels" GUID="LkjFt5uOFk66DUkMFyTxHA=="/>
+    <POI MapID="1041" xpos="4.41766" ypos="50.6915" zpos="746.722" type="resourcenode.plant.orichalcum.mussels" GUID="H18IVHKIbkWXlV5As5ZU9g=="/>
+    <POI MapID="1041" xpos="43.415" ypos="50.6179" zpos="784.001" type="resourcenode.plant.orichalcum.mussels" GUID="PvF10EO7+U2K2R9LgyhiAg=="/>
+    <POI MapID="1041" xpos="496.709" ypos="0.452027" zpos="355.594" type="resourcenode.plant.orichalcum.mussels" GUID="S4Dkvc77F0mQFZBmsfAoRw=="/>
+    <POI MapID="1041" xpos="515.313" ypos="0.0388099" zpos="335.251" type="resourcenode.plant.orichalcum.mussels" GUID="1G8Y549sbUe1dFD8EESHZQ=="/>
+    <POI MapID="1041" xpos="628.753" ypos="42.2422" zpos="-55.9153" type="resourcenode.plant.orichalcum.mussels" GUID="n72gO/wlq0iJ8kUzVEDYoA=="/>
+    <POI MapID="1041" xpos="146.934" ypos="43.1965" zpos="581.198" type="resourcenode.plant.orichalcum.mussels" GUID="QVgooBoxbkCjfUidjco13Q=="/>
+    <POI MapID="1041" xpos="462.629" ypos="-0.131945" zpos="426.778" type="resourcenode.plant.orichalcum.mussels" GUID="ydAVahgGwEqN+DiK6+R2FA=="/>
+    <POI MapID="1052" xpos="823.586" ypos="322.361" zpos="36.6118" type="resourcenode.plant.orichalcum.mussels" GUID="UcPQkYRmSEeGt59S2Ss4Yw=="/>
+    <POI MapID="1052" xpos="893.869" ypos="348.153" zpos="86.9939" type="resourcenode.plant.orichalcum.mussels" GUID="A6jP87lBIEKWZsMUMlPewA=="/>
+    <POI MapID="1052" xpos="895.144" ypos="348.604" zpos="244.61" type="resourcenode.plant.orichalcum.mussels" GUID="LAnQTSVhykCU864ndSWAGA=="/>
+    <POI MapID="1052" xpos="866.132" ypos="339.95" zpos="239.6" type="resourcenode.plant.orichalcum.mussels" GUID="NGEHQOMb20KELgAbNnXLJA=="/>
+    <POI MapID="1052" xpos="80.7656" ypos="374.799" zpos="9.79056" type="resourcenode.plant.orichalcum.mussels" GUID="QHUKitXLm0SWMPrr5Khmqw=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,20 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="62" xpos="-229.967" ypos="-4.12175" zpos="-423.672" type="resourcenode.plant.orichalcum.seaweed" GUID="0GzyDBHgN06Wm0Obfyp7zg=="/>
+    <POI MapID="1175" xpos="-101.784" ypos="-70.7559" zpos="-902.865" type="resourcenode.plant.orichalcum.seaweed" GUID="p7HUEz/iAU2ObVsYQgC1gQ=="/>
+    <POI MapID="1175" xpos="-105.581" ypos="-72.7024" zpos="-909.111" type="resourcenode.plant.orichalcum.seaweed" GUID="X703ly1mykG5B3H24w5V1g=="/>
+    <POI MapID="1175" xpos="-97.9446" ypos="-73.8286" zpos="-909.64" type="resourcenode.plant.orichalcum.seaweed" GUID="fXWtIrxQWkiqXQB10GPLRg=="/>
+    <POI MapID="1175" xpos="-89.3825" ypos="-72.4237" zpos="-911.642" type="resourcenode.plant.orichalcum.seaweed" GUID="DYgeL4gRHUWxw/0GkEL9Sw=="/>
+    <POI MapID="1175" xpos="-85.8903" ypos="-73.5114" zpos="-920.514" type="resourcenode.plant.orichalcum.seaweed" GUID="FOwcya59X0aot4HanYUuiQ=="/>
+    <POI MapID="1175" xpos="-77.0619" ypos="-72.9987" zpos="-919.381" type="resourcenode.plant.orichalcum.seaweed" GUID="bihXxd/+hk24hqv5cfvgGg=="/>
+    <POI MapID="1175" xpos="-78.8604" ypos="-72.4741" zpos="-924.138" type="resourcenode.plant.orichalcum.seaweed" GUID="IEVGJN2YIEageB6a1Y+GjQ=="/>
+    <POI MapID="1175" xpos="-98.6442" ypos="-71.7664" zpos="-916.013" type="resourcenode.plant.orichalcum.seaweed" GUID="SDIEYzb+1U6mSG3lqM/poA=="/>
+  </POIs>
+</OverlayData>

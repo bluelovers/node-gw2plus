@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Darksteel">
+        <MarkerCategory name="Cauliflower"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="53" xpos="-537.461" ypos="88.075" zpos="529.292" type="resourcenode.plant.darksteel.cauliflower" GUID="mKCB8JzEZE6fgY3ffzOLww=="/>
+    <POI MapID="53" xpos="-523.926" ypos="87.0173" zpos="530.555" type="resourcenode.plant.darksteel.cauliflower" GUID="4vy8CK/F4U+tU2LTXF2adg=="/>
+    <POI MapID="53" xpos="-528.515" ypos="86.3985" zpos="513.7" type="resourcenode.plant.darksteel.cauliflower" GUID="/A5EOIEOykOMIP2FRpdFhA=="/>
+    <POI MapID="53" xpos="-528.905" ypos="88.3752" zpos="495.157" type="resourcenode.plant.darksteel.cauliflower" GUID="6PPG9SWnlkuKzDVJRtwEsw=="/>
+    <POI MapID="53" xpos="-535.195" ypos="91.802" zpos="481.866" type="resourcenode.plant.darksteel.cauliflower" GUID="48Uu8PasFE+iSGAlogoIGA=="/>
+    <POI MapID="53" xpos="-544.742" ypos="89.3444" zpos="503.583" type="resourcenode.plant.darksteel.cauliflower" GUID="Ai6DgEdfVkWqQbjf4e4O/A=="/>
+    <POI MapID="53" xpos="-555.429" ypos="89.0137" zpos="516.703" type="resourcenode.plant.darksteel.cauliflower" GUID="AoDixazJ9kyNUwPdTSRnXw=="/>
+    <POI MapID="53" xpos="-561.424" ypos="89.0223" zpos="502.331" type="resourcenode.plant.darksteel.cauliflower" GUID="IsCEyf/AMEC5YXl5AZa22A=="/>
+  </POIs>
+</OverlayData>

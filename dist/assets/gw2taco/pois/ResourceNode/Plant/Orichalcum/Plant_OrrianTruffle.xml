@@ -1,0 +1,24 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="62" xpos="-114.47" ypos="26.7249" zpos="976.256" type="resourcenode.plant.orichalcum.orriantruffle" GUID="BkU8pBOlGEaOpNH+iIzQXA=="/>
+    <POI MapID="62" xpos="-108.941" ypos="28.0582" zpos="980.532" type="resourcenode.plant.orichalcum.orriantruffle" GUID="RXuUrJtKkEWZ5WpEt6iz3Q=="/>
+    <POI MapID="375" xpos="124.195" ypos="343.3" zpos="-276.687" type="resourcenode.plant.orichalcum.orriantruffle" GUID="qfqtrYlXoUqz+qdCc8XPAQ=="/>
+    <POI MapID="62" xpos="348.346" ypos="58.7195" zpos="760.313" type="resourcenode.plant.orichalcum.orriantruffle" GUID="nt9Rd8fQL06i5eENs3jI3w=="/>
+    <POI MapID="248" xpos="128.773" ypos="82.662" zpos="199.195" type="resourcenode.plant.orichalcum.orriantruffle" GUID="iQLOaBIhTUSrriG1ANOxZA=="/>
+    <POI MapID="62" xpos="115.252" ypos="25.7823" zpos="343.36" type="resourcenode.plant.orichalcum.orriantruffle" GUID="w8ZWALNnx0mdJJVddbDuMA=="/>
+    <POI MapID="62" xpos="171.671" ypos="18.5443" zpos="185.171" type="resourcenode.plant.orichalcum.orriantruffle" GUID="p8of6gW/sEWZZrRGAommOA=="/>
+    <POI MapID="62" xpos="396.645" ypos="14.0211" zpos="-846.54" type="resourcenode.plant.orichalcum.orriantruffle" GUID="BqmuBxpAw0OxaqVP7pXYzw=="/>
+    <POI MapID="62" xpos="186.354" ypos="8.52628" zpos="255.785" type="resourcenode.plant.orichalcum.orriantruffle" GUID="I/ReJE1vGEGpDQsiaoDohg=="/>
+    <POI MapID="62" xpos="218.465" ypos="14.3354" zpos="288.675" type="resourcenode.plant.orichalcum.orriantruffle" GUID="vrBtN7INh0uJKO7yyUPRXg=="/>
+    <POI MapID="62" xpos="164.352" ypos="11.3466" zpos="283.674" type="resourcenode.plant.orichalcum.orriantruffle" GUID="PlIoPGZMMUKJRsl0JQJ48g=="/>
+    <POI MapID="62" xpos="295.424" ypos="27.8993" zpos="231.618" type="resourcenode.plant.orichalcum.orriantruffle" GUID="xiDhCjTDQ0eVNCMXRbXb2w=="/>
+    <POI MapID="62" xpos="144.061" ypos="9.87117" zpos="214.104" type="resourcenode.plant.orichalcum.orriantruffle" GUID="wf144P3w/0GBopma+ZibLg=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Darksteel">
+        <MarkerCategory name="Scallions"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="73" xpos="-260.993" ypos="2.5529" zpos="304.307" type="resourcenode.plant.darksteel.scallions" GUID="314ceeibzEux6HuYXDdRcw=="/>
+    <POI MapID="25" xpos="-428.276" ypos="56.6355" zpos="-768.739" type="resourcenode.plant.darksteel.scallions" GUID="0sbbJEWRi0ez66V2454gMg=="/>
+    <POI MapID="73" xpos="520.349" ypos="25.2934" zpos="-478.165" type="resourcenode.plant.darksteel.scallions" GUID="8dH+GWp7K0+Nk+YxFG6dtg=="/>
+  </POIs>
+</OverlayData>

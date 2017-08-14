@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Copper">
+        <MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="968" xpos="34.3289" ypos="151.344" zpos="562.548" type="resourcenode.plant.copper.blueberrybush" GUID="9AmdDkWU0UeyJejODa9YZQ=="/>
+  </POIs>
+</OverlayData>
