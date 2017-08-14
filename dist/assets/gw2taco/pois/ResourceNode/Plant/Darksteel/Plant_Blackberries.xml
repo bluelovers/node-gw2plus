@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Darksteel">
+        <MarkerCategory name="Blackberries"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="53" xpos="393.471" ypos="5.39116" zpos="-509.397" type="resourcenode.plant.darksteel.blackberries" GUID="dRYt9b34vkavjhjrx5U7Ww=="/>
+    <POI MapID="25" xpos="118.535" ypos="29.9833" zpos="205.922" type="resourcenode.plant.darksteel.blackberries" GUID="5y14KKIC+0WWhFthLNTBFg=="/>
+    <POI MapID="25" xpos="-349.418" ypos="36.4787" zpos="-985.033" type="resourcenode.plant.darksteel.blackberries" GUID="fXRVRXP/R0CWlfUDsj6AQg=="/>
+    <POI MapID="25" xpos="-263.085" ypos="27.5843" zpos="-948.159" type="resourcenode.plant.darksteel.blackberries" GUID="0EEe8FQXr0CrvcZ7bpRRGg=="/>
+  </POIs>
+</OverlayData>
