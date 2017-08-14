@@ -2,17 +2,32 @@
   "compilerOptions": {
     "module": "CommonJS",
     "target": "es2017",
+
     "sourceMap": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+
     "declaration": true,
-    "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
-    "forceConsistentCasingInFileNames": true,
+
+    "allowSyntheticDefaultImports": true,
+
+    "strict": false,
+
+    //"forceConsistentCasingInFileNames": true,
+
     "locale": "zh-TW",
     "pretty": true,
+
+    "baseUrl": ".",
+    "sourceRoot": ".",
     "rootDir": ".",
+    "outDir": ".",
+
     "traceResolution": true,
     "newLine": "lf"
   },
+
   "exclude": [
     "node_modules"
   ]
