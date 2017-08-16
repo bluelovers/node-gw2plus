@@ -10,7 +10,7 @@ const gw2taco = {
 
 	Node: require('./node'),
 
-	default: gw2taco,
+	default: null,
 
 };
 
