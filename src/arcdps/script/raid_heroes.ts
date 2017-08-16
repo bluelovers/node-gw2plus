@@ -4,12 +4,12 @@
 
 import * as path from 'path';
 import * as globby from 'globby';
-import { execFile } from 'child_process';
+import * as cp from 'child_process';
 import * as util from 'util';
 //import * as Promise from 'bluebird';
 import * as fs from 'fs';
 
-execFile = util.promisify(execFile);
+const execFile = util.promisify(cp.execFile);
 
 import * as Winreg from 'winreg';
 
