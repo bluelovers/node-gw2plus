@@ -138,7 +138,7 @@ describe(path_relative(__filename), function ()
 						lc: true,
 					});
 
-					c[1] = c[1].toLowerCase();
+					c[1] = (c[1] as string).toLowerCase();
 
 					a.push(c);
 				}
