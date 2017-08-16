@@ -2,6 +2,8 @@
  * Created by user on 2017/8/6/006.
  */
 
+import * as cheerio from 'cheerio';
+
 import * as Node from './node';
 import { overwrite } from 'core-decorators';
 
@@ -10,19 +12,28 @@ import { objectReduce } from '../lib/object';
 
 import * as path from 'path';
 
+interface toListObject
+{
+	name: string;
+	name_id: string;
+	name_id_lc: string;
+	parent_name: string;
+	elem: cheerio;
+}
+
 class Category extends Node
 {
 	static defaultContext = '<OverlayData><MarkerCategory/></OverlayData>';
 	static defaultFilter = 'OverlayData > MarkerCategory';
 	static defaultTagName: string = 'MarkerCategory';
 
-	toList(): object
+	toList(): toListObject
 	{
 		let self = this;
 
 		let top = this.filter();
 
-		let list: object = {};
+		let list = {};
 
 		let fn = function (dom, parent_name, list)
 		{
@@ -60,7 +71,7 @@ class Category extends Node
 
 		//console.log('list', Object.keys(list).length);
 
-		return list;
+		return list as toListObject;
 	}
 
 	makeTree(list, skip = [], options?: object)
@@ -95,7 +106,7 @@ class Category extends Node
 	}
 
 	@overwrite
-	makeTagNode(callback?, options)
+	makeTagNode(callback?, options?)
 	{
 		let elem = super.makeTagNode(callback, options);
 
