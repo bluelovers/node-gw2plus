@@ -167,7 +167,7 @@ import gw2api, { getMapAll, getMapInfo } from '../src/gw2api/map';
 							break;
 						default:
 							break POIS;
-							break;
+							//break;
 					}
 
 					let map_id = elem.attr('MapID');
@@ -229,7 +229,7 @@ import gw2api, { getMapAll, getMapInfo } from '../src/gw2api/map';
 
 							break POIS;
 
-							break;
+							//break;
 					}
 
 					//console.log(777, pois_target_id, type_new);

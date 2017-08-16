@@ -6,8 +6,20 @@ import * as Category from '../category';
 import * as path from 'path';
 import fs from '../../lib/fs';
 import * as Promise from 'bluebird';
+import * as Node from '../node';
 
-export async function loadAll(ls: Array, options = { cwd : '' }): Promise<Array>
+interface allCatListOptions
+{
+	merge?: boolean;
+	overwite?: boolean;
+}
+
+interface listToCatOptions extends Node.normalizeOptions
+{
+	skip?: Array<string>;
+}
+
+export async function loadAll(ls: Array<Category>, options = { cwd : '' }): Promise<Array<Category>>
 {
 	let a = [];
 
@@ -28,7 +40,7 @@ export async function loadAll(ls: Array, options = { cwd : '' }): Promise<Array>
 	return Promise.all(a);
 }
 
-export function allCatList(ls: Array, options = {}): object
+export function allCatList(ls: Array<Category>, options: allCatListOptions = {})
 {
 	if (ls instanceof Category)
 	{
@@ -71,7 +83,7 @@ export function allCatList(ls: Array, options = {}): object
 	}, {});
 }
 
-export function listToCat(ls: object, options = [], callback: Function): Category
+export function listToCat(ls: object, options: listToCatOptions|Function = {}, callback?: Function): Category
 {
 	let cat = Category.init();
 	cat.filter().remove();
@@ -115,5 +127,5 @@ export function listToCat(ls: object, options = [], callback: Function): Categor
 		}
 	}
 
-	return cat;
+	return cat as Category;
 }

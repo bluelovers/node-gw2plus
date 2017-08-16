@@ -3,6 +3,9 @@
     "module": "CommonJS",
     "target": "es2017",
 
+    "moduleResolution": "node",
+    "allowJs": true,
+
     "sourceMap": true,
     "inlineSourceMap": true,
     "inlineSources": true,

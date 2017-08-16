@@ -2,7 +2,9 @@
  * Created by user on 2017/8/6/006.
  */
 
-import * as Node from './node';
+//import * as Node from './node';
+import Node = require('./node');
+
 import * as cheerio from 'cheerio';
 import { overwrite } from 'core-decorators';
 
@@ -50,7 +52,7 @@ class Poi extends Node
 	}
 
 	@overwrite
-	static normalize(name: string, options: object)
+	static normalize(name: string, options?)
 	{
 		options = Object.assign({
 			space: false,
