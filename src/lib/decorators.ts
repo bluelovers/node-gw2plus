@@ -7,7 +7,7 @@ import { autobind } from 'core-decorators';
 /**
  * configurable：是否可刪除特性或修改特性的 writable、configurable 與 enumerable 屬性。
  */
-export const configurable(target, key, descriptor)
+export function configurable(target, key, descriptor)
 {
 	return decorate(target, key, {
 		configurable: true,
@@ -17,7 +17,7 @@ export const configurable(target, key, descriptor)
 /**
  * writable：是否可修改特性值。
  */
-export const writable(target, key, descriptor)
+export function writable(target, key, descriptor)
 {
 	return decorate(target, key, {
 		writable: true,
@@ -27,7 +27,7 @@ export const writable(target, key, descriptor)
 /**
  * enumerable：是否可使用 for (var prop in obj) 迭代。
  */
-export const nonenumerable(target, key, descriptor)
+export function nonenumerable(target, key, descriptor)
 {
 	return decorate(target, key, {
 		enumerable: false,
@@ -37,14 +37,14 @@ export const nonenumerable(target, key, descriptor)
 /**
  * enumerable：是否可使用 for (var prop in obj) 迭代。
  */
-export const enumerable(target, key, descriptor)
+export function enumerable(target, key, descriptor)
 {
 	return decorate(target, key, {
 		enumerable: true,
 	}, descriptor);
 }
 
-export const decorate(target, key, attr, descriptor)
+export function decorate(target, key, attr, descriptor)
 {
 	Object.defineProperty(target, key, attr);
 
