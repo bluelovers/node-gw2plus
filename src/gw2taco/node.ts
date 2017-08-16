@@ -14,6 +14,20 @@ import fs from '../lib/fs';
 
 import * as shortid from 'shortid';
 
+interface normalizeOptions
+{
+	gw2taco?: boolean;
+	lc?: boolean;
+	space?: boolean;
+}
+
+interface privateData
+{
+	context: Buffer|string|any;
+	options: object;
+	$: cheerio;
+}
+
 class Node
 {
 
@@ -29,7 +43,7 @@ class Node
 
 	@nonenumerable
 	@writable
-	private _data_: object = {};
+	private _data_ = {} as privateData;
 
 	/**
 	 *
@@ -41,19 +55,19 @@ class Node
 		this.xml(context || getClassStatic(this).defaultContext, options);
 	}
 
-	static init(...argv): this
+	static init(...argv)
 	{
 		return new this(...argv);
 	}
 
-	static loadSync(file, options?: object): this
+	static loadSync(file, options?: object)
 	{
 		let context = fs.readFileSync(file);
 
 		return this.init(context, options);
 	}
 
-	static async load(file, options?: object): Promise
+	static async load(file, options?: object): Promise<any>
 	{
 		let context = await fs.readFile(file);
 
@@ -106,9 +120,7 @@ class Node
 			return this;
 		}
 
-		return this.$.xml()
-			.replace(/ /)
-			;
+		return this.$.xml();
 	}
 
 	get $(): cheerio
@@ -162,7 +174,7 @@ class Node
 		return dom.find(this.defaultFilter + this.attr2selector(attr));
 	}
 
-	root(dom? = this): cheerio
+	root(dom = this): cheerio
 	{
 		return dom.$.root().find(getClassStatic(this).defaultRoot);
 	}
@@ -172,7 +184,7 @@ class Node
 		return getClassStatic(this).defaultTagName;
 	}
 
-	makeTagNode(callback?, options): cheerio
+	makeTagNode(callback?, options?: normalizeOptions): cheerio
 	{
 		let tagName = this.tagName;
 
@@ -192,7 +204,7 @@ class Node
 		return elem;
 	}
 
-	static normalize(name: string, options: object = {}): string
+	static normalize(name: string, options: normalizeOptions = {}): string
 	{
 		let n = name.toString()
 			.replace(/[\?]/ig, '_')
@@ -253,7 +265,7 @@ class Node
 	 * @param {Object} options
 	 * @returns {string}
 	 */
-	static normalize2(name: string, options: object)
+	static normalize2(name: string, options: normalizeOptions)
 	{
 		options = Object.assign({
 			gw2taco: true,
