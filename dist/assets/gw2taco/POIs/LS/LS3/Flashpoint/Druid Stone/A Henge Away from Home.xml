@@ -1,0 +1,22 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
+        <MarkerCategory name="Druid Stone">
+          <MarkerCategory name="A Henge Away from Home"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1195" xpos="-298.006" ypos="360.123" zpos="-58.9027" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="JegNrYWpd0qfyK/JC2qQZQ=="/>
+    <POI MapID="988" xpos="-526.932" ypos="12.3556" zpos="-45.0193" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="uW5pqOLj20aERdlPwNTWWQ=="/>
+    <POI MapID="62" xpos="79.9909" ypos="25.2097" zpos="365.757" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="vi2O7jM7Eky0WHdjwjyG4w=="/>
+    <POI MapID="1195" xpos="196.588" ypos="4.54885" zpos="-42.4313" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="GPxduwbGEUO1TUeQvLwxWA=="/>
+    <POI MapID="1195" xpos="-401.314" ypos="206.635" zpos="-246.496" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="XDwia64yt0m+luja9jNHUA=="/>
+    <POI MapID="1195" xpos="481.613" ypos="109.924" zpos="-253.998" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="/JhOPhbvukqP79Hb108uLg=="/>
+    <POI MapID="1195" xpos="-517.282" ypos="457.726" zpos="-359.588" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="5YTUDaNx9EC+sL5sGweEQA=="/>
+    <POI MapID="1195" xpos="-407.046" ypos="497.879" zpos="-23.1685" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="vpv1k65kYU2UwlaPHeduYQ=="/>
+    <POI MapID="39" xpos="998.07" ypos="8.27551" zpos="541.604" type="ls.ls3.flashpoint.druid_stone.a_henge_away_from_home" GUID="gfOgyiePcU6r+jl3f4wrcQ=="/>
+  </POIs>
+</OverlayData>

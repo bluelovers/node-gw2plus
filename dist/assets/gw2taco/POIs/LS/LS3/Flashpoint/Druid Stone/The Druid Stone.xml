@@ -1,0 +1,17 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
+        <MarkerCategory name="Druid Stone">
+          <MarkerCategory name="The Druid Stone"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1195" xpos="572.893" ypos="120.708" zpos="-340.442" type="ls.ls3.flashpoint.druid_stone.the_druid_stone" GUID="VXHF01WVgkKU/dUfhjKfZg=="/>
+    <POI MapID="1195" xpos="-218.391" ypos="295.88" zpos="-707.718" type="ls.ls3.flashpoint.druid_stone.the_druid_stone" GUID="1yWXs14SlUeyDWwa/ve+Kw=="/>
+    <POI MapID="1195" xpos="-1.04212" ypos="309.258" zpos="135.861" type="ls.ls3.flashpoint.druid_stone.the_druid_stone" GUID="8m5LR5pcgEKqwDxNk9N8/Q=="/>
+    <POI MapID="1195" xpos="595.717" ypos="242.667" zpos="-281.241" type="ls.ls3.flashpoint.druid_stone.the_druid_stone" GUID="D+kxOEbSwUuPR4jwUN/NuQ=="/>
+  </POIs>
+</OverlayData>
