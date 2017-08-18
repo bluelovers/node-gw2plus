@@ -5,6 +5,7 @@
 import * as cheerio from 'cheerio';
 
 import * as Node from './node';
+import * as Poi from './poi';
 import { overwrite } from 'core-decorators';
 
 import { getClassStatic } from '../lib/util';
@@ -46,7 +47,9 @@ class Category extends Node
 				let name_id = `${parent_name}.${name}`.replace(/^\./, '');
 				let name_id_lc = name_id.toLowerCase();
 
-				list[name_id_lc] = {
+				let id = Poi.normalize(name_id_lc);
+
+				list[id] = {
 					name: name,
 					name_id: name_id,
 					name_id_lc: name_id_lc,
