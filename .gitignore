@@ -8,3 +8,4 @@
 !/test/temp/categorydata.cache.xml
 !/test/temp/assets.gw2taco.cache.json
 *.bak
+/test/.nexe
