@@ -82,7 +82,7 @@
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
         <MarkerCategory name="Cactus"/>
         <MarkerCategory name="Flax"/>
-        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper"/>
+        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png"/>
         <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants"/>
         <MarkerCategory name="Lotus"/>
         <MarkerCategory name="Mussels"/>
@@ -342,6 +342,12 @@
         <MarkerCategory name="Thorough Sampling"/>
       </MarkerCategory>
       <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
+        <MarkerCategory name="Druid Stone">
+          <MarkerCategory name="A Henge Away from Home"/>
+          <MarkerCategory name="Awakening the Druid Stone"/>
+          <MarkerCategory name="Sprouting the Druid Stone"/>
+          <MarkerCategory name="The Druid Stone"/>
+        </MarkerCategory>
         <MarkerCategory name="Lessons Learned"/>
       </MarkerCategory>
       <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
