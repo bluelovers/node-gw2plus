@@ -169,6 +169,32 @@ import project_config, { project_root, dist_root, temp_root, gw2taco_path } from
 
 						type_new = pois_target_id;
 					}
+					else if (type.match(/^(?:temp.flashpoint.druid_stone)\.(.+)$/i))
+					{
+						pois_target_id = [
+							'LS',
+							'LS3',
+							'Flashpoint',
+							'Druid Stone',
+						];
+
+						let k = RegExp.$1;
+
+						//console.log(type, cats, cats[type]);
+
+						if (cats[type])
+						{
+							k = cats[type].name;
+						}
+
+						pois_target_id.push(k);
+
+						type_new = pois_target_id;
+
+						//console.log(pois_target_id, k);
+
+						//break POIS;
+					}
 					else
 					{
 						break POIS;
@@ -202,9 +228,15 @@ import project_config, { project_root, dist_root, temp_root, gw2taco_path } from
 						;
 					}
 
+					//console.log(pois_target_id, type_new);
+
 					let pois_target = get_pois_new(pois_target_id, pois_new);
 
+					//console.log(type_new);
+
 					type_new = Category.normalize(type_new, options);
+
+					//console.error(type_new);
 
 					let c = pois_target.cat.makeTree(type_new.split('.'), [], options);
 
