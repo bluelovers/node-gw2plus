@@ -65,7 +65,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Festivals" DisplayName="Festivals">
     <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -80,7 +80,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" DisplayName="Tactical">
     <MarkerCategory name="Timed">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -200,7 +200,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="temp" data-allowsub="true">
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Druid Stone">
         <MarkerCategory name="undefined"/>
