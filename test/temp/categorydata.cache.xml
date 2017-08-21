@@ -6,7 +6,7 @@
       <MarkerCategory name="Seasoned"/>
       <MarkerCategory name="Hard"/>
       <MarkerCategory name="Elder"/>
-      <MarkerCategory name="Ancient" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
+      <MarkerCategory name="Ancient" fadeFar="-1" fadeNear="-1" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
@@ -16,7 +16,7 @@
         <MarkerCategory name="Gold"/>
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Mithril"/>
-        <MarkerCategory name="Orichalcum" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
+        <MarkerCategory name="Orichalcum" fadeFar="-1" fadeNear="-1" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
       </MarkerCategory>
       <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png">
         <MarkerCategory name="Copper"/>
@@ -139,7 +139,7 @@
     <MarkerCategory name="JournalEntry" iconFile="Data/raid1_achievements.png" behavior="3"/>
     <MarkerCategory name="TornPage" iconFile="Data/raid1_achievements.png" behavior="3"/>
   </MarkerCategory>
-  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Festivals" DisplayName="Festivals">
     <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
       <MarkerCategory name="FireCracker" iconFile="data/Lunar_New_Year_Dailies.png" behavior="2" iconSize="0.5"/>
     </MarkerCategory>
@@ -159,7 +159,7 @@
       <MarkerCategory name="TribulationTrail" iconFile="Data/storyline_green.png" iconSize="0.3" alpha="0.9" heightOffset="0.7" fadeNear="2000" fadeFar="2200"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" DisplayName="Tactical">
     <MarkerCategory name="Timed">
       <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
     </MarkerCategory>
@@ -380,7 +380,7 @@
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="temp" data-allowsub="true">
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
     <MarkerCategory name="Letters from E"/>
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Burnin___ Down the House" DisplayName="Burnin’ Down the House"/>
@@ -396,6 +396,7 @@
       <MarkerCategory name="Treasure Mushroom"/>
       <MarkerCategory name="Champion"/>
     </MarkerCategory>
+    <MarkerCategory name="Chinese __" DisplayName="Chinese 中文"/>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
 </OverlayData>
