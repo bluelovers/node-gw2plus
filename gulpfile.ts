@@ -30,6 +30,7 @@ gulp.task('gw2taco:link', async function ()
 	};
 
 	let ls = await globby([
+			'categorydata.xml',
 			'*/*.xml',
 			'**/*.{gif,jpg,jpeg,png}',
 		], options)
@@ -250,7 +251,8 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 			return ls.concat(ls2);
 		})
 		.then(cu.loadAll)
-		.then(ls => {
+		.then(ls =>
+		{
 			return cu.allCatList(ls, {
 				merge: true,
 				overwite: true,
@@ -309,7 +311,10 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 					if (1 || !iconFile || iconFile == p.attr('data-iconFile'))
 					{
 						let k = Poi.normalize(name_id);
-						let k2 = Poi.normalize(name_id.split('.').slice(0, -1).concat([attrs['DisplayName'] || p.attr('DisplayName') || p.attr('name')]).join('.'));
+						let k2 = Poi.normalize(name_id.split('.')
+							.slice(0, -1)
+							.concat([attrs['DisplayName'] || p.attr('DisplayName') || p.attr('name')])
+							.join('.'));
 
 						//console.log(k, k2);
 
@@ -326,8 +331,6 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 					}
 				}
 
-
-
 				cat.getStatic().attr(p, attrs);
 
 				//console.log(p[0].attribs);
@@ -338,17 +341,17 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 		.then(cat =>
 		{
 			let p = cat.makeTree(`temp`.split('.'), [])
-			.attr('data-allowsub', true)
+				.attr('data-allowsub', true)
 			;
 
 			p.appendTo(p.parent());
 
 			cat
-			.find(`${cat.tagName}[name="undefined"]`)
-			.each(function (i, elem)
-			{
-				cat.$(elem).appendTo(cat.$(elem).parent());
-			})
+				.find(`${cat.tagName}[name="undefined"]`)
+				.each(function (i, elem)
+				{
+					cat.$(elem).appendTo(cat.$(elem).parent());
+				})
 			;
 
 			return cat;
@@ -449,11 +452,11 @@ gulp.task('category:undefined', ['category:cache'], async function ()
 			//console.log(`${cat.tagName}[name="undefined"]`);
 
 			cat
-			.find(`${cat.tagName}[name="undefined"]`)
-			.each(function (i, elem)
-			{
-				cat.$(elem).appendTo(cat.$(elem).parent());
-			})
+				.find(`${cat.tagName}[name="undefined"]`)
+				.each(function (i, elem)
+				{
+					cat.$(elem).appendTo(cat.$(elem).parent());
+				})
 			;
 
 			return cat;
@@ -493,8 +496,8 @@ gulp.task('category:attr', ['category:undefined'], async function ()
 	};
 
 	let ls = await globby([
-		'**/*.xml',
-	], options)
+			'**/*.xml',
+		], options)
 		.then(async (list) =>
 		{
 			for (let file of list)
