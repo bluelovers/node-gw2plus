@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="temp">
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Letters from E"/>
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Burnin’ Down the House"/>
@@ -15,5 +15,6 @@
       <MarkerCategory name="Treasure Mushroom"/>
       <MarkerCategory name="Champion"/>
     </MarkerCategory>
+    <MarkerCategory name="Chinese 中文"  DisplayName="Chinese 中文"/>
   </MarkerCategory>
 </OverlayData>
