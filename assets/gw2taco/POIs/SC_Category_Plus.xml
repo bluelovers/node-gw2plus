@@ -1,5 +1,13 @@
 <OverlayData fadeFar="16800" fadeNear="8400">
   <MarkerCategory name="ResourceNode" fadeFar="16800" fadeNear="8400" behavior="1">
+    <MarkerCategory name="Wood" iconFile="Data/Wood.png">
+      <MarkerCategory name="Ancient" fadeFar="-1" fadeNear="-1" behavior="0"/>
+    </MarkerCategory>
+    <MarkerCategory name="Ore" iconFile="Data/Ore.png">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Orichalcum" fadeFar="-1" fadeNear="-1" behavior="0"/>
+      </MarkerCategory>
+    </MarkerCategory>
     <MarkerCategory name="MapSpecific">
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
