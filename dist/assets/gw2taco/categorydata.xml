@@ -81,7 +81,7 @@
       <MarkerCategory name="Orichalcum">
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
         <MarkerCategory name="Cactus"/>
-        <MarkerCategory name="Flax"/>
+        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png"/>
         <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png"/>
         <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants"/>
         <MarkerCategory name="Lotus"/>
