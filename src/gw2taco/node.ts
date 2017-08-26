@@ -14,14 +14,14 @@ import fs from '../lib/fs';
 
 import * as shortid from 'shortid';
 
-interface normalizeOptions
+export interface normalizeOptions
 {
 	gw2taco?: boolean;
 	lc?: boolean;
 	space?: boolean;
 }
 
-interface privateData
+export interface privateData
 {
 	context: Buffer|string|any;
 	options: object;
@@ -30,7 +30,6 @@ interface privateData
 
 class Node
 {
-
 	static defaultContext: string = '<OverlayData><MarkerCategory/><POIs/></OverlayData>';
 	static defaultOptions = {
 		xmlMode: true,
