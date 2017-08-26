@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400" data-iconFile="Data/Chest.png">
-    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png">
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" fadeFar="10500" fadeNear="4200" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png">
       <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
     </MarkerCategory>
   </MarkerCategory>

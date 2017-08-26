@@ -15,6 +15,8 @@ import project_config, { project_root, dist_root, temp_root, gw2taco_path } from
 
 import gw2taco, { Category, Node, Poi } from './src/gw2taco';
 
+import './gulp-task/gw2taco';
+
 gulp.task('gw2taco:categorydata', ['category:cache'], async function ()
 {
 	//let src = path.join(dist_root, 'assets/gw2taco', file);
@@ -239,6 +241,38 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 		absolute: true,
 	};
 
+	function _search_icon(assets_iconfile, ...ids)
+	{
+		for (let k of ids)
+		{
+			let ks = _make_img_ids(k);
+
+			for (let k of ks)
+			{
+				if (assets_iconfile[k])
+				{
+					return assets_iconfile[k];
+				}
+			}
+		}
+	}
+
+	function _make_img_ids(k)
+	{
+		let ret = [k];
+
+		if (k.match(/^(.+)s$/))
+		{
+			ret.push(RegExp.$1);
+		}
+		else
+		{
+			ret.push(RegExp.$1 + 's');
+		}
+
+		return ret;
+	}
+
 	let ls = await globby(patterns, options)
 		.then(async (ls) =>
 		{
@@ -318,14 +352,10 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 
 						//console.log(k, k2);
 
-						if (assets_iconfile[k])
+						let i = _search_icon(assets_iconfile, k, k2);
+						if (i)
 						{
-							attrs['iconFile'] = `Data/${assets_iconfile[k]}`;
-							attrs['data-iconFile'] = iconFile || attrs['iconFile'];
-						}
-						else if (k2 != k && assets_iconfile[k2])
-						{
-							attrs['iconFile'] = `Data/${assets_iconfile[k2]}`;
+							attrs['iconFile'] = `Data/${i}`;
 							attrs['data-iconFile'] = iconFile || attrs['iconFile'];
 						}
 					}
@@ -362,6 +392,55 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 				fadeFar: 16800,
 				fadeNear: 8400,
 			});
+
+			cat.find('OverlayData > MarkerCategory')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					if (!_this.attr('fadeFar') && !_this.attr('fadeNear'))
+					{
+						_this.attr('fadeFar', cat.root().attr('fadeFar'));
+						_this.attr('fadeNear', cat.root().attr('fadeNear'));
+					}
+				})
+			;
+
+			/*
+			cat.find('MarkerCategory[data-class*="iconsize-0.5"] MarkerCategory')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					if (!_this.attr('iconSize') && _this.attr('iconFile'))
+					{
+						_this.attr('iconSize', '0.5');
+					}
+				})
+			;
+			*/
+
+			cat.find('MarkerCategory[data-class*="iconsize"]')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					let size;
+					if (_this.attr('data-class').match(/(?:^|\s)?iconsize\-([\d\.]+)(?:$|\s)?/))
+					{
+						size = RegExp.$1;
+
+						//console.log(size);
+
+						_this
+							.find('MarkerCategory[iconFile]:not([iconSize])')
+							.attr('iconSize', size)
+						;
+					}
+
+					//console.log(_this.attr('data-class'));
+				})
+			;
 
 			return cat;
 		})
@@ -482,7 +561,7 @@ gulp.task('arcdps:evtc', async function ()
 	}
 });
 
-gulp.task('category:attr', ['category:undefined'], async function ()
+gulp.task('category:attr', ['category:undefined', 'gw2taco:build-poi:default'], async function ()
 {
 	const cu = require('./src/gw2taco/category/util');
 

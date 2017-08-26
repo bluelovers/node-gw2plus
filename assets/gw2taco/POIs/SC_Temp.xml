@@ -16,5 +16,8 @@
       <MarkerCategory name="Champion"/>
     </MarkerCategory>
     <MarkerCategory name="Chinese 中文"  DisplayName="Chinese 中文"/>
+    <MarkerCategory name="Side Stories">
+      <MarkerCategory name="Bloodstone Sightings"/>
+    </MarkerCategory>
   </MarkerCategory>
 </OverlayData>

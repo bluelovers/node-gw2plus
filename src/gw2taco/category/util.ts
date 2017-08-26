@@ -8,13 +8,13 @@ import fs from '../../lib/fs';
 import * as Promise from 'bluebird';
 import * as Node from '../node';
 
-interface allCatListOptions
+export interface allCatListOptions
 {
 	merge?: boolean;
 	overwite?: boolean;
 }
 
-interface listToCatOptions extends Node.normalizeOptions
+export interface listToCatOptions extends Node.normalizeOptions
 {
 	skip?: Array<string>;
 }
