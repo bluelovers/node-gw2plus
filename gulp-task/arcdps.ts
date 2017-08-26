@@ -12,8 +12,7 @@ import * as source from 'vinyl-source-stream';
 import * as through from 'through2';
 
 import * as runGulpTask from 'run-gulp-task';
-//import * as addTasks from 'gulp-add-tasks';
-import * as addTasks from 'D:\\Users\\Documents\\The Project\\nodejs-test\\gulp-add-tasks\\lib\\index.js';
+import addTasks from 'gulp-add-tasks2';
 import fs from '../src/lib/fs';
 
 import * as ts from 'gulp-typescript';
