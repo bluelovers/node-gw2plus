@@ -1,14 +1,15 @@
 <OverlayData fadeFar="16800" fadeNear="8400">
   <MarkerCategory name="ResourceNode" fadeFar="16800" fadeNear="8400" behavior="1">
     <MarkerCategory name="Wood" iconFile="Data/Wood.png">
-      <MarkerCategory name="Ancient" fadeFar="-1" fadeNear="-1" behavior="0"/>
+      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
-        <MarkerCategory name="Orichalcum" fadeFar="-1" fadeNear="-1" behavior="0"/>
+        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="MapSpecific">
+    <MarkerCategory name="Plant" data-class="iconsize-0.35"/>
+    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400">
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
       </MarkerCategory>
@@ -20,14 +21,14 @@
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true">
-      <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
+      <MarkerCategory name="QuartzCrystal" fadeFar="25200" fadeNear="16800" behavior="0"/>
       <MarkerCategory name="Leather" iconSize="0.5"/>
       <MarkerCategory name="Cloth" iconSize="0.5"/>
       <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="MapSpecific" data-allowsub="true">
+    <MarkerCategory name="MapSpecific" data-allowsub="true" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="KeyRequired"/>
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3"/>
