@@ -13,7 +13,7 @@ import { objectReduce } from '../lib/object';
 
 import * as path from 'path';
 
-interface toListObject
+export interface toListObject
 {
 	name: string;
 	name_id: string;
