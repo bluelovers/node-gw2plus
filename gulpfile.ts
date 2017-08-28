@@ -601,7 +601,12 @@ gulp.task('category:attr', ['category:undefined', 'gw2taco:build-poi:default'], 
 							attrs[attr] = value;
 						}
 
-						ls[id].elem[0].attribs = Object.assign(ls[id].elem[0].attribs, cat_cache[id].elem[0].attribs)
+						ls[id].elem[0].attribs = Object.assign(ls[id].elem[0].attribs, cat_cache[id].elem[0].attribs);
+
+						if (!ls[id].elem[0].attribs['DisplayName'] && Category.normalize2(ls[id].elem[0].attribs['name']) != ls[id].elem[0].attribs['name'])
+						{
+							ls[id].elem[0].attribs['DisplayName'] = ls[id].elem[0].attribs['name'];
+						}
 					}
 				}
 
