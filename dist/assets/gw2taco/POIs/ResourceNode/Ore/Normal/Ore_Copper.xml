@@ -1,8 +1,8 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png" DisplayName="Ore">
-      <MarkerCategory name="Normal" DisplayName="Normal">
-        <MarkerCategory name="Copper" DisplayName="Copper"/>
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Copper"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

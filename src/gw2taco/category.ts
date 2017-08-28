@@ -147,6 +147,27 @@ class Category extends Node
 			return a;
 		});
 	}
+
+	@overwrite
+	static normalize(name: string, options?)
+	{
+		options = Object.assign({
+			lc: false,
+		}, options);
+
+		return super.normalize(name, options);
+	}
+
+	@overwrite
+	static normalize2(name: string, options: object)
+	{
+		options = Object.assign({
+			space: false,
+			lc: false,
+		}, options);
+
+		return super.normalize2(name, options);
+	}
 }
 
 export = Category;

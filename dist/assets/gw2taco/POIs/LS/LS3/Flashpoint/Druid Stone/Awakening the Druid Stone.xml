@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
-      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png" DisplayName="Flashpoint">
+      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
         <MarkerCategory name="Druid Stone" DisplayName="Druid Stone">
           <MarkerCategory name="Awakening the Druid Stone" DisplayName="Awakening the Druid Stone"/>
         </MarkerCategory>

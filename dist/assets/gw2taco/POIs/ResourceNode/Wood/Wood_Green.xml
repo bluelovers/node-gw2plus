@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png" DisplayName="Wood">
-      <MarkerCategory name="Green" DisplayName="Green"/>
+    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
+      <MarkerCategory name="Green"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
