@@ -1,8 +1,8 @@
 <OverlayData>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
-      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
-        <MarkerCategory name="Withered Rose"/>
+      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png" DisplayName="One Path Ends">
+        <MarkerCategory name="Withered Rose" DisplayName="Withered Rose"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
