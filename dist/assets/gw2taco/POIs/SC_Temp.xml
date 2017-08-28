@@ -1,23 +1,23 @@
 <OverlayData>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
-    <MarkerCategory name="Letters from E"/>
-    <MarkerCategory name="Flashpoint">
+    <MarkerCategory name="Letters from E" DisplayName="Letters from E"/>
+    <MarkerCategory name="Flashpoint" DisplayName="Flashpoint">
       <MarkerCategory name="Burnin’ Down the House"/>
-      <MarkerCategory name="Rock Collector"/>
-      <MarkerCategory name="Druid Stone">
-        <MarkerCategory name="The Druid Stone"/>
-        <MarkerCategory name="Awakening the Druid Stone"/>
-        <MarkerCategory name="Sprouting the Druid Stone"/>
-        <MarkerCategory name="A Henge Away from Home"/>
+      <MarkerCategory name="Rock Collector" DisplayName="Rock Collector"/>
+      <MarkerCategory name="Druid Stone" DisplayName="Druid Stone">
+        <MarkerCategory name="The Druid Stone" DisplayName="The Druid Stone"/>
+        <MarkerCategory name="Awakening the Druid Stone" DisplayName="Awakening the Druid Stone"/>
+        <MarkerCategory name="Sprouting the Druid Stone" DisplayName="Sprouting the Druid Stone"/>
+        <MarkerCategory name="A Henge Away from Home" DisplayName="A Henge Away from Home"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="MapSpecific">
-      <MarkerCategory name="Treasure Mushroom"/>
-      <MarkerCategory name="Champion"/>
+    <MarkerCategory name="MapSpecific" DisplayName="MapSpecific">
+      <MarkerCategory name="Treasure Mushroom" DisplayName="Treasure Mushroom"/>
+      <MarkerCategory name="Champion" DisplayName="Champion"/>
     </MarkerCategory>
     <MarkerCategory name="Chinese __" DisplayName="Chinese 中文"/>
-    <MarkerCategory name="Side Stories">
-      <MarkerCategory name="Bloodstone Sightings"/>
+    <MarkerCategory name="Side Stories" DisplayName="Side Stories">
+      <MarkerCategory name="Bloodstone Sightings" DisplayName="Bloodstone Sightings"/>
     </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
