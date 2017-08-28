@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
     <MarkerCategory name="Letters from E" DisplayName="Letters from E"/>
-    <MarkerCategory name="Flashpoint" DisplayName="Flashpoint">
+    <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Burnin’ Down the House"/>
       <MarkerCategory name="Rock Collector" DisplayName="Rock Collector"/>
       <MarkerCategory name="Druid Stone" DisplayName="Druid Stone">
@@ -11,9 +11,9 @@
         <MarkerCategory name="A Henge Away from Home" DisplayName="A Henge Away from Home"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="MapSpecific" DisplayName="MapSpecific">
+    <MarkerCategory name="MapSpecific">
       <MarkerCategory name="Treasure Mushroom" DisplayName="Treasure Mushroom"/>
-      <MarkerCategory name="Champion" DisplayName="Champion"/>
+      <MarkerCategory name="Champion"/>
     </MarkerCategory>
     <MarkerCategory name="Chinese __" DisplayName="Chinese 中文"/>
     <MarkerCategory name="Side Stories" DisplayName="Side Stories">
