@@ -1,55 +1,55 @@
 <OverlayData fadeFar="16800" fadeNear="8400">
   <MarkerCategory name="ResourceNode" fadeFar="16800" fadeNear="8400" behavior="1" DisplayName="Resource Nodes">
-    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png" DisplayName="Wood">
-      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" DisplayName="Ancient"/>
+    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
+      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
     </MarkerCategory>
-    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png" DisplayName="Ore">
-      <MarkerCategory name="Normal" DisplayName="Normal">
-        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" DisplayName="Orichalcum"/>
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Plant" data-class="iconsize-0.35" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png" DisplayName="Plant"/>
-    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400" DisplayName="MapSpecific">
-      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true" DisplayName="Wood">
-        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" DisplayName="Currency"/>
+    <MarkerCategory name="Plant" data-class="iconsize-0.35" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png"/>
+    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400">
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
         <MarkerCategory name="Lumber Synthesizer" DisplayName="Lumber Synthesizer"/>
       </MarkerCategory>
-      <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true" DisplayName="Ore">
-        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" DisplayName="Currency"/>
+      <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
         <MarkerCategory name="Ore Synthesizer" DisplayName="Ore Synthesizer"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" DisplayName="Plant">
-        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" DisplayName="Currency"/>
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
         <MarkerCategory name="Berry Synthesizer" DisplayName="Berry Synthesizer"/>
         <MarkerCategory name="Herb Synthesizer" DisplayName="Herb Synthesizer"/>
         <MarkerCategory name="Vegetable Synthesizer" DisplayName="Vegetable Synthesizer"/>
       </MarkerCategory>
-      <MarkerCategory name="Synthesizer" DisplayName="Synthesizer"/>
+      <MarkerCategory name="Synthesizer"/>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true" DisplayName="Other">
-      <MarkerCategory name="QuartzCrystal" fadeFar="25200" fadeNear="16800" behavior="0" DisplayName="QuartzCrystal"/>
-      <MarkerCategory name="Leather" iconSize="0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" DisplayName="Leather"/>
-      <MarkerCategory name="Cloth" iconSize="0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" DisplayName="Cloth"/>
+    <MarkerCategory name="Other" data-allowsub="true">
+      <MarkerCategory name="QuartzCrystal" fadeFar="25200" fadeNear="16800" behavior="0"/>
+      <MarkerCategory name="Leather" iconSize="0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png"/>
+      <MarkerCategory name="Cloth" iconSize="0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png"/>
       <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400" iconFile="Data/Chest.png" data-iconFile="Data/Chest.png" DisplayName="Chest">
+  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400" iconFile="Data/Chest.png" data-iconFile="Data/Chest.png">
     <MarkerCategory name="MapSpecific" data-allowsub="true" fadeFar="10500" fadeNear="4200" DisplayName="Map Specific" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png">
-      <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png" DisplayName="KeyRequired"/>
+      <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
     </MarkerCategory>
-    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png" DisplayName="Meta"/>
+    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
   </MarkerCategory>
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Start" DisplayName="Start"/>
-    <MarkerCategory name="Guilde" DisplayName="Guilde">
-      <MarkerCategory name="End" DisplayName="End"/>
+    <MarkerCategory name="Start"/>
+    <MarkerCategory name="Guilde">
+      <MarkerCategory name="End"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/jpguide.png" iconSize="0.75" triggerRange="5" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
-    <MarkerCategory name="Portal" DisplayName="Portal"/>
+    <MarkerCategory name="Portal"/>
   </MarkerCategory>
-  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" DisplayName="Achievement"/>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
   </MarkerCategory>
