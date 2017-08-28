@@ -1,13 +1,13 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png" DisplayName="Ore">
-      <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png" DisplayName="Rich">
-        <MarkerCategory name="Iron" DisplayName="Iron"/>
-        <MarkerCategory name="Platinum" DisplayName="Platinum"/>
-        <MarkerCategory name="Mithril" DisplayName="Mithril"/>
-        <MarkerCategory name="Gold" DisplayName="Gold"/>
-        <MarkerCategory name="Copper" DisplayName="Copper"/>
-        <MarkerCategory name="Silver" DisplayName="Silver"/>
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
+      <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png">
+        <MarkerCategory name="Iron"/>
+        <MarkerCategory name="Platinum"/>
+        <MarkerCategory name="Mithril"/>
+        <MarkerCategory name="Gold"/>
+        <MarkerCategory name="Copper"/>
+        <MarkerCategory name="Silver"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
