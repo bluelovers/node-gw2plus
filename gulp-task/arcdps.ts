@@ -20,6 +20,8 @@ import * as ts from 'gulp-typescript';
 import * as ini from 'ini';
 import * as iconv from 'iconv-lite';
 
+import * as path from 'path';
+
 import project_config, { project_root, dist_root, temp_root, gw2taco_path } from '../project.config';
 
 const addGulpTasks = addTasks(gulp);
@@ -29,14 +31,14 @@ const _gulp_ = {
 
 		async c()
 		{
-			let h = await fs.readFile('../assets/arcdps/translations/enum.c');
-			let f = await fs.readFile('../assets/arcdps/translations/default.c');
+			let h = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/enum.c'));
+			let f = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/default.c'));
 
 			f = f.toString().replace(/lang\[([^\]]+)\]/g, `lang[m_translate.$1]`);
 
-			const tsProject = ts.createProject('../tsconfig.json');
+			const tsProject = ts.createProject(path.join(project_root, 'tsconfig.json'));
 
-			return gulp.src('../assets/arcdps/translations/default.c')
+			return gulp.src(path.join(project_root, 'assets', 'arcdps/translations/default.c'))
 				.pipe(rename({
 					basename: 'english',
 					extname: ".ts",
@@ -64,7 +66,7 @@ const _gulp_ = {
 					cb();
 				}))
 				//.pipe(tsProject())
-				.pipe(gulp.dest('../dist/assets/arcdps/translations'));
+				.pipe(gulp.dest(path.join(dist_root, 'assets', 'arcdps/translations')));
 			;
 		},
 
@@ -76,15 +78,15 @@ const _gulp_ = {
 			{
 				let encodings = 'utf16le';
 
-				let c = await import('../dist/assets/arcdps/translations/english');
+				let c = await import(path.join(dist_root, 'assets', 'arcdps/translations/english'));
 
-				let chs = await fs.readFile('../assets/arcdps/translations/chs.ini', encodings);
+				let chs = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/chs.ini'), encodings);
 				let chs_ini = ini.parse(chs.toString());
 
-				let tw = await fs.readFile('../assets/arcdps/translations/tw.ini', encodings);
+				let tw = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/tw.ini'), encodings);
 				let tw_ini = ini.parse(tw.toString());
 
-				let cht = await fs.readFile('../assets/arcdps/translations/cht.ini', encodings);
+				let cht = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/cht.ini'), encodings);
 				let cht_ini = ini.parse(cht.toString());
 
 				chs_ini = chs_ini.lang || chs_ini;
@@ -103,6 +105,8 @@ const _gulp_ = {
 				{
 					if (i == 1)
 					{
+						//console.log(`;${i}=${c.lang[i]}`);
+
 						continue;
 					}
 
@@ -131,7 +135,7 @@ const _gulp_ = {
 					addBOM: true,
 				});
 
-				fs.outputFile('../dist/assets/arcdps/translations/cht/arcdps_lang.ini', out, encodings);
+				fs.outputFile(path.join(dist_root, 'assets', 'arcdps/translations/cht/arcdps_lang.ini'), out, encodings);
 			}
 		}
 
