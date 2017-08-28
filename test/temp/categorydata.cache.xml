@@ -96,13 +96,19 @@
     <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400">
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
+        <MarkerCategory name="Lumber Synthesizer"/>
       </MarkerCategory>
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
+        <MarkerCategory name="Ore Synthesizer"/>
       </MarkerCategory>
       <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
+        <MarkerCategory name="Berry Synthesizer"/>
+        <MarkerCategory name="Herb Synthesizer"/>
+        <MarkerCategory name="Vegetable Synthesizer"/>
       </MarkerCategory>
+      <MarkerCategory name="Synthesizer"/>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true">
       <MarkerCategory name="QuartzCrystal" fadeFar="25200" fadeNear="16800" behavior="0"/>

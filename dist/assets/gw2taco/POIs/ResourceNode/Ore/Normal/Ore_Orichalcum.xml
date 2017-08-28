@@ -1,8 +1,8 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
-      <MarkerCategory name="Normal">
-        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png" DisplayName="Ore">
+      <MarkerCategory name="Normal" DisplayName="Normal">
+        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" DisplayName="Orichalcum"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

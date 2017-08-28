@@ -1,119 +1,119 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
-      <MarkerCategory name="Green"/>
-      <MarkerCategory name="Soft"/>
-      <MarkerCategory name="Seasoned"/>
-      <MarkerCategory name="Hard"/>
-      <MarkerCategory name="Elder"/>
-      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
+    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png" DisplayName="Wood">
+      <MarkerCategory name="Green" DisplayName="Green"/>
+      <MarkerCategory name="Soft" DisplayName="Soft"/>
+      <MarkerCategory name="Seasoned" DisplayName="Seasoned"/>
+      <MarkerCategory name="Hard" DisplayName="Hard"/>
+      <MarkerCategory name="Elder" DisplayName="Elder"/>
+      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" DisplayName="Ancient"/>
     </MarkerCategory>
-    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
-      <MarkerCategory name="Normal">
-        <MarkerCategory name="Copper"/>
-        <MarkerCategory name="Iron"/>
-        <MarkerCategory name="Silver"/>
-        <MarkerCategory name="Gold"/>
-        <MarkerCategory name="Platinum"/>
-        <MarkerCategory name="Mithril"/>
-        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png" DisplayName="Ore">
+      <MarkerCategory name="Normal" DisplayName="Normal">
+        <MarkerCategory name="Copper" DisplayName="Copper"/>
+        <MarkerCategory name="Iron" DisplayName="Iron"/>
+        <MarkerCategory name="Silver" DisplayName="Silver"/>
+        <MarkerCategory name="Gold" DisplayName="Gold"/>
+        <MarkerCategory name="Platinum" DisplayName="Platinum"/>
+        <MarkerCategory name="Mithril" DisplayName="Mithril"/>
+        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" DisplayName="Orichalcum"/>
       </MarkerCategory>
-      <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png">
-        <MarkerCategory name="Copper"/>
-        <MarkerCategory name="Iron"/>
-        <MarkerCategory name="Silver"/>
-        <MarkerCategory name="Gold"/>
-        <MarkerCategory name="Platinum"/>
-        <MarkerCategory name="Mithril"/>
-        <MarkerCategory name="Orichalcum"/>
+      <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png" DisplayName="Rich">
+        <MarkerCategory name="Copper" DisplayName="Copper"/>
+        <MarkerCategory name="Iron" DisplayName="Iron"/>
+        <MarkerCategory name="Silver" DisplayName="Silver"/>
+        <MarkerCategory name="Gold" DisplayName="Gold"/>
+        <MarkerCategory name="Platinum" DisplayName="Platinum"/>
+        <MarkerCategory name="Mithril" DisplayName="Mithril"/>
+        <MarkerCategory name="Orichalcum" DisplayName="Orichalcum"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png">
-      <MarkerCategory name="Copper">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png" DisplayName="Plant">
+      <MarkerCategory name="Copper" DisplayName="Copper">
         <MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush"/>
         <MarkerCategory name="ButtonMushroom" DisplayName="Button Mushroom"/>
-        <MarkerCategory name="Carrots"/>
+        <MarkerCategory name="Carrots" DisplayName="Carrots"/>
         <MarkerCategory name="HerbPatch" DisplayName="Herb Patch"/>
         <MarkerCategory name="HerbSeedlings" DisplayName="Herb Seedlings"/>
-        <MarkerCategory name="Lettuce"/>
-        <MarkerCategory name="Onions"/>
-        <MarkerCategory name="Potato" iconFile="Data/ResourceNode/Plant/Copper/Potato.png" data-iconFile="Data/ResourceNode/Plant/Copper/Potato.png" iconSize="0.35"/>
+        <MarkerCategory name="Lettuce" DisplayName="Lettuce"/>
+        <MarkerCategory name="Onions" DisplayName="Onions"/>
+        <MarkerCategory name="Potato" iconFile="Data/ResourceNode/Plant/Copper/Potato.png" data-iconFile="Data/ResourceNode/Plant/Copper/Potato.png" iconSize="0.35" DisplayName="Potato"/>
       </MarkerCategory>
-      <MarkerCategory name="Iron">
-        <MarkerCategory name="Clam"/>
+      <MarkerCategory name="Iron" DisplayName="Iron">
+        <MarkerCategory name="Clam" DisplayName="Clam"/>
         <MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts"/>
-        <MarkerCategory name="Spinach"/>
+        <MarkerCategory name="Spinach" DisplayName="Spinach"/>
         <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
-        <MarkerCategory name="Taproots"/>
+        <MarkerCategory name="Taproots" DisplayName="Taproots"/>
       </MarkerCategory>
-      <MarkerCategory name="Steel">
-        <MarkerCategory name="Cabbage"/>
-        <MarkerCategory name="Grapes"/>
-        <MarkerCategory name="Kale"/>
+      <MarkerCategory name="Steel" DisplayName="Steel">
+        <MarkerCategory name="Cabbage" DisplayName="Cabbage"/>
+        <MarkerCategory name="Grapes" DisplayName="Grapes"/>
+        <MarkerCategory name="Kale" DisplayName="Kale"/>
         <MarkerCategory name="RootVegetables" DisplayName="Root Vegetables"/>
         <MarkerCategory name="VariedMushrooms" DisplayName="Varied Mushrooms"/>
         <MarkerCategory name="YoungHerbs" DisplayName="Young Herbs"/>
-        <MarkerCategory name="Zucchini"/>
+        <MarkerCategory name="Zucchini" DisplayName="Zucchini"/>
       </MarkerCategory>
-      <MarkerCategory name="Darksteel">
-        <MarkerCategory name="Blackberries"/>
-        <MarkerCategory name="Cauliflower"/>
-        <MarkerCategory name="Coral"/>
+      <MarkerCategory name="Darksteel" DisplayName="Darksteel">
+        <MarkerCategory name="Blackberries" DisplayName="Blackberries"/>
+        <MarkerCategory name="Cauliflower" DisplayName="Cauliflower"/>
+        <MarkerCategory name="Coral" DisplayName="Coral"/>
         <MarkerCategory name="MatureHerbs" DisplayName="Mature Herbs"/>
         <MarkerCategory name="PortobelloMushrooms" DisplayName="Portobello Mushrooms"/>
-        <MarkerCategory name="Scallions"/>
+        <MarkerCategory name="Scallions" DisplayName="Scallions"/>
         <MarkerCategory name="SugarPumpkin" DisplayName="Sugar Pumpkin"/>
         <MarkerCategory name="VariegatedTaproots" DisplayName="Variegated Taproots"/>
       </MarkerCategory>
-      <MarkerCategory name="Mithril">
-        <MarkerCategory name="Artichoke"/>
-        <MarkerCategory name="Asparagus"/>
+      <MarkerCategory name="Mithril" DisplayName="Mithril">
+        <MarkerCategory name="Artichoke" DisplayName="Artichoke"/>
+        <MarkerCategory name="Asparagus" DisplayName="Asparagus"/>
         <MarkerCategory name="BloomingPassiflora" DisplayName="Blooming Passiflora" iconFile="Data/ResourceNode/Plant/Mithril.BloomingPassiflora.png" data-iconFile="Data/ResourceNode/Plant/Mithril.BloomingPassiflora.png" iconSize="0.35"/>
         <MarkerCategory name="ButternutSquash" DisplayName="Butternut Squash"/>
         <MarkerCategory name="CayennePepper" DisplayName="Cayenne Pepper"/>
         <MarkerCategory name="ClusterOfHerbs" DisplayName="Cluster of Herbs"/>
-        <MarkerCategory name="Leeks"/>
-        <MarkerCategory name="Passiflora"/>
-        <MarkerCategory name="Raspberries"/>
+        <MarkerCategory name="Leeks" DisplayName="Leeks"/>
+        <MarkerCategory name="Passiflora" DisplayName="Passiflora"/>
+        <MarkerCategory name="Raspberries" DisplayName="Raspberries"/>
         <MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs"/>
         <MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables"/>
       </MarkerCategory>
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" DisplayName="Orichalcum">
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
-        <MarkerCategory name="Cactus"/>
-        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
+        <MarkerCategory name="Cactus" DisplayName="Cactus"/>
+        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35" DisplayName="Flax"/>
         <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
         <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants"/>
-        <MarkerCategory name="Lotus"/>
-        <MarkerCategory name="Mussels" iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" iconSize="0.35"/>
-        <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35"/>
+        <MarkerCategory name="Lotus" DisplayName="Lotus"/>
+        <MarkerCategory name="Mussels" iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" iconSize="0.35" DisplayName="Mussels"/>
+        <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35" DisplayName="Omnomberries"/>
         <MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle"/>
         <MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms"/>
-        <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" iconSize="0.35"/>
+        <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" iconSize="0.35" DisplayName="Seaweed"/>
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400" data-iconFile="Data/Chest.png">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400" data-iconFile="Data/Chest.png" DisplayName="Chest">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" fadeFar="10500" fadeNear="4200" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png">
-      <MarkerCategory name="DryTop"/>
-      <MarkerCategory name="SilverWastes" iconSize="0.5" heightOffset="0" behavior="4" resetLength="300"/>
+      <MarkerCategory name="DryTop" DisplayName="DryTop"/>
+      <MarkerCategory name="SilverWastes" iconSize="0.5" heightOffset="0" behavior="4" resetLength="300" DisplayName="SilverWastes"/>
       <MarkerCategory name="VerdantBrink" DisplayName="Verdant Brink" iconFile="data/airshippart.png"/>
       <MarkerCategory name="AuricBasin" DisplayName="Auric Basin"/>
       <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="DragonsStand" DisplayName="Dragon's Stand" iconFile="Data/crystallineore.png" behavior="6"/>
     </MarkerCategory>
-    <MarkerCategory name="Permanent"/>
+    <MarkerCategory name="Permanent" DisplayName="Permanent"/>
   </MarkerCategory>
-  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" DisplayName="Collectible">
   </MarkerCategory>
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400">
   </MarkerCategory>
   <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Timed">
+    <MarkerCategory name="Timed" DisplayName="Timed">
       <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
     </MarkerCategory>
-    <MarkerCategory name="Raid">
+    <MarkerCategory name="Raid" DisplayName="Raid">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
       <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
       <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
@@ -125,7 +125,7 @@
       <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
       <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
     </MarkerCategory>
-    <MarkerCategory name="WvW" minSize="16" maxSize="32">
+    <MarkerCategory name="WvW" minSize="16" maxSize="32" DisplayName="WvW">
       <MarkerCategory name="Camp" DisplayName="Camp" iconFile="Data/camp.png"/>
       <MarkerCategory name="Tower" DisplayName="Tower" iconFile="Data/tower.png"/>
       <MarkerCategory name="Keep" DisplayName="Keep" iconFile="Data/keep.png"/>
@@ -135,7 +135,7 @@
       <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
-      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>
+      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0" DisplayName="Bounty"/>
     </MarkerCategory>
   </MarkerCategory>
 </OverlayData>

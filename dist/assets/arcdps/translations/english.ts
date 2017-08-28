@@ -103,6 +103,7 @@ enum m_translate {
 	LANG_PAN_PERSONALDPS_MILLISECONDS,
 	LANG_PAN_PERSONALDPS_HISTLEFT,
 	LANG_PAN_PERSONALDPS_HISTRIGHT,
+	LANG_PAN_PERSONALDPS_SHIELDS,
 
 	/* panels: skills */
 	LANG_PAN_PERSONALSKILLS_HEADER = 240,
@@ -352,6 +353,10 @@ enum m_translate {
 	LANG_PAN_DETAIL_MAX,
 	LANG_PAN_DETAIL_ELAPSED,
 
+	/* common: custom */
+	LANG_COMMON_CSK_DODGE = 620,
+	LANG_COMMON_CSK_SHIELD,
+
 	/* common: skills2 */
 	LANG_COMMON_SKILLS2_NOINCOMINGDMG = 630,
 	LANG_COMMON_SKILLS2_SHIELD,
@@ -428,6 +433,10 @@ enum m_translate {
 	lang[m_translate.LANG_COMMON_SKILLS2_NOINCOMINGDMG] = "NO INCOMING DAMAGE";
 	lang[m_translate.LANG_COMMON_SKILLS2_SHIELD] = "shielded";
 
+	/* common: custom skills */
+	lang[m_translate.LANG_COMMON_CSK_DODGE] = "Dodge";
+	lang[m_translate.LANG_COMMON_CSK_SHIELD] = "Barrier";
+
 	/* common: direction */
 	lang[m_translate.LANG_COMMON_ATT_HEADER] = "ATTITUDE";
 	lang[m_translate.LANG_COMMON_ATT_HOSTILE] = "HOSTILE";
@@ -470,6 +479,7 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_PERSONALDPS_MILLISECONDS] = "MILLISECONDS";
 	lang[m_translate.LANG_PAN_PERSONALDPS_HISTLEFT] = "current";
 	lang[m_translate.LANG_PAN_PERSONALDPS_HISTRIGHT] = "current";
+	lang[m_translate.LANG_PAN_PERSONALDPS_SHIELDS] = "BARRIER";
 
 	/* panels: skills */
 	lang[m_translate.LANG_PAN_PERSONALSKILLS_HEADER] = "PERSONAL SKILLS";
