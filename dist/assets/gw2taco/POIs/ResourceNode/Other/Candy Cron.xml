@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="Other" data-allowsub="true" DisplayName="Other">
+    <MarkerCategory name="Other" data-allowsub="true">
       <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
     </MarkerCategory>
   </MarkerCategory>
