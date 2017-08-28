@@ -1,8 +1,8 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400">
-      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
-        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
+    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400" DisplayName="MapSpecific">
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true" DisplayName="Wood">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" DisplayName="Currency"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
