@@ -33,8 +33,8 @@
       <MarkerCategory name="Candy Cron" data-class="fade-min"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="MapSpecific" data-allowsub="true" fadeFar="10500" fadeNear="4200">
+  <MarkerCategory name="Chest" data-class="fade-1">
+    <MarkerCategory name="MapSpecific" data-allowsub="true" data-class="fade-7">
       <MarkerCategory name="KeyRequired"/>
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3"/>
