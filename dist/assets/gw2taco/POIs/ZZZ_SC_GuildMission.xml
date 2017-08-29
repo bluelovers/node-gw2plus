@@ -1,0 +1,17 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
+      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="31" xpos="1187.36" ypos="130.684" zpos="-400.939" type="tactical.guildmission.trek" GUID="pGGD4KH7FEKBgFUS9KFHrg=="/>
+    <POI MapID="34" xpos="-501.774" ypos="21.1645" zpos="1005.29" type="tactical.guildmission.trek" GUID="4BN9uNT9hEewR3B+H6nr1A=="/>
+    <POI MapID="27" xpos="336.812" ypos="186.322" zpos="834.243" type="tactical.guildmission.trek" GUID="QySvtBfHMk2orF7ZzMlHEw=="/>
+    <POI MapID="29" xpos="-649.018" ypos="17.7139" zpos="-776.47" type="tactical.guildmission.trek" GUID="NMuBPdCbW02o969a22j8eQ=="/>
+    <POI MapID="51" xpos="852.551" ypos="2.56563" zpos="-321.437" type="tactical.guildmission.trek" GUID="avtPAJDnRkGdiNsA9KgL+A=="/>
+    <POI MapID="15" xpos="845.928" ypos="8.09257" zpos="609.041" type="tactical.guildmission.trek" GUID="sudjSu+ubUS9zaN8eMB9ZA=="/>
+    <POI MapID="326" xpos="-374.511" ypos="268.883" zpos="319.728" type="tactical.guildmission.trek" GUID="Jg2mMwAi+EGc81rHRLXDIw=="/>
+    <POI MapID="24" xpos="-995.682" ypos="43.8628" zpos="-284.754" type="tactical.guildmission.trek" GUID="9afEeeqi/0eHnY4//KU6hg=="/>
+  </POIs>
+</OverlayData>
