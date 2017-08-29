@@ -1,6 +1,6 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
       </MarkerCategory>
@@ -17,7 +17,7 @@
         <MarkerCategory name="Gold"/>
         <MarkerCategory name="Iron"/>
         <MarkerCategory name="Mithril"/>
-        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
+        <MarkerCategory name="Orichalcum" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" fadeFar="25200" fadeNear="16800"/>
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Silver"/>
       </MarkerCategory>
@@ -30,9 +30,9 @@
         <MarkerCategory name="Silver"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true">
-      <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
-      <MarkerCategory name="QuartzCrystal" fadeFar="25200" fadeNear="16800" behavior="0"/>
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+      <MarkerCategory name="Candy Cron" data-class="fade-min" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" fadeFar="25200" fadeNear="16800"/>
     </MarkerCategory>
     <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Copper">
@@ -73,7 +73,7 @@
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
-      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
+      <MarkerCategory name="Ancient" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" fadeFar="25200" fadeNear="16800"/>
       <MarkerCategory name="Elder"/>
       <MarkerCategory name="Green"/>
       <MarkerCategory name="Hard"/>
