@@ -19,7 +19,7 @@ export interface listToCatOptions extends Node.normalizeOptions
 	skip?: Array<string>;
 }
 
-export async function loadAll(ls: Array<Category>, options = { cwd : '' }): Promise<Array<Category>>
+export async function loadAll(ls: Array<Category>, options = { cwd: '' }): Promise<Array<Category>>
 {
 	let a = [];
 
@@ -83,7 +83,7 @@ export function allCatList(ls: Array<Category>, options: allCatListOptions = {})
 	}, {});
 }
 
-export function listToCat(ls: object, options: listToCatOptions|Function = {}, callback?: Function): Category
+export function listToCat(ls: object, options: listToCatOptions | Function = {}, callback?: Function): Category
 {
 	let cat = Category.init();
 	cat.filter().remove();
@@ -128,4 +128,74 @@ export function listToCat(ls: object, options: listToCatOptions|Function = {}, c
 	}
 
 	return cat as Category;
+}
+
+export function sortByArray(elem, arr: string[], attr: string = 'name')
+{
+	if (!elem.children || !elem.children.length)
+	{
+		return elem;
+	}
+
+	let compareFn = function (a, b)
+	{
+		let nameA = a;
+		let nameB = b;
+
+		//console.log(nameA, nameB);
+
+		if (nameA < nameB)
+		{
+			return -1;
+		}
+		else if (nameA > nameB)
+		{
+			return 1;
+		}
+
+		// names must be equal
+		return 0;
+	};
+
+	let isUndef = function (v)
+	{
+		if (typeof v == 'undefined' || v == -1 || v === '')
+		{
+			return true;
+		}
+
+		return false;
+	};
+
+	elem.children.sort(function (a, b)
+	{
+		let a1 = (arr && arr.length) ? arr.indexOf(a.attribs[attr]) : a.attribs[attr];
+		let b1 = (arr && arr.length) ? arr.indexOf(b.attribs[attr]) : b.attribs[attr];
+
+		if (isUndef(b1))
+		{
+			return 0;
+		}
+		else if (isUndef(a1))
+		{
+			if (isUndef(b1))
+			{
+				return 0;
+			}
+			else
+			{
+				return 1;
+			}
+		}
+
+		return compareFn(a1, b1);
+	});
+
+	for (let i = 0; i < elem.children.length; i++)
+	{
+		elem.children[i].prev = elem.children[i - 1] || null;
+		elem.children[i].next = elem.children[i + 1] || null;
+	}
+
+	return elem;
 }
