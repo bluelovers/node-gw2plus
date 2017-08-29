@@ -28,7 +28,9 @@ import gw2api, { getMapAll, getMapInfo } from '../src/gw2api/map';
 
 	let pois = await Poi.load(path.join(gw2taco_path_old, 'poidata.xml'));
 
-	let types = [];
+	let types = [
+		'tactical.guildmission.trek',
+	];
 
 	let _cache_ = {};
 

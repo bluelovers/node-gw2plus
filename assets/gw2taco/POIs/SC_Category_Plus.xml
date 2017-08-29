@@ -1,36 +1,36 @@
 <OverlayData fadeFar="16800" fadeNear="8400">
-  <MarkerCategory name="ResourceNode" fadeFar="16800" fadeNear="8400" behavior="1">
+  <MarkerCategory name="ResourceNode" data-class="fade-1" behavior="1">
     <MarkerCategory name="Wood" iconFile="Data/Wood.png">
-      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0"/>
+      <MarkerCategory name="Ancient" data-class="fade-max" behavior="0"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
-        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" behavior="0"/>
+        <MarkerCategory name="Orichalcum" data-class="fade-max" behavior="0"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Plant" data-class="iconsize-0.35"/>
-    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" data-class="fade-3">
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
-        <MarkerCategory name="Lumber Synthesizer"/>
+        <MarkerCategory name="Lumber Synthesizer" data-class="fade-synthesizer"/>
       </MarkerCategory>
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
-        <MarkerCategory name="Ore Synthesizer"/>
+        <MarkerCategory name="Ore Synthesizer" data-class="fade-synthesizer"/>
       </MarkerCategory>
       <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
-        <MarkerCategory name="Berry Synthesizer"/>
-        <MarkerCategory name="Herb Synthesizer"/>
-        <MarkerCategory name="Vegetable Synthesizer"/>
+        <MarkerCategory name="Berry Synthesizer" data-class="fade-synthesizer"/>
+        <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer"/>
+        <MarkerCategory name="Vegetable Synthesizer" data-class="fade-synthesizer"/>
       </MarkerCategory>
-      <MarkerCategory name="Synthesizer"/>
+      <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5"/>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true">
-      <MarkerCategory name="QuartzCrystal" fadeFar="25200" fadeNear="16800" behavior="0"/>
-      <MarkerCategory name="Leather" iconSize="0.5"/>
-      <MarkerCategory name="Cloth" iconSize="0.5"/>
-      <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200"/>
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0"/>
+      <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5"/>
+      <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5"/>
+      <MarkerCategory name="Candy Cron" data-class="fade-min"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400">
@@ -48,6 +48,15 @@
   <MarkerCategory name="jumpingpuzzle">
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical">
+		<MarkerCategory name="GuildMission">
+			<MarkerCategory name="Trek" heightOffset="4"/>
+      <MarkerCategory name="Puzzle"/>
+      <MarkerCategory name="Race" data-allowsub="true">
+        <MarkerCategory name="Trap"/>
+      </MarkerCategory>
+		</MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">

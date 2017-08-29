@@ -393,40 +393,13 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 				fadeNear: 8400,
 			});
 
-			cat.find('OverlayData > MarkerCategory')
-				.each(function (i, elem)
-				{
-					let _this = cat.$(elem);
-
-					if (!_this.attr('fadeFar') && !_this.attr('fadeNear'))
-					{
-						_this.attr('fadeFar', cat.root().attr('fadeFar'));
-						_this.attr('fadeNear', cat.root().attr('fadeNear'));
-					}
-				})
-			;
-
-			/*
-			cat.find('MarkerCategory[data-class*="iconsize-0.5"] MarkerCategory')
-				.each(function (i, elem)
-				{
-					let _this = cat.$(elem);
-
-					if (!_this.attr('iconSize') && _this.attr('iconFile'))
-					{
-						_this.attr('iconSize', '0.5');
-					}
-				})
-			;
-			*/
-
 			cat.find('MarkerCategory[data-class*="iconsize"]')
 				.each(function (i, elem)
 				{
 					let _this = cat.$(elem);
 
 					let size;
-					if (_this.attr('data-class').match(/(?:^|\s)?iconsize\-([\d\.]+)(?:$|\s)?/))
+					if (_this.attr('data-class').match(/(?:^|\s)iconsize\-([\d\.]+)(?:$|\s)/))
 					{
 						size = RegExp.$1;
 
@@ -441,6 +414,117 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 					//console.log(_this.attr('data-class'));
 				})
 			;
+
+			cat.find('MarkerCategory[data-class*="size"]:not([iconSize])')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					let size;
+					if (_this.attr('data-class').match(/(?:^|\s)size\-([\d\.]+)(?:$|\s)/))
+					{
+						size = RegExp.$1;
+
+						//console.log(size);
+
+						_this
+							.attr('iconSize', size)
+						;
+					}
+
+					//console.log(_this.attr('data-class'));
+				})
+			;
+
+			cat.find('MarkerCategory[data-class*="fade"]')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					if (!_this.attr('fadeFar') && !_this.attr('fadeNear'))
+					{
+						if (_this.attr('data-class').match(/(?:^|\s)fade\-([\da-zA-Z\._\-]+)(?:$|\s)/))
+						{
+							let size = RegExp.$1;
+
+							//console.log(size);
+
+							let attr = {} as any;
+
+							switch (size)
+							{
+								case '1':
+									attr.fadeFar = 16800;
+									attr.fadeNear = 8400;
+									break;
+								case '2':
+								case 'max':
+									attr.fadeFar = 25200;
+									attr.fadeNear = 16800;
+									break;
+								case '3':
+									attr.fadeFar = 25200;
+									attr.fadeNear = 8400;
+									break;
+								case '4':
+									attr.fadeFar = 8400;
+									attr.fadeNear = 2100;
+									break;
+								case '5':
+								case 'min':
+									attr.fadeFar = 2400;
+									attr.fadeNear = 1200;
+									break;
+								case '6':
+								case 'synthesizer':
+									attr.fadeFar = 5600;
+									attr.fadeNear = 4800;
+									break;
+							}
+
+							cat.getStatic().attr(_this, attr);
+						}
+					}
+
+					//console.log(_this.attr('data-class'));
+				})
+			;
+
+			cat.find('OverlayData > MarkerCategory')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					if (!_this.attr('fadeFar') && !_this.attr('fadeNear'))
+					{
+						_this.attr('fadeFar', cat.root().attr('fadeFar'));
+						_this.attr('fadeNear', cat.root().attr('fadeNear'));
+					}
+				})
+			;
+
+			cat.find('MarkerCategory[data-sort]')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					let attr_sort = _this.attr('data-sort');
+
+					if (attr_sort && attr_sort != 'false')
+					{
+						if (attr_sort == 'true')
+						{
+							attr_sort = 'name';
+						}
+
+
+
+						console.log(elem.children);
+					}
+				})
+			;
+
+			//console.log(cat.find('OverlayData > MarkerCategory').eq(0));
 
 			return cat;
 		})

@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
-      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
+      <MarkerCategory name="Ancient" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" fadeFar="25200" fadeNear="16800"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
