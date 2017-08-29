@@ -123,6 +123,10 @@ const _gulp_ = {
 
 						cht_new.push(`${i}=${cht_ini[i]}`);
 					}
+					else if (cht_ini[i] === '')
+					{
+						// reset to english
+					}
 					else if (tw_ini[i])
 					{
 						cht_new.push(`${i}=${tw_ini[i]}`);
