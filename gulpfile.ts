@@ -480,6 +480,10 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 									attr.fadeFar = 5600;
 									attr.fadeNear = 4800;
 									break;
+								case '7':
+									attr.fadeFar = 10500;
+									attr.fadeNear = 4200;
+									break;
 							}
 
 							cat.getStatic().attr(_this, attr);
@@ -503,26 +507,55 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 				})
 			;
 
-			cat.find('MarkerCategory[data-sort]')
-				.each(function (i, elem)
+			{
+				let compareFn = function (a, b)
 				{
-					let _this = cat.$(elem);
+					let nameA = a.toUpperCase();
+					let nameB = b.toUpperCase();
 
-					let attr_sort = _this.attr('data-sort');
+					//console.log(nameA, nameB);
 
-					if (attr_sort && attr_sort != 'false')
+					if (nameA < nameB)
 					{
-						if (attr_sort == 'true')
-						{
-							attr_sort = 'name';
-						}
-
-
-
-						console.log(elem.children);
+						return -1;
 					}
-				})
-			;
+					else if (nameA > nameB)
+					{
+						return 1;
+					}
+
+					// names must be equal
+					return 0;
+				};
+
+				cat.find('MarkerCategory[data-sort]')
+					.each(function (i, elem)
+					{
+						let _this = cat.$(elem);
+
+						let attr_sort = _this.attr('data-sort');
+
+						if (attr_sort && attr_sort != 'false')
+						{
+							if (attr_sort == 'true')
+							{
+								attr_sort = 'name';
+							}
+
+							let p = [];
+							for (let i = 0; i < elem.children.length; i++)
+							{
+								p.push(elem.children[i].attribs[attr_sort]);
+							}
+							p.sort();
+
+							cu.sortByArray(elem, p, attr_sort);
+
+							//console.log(elem.children);
+						}
+					})
+				;
+			}
 
 			//console.log(cat.find('OverlayData > MarkerCategory').eq(0));
 
