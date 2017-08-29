@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" behavior="1">
-    <MarkerCategory name="Other" data-allowsub="true">
-      <MarkerCategory name="Candy Cron" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+      <MarkerCategory name="Candy Cron" data-class="fade-min" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
