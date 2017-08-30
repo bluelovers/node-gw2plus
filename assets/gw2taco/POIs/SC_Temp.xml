@@ -19,5 +19,13 @@
     <MarkerCategory name="Side Stories">
       <MarkerCategory name="Bloodstone Sightings"/>
     </MarkerCategory>
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="Sloth">
+        <MarkerCategory name="1"/>
+        <MarkerCategory name="2"/>
+        <MarkerCategory name="3"/>
+        <MarkerCategory name="4"/>
+      </MarkerCategory>
+    </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
