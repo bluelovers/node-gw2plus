@@ -9,3 +9,7 @@
 !/test/temp/assets.gw2taco.cache.json
 *.bak
 /test/.nexe
+/test/temp/temp/
+/test/temp/temp2/
+/test/temp/poidata.import/
+/test/temp/runtime/

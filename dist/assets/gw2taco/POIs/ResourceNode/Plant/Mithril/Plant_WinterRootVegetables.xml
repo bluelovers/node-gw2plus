@@ -8,5 +8,6 @@
   </MarkerCategory>
   <POIs>
     <POI MapID="30" xpos="523.599" ypos="21.9578" zpos="-706.54" type="resourcenode.plant.mithril.winterrootvegetables" GUID="7avCv0eI4UKp52nb9g+3Sg=="/>
+    <POI MapID="30" xpos="523.512" ypos="27.615" zpos="244.764" type="resourcenode.plant.mithril.winterrootvegetables" GUID="D9DKPZ3R50aNrCmaG0ctxA=="/>
   </POIs>
 </OverlayData>

@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="CayennePepper"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="51" xpos="-548.181" ypos="22.8801" zpos="-306.433" type="resourcenode.plant.mithril.cayennepepper" GUID="47D9mp+uA0WawsO5OQTllA=="/>
+  </POIs>
+</OverlayData>

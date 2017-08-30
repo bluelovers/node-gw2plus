@@ -9,5 +9,14 @@
   <POIs>
     <POI MapID="22" xpos="862.95" ypos="-9.36022" zpos="-512.06" type="resourcenode.plant.darksteel.coral" GUID="koeAgcd0J0+bOJ5ACsL2Xg=="/>
     <POI MapID="25" xpos="3.0997" ypos="-21.9247" zpos="-857.008" type="resourcenode.plant.darksteel.coral" GUID="Vl+Djju5MUmXAOHmSh/YNA=="/>
+    <POI MapID="1203" xpos="461.363" ypos="-0.576242" zpos="75.0726" type="resourcenode.plant.darksteel.coral" GUID="4FuO1O5J0UiNGR3cuHXDlQ=="/>
+    <POI MapID="1203" xpos="494.978" ypos="-0.517752" zpos="76.798" type="resourcenode.plant.darksteel.coral" GUID="5uslJPxrrkGvPA+FeoaHBw=="/>
+    <POI MapID="1203" xpos="593.232" ypos="-41.605" zpos="-135.715" type="resourcenode.plant.darksteel.coral" GUID="PWa0lTtGNkqMVFrixY1SMw=="/>
+    <POI MapID="1203" xpos="711.374" ypos="-61.9311" zpos="-36.0278" type="resourcenode.plant.darksteel.coral" GUID="Qk69+kC44kuuL/DezKz1Og=="/>
+    <POI MapID="1203" xpos="541.32" ypos="-59.2283" zpos="292.091" type="resourcenode.plant.darksteel.coral" GUID="XPt/s19GI0CvktTXT6FleA=="/>
+    <POI MapID="1203" xpos="483.695" ypos="-1.59876" zpos="117.709" type="resourcenode.plant.darksteel.coral" GUID="ffcfuHA/yECLGNK1LJ6gfg=="/>
+    <POI MapID="1203" xpos="184.462" ypos="-9.69975" zpos="50.8336" type="resourcenode.plant.darksteel.coral" GUID="Ti7YsQ+dPEqpo7JJpgQnAg=="/>
+    <POI MapID="1203" xpos="356.735" ypos="-8.8881" zpos="97.3803" type="resourcenode.plant.darksteel.coral" GUID="ybJvjeQX/keO8EQpLlv+ag=="/>
+    <POI MapID="1203" xpos="774.095" ypos="-53.2781" zpos="159.451" type="resourcenode.plant.darksteel.coral" GUID="xAtwD1KP1EGMzG/pAW6NOg=="/>
   </POIs>
 </OverlayData>

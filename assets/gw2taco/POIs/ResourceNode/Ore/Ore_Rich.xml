@@ -8,6 +8,7 @@
         <MarkerCategory name="Gold"/>
         <MarkerCategory name="Copper"/>
         <MarkerCategory name="Silver"/>
+        <MarkerCategory name="Orichalcum"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
@@ -105,5 +106,12 @@
     <POI MapID="19" xpos="-298.134" ypos="3.47828" zpos="-466.876" type="resourcenode.ore.rich.copper" GUID="VhLttnRavkCu8gWMsaL9ig=="/>
     <POI MapID="17" xpos="-284.518" ypos="21.1011" zpos="167.592" type="resourcenode.ore.rich.gold" GUID="gQHtUWgRSkOKty8gVq/evQ=="/>
     <POI MapID="1178" xpos="-392.613" ypos="36.0007" zpos="-91.762" type="resourcenode.ore.rich.mithril" GUID="Yj7VsXt5SUGpL0nVnaQcig=="/>
+    <POI MapID="1185" xpos="-269.595" ypos="117.333" zpos="706.259" type="resourcenode.ore.rich.mithril" GUID="Ed0BGrXyVUaKtZnK8OYn9Q=="/>
+    <POI MapID="1185" xpos="360.281" ypos="29.2171" zpos="-626.732" type="resourcenode.ore.rich.orichalcum" GUID="17h+ZZZS8kGVYB3y0tIN9A=="/>
+    <POI MapID="31" xpos="-237.854" ypos="33.3628" zpos="346.996" type="resourcenode.ore.rich.silver" GUID="0KPEhuQMHUegF83gkbHbCQ=="/>
+    <POI MapID="1185" xpos="125.171" ypos="52.5117" zpos="-304.94" type="resourcenode.ore.rich.orichalcum" GUID="n2OMnL/g30mhKJ6EsLNXxA=="/>
+    <POI MapID="1185" xpos="-311.426" ypos="106.435" zpos="480.604" type="resourcenode.ore.rich.mithril" GUID="/YwmQQIrmkq6uzsddF8SdA=="/>
+    <POI MapID="1185" xpos="66.241" ypos="109.268" zpos="428.135" type="resourcenode.ore.rich.orichalcum" GUID="00PzXtPABUuwGsRLyVYnHg=="/>
+    <POI MapID="1185" xpos="358.19" ypos="75.2416" zpos="-283.26" type="resourcenode.ore.rich.orichalcum" GUID="ehy/w3qur06f+jd0tzXnJg=="/>
   </POIs>
 </OverlayData>

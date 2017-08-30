@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="Asparagus"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="51" xpos="-590.915" ypos="31.9134" zpos="-355.105" type="resourcenode.plant.mithril.asparagus" GUID="Mj2UAbuk6kSX1k1EB7yYlQ=="/>
+  </POIs>
+</OverlayData>

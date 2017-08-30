@@ -264,7 +264,7 @@ class Node
 	 * @param {Object} options
 	 * @returns {string}
 	 */
-	static normalize2(name: string, options: normalizeOptions)
+	static normalize2(name: string, options?: normalizeOptions)
 	{
 		options = Object.assign({
 			gw2taco: true,

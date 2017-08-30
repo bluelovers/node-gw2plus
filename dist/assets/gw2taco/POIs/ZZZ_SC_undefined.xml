@@ -216,6 +216,12 @@
     <MarkerCategory name="Side Stories" DisplayName="Side Stories">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="Sloth">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
