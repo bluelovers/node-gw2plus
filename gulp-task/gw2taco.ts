@@ -27,6 +27,7 @@ addGulpTasks({
 			deps: [
 				':resourcenode',
 				':guildmission',
+				':chest',
 			],
 		},
 
@@ -123,6 +124,54 @@ addGulpTasks({
 				}).find('OverlayData > MarkerCategory'));
 
 				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', 'POIs/ZZZ_SC_GuildMission.xml'), nodes.dump());
+			},
+		},
+
+		chest: {
+
+			deps: [
+				'category:cache',
+			],
+
+			async callback()
+			{
+				let cat_cache = await Category.load(path.join(temp_root, `categorydata.cache.xml`));
+				cat_cache = cat_cache.toList();
+
+				let cats = {};
+
+				let options = {
+					cwd: path.join(dist_root, 'assets/gw2taco', 'POIs/Chest'),
+					absolute: true,
+				};
+
+				let nodes = Poi.init();
+				let pois = nodes.root();
+
+				let ls = await globby([
+						'**/*.xml',
+					], options)
+					.then(async (ls) =>
+					{
+						for (let file of ls)
+						{
+							let cat = await Category.load(file);
+							cats = Object.assign(cats, cat.toList());
+
+							let poi = await Poi.load(file);
+
+							pois.append(poi.filter());
+						}
+					})
+				;
+
+				nodes.find('OverlayData').prepend(cu.listToCat(cats, {
+					gw2taco: true,
+					lc: false,
+					space: true,
+				}).find('OverlayData > MarkerCategory'));
+
+				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', 'POIs/ZZZ_SC_Chest.xml'), nodes.dump());
 			},
 		},
 	},
