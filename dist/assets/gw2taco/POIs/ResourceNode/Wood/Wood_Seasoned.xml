@@ -140,5 +140,7 @@
     <POI MapID="968" xpos="-212.34" ypos="111.468" zpos="-50.2072" type="resourcenode.wood.seasoned" GUID="fablYX9SAkilMolxGW9Fig=="/>
     <POI MapID="968" xpos="63.1649" ypos="143.89" zpos="-202.092" type="resourcenode.wood.seasoned" GUID="WwcbkcGQeEWphXh+7m/Qfg=="/>
     <POI MapID="968" xpos="58.096" ypos="119.522" zpos="369.17" type="resourcenode.wood.seasoned" GUID="A+6tuw2SlkiOSeqZcWmkxQ=="/>
+    <POI MapID="17" xpos="-392.704" ypos="34.4858" zpos="-111.187" type="resourcenode.wood.seasoned" GUID="oPb7ikS6sEKCsP0mi7+gSg=="/>
+    <POI MapID="17" xpos="-375.739" ypos="30.0706" zpos="-163.551" type="resourcenode.wood.seasoned" GUID="F2um6HRFskyeJSHGaOMbnw=="/>
   </POIs>
 </OverlayData>
