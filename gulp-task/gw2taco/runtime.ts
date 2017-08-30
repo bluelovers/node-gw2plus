@@ -24,6 +24,11 @@ const addGulpTasks = addTasks(gulp, ['gw2taco', 'runtime']);
 
 addGulpTasks({
 	'export': {
+
+		deps: [
+			'gw2api:cache:map',
+		],
+
 		async callback()
 		{
 			const assets_iconfile = require(path.join(temp_root, `assets.gw2taco.cache.json`));
@@ -31,14 +36,12 @@ addGulpTasks({
 				.then(cu.allCatList)
 			;
 
-			let _cache_ = {};
+			let _cache_ = require(path.join(temp_root, 'gw2api', 'maps.json'));
 
 			let pois_new = {};
 			let pois = await Poi.load(path.join(gw2taco_path, 'poidata.xml'));
 
-			let types = [
-
-			];
+			let types = [];
 
 			let types2 = {
 				//'temp.one_path_ends.storyteller__abaddon': 'LS/OnePathEnds/Storyteller_Abaddon',
@@ -161,13 +164,6 @@ addGulpTasks({
 
 							let map_id = elem.attr('MapID');
 
-							if (!Object.keys(_cache_).length)
-							{
-								_cache_ = await gw2api.getMapAll();
-							}
-
-							//console.log(map_id, _cache_[map_id].name);
-
 							if (_cache_[map_id])
 							{
 								pois_target_id.push(_cache_[map_id].region_name);
@@ -187,6 +183,8 @@ addGulpTasks({
 								'Plant',
 								'Currency',
 							];
+
+							let map_id = elem.attr('MapID');
 
 							switch (k)
 							{
@@ -212,6 +210,46 @@ addGulpTasks({
 
 									type_new = pois_target_id.slice(0);
 									pois_target_id[pois_target_id.length - 1] = 'Currency_' + 'Blood Ruby';
+
+									break;
+
+								case 'ore.currency':
+
+									pois_target_id[2] = 'Ore';
+									type_new = pois_target_id.slice(0);
+
+									if (_cache_[map_id])
+									{
+										map_id += '_' + _cache_[map_id].name;
+									}
+
+									pois_target_id[pois_target_id.length - 1] = 'Currency_' + map_id;
+
+									break;
+								case 'plant.currency':
+
+									pois_target_id[2] = 'Plant';
+									type_new = pois_target_id.slice(0);
+
+									if (_cache_[map_id])
+									{
+										map_id += '_' + _cache_[map_id].name;
+									}
+
+									pois_target_id[pois_target_id.length - 1] = 'Currency_' + map_id;
+
+									break;
+								case 'wood.currency':
+
+									pois_target_id[2] = 'Wood';
+									type_new = pois_target_id.slice(0);
+
+									if (_cache_[map_id])
+									{
+										map_id += '_' + _cache_[map_id].name;
+									}
+
+									pois_target_id[pois_target_id.length - 1] = 'Currency_' + map_id;
 
 									break;
 								default:
@@ -314,7 +352,9 @@ function get_pois_new(id, pois_new = {})
 
 		let name = id;
 
-		pois_new[id].file_src = path.join(project_root, 'assets/gw2taco/POIs', `${name}.xml` + (/_bak$/.test(name) ? '.bak' : ''));
+		pois_new[id].file_src = path.join(project_root, 'assets/gw2taco/POIs', `${name}.xml` + (/_bak$/.test(name)
+			? '.bak'
+			: ''));
 		pois_new[id].file = path.join(temp_root, `runtime/${name}.xml` + (/_bak$/.test(name) ? '.bak' : ''));
 
 		if (fs.existsSync(pois_new[id].file_src) && !/_bak$/.test(name))

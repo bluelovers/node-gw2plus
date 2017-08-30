@@ -39,5 +39,8 @@
     <POI MapID="1165" xpos="44.5878" ypos="612.128" zpos="54.3348" type="resourcenode.mapspecific.ore.currency" GUID="u09FbkBKj02osx7d53Q95w=="/>
     <POI MapID="1165" xpos="115.128" ypos="494.17" zpos="18.8647" type="resourcenode.mapspecific.ore.currency" GUID="FOIhnDcdLke72OpypZaJdw=="/>
     <POI MapID="248" xpos="183.31" ypos="73.0417" zpos="241.419" type="resourcenode.mapspecific.ore.currency" GUID="FIaE37C+Bke9g570Yj9TXQ=="/>
+    <POI MapID="1165" xpos="159.208" ypos="750.872" zpos="2.37887" type="resourcenode.mapspecific.ore.currency" GUID="eSSBMZw9RUyWZT6zKzW9cg=="/>
+    <POI MapID="1165" xpos="115.578" ypos="494.149" zpos="18.7294" type="resourcenode.mapspecific.ore.currency" GUID="MWtFMAiM2UyoJKXzKmc8yA=="/>
+    <POI MapID="1165" xpos="226.005" ypos="821.378" zpos="156.611" type="resourcenode.mapspecific.ore.currency" GUID="ulvPicxGEU2iOA7EU0P8WA=="/>
   </POIs>
 </OverlayData>
