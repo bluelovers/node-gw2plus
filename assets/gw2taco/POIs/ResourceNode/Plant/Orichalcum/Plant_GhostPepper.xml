@@ -32,5 +32,7 @@
     <POI MapID="62" xpos="161.397" ypos="17.8264" zpos="177.901" type="resourcenode.plant.orichalcum.ghostpepper" GUID="2S4nvQqHdU6rj4SJXnBVsQ=="/>
     <POI MapID="62" xpos="123.809" ypos="12.7972" zpos="187.234" type="resourcenode.plant.orichalcum.ghostpepper" GUID="IaYYsSeAuk+m+ZAmUxBsFg=="/>
     <POI MapID="62" xpos="98.8544" ypos="7.82393" zpos="186.223" type="resourcenode.plant.orichalcum.ghostpepper" GUID="lxXPP9EM2kyMqDrCh1vOAw=="/>
+    <POI MapID="62" xpos="-105.061" ypos="5.22609" zpos="169.351" type="resourcenode.plant.orichalcum.ghostpepper" GUID="jH9TloI7DUW3vPbq6r0suw=="/>
+    <POI MapID="62" xpos="-180.115" ypos="10.6423" zpos="247.864" type="resourcenode.plant.orichalcum.ghostpepper" GUID="PEV3b2K5j0etwx78NszJQA=="/>
   </POIs>
 </OverlayData>
