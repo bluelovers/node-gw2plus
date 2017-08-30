@@ -19,8 +19,12 @@ GW2TacO 相關檔案
 
 ## 整合包
 
-* [POIs/ZZZ_SC_Chest.xml](dist/assets/gw2taco/POIs/ZZZ_SC_Chest.xml)
-* [POIs/ZZZ_SC_ResourceNode.xml](dist/assets/gw2taco/POIs/ZZZ_SC_ResourceNode.xml)
+* [POIs/ZZZ_SC_Chest.xml](dist/assets/gw2taco/POIs/ZZZ_SC_Chest.xml) - Chest Pack
+* [POIs/ZZZ_SC_ResourceNode.xml](dist/assets/gw2taco/POIs/ZZZ_SC_ResourceNode.xml) - ResourceNode Pack
+
+# arcdps
+
+* [arcdps_lang.ini](dist/assets/arcdps/translations/cht/arcdps_lang.ini) - Traditional Chinese 繁體語言包
 
 # Tools
 
