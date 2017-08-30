@@ -17,6 +17,7 @@ import gw2taco, { Category, Node, Poi } from './src/gw2taco';
 
 import './gulp-task/gw2taco';
 import './gulp-task/gw2taco/runtime';
+import './gulp-task/gw2api';
 
 gulp.task('gw2taco:categorydata', ['category:cache'], async function ()
 {
