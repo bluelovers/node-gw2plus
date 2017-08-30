@@ -362,5 +362,7 @@
     <POI MapID="39" xpos="1055.98" ypos="1.71838" zpos="-550.719" type="resourcenode.wood.hard" GUID="DWXiqVXT3kSFYa1JdtE8hQ=="/>
     <POI MapID="73" xpos="-572.408" ypos="34.8138" zpos="-673.615" type="resourcenode.wood.hard" GUID="suTEPi0P7ku5c3b3cxp3VQ=="/>
     <POI MapID="968" xpos="59.1899" ypos="144.24" zpos="121.001" type="resourcenode.wood.hard" GUID="hd6D1RkQa0qiZ0Y4xusDsQ=="/>
+    <POI MapID="29" xpos="230.207" ypos="35.9144" zpos="586.107" type="resourcenode.wood.hard" GUID="tEiAZjSbO0CUmwFuem53tw=="/>
+    <POI MapID="53" xpos="-411.075" ypos="0.300544" zpos="-885.174" type="resourcenode.wood.hard" GUID="G58zAbnzH0+zjg55pGDoZw=="/>
   </POIs>
 </OverlayData>
