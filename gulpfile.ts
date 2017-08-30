@@ -16,6 +16,7 @@ import project_config, { project_root, dist_root, temp_root, gw2taco_path } from
 import gw2taco, { Category, Node, Poi } from './src/gw2taco';
 
 import './gulp-task/gw2taco';
+import './gulp-task/gw2taco/runtime';
 
 gulp.task('gw2taco:categorydata', ['category:cache'], async function ()
 {
