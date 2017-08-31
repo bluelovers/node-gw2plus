@@ -103,9 +103,9 @@ const _gulp_ = {
 
 				for (let i in c.lang)
 				{
-					if (i == 1)
+					if ((i as any) == 1)
 					{
-						//console.log(`;${i}=${c.lang[i]}`);
+						console.log(`;${i}=${c.lang[i]}`);
 
 						continue;
 					}
@@ -135,11 +135,11 @@ const _gulp_ = {
 
 				let out = Buffer.from(cht_new.join("\n"));
 
-				out = iconv.encode(out, encodings, {
+				out = iconv.encode(out as any, encodings, {
 					addBOM: true,
 				});
 
-				fs.outputFile(path.join(dist_root, 'assets', 'arcdps/translations/cht/arcdps_lang.ini'), out, encodings);
+				fs.outputFile(path.join(dist_root, 'assets', 'arcdps/translations/cht/arcdps_lang.ini'), out as any, encodings);
 			}
 		}
 
