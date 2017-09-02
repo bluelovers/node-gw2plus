@@ -41,11 +41,33 @@ addGulpTasks({
 			let pois_new = {};
 			let pois = await Poi.load(path.join(gw2taco_path, 'poidata.xml'));
 
-			let types = [];
+			let types = [
+				'resourcenode.other.leather',
+				'resourcenode.other.cloth',
+				'resourcenode.mapspecific.ore.lump_of_aurillium',
+				'resourcenode.other.watchwork_sprocket',
+				'tactical.guildmission.trek',
+				'resourcenode.mapspecific.synthesizer',
+			];
 
 			let types2 = {
 				//'temp.one_path_ends.storyteller__abaddon': 'LS/OnePathEnds/Storyteller_Abaddon',
+				'temp.aurora.aurora_ii__empowering': [
+					'Achievement',
+					'Legendary Trinkets',
+					'Aurora',
+					'Aurora II: Empowering',
+				],
 			};
+
+			const map_home = [
+				'371',
+			];
+
+			const map_gh = [
+				'1124',
+				'1121',
+			];
 
 			let ls = pois.filter();
 
@@ -65,19 +87,58 @@ addGulpTasks({
 
 					let type_new = null;
 
+					let map_id = elem.attr('MapID').toString();
+
 					POIS:
 					{
 						//console.log(type);
 
 						let pois_target_id: any = '.';
 
-						if (types2[type])
+						if (0)
+						{
+							//
+						}
+						else if (cats[type] && map_home.includes(map_id))
+						{
+							pois_target_id = [
+								'MapSpecific',
+								'Home',
+							];
+
+							type_new = cats[type].name_id.split('.');
+
+							if (_cache_[map_id])
+							{
+								map_id += '_' + _cache_[map_id].name;
+							}
+
+							pois_target_id[pois_target_id.length] = 'Home' + '_' + map_id;
+						}
+						else if (cats[type] && map_gh.includes(map_id))
+						{
+							pois_target_id = [
+								'MapSpecific',
+								'Guild Hall',
+							];
+
+							type_new = cats[type].name_id.split('.');
+
+							if (_cache_[map_id])
+							{
+								map_id += '_' + _cache_[map_id].name;
+							}
+
+							pois_target_id[pois_target_id.length] = 'Guild Hall' + '_' + map_id;
+						}
+						else if (types2[type])
 						{
 							pois_target_id = types2[type];
 						}
-						else if (types.includes(type))
+						else if (cats[type] && types.includes(type))
 						{
-							pois_target_id = type;
+							//pois_target_id = type;
+							pois_target_id = cats[type].name_id.split('.');
 						}
 						else if (cats[type] && type.match(/^(?:resourcenode.wood)\.(.+)$/i))
 						{
@@ -157,6 +218,13 @@ addGulpTasks({
 									type_new = cats[type] ? cats[type].name_id : type;
 
 									break;
+								case 'mapspecific.auricbasin':
+								case 'mapspecific.tangleddepths':
+								case 'mapspecific.verdantbrink':
+
+									type_new = cats[type] ? cats[type].name_id : type;
+
+									break;
 								default:
 									break POIS;
 								//break;
@@ -183,8 +251,6 @@ addGulpTasks({
 								'Plant',
 								'Currency',
 							];
-
-							let map_id = elem.attr('MapID');
 
 							switch (k)
 							{

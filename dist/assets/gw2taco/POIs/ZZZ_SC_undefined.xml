@@ -125,7 +125,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/jpguide.png" iconSize="0.75" triggerRange="5" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Guide">
       <MarkerCategory name="Ascalon">
         <MarkerCategory name="undefined"/>
@@ -165,6 +165,12 @@
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Legendary Trinkets" iconFile="Data/Achievement/Legendary_Trinkets.png" data-iconFile="Data/Achievement/Legendary_Trinkets.png" DisplayName="Legendary Trinkets">
+      <MarkerCategory name="Aurora">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="Legendary Weapons" iconFile="Data/Achievement/Legendary_Weapons.png" data-iconFile="Data/Achievement/Legendary_Weapons.png" DisplayName="Legendary Weapons">
       <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary Weapons/Nevermore.png">
         <MarkerCategory name="undefined"/>
@@ -220,6 +226,9 @@
       <MarkerCategory name="Sloth">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Aurora">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>

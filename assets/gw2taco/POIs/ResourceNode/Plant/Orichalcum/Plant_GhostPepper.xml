@@ -34,5 +34,7 @@
     <POI MapID="62" xpos="98.8544" ypos="7.82393" zpos="186.223" type="resourcenode.plant.orichalcum.ghostpepper" GUID="lxXPP9EM2kyMqDrCh1vOAw=="/>
     <POI MapID="62" xpos="-105.061" ypos="5.22609" zpos="169.351" type="resourcenode.plant.orichalcum.ghostpepper" GUID="jH9TloI7DUW3vPbq6r0suw=="/>
     <POI MapID="62" xpos="-180.115" ypos="10.6423" zpos="247.864" type="resourcenode.plant.orichalcum.ghostpepper" GUID="PEV3b2K5j0etwx78NszJQA=="/>
+    <POI MapID="65" xpos="904.1" ypos="57.7053" zpos="-424.202" type="resourcenode.plant.orichalcum.ghostpepper" GUID="dHGjb0a1lUyGE+a89EjFnQ=="/>
+    <POI MapID="65" xpos="864.732" ypos="59.4231" zpos="-364.964" type="resourcenode.plant.orichalcum.ghostpepper" GUID="n8pm6G/C/E+O4QCyVNhu0A=="/>
   </POIs>
 </OverlayData>

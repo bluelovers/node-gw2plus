@@ -97,5 +97,11 @@
     <POI MapID="1041" xpos="484.562" ypos="0.293655" zpos="482.716" type="resourcenode.plant.orichalcum.jungleplants" GUID="6FgM/Esox0Gbp4RNiQi8dg=="/>
     <POI MapID="1041" xpos="885.237" ypos="72.2799" zpos="87.397" type="resourcenode.plant.orichalcum.jungleplants" GUID="Xbbr8rzZn0y4KIX1EY1wSw=="/>
     <POI MapID="1041" xpos="146.728" ypos="58.8544" zpos="659.884" type="resourcenode.plant.orichalcum.jungleplants" GUID="LvVzFmV32kaq6vvzGGSQvg=="/>
+    <POI MapID="1045" xpos="691.169" ypos="223.947" zpos="-345.085" type="resourcenode.plant.orichalcum.jungleplants" GUID="WD3hjR0BYUadzm+lN9/drg=="/>
+    <POI MapID="1045" xpos="752.654" ypos="224.218" zpos="-354.046" type="resourcenode.plant.orichalcum.jungleplants" GUID="f1YaBbW3TEWSL9aXcv34pw=="/>
+    <POI MapID="1043" xpos="433.461" ypos="243.688" zpos="-259.443" type="resourcenode.plant.orichalcum.jungleplants" GUID="z5caJSRc1ECRkZC4GAKKDA=="/>
+    <POI MapID="1043" xpos="337.826" ypos="247.886" zpos="-162.018" type="resourcenode.plant.orichalcum.jungleplants" GUID="dwnGWzYjZkiHc4aRpQQssw=="/>
+    <POI MapID="1043" xpos="371.42" ypos="282.447" zpos="89.408" type="resourcenode.plant.orichalcum.jungleplants" GUID="NnOQxsV+8k+Mj1hLWKCjsw=="/>
+    <POI MapID="1043" xpos="-308.255" ypos="252.633" zpos="77.5768" type="resourcenode.plant.orichalcum.jungleplants" GUID="Z5CKmCmLPkapxmB9O/vT+w=="/>
   </POIs>
 </OverlayData>

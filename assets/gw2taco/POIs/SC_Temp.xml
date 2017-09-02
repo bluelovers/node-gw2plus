@@ -27,5 +27,8 @@
         <MarkerCategory name="4"/>
       </MarkerCategory>
     </MarkerCategory>
+    <MarkerCategory name="Aurora">
+      <MarkerCategory name="Aurora II: Empowering"/>
+    </MarkerCategory>
   </MarkerCategory>
 </OverlayData>

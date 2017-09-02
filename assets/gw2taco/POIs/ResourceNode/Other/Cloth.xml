@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Other">
+      <MarkerCategory name="Cloth"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1124" xpos="30.3892" ypos="104.346" zpos="-199.557" type="resourcenode.other.cloth" GUID="llAOqvN5vUmDrDegXK9fEA=="/>
+    <POI MapID="38" xpos="-145.248" ypos="49.3699" zpos="540.035" type="resourcenode.other.cloth" GUID="3YpmPJKXqkqjn7v5Rdb59Q=="/>
+    <POI MapID="38" xpos="453.475" ypos="16.9001" zpos="-143.757" type="resourcenode.other.cloth" GUID="+BhP7EiB5kCc/KXmTP8kog=="/>
+    <POI MapID="38" xpos="734.757" ypos="29.1964" zpos="-294.221" type="resourcenode.other.cloth" GUID="l+Cb20Nb5UyUOs9t0Mk4Bw=="/>
+  </POIs>
+</OverlayData>

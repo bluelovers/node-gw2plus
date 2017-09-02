@@ -17,6 +17,7 @@
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
         <MarkerCategory name="Ore Synthesizer" data-class="fade-synthesizer"/>
+        <MarkerCategory name="Lump of Aurillium"/>
       </MarkerCategory>
       <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
@@ -31,6 +32,7 @@
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5"/>
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5"/>
       <MarkerCategory name="Candy Cron" data-class="fade-min"/>
+      <MarkerCategory name="Watchwork Sprocket"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Chest" data-class="fade-1">
@@ -47,6 +49,7 @@
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="jumpingpuzzle">
+    <MarkerCategory name="Start"/>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
   </MarkerCategory>

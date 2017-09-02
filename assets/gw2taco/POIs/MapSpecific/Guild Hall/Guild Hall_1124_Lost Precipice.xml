@@ -1,0 +1,24 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Wood">
+        <MarkerCategory name="Lumber Synthesizer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Ore">
+        <MarkerCategory name="Ore Synthesizer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Plant">
+        <MarkerCategory name="Herb Synthesizer"/>
+        <MarkerCategory name="Berry Synthesizer"/>
+        <MarkerCategory name="Vegetable Synthesizer"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1124" xpos="27.8111" ypos="104.348" zpos="-199.506" type="resourcenode.mapspecific.wood.lumber_synthesizer" GUID="/m6MWDjrQE2hwXpZMXTxGA=="/>
+    <POI MapID="1124" xpos="24.9476" ypos="104.337" zpos="-199.92" type="resourcenode.mapspecific.ore.ore_synthesizer" GUID="nme0tbQgG0qg3Jkj4JP62A=="/>
+    <POI MapID="1124" xpos="21.4448" ypos="104.32" zpos="-199.383" type="resourcenode.mapspecific.plant.herb_synthesizer" GUID="AjbOR4smg0iju35iCwY1gg=="/>
+    <POI MapID="1124" xpos="18.7016" ypos="104.305" zpos="-199.484" type="resourcenode.mapspecific.plant.berry_synthesizer" GUID="YfxDdMVjw0iyyqk9nYK37A=="/>
+    <POI MapID="1124" xpos="15.6084" ypos="104.31" zpos="-199.588" type="resourcenode.mapspecific.plant.vegetable_synthesizer" GUID="A9XuQX5NgE6rUv/clPEdlw=="/>
+  </POIs>
+</OverlayData>
