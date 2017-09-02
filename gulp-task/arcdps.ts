@@ -126,6 +126,11 @@ const _gulp_ = {
 					else if (cht_ini[i] === '')
 					{
 						// reset to english
+
+						if (tw_ini[i])
+						{
+							cht_new.push(`;${i}=${tw_ini[i]}`);
+						}
 					}
 					else if (tw_ini[i])
 					{
