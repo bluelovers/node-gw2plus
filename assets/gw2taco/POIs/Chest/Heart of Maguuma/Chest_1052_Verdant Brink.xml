@@ -2,6 +2,9 @@
   <MarkerCategory name="Chest">
     <MarkerCategory name="Permanent"/>
     <MarkerCategory name="Meta"/>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="VerdantBrink"/>
+    </MarkerCategory>
   </MarkerCategory>
   <POIs>
     <POI MapID="1052" xpos="620.342" ypos="422.925" zpos="186.636" type="chest.permanent" GUID="3VLRnOU7v0q5bTROroDCLQ=="/>
@@ -16,5 +19,6 @@
     <POI MapID="1052" xpos="-94.3781" ypos="747.321" zpos="36.4941" type="chest.meta" GUID="L4FjaYj6nU2+/47cJ+MRdg=="/>
     <POI MapID="1052" xpos="-493.651" ypos="717.559" zpos="-155.875" type="chest.meta" GUID="LVfoNSoW2EaDrcIdcFCozw=="/>
     <POI MapID="1052" xpos="177.315" ypos="665.116" zpos="-33.4837" type="chest.meta" GUID="YBt0OwOJakK443pmi8dihQ=="/>
+    <POI MapID="1052" xpos="173.05" ypos="383.569" zpos="-214.79" type="chest.mapspecific.verdantbrink" GUID="wIRDN3e6ZE68MQAONgem2A=="/>
   </POIs>
 </OverlayData>
