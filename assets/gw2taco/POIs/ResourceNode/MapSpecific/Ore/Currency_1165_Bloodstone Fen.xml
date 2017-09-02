@@ -42,5 +42,7 @@
     <POI MapID="1165" xpos="159.208" ypos="750.872" zpos="2.37887" type="resourcenode.mapspecific.ore.currency" GUID="eSSBMZw9RUyWZT6zKzW9cg=="/>
     <POI MapID="1165" xpos="115.578" ypos="494.149" zpos="18.7294" type="resourcenode.mapspecific.ore.currency" GUID="MWtFMAiM2UyoJKXzKmc8yA=="/>
     <POI MapID="1165" xpos="226.005" ypos="821.378" zpos="156.611" type="resourcenode.mapspecific.ore.currency" GUID="ulvPicxGEU2iOA7EU0P8WA=="/>
+    <POI MapID="1165" xpos="-230.329" ypos="112.075" zpos="19.8933" type="resourcenode.mapspecific.ore.currency" GUID="ho7mIHfy9km4Gtlaj8qI0w=="/>
+    <POI MapID="1165" xpos="-192.74" ypos="109.947" zpos="-23.5458" type="resourcenode.mapspecific.ore.currency" GUID="Y8v7YZAlCUCPwQaSSlgnSQ=="/>
   </POIs>
 </OverlayData>
