@@ -1,0 +1,97 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
+      <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
+        <MarkerCategory name="Lump of Aurillium" iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png" data-iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png" DisplayName="Lump of Aurillium"/>
+      </MarkerCategory>
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
+      </MarkerCategory>
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle"/>
+        <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
+        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
+        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
+        <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35"/>
+        <MarkerCategory name="Lotus"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="Candy Cron" data-class="fade-min" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
+      <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" DisplayName="Watchwork Sprocket"/>
+      <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+      <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+    </MarkerCategory>
+    <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Orichalcum" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" fadeFar="25200" fadeNear="16800"/>
+        <MarkerCategory name="Mithril"/>
+        <MarkerCategory name="Platinum"/>
+        <MarkerCategory name="Gold"/>
+        <MarkerCategory name="Silver"/>
+        <MarkerCategory name="Copper"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
+      <MarkerCategory name="Seasoned"/>
+      <MarkerCategory name="Hard"/>
+      <MarkerCategory name="Elder"/>
+      <MarkerCategory name="Soft"/>
+      <MarkerCategory name="Ancient" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="Green"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
+      <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
+      <MarkerCategory name="AuricBasin" DisplayName="Auric Basin"/>
+      <MarkerCategory name="VerdantBrink" DisplayName="Verdant Brink" iconFile="data/airshippart.png"/>
+      <MarkerCategory name="SilverWastes" iconSize="0.5" heightOffset="0" behavior="4" resetLength="300"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="371" xpos="340" ypos="136.623" zpos="271.149" type="resourcenode.mapspecific.ore.currency" GUID="l5fBhaykBE6P+P0eIo7nRg=="/>
+    <POI MapID="371" xpos="337.987" ypos="132.396" zpos="289.798" type="resourcenode.plant.orichalcum.orriantruffle" GUID="80G5yw3WYkiEjEqD24CXuw=="/>
+    <POI MapID="371" xpos="339.812" ypos="132.254" zpos="291.065" type="resourcenode.plant.orichalcum.snowtruffle" GUID="ztwHXYmcB0yJvDbcZmaJIA=="/>
+    <POI MapID="371" xpos="341.851" ypos="131.66" zpos="291.789" type="resourcenode.plant.orichalcum.ghostpepper" GUID="aaPq+Saq7UKUb4qO/3mu+w=="/>
+    <POI MapID="371" xpos="344.367" ypos="131.841" zpos="291.563" type="resourcenode.plant.orichalcum.flax" GUID="UVUA9m8h806/97pbejjSwQ=="/>
+    <POI MapID="371" xpos="346.425" ypos="132.198" zpos="290.36" type="resourcenode.plant.orichalcum.omnomberries" GUID="81GTwuOmD0Wl17tE0sH+FQ=="/>
+    <POI MapID="371" xpos="361.825" ypos="132.184" zpos="295.333" type="resourcenode.plant.orichalcum.lotus" GUID="npDU9iBQC0qbWIo9d6+GWw=="/>
+    <POI MapID="371" xpos="361.138" ypos="135.757" zpos="290.089" type="resourcenode.other.quartzcrystal" GUID="KZHmRKSk3UmdSEn3W1Qmaw=="/>
+    <POI MapID="371" xpos="360.597" ypos="136.451" zpos="286.187" type="resourcenode.other.candy_cron" GUID="1CMiP5jZdkOHgKZtpOdZ5Q=="/>
+    <POI MapID="371" xpos="373.999" ypos="134.442" zpos="288.626" type="resourcenode.other.watchwork_sprocket" GUID="5/CELD97TEqB2OwBFiqMMg=="/>
+    <POI MapID="371" xpos="381.023" ypos="135.607" zpos="290.955" type="resourcenode.ore.normal.orichalcum" GUID="OQ31XOujr0iq1is/cIu5Ag=="/>
+    <POI MapID="371" xpos="384.087" ypos="135.154" zpos="292.251" type="resourcenode.ore.normal.mithril" GUID="BL6ZyP9oCkWUVq+XIZAMkw=="/>
+    <POI MapID="371" xpos="383.337" ypos="135.168" zpos="295.078" type="resourcenode.ore.normal.platinum" GUID="WraLBvY2mU62PszF0BP8lQ=="/>
+    <POI MapID="371" xpos="393.467" ypos="135.756" zpos="312.678" type="resourcenode.ore.normal.gold" GUID="etrrgarg6kyjs3KYWyfBJw=="/>
+    <POI MapID="371" xpos="393.011" ypos="135.802" zpos="309.591" type="resourcenode.mapspecific.ore.lump_of_aurillium" GUID="JaUZGubi6UeXFxhmXpPEVA=="/>
+    <POI MapID="371" xpos="392.094" ypos="135.24" zpos="315.452" type="resourcenode.ore.normal.silver" GUID="WZFVJjEE10uYoiEDHA0GDg=="/>
+    <POI MapID="371" xpos="391.204" ypos="135.568" zpos="318.516" type="resourcenode.ore.normal.copper" GUID="dn0d103gjUawDIDpcik8Lg=="/>
+    <POI MapID="371" xpos="381.362" ypos="134.464" zpos="330.272" type="chest.mapspecific.tangleddepths" GUID="BtjmHzAq4EaDDWpU62cSPA=="/>
+    <POI MapID="371" xpos="374.992" ypos="134.356" zpos="331.024" type="chest.mapspecific.auricbasin" GUID="XsqVq7rMzUyYFAbrSIFVsw=="/>
+    <POI MapID="371" xpos="376.967" ypos="134.47" zpos="337.786" type="chest.mapspecific.verdantbrink" GUID="re96rl+lVk+h3r2629jFVg=="/>
+    <POI MapID="371" xpos="330.425" ypos="131.895" zpos="359.143" type="resourcenode.mapspecific.ore.currency" GUID="e+hKIFuJ5UeCniLtVQI5IQ=="/>
+    <POI MapID="371" xpos="298.295" ypos="131.052" zpos="398.915" type="resourcenode.wood.seasoned" GUID="01UdiWqwLEqA2eeOfIdlbw=="/>
+    <POI MapID="371" xpos="300.853" ypos="131.054" zpos="396.777" type="resourcenode.wood.hard" GUID="eMKZuv0/IUW5Vx5XMM0dQQ=="/>
+    <POI MapID="371" xpos="298.088" ypos="130.786" zpos="394.136" type="resourcenode.wood.elder" GUID="hwphLjisu0SaFaoz9Wra4Q=="/>
+    <POI MapID="371" xpos="295.554" ypos="130.888" zpos="394.314" type="resourcenode.wood.soft" GUID="IHhoMimXrESLjqJOD5cftg=="/>
+    <POI MapID="371" xpos="293.486" ypos="130.894" zpos="396.065" type="resourcenode.wood.ancient" GUID="N6X44aJ4/k+U60aZVRm0eA=="/>
+    <POI MapID="371" xpos="295.044" ypos="130.896" zpos="399.287" type="resourcenode.wood.green" GUID="2DY9svYVl0ueskkJIGjjQA=="/>
+    <POI MapID="371" xpos="342.856" ypos="131.769" zpos="416.477" type="resourcenode.mapspecific.wood.currency" GUID="/1p3ogjBvUeHjqf8KcxB6w=="/>
+    <POI MapID="371" xpos="241.67" ypos="134.472" zpos="462.502" type="resourcenode.mapspecific.plant.currency" GUID="T011B/O8QEKZV5ine8bimA=="/>
+    <POI MapID="371" xpos="235.135" ypos="137.171" zpos="451.85" type="chest.mapspecific.silverwastes" GUID="/SacqF2hV0SxFLK6MxJPPg=="/>
+    <POI MapID="371" xpos="221.822" ypos="134.208" zpos="410.981" type="resourcenode.mapspecific.wood.currency" GUID="5OV+mqrdO0C2r2lksiwQzg=="/>
+    <POI MapID="371" xpos="343.127" ypos="131.45" zpos="306.028" type="resourcenode.other.cloth" GUID="Vb8dk+xE70Kg/0Zr26X0cg=="/>
+    <POI MapID="371" xpos="342.527" ypos="131.416" zpos="300.385" type="resourcenode.other.cloth" GUID="lz+EVmoUvkOq9xTvsZ9Drw=="/>
+    <POI MapID="371" xpos="357.171" ypos="131.352" zpos="328.692" type="resourcenode.mapspecific.plant.currency" GUID="kn3u3eX31UqOvSOUHkloyQ=="/>
+    <POI MapID="371" xpos="330.124" ypos="131.418" zpos="346.073" type="resourcenode.other.leather" GUID="TFBEPgTEcUadJNWnlha39w=="/>
+    <POI MapID="371" xpos="324.701" ypos="131.428" zpos="345.612" type="resourcenode.other.leather" GUID="iKeKOlVQ70O+vCWhBy0OZA=="/>
+  </POIs>
+</OverlayData>
