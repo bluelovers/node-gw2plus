@@ -101,6 +101,7 @@
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
         <MarkerCategory name="Ore Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800"/>
+        <MarkerCategory name="Lump of Aurillium" iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png" data-iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png"/>
       </MarkerCategory>
       <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
@@ -115,6 +116,7 @@
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
@@ -260,8 +262,8 @@
       <MarkerCategory name="Stonetrap" iconFile="Data/GuildRaces/boulders.png" iconSize="0.5" behavior="0"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/jpguide.png" iconSize="0.75" triggerRange="5" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Start" iconFile="Data/jpstart.png" iconSize="1.5"/>
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
     <MarkerCategory name="Guide">
       <MarkerCategory name="Ascalon">
         <MarkerCategory name="BehemGauntlet" DisplayName="Behem Gauntlet"/>
@@ -341,6 +343,11 @@
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Legendary Trinkets" iconFile="Data/Achievement/Legendary_Trinkets.png" data-iconFile="Data/Achievement/Legendary_Trinkets.png">
+      <MarkerCategory name="Aurora">
+        <MarkerCategory name="Aurora II Empowering"/>
+      </MarkerCategory>
+    </MarkerCategory>
     <MarkerCategory name="Legendary Weapons" iconFile="Data/Achievement/Legendary_Weapons.png" data-iconFile="Data/Achievement/Legendary_Weapons.png">
       <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary Weapons/Nevermore.png">
         <MarkerCategory name="Nevermore III"/>
@@ -419,6 +426,9 @@
         <MarkerCategory name="3"/>
         <MarkerCategory name="4"/>
       </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Aurora">
+      <MarkerCategory name="Aurora II_ Empowering" DisplayName="Aurora II: Empowering"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
