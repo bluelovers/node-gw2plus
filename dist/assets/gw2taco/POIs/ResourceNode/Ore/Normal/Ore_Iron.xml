@@ -302,5 +302,13 @@
     <POI MapID="31" xpos="-319.633" ypos="4.9637" zpos="-3.41674" type="resourcenode.ore.normal.iron" GUID="4FkR7ALhBkeXiikV9mKMcQ=="/>
     <POI MapID="29" xpos="130.796" ypos="59.9896" zpos="810.773" type="resourcenode.ore.normal.iron" GUID="j/szgVqFa0yiSHmSs15eUw=="/>
     <POI MapID="27" xpos="397.781" ypos="90.2249" zpos="-1307.03" type="resourcenode.ore.normal.iron" GUID="8UbMjcG7+EGsO475kBHnXA=="/>
+    <POI MapID="17" xpos="947.299" ypos="75.2545" zpos="-171.472" type="resourcenode.ore.normal.iron" GUID="eUkeDGqJek6rVgBTdkfCCQ=="/>
+    <POI MapID="17" xpos="936.665" ypos="74.4027" zpos="-149.931" type="resourcenode.ore.normal.iron" GUID="xoz0hrzHwUa7FLaOiwMtSw=="/>
+    <POI MapID="17" xpos="622.523" ypos="62.0278" zpos="57.2012" type="resourcenode.ore.normal.iron" GUID="h+AAUjQ7hkSq4w+xodhM2Q=="/>
+    <POI MapID="17" xpos="912.266" ypos="67.4434" zpos="184.618" type="resourcenode.ore.normal.iron" GUID="xAkDZQm+ikui19ufJPIDBg=="/>
+    <POI MapID="26" xpos="-207.333" ypos="113.83" zpos="-275.744" type="resourcenode.ore.normal.iron" GUID="bbLeYEc3SkCvee3Y8aZsVA=="/>
+    <POI MapID="26" xpos="-116.484" ypos="134.106" zpos="-128.563" type="resourcenode.ore.normal.iron" GUID="raATghrQn0OEgPRmyUouOw=="/>
+    <POI MapID="26" xpos="-25.8689" ypos="128.404" zpos="-188.516" type="resourcenode.ore.normal.iron" GUID="NepDsyIvgEi8dG1cX7AibA=="/>
+    <POI MapID="26" xpos="-53.8772" ypos="125.14" zpos="-145.857" type="resourcenode.ore.normal.iron" GUID="/+IJKISPUkWqVF+1fdjp3Q=="/>
   </POIs>
 </OverlayData>
