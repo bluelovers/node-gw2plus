@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+      <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1124" xpos="12.4227" ypos="104.317" zpos="-199.98" type="resourcenode.other.leather" GUID="q0vIB/fNIEqhjDHkrFlAbg=="/>
+    <POI MapID="38" xpos="-386.821" ypos="19.1239" zpos="-641.099" type="resourcenode.other.leather" GUID="xKxgsDdcKECMzytE6hD6fQ=="/>
+    <POI MapID="38" xpos="-171.793" ypos="16.9679" zpos="202.706" type="resourcenode.other.leather" GUID="4PlY3qErSk6eQXOtyi4hRg=="/>
+    <POI MapID="38" xpos="727.083" ypos="28.7579" zpos="-289.969" type="resourcenode.other.leather" GUID="+UB8EbE/ukGn63BSDKm71w=="/>
+  </POIs>
+</OverlayData>
