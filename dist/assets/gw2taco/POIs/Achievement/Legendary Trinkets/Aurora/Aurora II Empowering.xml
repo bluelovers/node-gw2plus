@@ -1,0 +1,32 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Legendary Trinkets" iconFile="Data/Achievement/Legendary_Trinkets.png" data-iconFile="Data/Achievement/Legendary_Trinkets.png" DisplayName="Legendary Trinkets">
+      <MarkerCategory name="Aurora">
+        <MarkerCategory name="Aurora II Empowering" DisplayName="Aurora II Empowering"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="17" xpos="988.578" ypos="115.489" zpos="339.202" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="aYrvr/scCEOciSmuD4ezFw=="/>
+    <POI MapID="73" xpos="442.698" ypos="37.4866" zpos="519.298" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="t2IUMKyiOkqYg0CaKSCHlg=="/>
+    <POI MapID="29" xpos="366.879" ypos="65.9459" zpos="589.769" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="CwuY8F6A80GJ5raBdbLvfg=="/>
+    <POI MapID="26" xpos="-112.468" ypos="149.341" zpos="-126.824" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="RhFUTy7oMUy2b0dvcPIwVw=="/>
+    <POI MapID="22" xpos="381.711" ypos="26.747" zpos="-123.473" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="1JKvWHAKBky6vM97GKCRzA=="/>
+    <POI MapID="25" xpos="267.268" ypos="6.50502" zpos="-714.008" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="GpgB2gDhEEieJ6kwU4eZKQ=="/>
+    <POI MapID="39" xpos="-356.742" ypos="210.35" zpos="-388.85" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="4bn70Pg/4EuuMSem5Yhgaw=="/>
+    <POI MapID="53" xpos="-151.016" ypos="82.6109" zpos="-743.587" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="mv+fYFThHkq4O9YRD+uniQ=="/>
+    <POI MapID="65" xpos="1002.43" ypos="123.054" zpos="-474.237" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="+4wJaKbNcUaxh3qNR6ooDQ=="/>
+    <POI MapID="1052" xpos="-226.225" ypos="437.264" zpos="349.43" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="oEzfdL1J/06bm+2erDEbXw=="/>
+    <POI MapID="1052" xpos="160.312" ypos="757.414" zpos="70.4043" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="FImOtLrYcUuuafM5NMilYA=="/>
+    <POI MapID="1043" xpos="-111.912" ypos="331.26" zpos="-4.91812" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="TdnYUduWbUKKnPAiatuvpw=="/>
+    <POI MapID="1043" xpos="508.695" ypos="292.926" zpos="441.112" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="63S/xSwT+kSQdZCW8pktfQ=="/>
+    <POI MapID="1045" xpos="-318.11" ypos="72.6103" zpos="158.512" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="F16n3muwR0i5IviO/fOugQ=="/>
+    <POI MapID="1045" xpos="-514.587" ypos="82.5729" zpos="111.735" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="o1KaEPxBzUSGcNXShkS6ig=="/>
+    <POI MapID="1165" xpos="-325.061" ypos="119.689" zpos="-47.919" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="0Yj0yq3ISUGHJ4isshANDw=="/>
+    <POI MapID="1175" xpos="-813.347" ypos="12.1885" zpos="-21.7942" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="oqED1ZsJTEegNCF5bsX/Rg=="/>
+    <POI MapID="1178" xpos="849.278" ypos="88.2202" zpos="349.893" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="9Bmh8XVw0kuWpy9KXJP5/Q=="/>
+    <POI MapID="1185" xpos="384.159" ypos="68.6318" zpos="-473.827" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="gv7kxh6q30CR6HbeAJgw3g=="/>
+    <POI MapID="1195" xpos="-158.857" ypos="50.2753" zpos="-61.2789" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="HrBYRmmUMEuCy9hu7DCmKg=="/>
+    <POI MapID="1203" xpos="-910.011" ypos="139.636" zpos="282.023" type="achievement.legendary_trinkets.aurora.aurora_ii_empowering" GUID="isfSiLezpkG1EIY0Ju5TbQ=="/>
+  </POIs>
+</OverlayData>
