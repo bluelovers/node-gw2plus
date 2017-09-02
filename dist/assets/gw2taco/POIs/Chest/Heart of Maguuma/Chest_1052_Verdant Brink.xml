@@ -2,6 +2,9 @@
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Permanent"/>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
+      <MarkerCategory name="VerdantBrink" DisplayName="Verdant Brink" iconFile="data/airshippart.png"/>
+    </MarkerCategory>
   </MarkerCategory>
   <POIs>
     <POI MapID="1052" xpos="620.342" ypos="422.925" zpos="186.636" type="chest.permanent" GUID="3VLRnOU7v0q5bTROroDCLQ=="/>
@@ -16,5 +19,6 @@
     <POI MapID="1052" xpos="-94.3781" ypos="747.321" zpos="36.4941" type="chest.meta" GUID="L4FjaYj6nU2+/47cJ+MRdg=="/>
     <POI MapID="1052" xpos="-493.651" ypos="717.559" zpos="-155.875" type="chest.meta" GUID="LVfoNSoW2EaDrcIdcFCozw=="/>
     <POI MapID="1052" xpos="177.315" ypos="665.116" zpos="-33.4837" type="chest.meta" GUID="YBt0OwOJakK443pmi8dihQ=="/>
+    <POI MapID="1052" xpos="173.05" ypos="383.569" zpos="-214.79" type="chest.mapspecific.verdantbrink" GUID="wIRDN3e6ZE68MQAONgem2A=="/>
   </POIs>
 </OverlayData>
