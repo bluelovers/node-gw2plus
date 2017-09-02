@@ -1,8 +1,8 @@
 <OverlayData>
   <MarkerCategory name="Tactical">
-		<MarkerCategory name="GuildMission">
-			<MarkerCategory name="Trek"/>
-		</MarkerCategory>
+    <MarkerCategory name="GuildMission">
+      <MarkerCategory name="Trek"/>
+    </MarkerCategory>
   </MarkerCategory>
   <POIs>
     <POI MapID="31" xpos="1187.36" ypos="130.684" zpos="-400.939" type="tactical.guildmission.trek" GUID="pGGD4KH7FEKBgFUS9KFHrg=="/>
@@ -13,5 +13,15 @@
     <POI MapID="15" xpos="845.928" ypos="8.09257" zpos="609.041" type="tactical.guildmission.trek" GUID="sudjSu+ubUS9zaN8eMB9ZA=="/>
     <POI MapID="326" xpos="-374.511" ypos="268.883" zpos="319.728" type="tactical.guildmission.trek" GUID="Jg2mMwAi+EGc81rHRLXDIw=="/>
     <POI MapID="24" xpos="-995.682" ypos="43.8628" zpos="-284.754" type="tactical.guildmission.trek" GUID="9afEeeqi/0eHnY4//KU6hg=="/>
+    <POI MapID="139" xpos="48.1124" ypos="102.902" zpos="-356.682" type="tactical.guildmission.trek" GUID="tKwMZGF1nUCI2fF6603lrQ=="/>
+    <POI MapID="27" xpos="-439.401" ypos="84.5867" zpos="757.052" type="tactical.guildmission.trek" GUID="trwHYERVUkqWP0sXHK+16Q=="/>
+    <POI MapID="18" xpos="16.4089" ypos="70.8011" zpos="-309.078" type="tactical.guildmission.trek" GUID="sk9foRlwy0uFMTvvPlNWTw=="/>
+    <POI MapID="218" xpos="95.7173" ypos="177.889" zpos="-55.2372" type="tactical.guildmission.trek" GUID="bpES/nnzXkqlP/Vg6lIcDg=="/>
+    <POI MapID="15" xpos="-378.043" ypos="14.8089" zpos="24.8262" type="tactical.guildmission.trek" GUID="pEDp/CRdQkSnwiM3XV/YTQ=="/>
+    <POI MapID="28" xpos="192.177" ypos="34.263" zpos="656.345" type="tactical.guildmission.trek" GUID="ld04t49IBUyyzpS5cuBqvg=="/>
+    <POI MapID="54" xpos="589.89" ypos="149.916" zpos="715.408" type="tactical.guildmission.trek" GUID="WWyt7vRpLkGSb5or+diVCQ=="/>
+    <POI MapID="35" xpos="-475.789" ypos="74.6286" zpos="-852.776" type="tactical.guildmission.trek" GUID="HzP8lBhidkyx+eQKzvvfWA=="/>
+    <POI MapID="18" xpos="153.91" ypos="65.6763" zpos="-336.953" type="tactical.guildmission.trek" GUID="marWknRHxUeX5NVC02Rraw=="/>
+    <POI MapID="218" xpos="368.094" ypos="150.04" zpos="27.1013" type="tactical.guildmission.trek" GUID="KZdBXg4dME2Tx+mq/MahRg=="/>
   </POIs>
 </OverlayData>
