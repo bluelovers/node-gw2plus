@@ -66,5 +66,6 @@
     <POI MapID="32" xpos="104.269" ypos="42.5407" zpos="411.404" type="resourcenode.ore.normal.silver" GUID="4+lRCgUyDUWHUCe3YX9HTA=="/>
     <POI MapID="31" xpos="809.156" ypos="65.9733" zpos="-184.696" type="resourcenode.ore.normal.silver" GUID="799CSYnljUO5vsQpstWLww=="/>
     <POI MapID="23" xpos="-892.696" ypos="64.9875" zpos="419.098" type="resourcenode.ore.normal.silver" GUID="xvVmzg8As0CXcexscS/1rw=="/>
+    <POI MapID="32" xpos="-18.0602" ypos="100.299" zpos="640.628" type="resourcenode.ore.normal.silver" GUID="SUcKONtlt0+o+ABgszeS2Q=="/>
   </POIs>
 </OverlayData>

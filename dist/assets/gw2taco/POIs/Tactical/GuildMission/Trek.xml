@@ -23,5 +23,7 @@
     <POI MapID="35" xpos="-475.789" ypos="74.6286" zpos="-852.776" type="tactical.guildmission.trek" GUID="HzP8lBhidkyx+eQKzvvfWA=="/>
     <POI MapID="18" xpos="153.91" ypos="65.6763" zpos="-336.953" type="tactical.guildmission.trek" GUID="marWknRHxUeX5NVC02Rraw=="/>
     <POI MapID="218" xpos="368.094" ypos="150.04" zpos="27.1013" type="tactical.guildmission.trek" GUID="KZdBXg4dME2Tx+mq/MahRg=="/>
+    <POI MapID="139" xpos="60.0838" ypos="333.017" zpos="29.343" type="tactical.guildmission.trek" GUID="sHAmQjEQxkKNH8QYT7xwdw=="/>
+    <POI MapID="873" xpos="613.292" ypos="1.50526" zpos="-410.137" type="tactical.guildmission.trek" GUID="TUbzzivd00qSJRlOk0yrNw=="/>
   </POIs>
 </OverlayData>
