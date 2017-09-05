@@ -13,3 +13,5 @@ export const gw2taco_path = path.join(project_root, 'vendor/GW2TacO_030r');
 
 export default module.exports;
 
+export const RUNTIME_PREFIX = 'SC_';
+export const RUNTIME_PREFIX_TEMP = 'ZZZ_SC_';
