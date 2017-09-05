@@ -62,6 +62,7 @@
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
+  <MarkerCategory name="guildrace" data-class="fade-8" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200"/>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
