@@ -62,6 +62,7 @@
       </MarkerCategory>
 		</MarkerCategory>
   </MarkerCategory>
+  <MarkerCategory name="guildrace" data-class="fade-8"/>
   <MarkerCategory name="Achievement" data-allowsub="true"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>

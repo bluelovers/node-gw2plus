@@ -83,7 +83,7 @@
         <MarkerCategory name="Cactus"/>
         <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
         <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
-        <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants"/>
+        <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data/ResourceNode/Plant/Orichalcum/JunglePlants.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/JunglePlants.png" iconSize="0.35"/>
         <MarkerCategory name="Lotus"/>
         <MarkerCategory name="Mussels" iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" iconSize="0.35"/>
         <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35"/>
@@ -225,7 +225,7 @@
       <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="guildrace" DisplayName="Guild Races" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="guildrace" DisplayName="Guild Races" data-class="fade-8" fadeFar="5600" fadeNear="1200">
     <MarkerCategory name="bearlope" DisplayName="Bear Lope">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Spiketrap" iconFile="Data/GuildRaces/spikes.png" iconSize="0.5" behavior="0"/>

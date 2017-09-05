@@ -104,7 +104,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="guildrace" DisplayName="Guild Races" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="guildrace" DisplayName="Guild Races" data-class="fade-8" fadeFar="5600" fadeNear="1200">
     <MarkerCategory name="bearlope" DisplayName="Bear Lope">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
