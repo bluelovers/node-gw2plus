@@ -227,15 +227,15 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 	const cu = require('./src/gw2taco/category/util');
 
 	const currentTask = this.currentTask;
-	const gw2taco_prefix = 'ZZZ_SC_';
+	const gw2taco_prefix = project_config.RUNTIME_PREFIX_TEMP;
 
 	let patterns = [
 		'categorydata.xml',
 		'POIs/*.xml',
 		`!${gw2taco_prefix}*.xml`,
 		`!POIs/${gw2taco_prefix}*.xml`,
-		`!SC_Temp.xml`,
-		`!POIs/SC_Temp.xml`,
+		`!${project_config.RUNTIME_PREFIX}Temp.xml`,
+		`!POIs/${project_config.RUNTIME_PREFIX}Temp.xml`,
 	];
 
 	let options = {
@@ -486,6 +486,10 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 									attr.fadeFar = 10500;
 									attr.fadeNear = 4200;
 									break;
+								case '8':
+									attr.fadeFar = 5600;
+									attr.fadeNear = 1200;
+									break;
 							}
 
 							cat.getStatic().attr(_this, attr);
@@ -573,7 +577,7 @@ gulp.task('category:undefined', ['category:cache'], async function ()
 	const cu = require('./src/gw2taco/category/util');
 
 	const currentTask = this.currentTask;
-	const gw2taco_prefix = 'ZZZ_SC_';
+	const gw2taco_prefix = project_config.RUNTIME_PREFIX_TEMP;
 
 	let patterns = [
 		'categorydata.xml',
@@ -603,7 +607,7 @@ gulp.task('category:undefined', ['category:cache'], async function ()
 		{
 			let ls = [cat];
 
-			ls.push(Category.load(path.join(dist_root, 'assets/gw2taco', 'pois/SC_Temp.xml')));
+			ls.push(Category.load(path.join(dist_root, 'assets/gw2taco', `pois/${project_config.RUNTIME_PREFIX}Temp.xml`)));
 
 			return Promise.all(ls);
 		})
