@@ -560,5 +560,7 @@
     <POI MapID="1185" xpos="198.767" ypos="41.6026" zpos="-434.42" type="resourcenode.wood.elder" GUID="3rSIezFdJES6UDT8qRjfAw=="/>
     <POI MapID="1203" xpos="403.753" ypos="4.80695" zpos="-194.861" type="resourcenode.wood.elder" GUID="Fgzci2amREu6MG55AVAXYQ=="/>
     <POI MapID="1185" xpos="66.8353" ypos="37.6272" zpos="-543.812" type="resourcenode.wood.elder" GUID="rdP+e+84D0axcVugabQEZg=="/>
+    <POI MapID="1015" xpos="-279.07" ypos="433.042" zpos="43.4347" type="resourcenode.wood.elder" GUID="FIVixRyIW0OD56Y40EGVzg=="/>
+    <POI MapID="53" xpos="114.88" ypos="1.68243" zpos="225.714" type="resourcenode.wood.elder" GUID="1ZuDFdgMn0uv8qI7Ng8laQ=="/>
   </POIs>
 </OverlayData>
