@@ -42,6 +42,16 @@
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
   </MarkerCategory>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
+      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
+      <MarkerCategory name="Puzzle"/>
+      <MarkerCategory name="Race" data-allowsub="true">
+        <MarkerCategory name="Trap"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200"/>
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Start"/>
     <MarkerCategory name="Guilde">
@@ -53,16 +63,6 @@
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
-      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
-      <MarkerCategory name="Puzzle"/>
-      <MarkerCategory name="Race" data-allowsub="true">
-        <MarkerCategory name="Trap"/>
-      </MarkerCategory>
-    </MarkerCategory>
-  </MarkerCategory>
-  <MarkerCategory name="guildrace" data-class="fade-8" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200"/>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
