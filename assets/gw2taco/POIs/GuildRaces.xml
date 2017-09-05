@@ -1,0 +1,1280 @@
+<OverlayData>
+	<MarkerCategory name="guildrace" DisplayName="Guild Races">
+		<MarkerCategory name="bearlope" DisplayName="Bear Lope">
+			<MarkerCategory name="Path" iconFile="Data\GuildRaces\path.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Spiketrap" iconFile="Data\GuildRaces\spikes.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Stonetrap" iconFile="Data\GuildRaces\boulders.png" iconSize="0.5" behavior="0"/>
+		</MarkerCategory>
+		<MarkerCategory name="ghostwolfrun" DisplayName="Ghost Wolf Run">
+			<MarkerCategory name="Path" iconFile="Data\GuildRaces\path.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Dodgejump" iconFile="Data\GuildRaces\dodgejump.png" behavior="0"/>
+			<MarkerCategory name="Spiketrap" iconFile="Data\GuildRaces\spikes.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Stonetrap" iconFile="Data\GuildRaces\boulders.png" iconSize="0.5" behavior="0"/>
+		</MarkerCategory>
+		<MarkerCategory name="crabscuttle" DisplayName="Crab Scuttle">
+			<MarkerCategory name="Path" iconFile="Data\GuildRaces\path.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Dodgejump" iconFile="Data\GuildRaces\dodgejump.png" behavior="0"/>
+			<MarkerCategory name="Trap" iconFile="Data\GuildRaces\bomb.png" behavior="0"/>
+		</MarkerCategory>
+		<MarkerCategory name="devourerburrow" DisplayName="Devourer Burrow">
+			<MarkerCategory name="Path" iconFile="Data\GuildRaces\path.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Dodgejump" iconFile="Data\GuildRaces\dodgejump.png" behavior="0"/>
+			<MarkerCategory name="Spiketrap" iconFile="Data\GuildRaces\spikes.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Stonetrap" iconFile="Data\GuildRaces\boulders.png" iconSize="0.5" behavior="0"/>
+		</MarkerCategory>
+		<MarkerCategory name="spiderscurry" DisplayName="Spider Scurry">
+			<MarkerCategory name="Path" iconFile="Data\GuildRaces\path.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Dodgejump" iconFile="Data\GuildRaces\dodgejump.png" behavior="0"/>
+			<MarkerCategory name="Teleport" iconFile="Data\GuildRaces\spiderport.png" iconSize="0.75" behavior="0"/>
+			<MarkerCategory name="Spiketrap" iconFile="Data\GuildRaces\spikes.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Stonetrap" iconFile="Data\GuildRaces\boulders.png" iconSize="0.5" behavior="0"/>
+		</MarkerCategory>
+		<MarkerCategory name="chickenrun" DisplayName="Chicken Run">
+			<MarkerCategory name="Path" iconFile="Data\GuildRaces\path.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Dodgejump" iconFile="Data\GuildRaces\dodgejump.png" behavior="0"/>
+			<MarkerCategory name="Spiketrap" iconFile="Data\GuildRaces\spikes.png" iconSize="0.5" behavior="0"/>
+			<MarkerCategory name="Stonetrap" iconFile="Data\GuildRaces\boulders.png" iconSize="0.5" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>  
+	<POIs>
+		<POI MapID="27" xpos="-461.416" ypos="125.492" zpos="404.03" type="guildrace.bearlope.spiketrap" GUID="Hpd1f0JnWUKf9nyaVDYEhw=="/>
+	  
+		<POI MapID="27" xpos="-482.17" ypos="124.213" zpos="418.142" type="guildrace.bearlope.spiketrap" GUID="JiN+drgBAkOsjrJ+L2osNA=="/>
+	  
+		<POI MapID="27" xpos="-503.425" ypos="124.325" zpos="424.923" type="guildrace.bearlope.spiketrap" GUID="tQ0Gh98n5UKA/dIfCoMx5Q=="/>
+
+		<POI MapID="27" xpos="-507.583" ypos="122.378" zpos="434.081" type="guildrace.bearlope.spiketrap" GUID="rHSnBdwJwEqs1oV7J3ihLg=="/>
+	  
+		<POI MapID="27" xpos="-511.854" ypos="88.1287" zpos="518.111" type="guildrace.bearlope.stonetrap" GUID="Qx3jJtK4xEyeJsDy1An7og=="/>
+	  
+		<POI MapID="27" xpos="-498.24" ypos="87.8585" zpos="521.669" type="guildrace.bearlope.stonetrap" GUID="jk1gDGtfq02KrHMXVMDSKg=="/>
+	  
+		<POI MapID="27" xpos="-501.981" ypos="86.5293" zpos="529.913" type="guildrace.bearlope.spiketrap" GUID="S4/hCm4ibEOfn+QUb6Q0vw=="/>
+	  
+		<POI MapID="27" xpos="-460.89" ypos="125.374" zpos="408.126" type="guildrace.bearlope.path" GUID="o2Tk8QNkXEWMGZ8Ls9rZTA=="/>
+	  
+		<POI MapID="27" xpos="-480.37" ypos="124.35" zpos="414.892" type="guildrace.bearlope.path" GUID="ax6U4/n1JEyh1kp5uvnWnQ=="/>
+	  
+		<POI MapID="27" xpos="-498.19" ypos="124.884" zpos="425.431" type="guildrace.bearlope.path" GUID="CyQDT5HMRUCG1rHOgBqrQw=="/>
+	  
+		<POI MapID="27" xpos="-505.35" ypos="123.481" zpos="428.953" type="guildrace.bearlope.path" GUID="FIrDT0WG00KqCc9RlrrXIQ=="/>
+	  
+		<POI MapID="27" xpos="-512.505" ypos="123.119" zpos="432.08" type="guildrace.bearlope.path" GUID="bGp5jUshLUa1DQ2+gFYSHg=="/>
+	  
+		<POI MapID="27" xpos="-510.509" ypos="118.103" zpos="446.347" type="guildrace.bearlope.path" GUID="16qWcL2MM0acia2NReftSA=="/>
+	  
+		<POI MapID="27" xpos="-515.755" ypos="109.779" zpos="458.094" type="guildrace.bearlope.path" GUID="btVPUN+5LUK7ZZvGDQcU8Q=="/>
+	  
+		<POI MapID="27" xpos="-508.138" ypos="102.672" zpos="488.786" type="guildrace.bearlope.path" GUID="6tspRsOHiU2zbXt/bcMzlg=="/>
+	  
+		<POI MapID="27" xpos="-498.994" ypos="89.6567" zpos="513.242" type="guildrace.bearlope.path" GUID="CisTPGHn4EOjlBQmAFZxqw=="/>
+	  
+		<POI MapID="27" xpos="-504.994" ypos="88.6299" zpos="517.983" type="guildrace.bearlope.path" GUID="u8E/3BEPfEux2hBQldAASA=="/>
+	  
+		<POI MapID="27" xpos="-510.915" ypos="81.6684" zpos="549.347" type="guildrace.bearlope.path" GUID="WZrate73U0G/fs04xyX20w=="/>
+	  
+		<POI MapID="27" xpos="-511.316" ypos="81.6883" zpos="586.43" type="guildrace.bearlope.path" GUID="IkzXeymnrUW1UhQocAyM8A=="/>
+	  
+		<POI MapID="27" xpos="-508.482" ypos="82.1498" zpos="633.659" type="guildrace.bearlope.path" GUID="cwYlFwD+TEyJApw8AhiH5g=="/>
+	  
+		<POI MapID="27" xpos="-491.04" ypos="82.3489" zpos="666.007" type="guildrace.bearlope.path" GUID="IOUQp0wnoESG5t3djuvI8Q=="/>
+	  
+		<POI MapID="27" xpos="-489.38" ypos="84.2283" zpos="702.956" type="guildrace.bearlope.path" GUID="gJbrLMEPXkKLkkm3hqpCCg=="/>
+	  
+		<POI MapID="27" xpos="-487.794" ypos="95.3591" zpos="721.248" type="guildrace.bearlope.path" GUID="yROMLMesd0+vpa4sOmuuxA=="/>
+	  
+		<POI MapID="27" xpos="-492.256" ypos="98.2338" zpos="730.44" type="guildrace.bearlope.path" GUID="8fM86u1kr0yOqghcAozGDQ=="/>
+	  
+		<POI MapID="27" xpos="-482.103" ypos="101.137" zpos="737.554" type="guildrace.bearlope.path" GUID="1Z9uoT6V4EGMB3T7dJg7Jw=="/>
+	  
+		<POI MapID="27" xpos="-484.396" ypos="97.8261" zpos="729.923" type="guildrace.bearlope.stonetrap" GUID="LRxvidF850e+g5BzI/gZzg=="/>
+	  
+		<POI MapID="27" xpos="-471.501" ypos="104.458" zpos="767.481" type="guildrace.bearlope.spiketrap" GUID="+wH+keiLAUiPgvYRRN4guw=="/>
+	  
+		<POI MapID="27" xpos="-476.149" ypos="104.398" zpos="766.136" type="guildrace.bearlope.path" GUID="8ucz8gQmRUSI8abJ5PnI3w=="/>
+	  
+		<POI MapID="27" xpos="-475.304" ypos="104.375" zpos="773.904" type="guildrace.bearlope.path" GUID="KfbYV4oOCUmy7O3XUdA5/g=="/>
+	  
+		<POI MapID="27" xpos="-468.269" ypos="103.664" zpos="777.871" type="guildrace.bearlope.path" GUID="1vu36+RuSEaH6FjfmmHSPA=="/>
+	  
+		<POI MapID="27" xpos="-473.934" ypos="104.211" zpos="780.062" type="guildrace.bearlope.spiketrap" GUID="gNLPnGsQGk2gb2GBP/Mkgg=="/>
+	  
+		<POI MapID="27" xpos="-437.835" ypos="91.8032" zpos="796.536" type="guildrace.bearlope.path" GUID="sbPydSkH6U+mAZFiHu7o5A=="/>
+	  
+		<POI MapID="27" xpos="-432.87" ypos="92.3371" zpos="787.557" type="guildrace.bearlope.path" GUID="roQpuIJpb0uS5AkIYfjg/g=="/>
+	  
+		<POI MapID="27" xpos="-423.139" ypos="92.0263" zpos="776.86" type="guildrace.bearlope.path" GUID="EhJt25wjl0y003vIalHYrw=="/>
+	  
+		<POI MapID="27" xpos="-425.541" ypos="90.795" zpos="788.067" type="guildrace.bearlope.stonetrap" GUID="KwGKHdLDQUuJbWIPNd4UUQ=="/>
+	  
+		<POI MapID="27" xpos="-407.061" ypos="93.7988" zpos="770.308" type="guildrace.bearlope.spiketrap" GUID="/oIiYO2l80G5QG7EDCkakg=="/>
+	  
+		<POI MapID="27" xpos="-406.752" ypos="93.7387" zpos="775.341" type="guildrace.bearlope.path" GUID="MSR+xSgd0kOPWZUd2zct2w=="/>
+	  
+		<POI MapID="27" xpos="-392.559" ypos="95.0724" zpos="777.917" type="guildrace.bearlope.path" GUID="kDjeSw7/yUSxt6+M1nFSMA=="/>
+	  
+		<POI MapID="27" xpos="-388.656" ypos="95.1569" zpos="783.081" type="guildrace.bearlope.path" GUID="V/HOOw5Ynk6ybER7BxWfbw=="/>
+	  
+		<POI MapID="27" xpos="-381.971" ypos="94.3799" zpos="786.955" type="guildrace.bearlope.path" GUID="4spXWNefxE2M4OpU9j2aDA=="/>
+	  
+		<POI MapID="27" xpos="-384.865" ypos="94.3635" zpos="778.935" type="guildrace.bearlope.stonetrap" GUID="MqFbhk3vS0a+gQXxVzSzFA=="/>
+	  
+		<POI MapID="27" xpos="-363.906" ypos="95.3753" zpos="795.3" type="guildrace.bearlope.spiketrap" GUID="isa0SYvcTkeACpBFVhr+ew=="/>
+	  
+		<POI MapID="27" xpos="-366.322" ypos="95.2791" zpos="798.379" type="guildrace.bearlope.path" GUID="Wkqxn7IyCkuvA1uwmxWU0w=="/>
+	  
+		<POI MapID="27" xpos="-359.47" ypos="96.8648" zpos="799.336" type="guildrace.bearlope.path" GUID="HRZZ9bDg4ku+7BFrduG0Mw=="/>
+	  
+		<POI MapID="27" xpos="-353.72" ypos="95.8202" zpos="793.306" type="guildrace.bearlope.path" GUID="4TXxdq/Wp0agW4oaJgq7DQ=="/>
+	  
+		<POI MapID="27" xpos="-348.311" ypos="96.3517" zpos="790.952" type="guildrace.bearlope.path" GUID="KSpab2MFN0GtQrD60wvi1A=="/>
+	  
+		<POI MapID="27" xpos="-341.783" ypos="94.8841" zpos="792.572" type="guildrace.bearlope.path" GUID="9ovyvz1MiUGKuX9bStApQA=="/>
+	  
+		<POI MapID="27" xpos="-348.12" ypos="95.0951" zpos="794.875" type="guildrace.bearlope.spiketrap" GUID="WU4eqnpzu0iT3hELOtmGdw=="/>
+	  
+		<POI MapID="27" xpos="-315.275" ypos="91.8026" zpos="791.926" type="guildrace.bearlope.path" GUID="o7Yhr5JZeU+gEVLuSor90Q=="/>
+	  
+		<POI MapID="27" xpos="-309.331" ypos="87.6549" zpos="798.506" type="guildrace.bearlope.spiketrap" GUID="ZrotOWp96UWxLAx8msTryw=="/>
+	  
+		<POI MapID="27" xpos="-302.862" ypos="86.6364" zpos="797.008" type="guildrace.bearlope.path" GUID="cleRLzOjkU+beVc680yMRA=="/>
+	  
+		<POI MapID="27" xpos="-301.828" ypos="89.2957" zpos="804.775" type="guildrace.bearlope.path" GUID="NwWc70j1EkmJrfoNN8EdxQ=="/>
+	  
+		<POI MapID="27" xpos="-297.838" ypos="88.689" zpos="801.184" type="guildrace.bearlope.spiketrap" GUID="GOGReMngD0SYBq93fVaTEQ=="/>
+	  
+		<POI MapID="27" xpos="-290.279" ypos="96.1026" zpos="819.037" type="guildrace.bearlope.path" GUID="SjzClK9w7EiCHN2dFRTvPQ=="/>
+	  
+		<POI MapID="27" xpos="-301.92" ypos="103.768" zpos="833.29" type="guildrace.bearlope.path" GUID="ru053gWLsEKAPft8Fgh2+A=="/>
+	  
+		<POI MapID="27" xpos="-311.135" ypos="108.792" zpos="835.533" type="guildrace.bearlope.path" GUID="rdEghGjjD0GhRobUyhWXxQ=="/>
+	  
+		<POI MapID="27" xpos="-316.513" ypos="108.201" zpos="830.492" type="guildrace.bearlope.path" GUID="yHgPxJMIAUatjY/URXthgA=="/>
+	  
+		<POI MapID="27" xpos="-309.446" ypos="107.444" zpos="830.665" type="guildrace.bearlope.spiketrap" GUID="dJfVPO7U8k6eHfDcUuyZGA=="/>
+	  
+		<POI MapID="27" xpos="-336.043" ypos="105.789" zpos="818.422" type="guildrace.bearlope.path" GUID="lI93WToc7ES5SIxNCC/gYg=="/>
+	  
+		<POI MapID="27" xpos="-346.09" ypos="112.388" zpos="821.828" type="guildrace.bearlope.path" GUID="Fv+fU45clUaqP6+OWs9NpA=="/>
+	  
+		<POI MapID="27" xpos="-350.128" ypos="115.536" zpos="824.866" type="guildrace.bearlope.path" GUID="RE9KZMOQ90a51c0uTluflA=="/>
+	  
+		<POI MapID="27" xpos="-349.908" ypos="110.995" zpos="816.915" type="guildrace.bearlope.stonetrap" GUID="MXrJ0uJNP0+4K+MN21/ptA=="/>
+	  
+		<POI MapID="27" xpos="-364.083" ypos="117.916" zpos="840.053" type="guildrace.bearlope.spiketrap" GUID="3DLIgm9K/UuTh2znbrVwvQ=="/>
+	  
+		<POI MapID="27" xpos="-374.853" ypos="115.361" zpos="859.044" type="guildrace.bearlope.spiketrap" GUID="V1CqWwopg0WroY33NtIt2g=="/>
+	  
+		<POI MapID="27" xpos="-359.763" ypos="119.358" zpos="839.119" type="guildrace.bearlope.path" GUID="xR+ARoets0iOwf2Rspya/A=="/>
+	  
+		<POI MapID="27" xpos="-365.706" ypos="115.551" zpos="847.539" type="guildrace.bearlope.path" GUID="M1npq3kDiUS28wOuuK/1dw=="/>
+	  
+		<POI MapID="27" xpos="-379.309" ypos="116.203" zpos="857.434" type="guildrace.bearlope.path" GUID="YYvwSxddV0SczJOkWilSDw=="/>
+	  
+		<POI MapID="27" xpos="-385.328" ypos="117.565" zpos="863.49" type="guildrace.bearlope.path" GUID="kzPkcaPV3EuC0Qa3CTLOFA=="/>
+	  
+		<POI MapID="27" xpos="-383.772" ypos="123.476" zpos="851.588" type="guildrace.bearlope.path" GUID="tLL01l2CmkqOmBFonZFr2g=="/>
+	  
+		<POI MapID="27" xpos="-387.466" ypos="117.173" zpos="868.641" type="guildrace.bearlope.spiketrap" GUID="V2Imhz8icUGc9rke4tbmAw=="/>
+	  
+		<POI MapID="27" xpos="-361.512" ypos="134.997" zpos="831.356" type="guildrace.bearlope.path" GUID="ilaK9sBqGU2K22nWAqEZVg=="/>
+	  
+		<POI MapID="27" xpos="-333.329" ypos="142.292" zpos="824.527" type="guildrace.bearlope.path" GUID="fhM16enzQkqHtnpq9k5HvQ=="/>
+	  
+		<POI MapID="27" xpos="-341.322" ypos="136.942" zpos="813.157" type="guildrace.bearlope.spiketrap" GUID="+NkCkLbNqESARRHkFP12qw=="/>
+	  
+		<POI MapID="27" xpos="-338.006" ypos="138.915" zpos="813.665" type="guildrace.bearlope.path" GUID="A3sksXKVwE2LSUolplkcYQ=="/>
+	  
+		<POI MapID="27" xpos="-340.102" ypos="136.536" zpos="806.385" type="guildrace.bearlope.path" GUID="41cKWgSN6EmlC/Qj7ysyEw=="/>
+	  
+		<POI MapID="27" xpos="-347.355" ypos="134.916" zpos="791.397" type="guildrace.bearlope.path" GUID="t8EO0ydQ0EeJYOM3IDFMVQ=="/>
+	  
+		<POI MapID="27" xpos="-334.464" ypos="123.857" zpos="767.175" type="guildrace.bearlope.path" GUID="H8j0Ao3SGk+I/iRjxj9waA=="/>
+	  
+		<POI MapID="27" xpos="-327.708" ypos="122.3" zpos="766.145" type="guildrace.bearlope.stonetrap" GUID="lCQWxcDiIEaOyyGjehYUIw=="/>
+	  
+		<POI MapID="27" xpos="-329.52" ypos="121.215" zpos="756.004" type="guildrace.bearlope.spiketrap" GUID="sG1K9DumTkiLDt7iOVwRdg=="/>
+	  
+		<POI MapID="27" xpos="-328.633" ypos="121.369" zpos="759.348" type="guildrace.bearlope.path" GUID="uoD+fAAQkUiXYVHNmT2owA=="/>
+	  
+		<POI MapID="27" xpos="-324.103" ypos="123.012" zpos="757.997" type="guildrace.bearlope.path" GUID="eju7U3V3PEepckBlZ73FFw=="/>
+	  
+		<POI MapID="27" xpos="-321.554" ypos="122.173" zpos="751.328" type="guildrace.bearlope.path" GUID="oVOd68vp5kSEU6K2RIY1Ow=="/>
+	  
+		<POI MapID="27" xpos="-315.843" ypos="122.348" zpos="741.498" type="guildrace.bearlope.path" GUID="JQhh9yQhnUW4gFhMg+xEUA=="/>
+	  
+		<POI MapID="27" xpos="-319.024" ypos="120.898" zpos="739.053" type="guildrace.bearlope.spiketrap" GUID="x+DB+qAL8kmrU1uVkuMZjg=="/>
+	  
+		<POI MapID="27" xpos="-306.176" ypos="120.371" zpos="727.749" type="guildrace.bearlope.path" GUID="BqirLQCm1U6qWdxk879dTA=="/>
+	  
+		<POI MapID="27" xpos="-293.693" ypos="119.022" zpos="694.138" type="guildrace.bearlope.path" GUID="+YaP0WCDrkGVSnp8PUlgsw=="/>
+	  
+		<POI MapID="27" xpos="-301.691" ypos="122.67" zpos="679.51" type="guildrace.bearlope.path" GUID="Lx3f9XuDkEWLleF6LOC8Lg=="/>
+	  
+		<POI MapID="27" xpos="-312.298" ypos="129.41" zpos="647.009" type="guildrace.bearlope.path" GUID="Sgm7KkvlQke6xOvSL/DPvg=="/>
+	  
+		<POI MapID="27" xpos="-315.081" ypos="131.886" zpos="612.254" type="guildrace.bearlope.path" GUID="udiCYTwnEEWsUExt9m0ptw=="/>
+	  
+		<POI MapID="27" xpos="-320.642" ypos="132.303" zpos="594.297" type="guildrace.bearlope.path" GUID="PreaoomL30yS4z0+1zITDw=="/>
+	  
+		<POI MapID="27" xpos="-334.483" ypos="139.077" zpos="572.455" type="guildrace.bearlope.path" GUID="LwcX/sNfN02t0FuEMTOoLw=="/>
+	  
+		<POI MapID="27" xpos="-339.753" ypos="145.6" zpos="555.69" type="guildrace.bearlope.path" GUID="3pq/W12jAUOOmg38+/BSSQ=="/>
+	  
+		<POI MapID="27" xpos="-345.973" ypos="151.33" zpos="535.397" type="guildrace.bearlope.path" GUID="XwtEfuTlFU6q8bfeH4Hvhg=="/>
+	  
+		<POI MapID="27" xpos="-343.333" ypos="151.465" zpos="529.256" type="guildrace.bearlope.path" GUID="ICYjGYIlW0+XSamzc3vm5g=="/>
+		
+		
+		
+		<POI MapID="17" xpos="-785.484" ypos="106.555" zpos="-672.96" type="guildrace.ghostwolfrun.spiketrap" GUID="pOxMmlfxdkGdwSHGORnHzQ=="/>
+  
+		<POI MapID="17" xpos="-780.428" ypos="106.832" zpos="-681.266" type="guildrace.ghostwolfrun.spiketrap" GUID="9PYN7cOm5Uer61b1paq0HA=="/>
+	  
+		<POI MapID="17" xpos="-770.115" ypos="104.172" zpos="-652.29" type="guildrace.ghostwolfrun.spiketrap" GUID="uP++aGzhqE+UhuHdycMeEA=="/>
+	  
+		<POI MapID="17" xpos="-756.217" ypos="104.785" zpos="-648.491" type="guildrace.ghostwolfrun.spiketrap" GUID="JcdzAm1B70GgwdrPT3BQgw=="/>
+	  
+		<POI MapID="17" xpos="-766.106" ypos="105.463" zpos="-637.158" type="guildrace.ghostwolfrun.spiketrap" GUID="UWvrUbKr9U6q8xekwzzLwQ=="/>
+	  
+		<POI MapID="17" xpos="-744.33" ypos="107.58" zpos="-647.276" type="guildrace.ghostwolfrun.spiketrap" GUID="CqR410mSN0ijlS/BQJ9KqQ=="/>
+	  
+		<POI MapID="17" xpos="-734.564" ypos="106.358" zpos="-637.08" type="guildrace.ghostwolfrun.spiketrap" GUID="fjqLmbYIa0y0h4dqv+dpRA=="/>
+	  
+		<POI MapID="17" xpos="-747.437" ypos="105.467" zpos="-632.956" type="guildrace.ghostwolfrun.spiketrap" GUID="yOJJStbsj0267iR+1k0uvg=="/>
+	  
+		<POI MapID="17" xpos="-718.999" ypos="104.503" zpos="-618.698" type="guildrace.ghostwolfrun.stonetrap" GUID="lJtlt68crkmf/vgB/hXZGg=="/>
+	  
+		<POI MapID="17" xpos="-702.991" ypos="102.962" zpos="-605.237" type="guildrace.ghostwolfrun.stonetrap" GUID="q/kUQ8IgU0W+NskBVywMEw=="/>
+	  
+		<POI MapID="17" xpos="-692.846" ypos="101.717" zpos="-600.342" type="guildrace.ghostwolfrun.spiketrap" GUID="gxply9jTEkqsVVbO9o8oJQ=="/>
+	  
+		<POI MapID="17" xpos="-680.549" ypos="100.854" zpos="-584.383" type="guildrace.ghostwolfrun.spiketrap" GUID="UBtvRwLIiUeljKKWQgMHhQ=="/>
+	  
+		<POI MapID="17" xpos="-675.327" ypos="103.752" zpos="-565.161" type="guildrace.ghostwolfrun.spiketrap" GUID="rxrZ25habEeRvrC5/nwWuQ=="/>
+	  
+		<POI MapID="17" xpos="-664.697" ypos="100.759" zpos="-580.177" type="guildrace.ghostwolfrun.spiketrap" GUID="mG3/IbPYckygB0jSGSOPiw=="/>
+	  
+		<POI MapID="17" xpos="-662.269" ypos="100.47" zpos="-593.626" type="guildrace.ghostwolfrun.spiketrap" GUID="W5QFjeIdSkiNF/YeSPBBYg=="/>
+	  
+		<POI MapID="17" xpos="-645.488" ypos="101.574" zpos="-597.627" type="guildrace.ghostwolfrun.spiketrap" GUID="WyEAYFXV00a0y0qGkOHeRA=="/>
+	  
+		<POI MapID="17" xpos="-630.473" ypos="98.1892" zpos="-589.091" type="guildrace.ghostwolfrun.spiketrap" GUID="/fjkQPWdQUupdWVesrDNIg=="/>
+	  
+		<POI MapID="17" xpos="-637.445" ypos="103.875" zpos="-610.194" type="guildrace.ghostwolfrun.spiketrap" GUID="+asCf9V170uVzSLv/m7awA=="/>
+	  
+		<POI MapID="17" xpos="-648.143" ypos="104.748" zpos="-615.121" type="guildrace.ghostwolfrun.spiketrap" GUID="aN6I9M9IWkyMm6fk6cbAsg=="/>
+	  
+		<POI MapID="17" xpos="-618.303" ypos="99.7259" zpos="-607.322" type="guildrace.ghostwolfrun.spiketrap" GUID="zihsW77nBUOLgFlq+UKzcw=="/>
+	  
+		<POI MapID="17" xpos="-599.56" ypos="98.4301" zpos="-611.143" type="guildrace.ghostwolfrun.stonetrap" GUID="2XSxiE9oWkOJXzXEnb0lhQ=="/>
+	  
+		<POI MapID="17" xpos="-562.065" ypos="97.4831" zpos="-620.097" type="guildrace.ghostwolfrun.stonetrap" GUID="MrM3g9p7+E6t8IFsoBBZkQ=="/>
+	  
+		<POI MapID="17" xpos="-552.876" ypos="93.0028" zpos="-651.858" type="guildrace.ghostwolfrun.stonetrap" GUID="vW7frJiKfUaAG0kUXvGx/A=="/>
+	  
+		<POI MapID="17" xpos="-555.938" ypos="95.8851" zpos="-633.59" type="guildrace.ghostwolfrun.spiketrap" GUID="Cbzo/bFJHkuyPAgqWmqdyQ=="/>
+	  
+		<POI MapID="17" xpos="-536.92" ypos="89.1958" zpos="-664.896" type="guildrace.ghostwolfrun.spiketrap" GUID="ORpJd1/5hEmMOSsA4iR/pg=="/>
+	  
+		<POI MapID="17" xpos="-528.778" ypos="91.055" zpos="-655.187" type="guildrace.ghostwolfrun.spiketrap" GUID="wPzKEjtlcUy+GA9JZNx2Uw=="/>
+	  
+		<POI MapID="17" xpos="-539.176" ypos="88.5823" zpos="-683.556" type="guildrace.ghostwolfrun.spiketrap" GUID="n9vm3ygumUCK5E/yFSW39w=="/>
+	  
+		<POI MapID="17" xpos="-527.494" ypos="84.4888" zpos="-697.444" type="guildrace.ghostwolfrun.spiketrap" GUID="xm+6kntqWUO0s22n2Ec+0w=="/>
+	  
+		<POI MapID="17" xpos="-519.365" ypos="84.5377" zpos="-684.271" type="guildrace.ghostwolfrun.spiketrap" GUID="dzFjztlkv0S5vNAdLdFQOw=="/>
+	  
+		<POI MapID="17" xpos="-497.798" ypos="81.3132" zpos="-697.148" type="guildrace.ghostwolfrun.spiketrap" GUID="QwU0kN1PMkeT5QEtKNQ8tg=="/>
+	  
+		<POI MapID="17" xpos="-481.713" ypos="71.5214" zpos="-671.774" type="guildrace.ghostwolfrun.spiketrap" GUID="Pr04FLHeQkqWk7Mm9ZXS2A=="/>
+	  
+		<POI MapID="17" xpos="-456.85" ypos="68.0466" zpos="-669.068" type="guildrace.ghostwolfrun.spiketrap" GUID="OJndvo652EqCZtbiCMfLDw=="/>
+	  
+		<POI MapID="17" xpos="-459.558" ypos="66.478" zpos="-685" type="guildrace.ghostwolfrun.spiketrap" GUID="nh5rZVEnKUWicsh3sqgsyg=="/>
+	  
+		<POI MapID="17" xpos="-444.499" ypos="68.0593" zpos="-693.981" type="guildrace.ghostwolfrun.spiketrap" GUID="4mnspmPdO0CFhhQj7oVxwA=="/>
+	  
+		<POI MapID="17" xpos="-487.228" ypos="72.9944" zpos="-711.089" type="guildrace.ghostwolfrun.spiketrap" GUID="uctwI0OnvEuvuPvG5egitg=="/>
+	  
+		<POI MapID="17" xpos="-509.948" ypos="73.6126" zpos="-729.659" type="guildrace.ghostwolfrun.spiketrap" GUID="OVPZTDFcVU2Ylg6NQVUE8A=="/>
+	  
+		<POI MapID="17" xpos="-496.923" ypos="75.0703" zpos="-774.631" type="guildrace.ghostwolfrun.spiketrap" GUID="ywK5XSJIbUecIWRK8ErpBg=="/>
+	  
+		<POI MapID="17" xpos="-498.335" ypos="110.539" zpos="-753.749" type="guildrace.ghostwolfrun.spiketrap" GUID="hT68vyis+UWdRKPrYnpCeA=="/>
+	  
+		<POI MapID="17" xpos="-477.988" ypos="116.241" zpos="-757.028" type="guildrace.ghostwolfrun.stonetrap" GUID="zClc4EViuEKUy77FSS/vdw=="/>
+	  
+		<POI MapID="17" xpos="-433.785" ypos="67.2716" zpos="-675.543" type="guildrace.ghostwolfrun.stonetrap" GUID="/TzFmrUbEka0eW30jP6zNg=="/>
+	  
+		<POI MapID="17" xpos="-416.646" ypos="66.4417" zpos="-686.133" type="guildrace.ghostwolfrun.spiketrap" GUID="TlUb5yOUU0aXGNjjkVvTeQ=="/>
+	  
+		<POI MapID="17" xpos="-410.121" ypos="65.1657" zpos="-673.54" type="guildrace.ghostwolfrun.spiketrap" GUID="uX2KDqifJEGNQrn3JZHRoA=="/>
+	  
+		<POI MapID="17" xpos="-402.135" ypos="64.2991" zpos="-680.161" type="guildrace.ghostwolfrun.stonetrap" GUID="Udishh6C2EyoW9Jl4TdaGA=="/>
+	  
+		<POI MapID="17" xpos="-357.001" ypos="55.3783" zpos="-678.279" type="guildrace.ghostwolfrun.spiketrap" GUID="cYCPja3Jb0SMGl+CjYSIqQ=="/>
+	  
+		<POI MapID="17" xpos="-341.157" ypos="51.7842" zpos="-686.954" type="guildrace.ghostwolfrun.spiketrap" GUID="uijRyeojBUGPdcu7a+Y9Tw=="/>
+	  
+		<POI MapID="17" xpos="-314.572" ypos="48.6902" zpos="-699.703" type="guildrace.ghostwolfrun.stonetrap" GUID="eJl3wFksUEuV5/xfB7Jc7g=="/>
+	  
+		<POI MapID="17" xpos="-289.678" ypos="45.1513" zpos="-713.349" type="guildrace.ghostwolfrun.spiketrap" GUID="f0tDzO7jUk6aLpmp5r3GeQ=="/>
+	  
+		<POI MapID="17" xpos="-285.265" ypos="44.8713" zpos="-724.666" type="guildrace.ghostwolfrun.spiketrap" GUID="O9DGMpeLt0Kvy/ErY2v1Hw=="/>
+	  
+		<POI MapID="17" xpos="-289.302" ypos="45.9312" zpos="-736.678" type="guildrace.ghostwolfrun.spiketrap" GUID="9VJRrlppGkyqBwHORxv/uA=="/>
+	  
+		<POI MapID="17" xpos="-268.916" ypos="42.933" zpos="-724.232" type="guildrace.ghostwolfrun.spiketrap" GUID="Z2JqMXSGh0iTYU9NJMn9QQ=="/>
+	  
+		<POI MapID="17" xpos="-268.572" ypos="45.3223" zpos="-710.036" type="guildrace.ghostwolfrun.spiketrap" GUID="z6SFX1XHzkmVkKf2RTfsgg=="/>
+	  
+		<POI MapID="17" xpos="-268.989" ypos="48.9215" zpos="-758.835" type="guildrace.ghostwolfrun.stonetrap" GUID="IgWAAFpcPkmQKhVze/dY2w=="/>
+	  
+		<POI MapID="17" xpos="-243.567" ypos="41.8052" zpos="-747.618" type="guildrace.ghostwolfrun.spiketrap" GUID="HlYF8iDz7U65Ms0bhn6pkw=="/>
+	  
+		<POI MapID="17" xpos="-221.383" ypos="39.8949" zpos="-743.738" type="guildrace.ghostwolfrun.stonetrap" GUID="fat0BGoRxkuk5gK6oHuZ/Q=="/>
+	  
+		<POI MapID="17" xpos="-202.143" ypos="36.8226" zpos="-736.059" type="guildrace.ghostwolfrun.spiketrap" GUID="zNbkLtWcnk28fuPdKcsP+Q=="/>
+	  
+		<POI MapID="17" xpos="-811.662" ypos="115.471" zpos="-668.834" type="guildrace.ghostwolfrun.path" GUID="4iHu28fgukG73s3pAheHRA=="/>
+	  
+		<POI MapID="17" xpos="-794.353" ypos="112.32" zpos="-679.953" type="guildrace.ghostwolfrun.path" GUID="BvLp27Adj0uEbp1MVAW3gw=="/>
+	  
+		<POI MapID="17" xpos="-786.676" ypos="107.678" zpos="-683.118" type="guildrace.ghostwolfrun.path" GUID="5iL28RyOTEWryf29nJGKAA=="/>
+	  
+		<POI MapID="17" xpos="-773.925" ypos="103.865" zpos="-664.995" type="guildrace.ghostwolfrun.path" GUID="0+6+KvQiMEixT64Fdx9NSg=="/>
+	  
+		<POI MapID="17" xpos="-765.19" ypos="104.159" zpos="-653.667" type="guildrace.ghostwolfrun.path" GUID="GHC9vybJMEW5Re45NAN9Jw=="/>
+	  
+		<POI MapID="17" xpos="-759.651" ypos="104.71" zpos="-640.492" type="guildrace.ghostwolfrun.path" GUID="hpFpeqUZvUODtiSPEoI8Hg=="/>
+	  
+		<POI MapID="17" xpos="-745.848" ypos="105.688" zpos="-638.675" type="guildrace.ghostwolfrun.path" GUID="fDWSpLaq3UuB/W1Y7hxPeQ=="/>
+	  
+		<POI MapID="17" xpos="-736.058" ypos="105.031" zpos="-630.456" type="guildrace.ghostwolfrun.path" GUID="JKCjl8xXuU+mV84AXyhfpA=="/>
+	  
+		<POI MapID="17" xpos="-717.219" ypos="106.209" zpos="-625.022" type="guildrace.ghostwolfrun.dodgejump" GUID="jWbMbR6im0KJ6wtinr4z0A=="/>
+	  
+		<POI MapID="17" xpos="-706.801" ypos="103.913" zpos="-615.282" type="guildrace.ghostwolfrun.path" GUID="hzjqzKB0BkunJ5BLaRCD6g=="/>
+	  
+		<POI MapID="17" xpos="-697.68" ypos="103.162" zpos="-609.848" type="guildrace.ghostwolfrun.path" GUID="hpvnsLJIG0e2ctPVEl2ZQg=="/>
+	  
+		<POI MapID="17" xpos="-674.52" ypos="100.852" zpos="-593.995" type="guildrace.ghostwolfrun.path" GUID="MRjT9Sf6AU2k33q2WBHrbA=="/>
+	  
+		<POI MapID="17" xpos="-664.794" ypos="100.288" zpos="-588.19" type="guildrace.ghostwolfrun.path" GUID="vr8/pS6hrU2gHUzQmhdT+g=="/>
+	  
+		<POI MapID="17" xpos="-649.879" ypos="99.6222" zpos="-590.196" type="guildrace.ghostwolfrun.path" GUID="KAen6gWaz0Kn41WohopowQ=="/>
+	  
+		<POI MapID="17" xpos="-633.75" ypos="99.2166" zpos="-595.375" type="guildrace.ghostwolfrun.path" GUID="RenSfat4JUC1MGFsEfFUHw=="/>
+	  
+		<POI MapID="17" xpos="-622.277" ypos="99.2425" zpos="-599.217" type="guildrace.ghostwolfrun.path" GUID="Xfl4Tox1NUWcx5RhNXUjEQ=="/>
+	  
+		<POI MapID="17" xpos="-608.463" ypos="98.0656" zpos="-607.94" type="guildrace.ghostwolfrun.path" GUID="Nv0C7eAP/0azyiDwUOOfJA=="/>
+	  
+		<POI MapID="17" xpos="-604.722" ypos="99.2833" zpos="-618.329" type="guildrace.ghostwolfrun.path" GUID="k8L1UcQM5UubYzKDDg2w8g=="/>
+	  
+		<POI MapID="17" xpos="-595.578" ypos="99.0709" zpos="-617.319" type="guildrace.ghostwolfrun.path" GUID="Ppw+jg9r3kSP1bW3xzdFQg=="/>
+	  
+		<POI MapID="17" xpos="-588.263" ypos="98.6001" zpos="-611.85" type="guildrace.ghostwolfrun.path" GUID="a/oS0nOZpEuai4w38LCg6Q=="/>
+	  
+		<POI MapID="17" xpos="-571.129" ypos="101.213" zpos="-619.499" type="guildrace.ghostwolfrun.dodgejump" GUID="1SD7QXwB6EyisizzE1l+9g=="/>
+	  
+		<POI MapID="17" xpos="-559.679" ypos="95.8058" zpos="-636.924" type="guildrace.ghostwolfrun.path" GUID="ae5rQ3LKM0m88EWIW6UE4A=="/>
+	  
+		<POI MapID="17" xpos="-552.028" ypos="95.0956" zpos="-640.507" type="guildrace.ghostwolfrun.path" GUID="oQbdmVyrr0e8Obp/qPCumA=="/>
+	  
+		<POI MapID="17" xpos="-543.744" ypos="93.1261" zpos="-650.279" type="guildrace.ghostwolfrun.path" GUID="gEQMp57Gc0GuF6XAcM0oAw=="/>
+	  
+		<POI MapID="17" xpos="-532.838" ypos="89.1143" zpos="-661.622" type="guildrace.ghostwolfrun.path" GUID="L4y8gIL9sUyKInO2e0diuA=="/>
+	  
+		<POI MapID="17" xpos="-526.201" ypos="85.1962" zpos="-680.533" type="guildrace.ghostwolfrun.path" GUID="Ndh0rWd+GEObM5LQpbYLuw=="/>
+	  
+		<POI MapID="17" xpos="-520.154" ypos="82.8572" zpos="-693.638" type="guildrace.ghostwolfrun.path" GUID="xVvQDKaEJESWT+jkLdVLkg=="/>
+	  
+		<POI MapID="17" xpos="-509.172" ypos="79.8609" zpos="-709.692" type="guildrace.ghostwolfrun.path" GUID="kGSNH0KjpUeXQhebVAY6lQ=="/>
+	  
+		<POI MapID="17" xpos="-503.682" ypos="72.5474" zpos="-737.984" type="guildrace.ghostwolfrun.path" GUID="iGIqqoDLQUKc9+zH9spFZQ=="/>
+	  
+		<POI MapID="17" xpos="-496.715" ypos="75.1637" zpos="-742.59" type="guildrace.ghostwolfrun.path" GUID="v3YEbN/Y6kqTptaRqGVAaQ=="/>
+	  
+		<POI MapID="17" xpos="-482.928" ypos="73.3093" zpos="-750.156" type="guildrace.ghostwolfrun.path" GUID="aKTANgWbTEqUhKp1/dkVbg=="/>
+	  
+		<POI MapID="17" xpos="-492.524" ypos="75.0248" zpos="-772.607" type="guildrace.ghostwolfrun.dodgejump" GUID="tAigjqjPTkqcpujnLYlONg=="/>
+	  
+		<POI MapID="17" xpos="-509.25" ypos="75.9152" zpos="-781.8" type="guildrace.ghostwolfrun.path" GUID="/ei9OCF2aEa2dJd23FIFNA=="/>
+	  
+		<POI MapID="17" xpos="-529.784" ypos="88.2265" zpos="-754.388" type="guildrace.ghostwolfrun.path" GUID="u7Dv6mYbJ0GYT3UtdJbPOA=="/>
+	  
+		<POI MapID="17" xpos="-532.196" ypos="95.3467" zpos="-734.808" type="guildrace.ghostwolfrun.path" GUID="/uf9LI9MuU2pBuRuZT+bcQ=="/>
+	  
+		<POI MapID="17" xpos="-514.323" ypos="96.1308" zpos="-734.071" type="guildrace.ghostwolfrun.path" GUID="GJA4jJ0y8EKsSzv1DgjL1w=="/>
+	  
+		<POI MapID="17" xpos="-500.656" ypos="109.989" zpos="-751.261" type="guildrace.ghostwolfrun.dodgejump" GUID="qQzL55sK1EO95Zp4dO4ZZA=="/>
+	  
+		<POI MapID="17" xpos="-484.639" ypos="116.316" zpos="-753.75" type="guildrace.ghostwolfrun.dodgejump" GUID="s95LbUuCfk2fhmJBSfIJcw=="/>
+	  
+		<POI MapID="17" xpos="-469.24" ypos="117.179" zpos="-748.424" type="guildrace.ghostwolfrun.path" GUID="Qym6Q4yjgUikQdU+ya34Cw=="/>
+	  
+		<POI MapID="17" xpos="-461.721" ypos="106.877" zpos="-726.712" type="guildrace.ghostwolfrun.path" GUID="BDPGhtyKmEWdb2FfaU3wrg=="/>
+	  
+		<POI MapID="17" xpos="-456.414" ypos="99.7256" zpos="-715.628" type="guildrace.ghostwolfrun.path" GUID="FnWRgpLCzEeOEmswPdf7gw=="/>
+	  
+		<POI MapID="17" xpos="-451.08" ypos="92.0869" zpos="-709.77" type="guildrace.ghostwolfrun.path" GUID="j89vDdkw00Wv/oJcoLna9g=="/>
+	  
+		<POI MapID="17" xpos="-444.527" ypos="83.4882" zpos="-699.077" type="guildrace.ghostwolfrun.path" GUID="7KgznCpaYkmoDZ0XxVZ3ag=="/>
+	  
+		<POI MapID="17" xpos="-440.055" ypos="68.3274" zpos="-696.336" type="guildrace.ghostwolfrun.path" GUID="MdyRrUSUH0aBjYZIhl1A6g=="/>
+	  
+		<POI MapID="17" xpos="-419.772" ypos="65.4388" zpos="-682.51" type="guildrace.ghostwolfrun.path" GUID="Pl8o9WT4g0eF+zlYwnuOhg=="/>
+	  
+		<POI MapID="17" xpos="-410.659" ypos="64.7122" zpos="-678.004" type="guildrace.ghostwolfrun.dodgejump" GUID="IHTXk/s2ZE6h8ggrOeoR3Q=="/>
+	  
+		<POI MapID="17" xpos="-401.93" ypos="66.0744" zpos="-671.41" type="guildrace.ghostwolfrun.path" GUID="acvKu2wHNk2OzgRknDCvvA=="/>
+	  
+		<POI MapID="17" xpos="-385.542" ypos="62.4095" zpos="-676.435" type="guildrace.ghostwolfrun.path" GUID="QcFlMHbPbEKbc9fKGyeBDQ=="/>
+	  
+		<POI MapID="17" xpos="-359.25" ypos="55.5576" zpos="-682.938" type="guildrace.ghostwolfrun.path" GUID="YxWmjWHzXU2FSeRmVefr7Q=="/>
+	  
+		<POI MapID="17" xpos="-342.017" ypos="52.2617" zpos="-682.129" type="guildrace.ghostwolfrun.path" GUID="XhmvqJYoGUCnznoGKYhHkQ=="/>
+	  
+		<POI MapID="17" xpos="-320.535" ypos="49.0185" zpos="-695.216" type="guildrace.ghostwolfrun.dodgejump" GUID="LoMZmslFIE+H4B1ao2+1Tg=="/>
+	  
+		<POI MapID="17" xpos="-300.912" ypos="46.1294" zpos="-711.731" type="guildrace.ghostwolfrun.path" GUID="OnNfRBszAES2Z1NSWsWXbA=="/>
+	  
+		<POI MapID="17" xpos="-289.817" ypos="44.7857" zpos="-717.949" type="guildrace.ghostwolfrun.path" GUID="+1zTyhrmVkSYoVTNolC7dQ=="/>
+	  
+		<POI MapID="17" xpos="-280.955" ypos="44.0973" zpos="-721.276" type="guildrace.ghostwolfrun.path" GUID="IEh0l/yJU0eL9k0zFpRa6Q=="/>
+	  
+		<POI MapID="17" xpos="-265.857" ypos="43.1445" zpos="-733.065" type="guildrace.ghostwolfrun.path" GUID="qhW4QyMMhECwqDFRs1cZVg=="/>
+	  
+		<POI MapID="17" xpos="-241.598" ypos="41.7373" zpos="-742.905" type="guildrace.ghostwolfrun.path" GUID="8ymAQW7Un0CNAstN3LqvoQ=="/>
+	  
+		<POI MapID="17" xpos="-230.379" ypos="41.0661" zpos="-742.8" type="guildrace.ghostwolfrun.path" GUID="KPDIRZjbXkynBnc+BFHdLA=="/>
+	  
+		<POI MapID="17" xpos="-225.377" ypos="43.0103" zpos="-737.706" type="guildrace.ghostwolfrun.path" GUID="UvqT9pka+UGywUSb363NyA=="/>
+	  
+		<POI MapID="17" xpos="-217.983" ypos="40.4021" zpos="-736.313" type="guildrace.ghostwolfrun.path" GUID="cZobOu62Bk+9dezxZj6quQ=="/>
+	  
+		<POI MapID="17" xpos="-207.097" ypos="37.6441" zpos="-736.294" type="guildrace.ghostwolfrun.dodgejump" GUID="Wm4Sj2XPF0SEvwNxhSA59w=="/>
+	  
+		<POI MapID="17" xpos="-191.005" ypos="33.7481" zpos="-733.196" type="guildrace.ghostwolfrun.path" GUID="9DiXECIjYEG8QviA5AD/wQ=="/>
+	  
+		<POI MapID="17" xpos="-177.934" ypos="26.7021" zpos="-701.353" type="guildrace.ghostwolfrun.path" GUID="n5+PNjJFZEWwk2nXM/DyMA=="/>
+		
+		
+		
+		<POI MapID="873" xpos="276.648" ypos="0.465833" zpos="99.2602" type="guildrace.crabscuttle.trap" GUID="sPzHUBRl8U6aVijcTYdUXg=="/>
+  
+		<POI MapID="873" xpos="280.276" ypos="2.64071" zpos="104.15" type="guildrace.crabscuttle.trap" GUID="JPMyvVqmWkOVkU9gIvzfHw=="/>
+	  
+		<POI MapID="873" xpos="343.436" ypos="5.46002" zpos="-56.9183" type="guildrace.crabscuttle.trap" GUID="KInde49gJUeVUsf2zAP6pA=="/>
+	  
+		<POI MapID="873" xpos="334.519" ypos="3.90526" zpos="-59.8134" type="guildrace.crabscuttle.trap" GUID="/EztwHjcxUyaJwzbZbWHHw=="/>
+	  
+		<POI MapID="873" xpos="338.174" ypos="3.89295" zpos="-56.5036" type="guildrace.crabscuttle.trap" GUID="djwHQ0Emx0mAjhAU276bZQ=="/>
+	  
+		<POI MapID="873" xpos="304.476" ypos="0.430809" zpos="-143.565" type="guildrace.crabscuttle.trap" GUID="fauRSn1rhE63MUTr/68Ocg=="/>
+	  
+		<POI MapID="873" xpos="335.951" ypos="11.0859" zpos="-81.6331" type="guildrace.crabscuttle.trap" GUID="kv2DQ0S09UaO4vvUUxsA0A=="/>
+	  
+		<POI MapID="873" xpos="327.58" ypos="0.559595" zpos="-152.61" type="guildrace.crabscuttle.trap" GUID="tmbba+MOm0O6db7gcGCPeg=="/>
+	  
+		<POI MapID="873" xpos="350.257" ypos="6.68031" zpos="-206.432" type="guildrace.crabscuttle.trap" GUID="AkbY15XiOEOzp1tD88/Tig=="/>
+	  
+		<POI MapID="873" xpos="345.515" ypos="0.455911" zpos="-229.317" type="guildrace.crabscuttle.trap" GUID="ox2WNj32wkipnsVJ4KPMMw=="/>
+	  
+		<POI MapID="873" xpos="349.951" ypos="0.430412" zpos="-240.626" type="guildrace.crabscuttle.trap" GUID="z/3x5JaKVEuSf2qKqh0Pyg=="/>
+	  
+		<POI MapID="873" xpos="305.394" ypos="0.817167" zpos="-200.241" type="guildrace.crabscuttle.trap" GUID="de1ta0YJqkmL2l3+U3wzQA=="/>
+	  
+		<POI MapID="873" xpos="290.603" ypos="0.627461" zpos="-181.705" type="guildrace.crabscuttle.trap" GUID="ui56485tpUOTvWG4UHc9PA=="/>
+	  
+		<POI MapID="873" xpos="286.217" ypos="0.734915" zpos="-165.94" type="guildrace.crabscuttle.trap" GUID="smjeaFUQ7kicJ9pEMgz+Jw=="/>
+	  
+		<POI MapID="873" xpos="288.033" ypos="0.625675" zpos="-163.048" type="guildrace.crabscuttle.trap" GUID="dVU16cSLd0KPyeTzWYy3SQ=="/>
+	  
+		<POI MapID="873" xpos="289.396" ypos="0.80417" zpos="-160.888" type="guildrace.crabscuttle.trap" GUID="CWtHmMtcaEyufgEG1gNpkQ=="/>
+	  
+		<POI MapID="873" xpos="378.971" ypos="0.607418" zpos="-220.326" type="guildrace.crabscuttle.trap" GUID="9ui1wmxL+E+vJUc756vz6g=="/>
+	  
+		<POI MapID="873" xpos="416.737" ypos="0.564457" zpos="-243.168" type="guildrace.crabscuttle.trap" GUID="8XFwwEQYtkidVyJXPmCXlQ=="/>
+	  
+		<POI MapID="873" xpos="453.431" ypos="7.9393" zpos="-303.842" type="guildrace.crabscuttle.trap" GUID="U45T9/kJr0SjN5Nx2BKWGQ=="/>
+	  
+		<POI MapID="873" xpos="449.858" ypos="5.02604" zpos="-302.934" type="guildrace.crabscuttle.trap" GUID="p8a/4tPBuUWT7/PUHnSivA=="/>
+	  
+		<POI MapID="873" xpos="451.486" ypos="4.41366" zpos="-309.065" type="guildrace.crabscuttle.trap" GUID="nUQnU0+l00KeWrb3Z+H9kQ=="/>
+	  
+		<POI MapID="873" xpos="472.167" ypos="17.8641" zpos="-300.522" type="guildrace.crabscuttle.trap" GUID="iGJN9vhFGk+G39uO0UlYiQ=="/>
+	  
+		<POI MapID="873" xpos="571.406" ypos="34.445" zpos="-194.429" type="guildrace.crabscuttle.trap" GUID="3KR6CBiGREKAf3Weg+GZ5w=="/>
+	  
+		<POI MapID="873" xpos="449.956" ypos="5.71581" zpos="-297.25" type="guildrace.crabscuttle.trap" GUID="RIbT8tef6kux/HTLeN0nmQ=="/>
+	  
+		<POI MapID="873" xpos="584.277" ypos="33.1305" zpos="-185.503" type="guildrace.crabscuttle.trap" GUID="2JHbzvXVoU2CP2IjbrVhgQ=="/>
+	  
+		<POI MapID="873" xpos="598.108" ypos="33.1589" zpos="-176.31" type="guildrace.crabscuttle.trap" GUID="cVqXCgrBXUiO+GkFkY+wJA=="/>
+	  
+		<POI MapID="873" xpos="564.673" ypos="32.3187" zpos="-124.726" type="guildrace.crabscuttle.trap" GUID="DWPFpl9LLkKeat6pJEGd0w=="/>
+	  
+		<POI MapID="873" xpos="560.74" ypos="32.1692" zpos="-129.191" type="guildrace.crabscuttle.trap" GUID="9gNs3E2O/EeU4c7DlOLEOg=="/>
+	  
+		<POI MapID="873" xpos="567.707" ypos="31.782" zpos="-129.034" type="guildrace.crabscuttle.trap" GUID="2PJ/YQ8av0my/BNfsftYiA=="/>
+	  
+		<POI MapID="873" xpos="546.241" ypos="36.6949" zpos="-113.653" type="guildrace.crabscuttle.trap" GUID="7sU9KbDykUGfxzMBsiIGIQ=="/>
+	  
+		<POI MapID="873" xpos="545.73" ypos="37.3251" zpos="-97.4104" type="guildrace.crabscuttle.trap" GUID="XKsVSeybK0euNfJorAnDuQ=="/>
+	  
+		<POI MapID="873" xpos="520.46" ypos="37.4467" zpos="-86.0936" type="guildrace.crabscuttle.trap" GUID="W3CDo8E2yUeZfrcpsaNhgQ=="/>
+	  
+		<POI MapID="873" xpos="504.376" ypos="39.9506" zpos="-72.8711" type="guildrace.crabscuttle.trap" GUID="vBWWsv+V80CwM3JrV+TL9A=="/>
+	  
+		<POI MapID="873" xpos="522.776" ypos="41.5756" zpos="-56.6367" type="guildrace.crabscuttle.trap" GUID="eKjtyaT0Wk+wo4daK0dvaQ=="/>
+	  
+		<POI MapID="873" xpos="271.615" ypos="-0.676872" zpos="133.645" type="guildrace.crabscuttle.path" GUID="+MDLLVeCqk+4Fc+ASUjwBw=="/>
+	  
+		<POI MapID="873" xpos="245.486" ypos="-0.675979" zpos="117.67" type="guildrace.crabscuttle.path" GUID="Nh2QyjqLeU26XS7kGXa1Yg=="/>
+	  
+		<POI MapID="873" xpos="244.138" ypos="-0.676673" zpos="101.371" type="guildrace.crabscuttle.path" GUID="V6KmJx5rsEeyX6+LYOPsQg=="/>
+	  
+		<POI MapID="873" xpos="255.053" ypos="-0.50681" zpos="85.9429" type="guildrace.crabscuttle.path" GUID="plnbUqvMUU2WLjZTEmAvtQ=="/>
+	  
+		<POI MapID="873" xpos="285.47" ypos="-0.656929" zpos="81.2798" type="guildrace.crabscuttle.path" GUID="13+J87bLfk6a4vXRb5jE1w=="/>
+	  
+		<POI MapID="873" xpos="306.138" ypos="0.619622" zpos="65.2271" type="guildrace.crabscuttle.path" GUID="VAPkP9PutUyRAIyJuBGsNw=="/>
+	  
+		<POI MapID="873" xpos="309.303" ypos="-0.0988221" zpos="48.5613" type="guildrace.crabscuttle.path" GUID="vrj4LhSkpUCEUczz8oR0hw=="/>
+	  
+		<POI MapID="873" xpos="320.05" ypos="-0.671613" zpos="33.3035" type="guildrace.crabscuttle.path" GUID="NWIu+Dpf+kqqD7Llr5+jbw=="/>
+	  
+		<POI MapID="873" xpos="330.339" ypos="-0.597497" zpos="12.1487" type="guildrace.crabscuttle.path" GUID="EwKu9mOe10OzMZtkpJi+kQ=="/>
+	  
+		<POI MapID="873" xpos="338.81" ypos="0.433091" zpos="-19.8163" type="guildrace.crabscuttle.path" GUID="kk1mlyIGYUeVswl2wsdSMQ=="/>
+	  
+		<POI MapID="873" xpos="340.709" ypos="2.68645" zpos="-52.9396" type="guildrace.crabscuttle.dodgejump" GUID="s6OMu1PVpUKSG2/OPS9oyg=="/>
+	  
+		<POI MapID="873" xpos="329.046" ypos="7.10993" zpos="-72.6908" type="guildrace.crabscuttle.path" GUID="l4qgOlzrRkCqV5+BJM/qGA=="/>
+	  
+		<POI MapID="873" xpos="329.964" ypos="10.9938" zpos="-83.702" type="guildrace.crabscuttle.path" GUID="0ar3yU0rxkabUdnp/nDStg=="/>
+	  
+		<POI MapID="873" xpos="331.914" ypos="10.0456" zpos="-94.6058" type="guildrace.crabscuttle.path" GUID="02s7sDMwpkGfv99mNZJkFQ=="/>
+	  
+		<POI MapID="873" xpos="323.153" ypos="1.72879" zpos="-130.002" type="guildrace.crabscuttle.path" GUID="0CVIGIgO1UOSSqP3NujGpw=="/>
+	  
+		<POI MapID="873" xpos="310.195" ypos="-0.29726" zpos="-149.458" type="guildrace.crabscuttle.path" GUID="ux2x/mBInU6No+umYXsipg=="/>
+	  
+		<POI MapID="873" xpos="299.693" ypos="0.61109" zpos="-153.414" type="guildrace.crabscuttle.path" GUID="atXHdsNtIkGGcVSX9KA8cQ=="/>
+	  
+		<POI MapID="873" xpos="287.052" ypos="0.678955" zpos="-158.493" type="guildrace.crabscuttle.dodgejump" GUID="5FGT0jklek+RaeT8SJHE9g=="/>
+	  
+		<POI MapID="873" xpos="285.951" ypos="0.574378" zpos="-177.352" type="guildrace.crabscuttle.path" GUID="a5Ch5oMg3UyCBoGX3/ESCQ=="/>
+	  
+		<POI MapID="873" xpos="287.016" ypos="0.564457" zpos="-191.8" type="guildrace.crabscuttle.path" GUID="ltwieygsLEaaAm652qkPaw=="/>
+	  
+		<POI MapID="873" xpos="298.826" ypos="0.533996" zpos="-202.809" type="guildrace.crabscuttle.path" GUID="DrhT7h6VuUetYiQuQYjtSA=="/>
+	  
+		<POI MapID="873" xpos="321.528" ypos="0.243483" zpos="-219.397" type="guildrace.crabscuttle.path" GUID="95pjnso+LUOxsVoFHDrO3Q=="/>
+	  
+		<POI MapID="873" xpos="326.606" ypos="-0.606129" zpos="-236.098" type="guildrace.crabscuttle.path" GUID="mH2pg4nkEky1qkpd98oamw=="/>
+	  
+		<POI MapID="873" xpos="341.973" ypos="-0.227211" zpos="-252.334" type="guildrace.crabscuttle.path" GUID="oxmq/1VoU0K4uEI6iRlLcA=="/>
+	  
+		<POI MapID="873" xpos="364.043" ypos="0.443608" zpos="-238.83" type="guildrace.crabscuttle.path" GUID="K+NW1ISKZ0uWyhvVKwmssw=="/>
+	  
+		<POI MapID="873" xpos="381.747" ypos="-0.901999" zpos="-253.462" type="guildrace.crabscuttle.path" GUID="PRNeJ4W44kujJP/pd8y/eA=="/>
+	  
+		<POI MapID="873" xpos="387.867" ypos="-1.05797" zpos="-264.99" type="guildrace.crabscuttle.path" GUID="vCjbVubMi0GeSveJAP8igw=="/>
+	  
+		<POI MapID="873" xpos="414.81" ypos="-0.671216" zpos="-280.264" type="guildrace.crabscuttle.path" GUID="nRskNsC0FE6rbH8+R5/FyQ=="/>
+	  
+		<POI MapID="873" xpos="429.865" ypos="-0.670422" zpos="-298.675" type="guildrace.crabscuttle.path" GUID="/inZ+vzJ5EC+HNKeaV5i+A=="/>
+	  
+		<POI MapID="873" xpos="442.149" ypos="0.388244" zpos="-312.635" type="guildrace.crabscuttle.path" GUID="v4+6cWKvJUCRSoYeeEEjjg=="/>
+	  
+		<POI MapID="873" xpos="455.476" ypos="6.5543" zpos="-322.989" type="guildrace.crabscuttle.path" GUID="fwPok2F7jkSSP36vV7EiBw=="/>
+	  
+		<POI MapID="873" xpos="470.141" ypos="15.9839" zpos="-305.217" type="guildrace.crabscuttle.dodgejump" GUID="NMlhYgpJGUGWPVusM5UFkA=="/>
+	  
+		<POI MapID="873" xpos="482.587" ypos="27.0131" zpos="-281.472" type="guildrace.crabscuttle.path" GUID="3lJ5G9BjbEi3/YaemM0mig=="/>
+	  
+		<POI MapID="873" xpos="580.532" ypos="33.2376" zpos="-196.825" type="guildrace.crabscuttle.dodgejump" GUID="/PnfJUHu0UCDlg9NH20Avg=="/>
+	  
+		<POI MapID="873" xpos="578.156" ypos="32.9967" zpos="-186.856" type="guildrace.crabscuttle.trap" GUID="G6fdJ8TmN0e1r/vRwgdBWw=="/>
+	  
+		<POI MapID="873" xpos="514.191" ypos="43.3048" zpos="-282.668" type="guildrace.crabscuttle.path" GUID="L/Q/Y8Kgg0CfBIMOvCYYyQ=="/>
+	  
+		<POI MapID="873" xpos="534.3" ypos="39.8866" zpos="-290.384" type="guildrace.crabscuttle.path" GUID="X5sOjZ0f3ESRgLHU5kOGyw=="/>
+	  
+		<POI MapID="873" xpos="546.762" ypos="34.348" zpos="-290.504" type="guildrace.crabscuttle.path" GUID="OG4n3M+8wE6N/JIpiTZ71g=="/>
+	  
+		<POI MapID="873" xpos="556.257" ypos="32.1638" zpos="-285.491" type="guildrace.crabscuttle.path" GUID="Fv+q2TyUmUi5AzvKUCZz4w=="/>
+	  
+		<POI MapID="873" xpos="573.234" ypos="31.5318" zpos="-269.311" type="guildrace.crabscuttle.path" GUID="i9RjydZEOUSqHFtjbpf7dA=="/>
+	  
+		<POI MapID="873" xpos="575.468" ypos="31.547" zpos="-250.167" type="guildrace.crabscuttle.path" GUID="bIVNC5Qg7E66dE/qIXjPag=="/>
+	  
+		<POI MapID="873" xpos="574.427" ypos="34.1024" zpos="-231.201" type="guildrace.crabscuttle.path" GUID="fULqxotxpUqROSsa7gdqCg=="/>
+	  
+		<POI MapID="873" xpos="565.349" ypos="34.4186" zpos="-218.906" type="guildrace.crabscuttle.path" GUID="26qzGJENx0Sy4y7VyGMOvg=="/>
+	  
+		<POI MapID="873" xpos="567.225" ypos="35.2451" zpos="-208.833" type="guildrace.crabscuttle.path" GUID="BcoOb75ZzEiQQmt0/Mwdig=="/>
+	  
+		<POI MapID="873" xpos="573.024" ypos="32.2102" zpos="-173.799" type="guildrace.crabscuttle.path" GUID="Crm0aOlYSEOKe5ZozpHWYw=="/>
+	  
+		<POI MapID="873" xpos="549.161" ypos="34.0805" zpos="-167.184" type="guildrace.crabscuttle.path" GUID="K2GPyPY/yE+R8ybRUQAV7g=="/>
+	  
+		<POI MapID="873" xpos="535.223" ypos="34.5705" zpos="-150.864" type="guildrace.crabscuttle.path" GUID="wEi2InxmQUO3VhtWxevOPw=="/>
+	  
+		<POI MapID="873" xpos="530.51" ypos="36.9712" zpos="-143.65" type="guildrace.crabscuttle.path" GUID="qvEduXmLZUy8oa0ksTkHaA=="/>
+	  
+		<POI MapID="873" xpos="514.129" ypos="36.3322" zpos="-126.599" type="guildrace.crabscuttle.path" GUID="2qOhoEbMsUGOHK8D3rFoug=="/>
+	  
+		<POI MapID="873" xpos="503.77" ypos="38.2828" zpos="-102.215" type="guildrace.crabscuttle.path" GUID="hX8LuKa7V0+v7QKQC+Bebw=="/>
+	  
+		<POI MapID="873" xpos="489.865" ypos="40.8579" zpos="-106.646" type="guildrace.crabscuttle.path" GUID="j0znI6nLbEmaDzszFu/vFQ=="/>
+	  
+		<POI MapID="873" xpos="517.045" ypos="37.6328" zpos="-88.3684" type="guildrace.crabscuttle.dodgejump" GUID="IpzUfCyefkmK06P4vbDcww=="/>
+	  
+		<POI MapID="873" xpos="469.006" ypos="47.808" zpos="-94.7706" type="guildrace.crabscuttle.path" GUID="9atw9v8B0U6QwpLDIeG+5Q=="/>
+	  
+		<POI MapID="873" xpos="453.666" ypos="52.4431" zpos="-90.8483" type="guildrace.crabscuttle.path" GUID="iRe1baAdFk+g4c5fudE24A=="/>
+	  
+		<POI MapID="873" xpos="434.733" ypos="53.3587" zpos="-86.9591" type="guildrace.crabscuttle.path" GUID="/IDJ5bHs7kCQYyO0bhu2mg=="/>
+	  
+		<POI MapID="873" xpos="419.087" ypos="55.3113" zpos="-83.7539" type="guildrace.crabscuttle.path" GUID="+qWc1W4nlE28LHeXdjrZYA=="/>
+	  
+		<POI MapID="873" xpos="407.478" ypos="57.8712" zpos="-78.1023" type="guildrace.crabscuttle.path" GUID="FsuPlFMVK0qLgs93CJ7F/w=="/>
+	  
+		<POI MapID="873" xpos="402.038" ypos="60.7772" zpos="-62.1271" type="guildrace.crabscuttle.path" GUID="MEfdEXJmb0aMHK18bt1heg=="/>
+	  
+		<POI MapID="873" xpos="397.843" ypos="68.3317" zpos="-37.9018" type="guildrace.crabscuttle.dodgejump" GUID="evX64tqcL0SohuCH/GhDRQ=="/>
+	  
+		<POI MapID="873" xpos="396.008" ypos="49.4611" zpos="-31.9355" type="guildrace.crabscuttle.dodgejump" GUID="Q4nGlDazmkieG1YuRDxvoA=="/>
+	  
+		<POI MapID="873" xpos="383.068" ypos="47.7256" zpos="-47.6219" type="guildrace.crabscuttle.path" GUID="dCbH0QXmNE2pK3kxQ6aCzQ=="/>
+	  
+		<POI MapID="873" xpos="374.453" ypos="47.3208" zpos="-62.9848" type="guildrace.crabscuttle.path" GUID="xM8M05sYmE+oh3ytYBeyAg=="/>
+	  
+		<POI MapID="873" xpos="363.832" ypos="45.9425" zpos="-74.6055" type="guildrace.crabscuttle.path" GUID="99fU8kVcKEWfwfwSoPUOiA=="/>
+	  
+		<POI MapID="873" xpos="356.089" ypos="44.4919" zpos="-81.5443" type="guildrace.crabscuttle.path" GUID="taVHsGth0UyrhTyJXEDH9A=="/>
+	  
+		<POI MapID="873" xpos="338.036" ypos="41.1275" zpos="-91.5305" type="guildrace.crabscuttle.path" GUID="giXm9e3piEW8xzk98X9KXA=="/>
+	  
+		<POI MapID="873" xpos="317.911" ypos="40.9809" zpos="-97.034" type="guildrace.crabscuttle.path" GUID="qQtppGDpg0qgoy+QzEQOoQ=="/>
+	  
+		<POI MapID="873" xpos="294.378" ypos="42.1261" zpos="-102.422" type="guildrace.crabscuttle.path" GUID="fPN98KttJkCBXvHLOnYlfQ=="/>
+	  
+		<POI MapID="873" xpos="267.306" ypos="45.4459" zpos="-98.1588" type="guildrace.crabscuttle.path" GUID="1ukzY4rYXkq4kdxlPM/zyg=="/>
+	  
+		<POI MapID="873" xpos="242.787" ypos="48.4172" zpos="-89.46" type="guildrace.crabscuttle.path" GUID="/aoqiiKlvUusF5gfqVwpxg=="/>
+	  
+		<POI MapID="873" xpos="214.573" ypos="48.4167" zpos="-79.7564" type="guildrace.crabscuttle.path" GUID="uF6mu+mX1E2IulzCfro9iQ=="/>
+	  
+		<POI MapID="873" xpos="198.825" ypos="48.4172" zpos="-74.3429" type="guildrace.crabscuttle.path" GUID="4JenUsEF/E6fMrkDyh8Fzw=="/>
+	  
+		<POI MapID="873" xpos="177.46" ypos="46.1121" zpos="-68.7997" type="guildrace.crabscuttle.trap" GUID="0lV0AzvMz0i0z1QFWLMY+w=="/>
+	  
+		<POI MapID="873" xpos="174.864" ypos="46.1361" zpos="-57.0074" type="guildrace.crabscuttle.trap" GUID="1TT+XhAfj0Kv4z/RReGFTg=="/>
+	  
+		<POI MapID="873" xpos="160.329" ypos="46.6013" zpos="-47.4978" type="guildrace.crabscuttle.trap" GUID="yvECAl8kx0Cw3UNUQ3UGHg=="/>
+	  
+		<POI MapID="873" xpos="138.746" ypos="46.3191" zpos="-49.9477" type="guildrace.crabscuttle.trap" GUID="dBnfJo66ckKpVUpqQ29l5w=="/>
+	  
+		<POI MapID="873" xpos="515.851" ypos="36.2716" zpos="-103.93" type="guildrace.crabscuttle.path" GUID="ysIBjljMWkqMeKqmxWSPlw=="/>
+	  
+		<POI MapID="873" xpos="163.632" ypos="46.1539" zpos="-69.9456" type="guildrace.crabscuttle.trap" GUID="PMH8lK+5qE6EEvFg/9Qr6Q=="/>
+	  
+		<POI MapID="873" xpos="143.532" ypos="46.783" zpos="-34.2781" type="guildrace.crabscuttle.trap" GUID="D1S+9M992kOvU3Ri4/sSTg=="/>
+	  
+		<POI MapID="873" xpos="125.798" ypos="45.7817" zpos="-75.4895" type="guildrace.crabscuttle.trap" GUID="QA4p3eomuUKVMQ256dbW8g=="/>
+	  
+		<POI MapID="873" xpos="123.691" ypos="45.3622" zpos="-62.8417" type="guildrace.crabscuttle.trap" GUID="5Pmxc37s2ECrwI7cZ3bRhg=="/>
+	  
+		<POI MapID="873" xpos="95.8439" ypos="44.2738" zpos="-55.7042" type="guildrace.crabscuttle.trap" GUID="2WWd/QDd/EO9AAsohkmvyg=="/>
+	  
+		<POI MapID="873" xpos="110.189" ypos="44.8535" zpos="-42.78" type="guildrace.crabscuttle.trap" GUID="KX4QB2tuc0OM63uCJtclNA=="/>
+	  
+		<POI MapID="873" xpos="100.387" ypos="44.8762" zpos="-38.2948" type="guildrace.crabscuttle.trap" GUID="lI3zIfgD/kmndtamedpfeg=="/>
+	  
+		<POI MapID="873" xpos="181.26" ypos="46.2165" zpos="-64.509" type="guildrace.crabscuttle.path" GUID="S4Xt0bVQrk2kbzuIjoKDmg=="/>
+	  
+		<POI MapID="873" xpos="173.231" ypos="46.0963" zpos="-62.5874" type="guildrace.crabscuttle.path" GUID="AgQ3kMqoUUeZsihmkQ2P8g=="/>
+	  
+		<POI MapID="873" xpos="157.305" ypos="46.2097" zpos="-55.4033" type="guildrace.crabscuttle.path" GUID="jHMxTWhYLEW3ZGGj/xUGTQ=="/>
+	  
+		<POI MapID="873" xpos="140.887" ypos="46.2916" zpos="-54.7905" type="guildrace.crabscuttle.path" GUID="bb4O7J38NE6xwdrrYW794w=="/>
+	  
+		<POI MapID="873" xpos="128.104" ypos="45.6804" zpos="-60.4451" type="guildrace.crabscuttle.dodgejump" GUID="UbXJ9BeLN0yNvc0qMcbuuQ=="/>
+	  
+		<POI MapID="873" xpos="109.306" ypos="45.4468" zpos="-67.2323" type="guildrace.crabscuttle.path" GUID="bPEg4+rgUkOF57CILYm7wQ=="/>
+	  
+		<POI MapID="873" xpos="98.5204" ypos="44.3871" zpos="-75.6795" type="guildrace.crabscuttle.path" GUID="zmgIUES470CClWmTJo2b2w=="/>
+		
+		
+		
+		<POI MapID="32" xpos="177.489" ypos="16.8209" zpos="403.922" type="guildrace.devourerburrow.spiketrap" GUID="EHoIf2UVqUW/0/VNKbWgEw=="/>
+  
+		<POI MapID="32" xpos="204.476" ypos="10.2816" zpos="403.717" type="guildrace.devourerburrow.spiketrap" GUID="LUTRJcwGP0qP8FThb+VzKg=="/>
+	  
+		<POI MapID="32" xpos="186.187" ypos="15.6747" zpos="415.923" type="guildrace.devourerburrow.stonetrap" GUID="mDTMeOOnA0CqDb7m6NVRuw=="/>
+	  
+		<POI MapID="32" xpos="158.544" ypos="22.2838" zpos="427.946" type="guildrace.devourerburrow.stonetrap" GUID="pSzdNx7850qnFYChoS1UsQ=="/>
+	  
+		<POI MapID="32" xpos="130.716" ypos="25.0448" zpos="385.533" type="guildrace.devourerburrow.spiketrap" GUID="Nec7ammiYkaU45aVW8l40A=="/>
+	  
+		<POI MapID="32" xpos="116.709" ypos="29.969" zpos="397.415" type="guildrace.devourerburrow.spiketrap" GUID="vwNqDYcPH0y3y3clTL8Vfg=="/>
+	  
+		<POI MapID="32" xpos="109.678" ypos="27.1733" zpos="379.466" type="guildrace.devourerburrow.spiketrap" GUID="2zcRW55LzkeLjF0nOwjLjA=="/>
+	  
+		<POI MapID="32" xpos="176.126" ypos="18.2575" zpos="426.803" type="guildrace.devourerburrow.spiketrap" GUID="O7uHGiVl0EeBPbUubb7L1A=="/>
+	  
+		<POI MapID="32" xpos="102.558" ypos="31.5785" zpos="386.599" type="guildrace.devourerburrow.spiketrap" GUID="18gjNsGJj0OZ8WovpAerBw=="/>
+	  
+		<POI MapID="32" xpos="88.1018" ypos="29.8778" zpos="375.414" type="guildrace.devourerburrow.spiketrap" GUID="iMbD2KEAIEi7WwB9Mpksag=="/>
+	  
+		<POI MapID="32" xpos="46.3132" ypos="38.1474" zpos="401.958" type="guildrace.devourerburrow.spiketrap" GUID="S/ebf68ZyEeFsD880dcTDw=="/>
+	  
+		<POI MapID="32" xpos="83.9007" ypos="51.6133" zpos="451.822" type="guildrace.devourerburrow.spiketrap" GUID="DpPTf6jTfkqQ0nOsqoWLSA=="/>
+	  
+		<POI MapID="32" xpos="74.4893" ypos="50.8775" zpos="453.715" type="guildrace.devourerburrow.stonetrap" GUID="p1W14PxHBU+qL8zmsyKx0g=="/>
+	  
+		<POI MapID="32" xpos="98.7143" ypos="60.6296" zpos="524.594" type="guildrace.devourerburrow.spiketrap" GUID="hUBio11NK06Uti5xGEpJIA=="/>
+	  
+		<POI MapID="32" xpos="93.8363" ypos="60.7226" zpos="511.502" type="guildrace.devourerburrow.stonetrap" GUID="oJ5zAQHgiE+WLl+u7UT/xw=="/>
+	  
+		<POI MapID="32" xpos="105.474" ypos="62.3632" zpos="518.1" type="guildrace.devourerburrow.spiketrap" GUID="6wwJfSAoDUW3YtpyxWzYRA=="/>
+	  
+		<POI MapID="32" xpos="142.578" ypos="69.6423" zpos="532.303" type="guildrace.devourerburrow.stonetrap" GUID="+Ob+usTYy0CGWqMi1hS8eA=="/>
+	  
+		<POI MapID="32" xpos="132.944" ypos="71.9382" zpos="549.774" type="guildrace.devourerburrow.spiketrap" GUID="74r6eG20Kk+YLNPsuNhV6Q=="/>
+	  
+		<POI MapID="32" xpos="117.626" ypos="77.5291" zpos="589.762" type="guildrace.devourerburrow.spiketrap" GUID="7ryh/zoLVkeatdv1UNcyVQ=="/>
+	  
+		<POI MapID="32" xpos="107.961" ypos="78.8438" zpos="602.661" type="guildrace.devourerburrow.spiketrap" GUID="jTCGRyQjukiE4p1v8yK2Pg=="/>
+	  
+		<POI MapID="32" xpos="56.2625" ypos="85.8122" zpos="611.199" type="guildrace.devourerburrow.spiketrap" GUID="6ElM6WFBF06UBrOcuy/+DQ=="/>
+	  
+		<POI MapID="32" xpos="45.4927" ypos="89.0529" zpos="624.718" type="guildrace.devourerburrow.spiketrap" GUID="Ta2tHbYXUUiob7oOoK6N8g=="/>
+	  
+		<POI MapID="32" xpos="57.5501" ypos="87.1971" zpos="623.571" type="guildrace.devourerburrow.stonetrap" GUID="3jS7WRN1Uk6X/6QOplneCQ=="/>
+	  
+		<POI MapID="32" xpos="13.1519" ypos="92.3194" zpos="648.09" type="guildrace.devourerburrow.spiketrap" GUID="M9JMp1bBFkCSzz4ViGEw/Q=="/>
+	  
+		<POI MapID="32" xpos="-1.76838" ypos="93.1906" zpos="648.409" type="guildrace.devourerburrow.stonetrap" GUID="jHY+obMbjEizBq+cP7/Ctg=="/>
+	  
+		<POI MapID="32" xpos="-33.7486" ypos="102.728" zpos="644.044" type="guildrace.devourerburrow.spiketrap" GUID="7p9eCeEyWUyIA3SzArRr5w=="/>
+	  
+		<POI MapID="32" xpos="-43.9431" ypos="105.799" zpos="643.964" type="guildrace.devourerburrow.spiketrap" GUID="/jpF/TcDxkeFgX9MSAx71w=="/>
+	  
+		<POI MapID="32" xpos="-44.3547" ypos="108.331" zpos="619.695" type="guildrace.devourerburrow.spiketrap" GUID="NYIl+DNXzUuf2TV8v2A4nA=="/>
+	  
+		<POI MapID="32" xpos="-56.6501" ypos="109.664" zpos="629.21" type="guildrace.devourerburrow.stonetrap" GUID="JhTkJ7EMTEqNUqXXomC/tQ=="/>
+	  
+		<POI MapID="32" xpos="-70.1844" ypos="110.339" zpos="606.156" type="guildrace.devourerburrow.spiketrap" GUID="im5KKSR470axcCQijj5hRw=="/>
+	  
+		<POI MapID="32" xpos="-65.1953" ypos="108.658" zpos="599.792" type="guildrace.devourerburrow.spiketrap" GUID="r6HB1bJPSkG98q39+Se6+Q=="/>
+	  
+		<POI MapID="32" xpos="-51.3592" ypos="109.641" zpos="604.05" type="guildrace.devourerburrow.spiketrap" GUID="VqRYgpBjSku22O4UrresBQ=="/>
+	  
+		<POI MapID="32" xpos="-66.6689" ypos="109.507" zpos="583.061" type="guildrace.devourerburrow.spiketrap" GUID="Oq+D2HgXVU+QbSrYAQ1A0A=="/>
+	  
+		<POI MapID="32" xpos="-73.8428" ypos="110.086" zpos="575.097" type="guildrace.devourerburrow.spiketrap" GUID="aewjNunVck+vRCuqvfz5Xg=="/>
+	  
+		<POI MapID="32" xpos="-87.4027" ypos="116.752" zpos="557.124" type="guildrace.devourerburrow.spiketrap" GUID="WQnQzWMIfUaBCoJy1gva9w=="/>
+	  
+		<POI MapID="32" xpos="-88.1442" ypos="119.193" zpos="547.219" type="guildrace.devourerburrow.spiketrap" GUID="Nj8Oz8dWcEWPbllZDpd46A=="/>
+	  
+		<POI MapID="32" xpos="192.85" ypos="7.30926" zpos="385.342" type="guildrace.devourerburrow.path" GUID="WXB2OyWTtEmH6lq52cOcpA=="/>
+	  
+		<POI MapID="32" xpos="197.477" ypos="11.8791" zpos="405.013" type="guildrace.devourerburrow.path" GUID="hs7Sx7jcp0eIdEBkhrAYxg=="/>
+	  
+		<POI MapID="32" xpos="197.057" ypos="14.5042" zpos="418.755" type="guildrace.devourerburrow.path" GUID="VOeO0aZLHUKhZPCPDlIZEw=="/>
+	  
+		<POI MapID="32" xpos="186.39" ypos="17.538" zpos="425.009" type="guildrace.devourerburrow.path" GUID="tb+9w07hSEGzAOGmG71O6g=="/>
+	  
+		<POI MapID="32" xpos="170.252" ypos="18.47" zpos="415.852" type="guildrace.devourerburrow.path" GUID="zUT6ifCIR0K8FcQCQToNUg=="/>
+	  
+		<POI MapID="32" xpos="141.342" ypos="23.644" zpos="401.29" type="guildrace.devourerburrow.path" GUID="MbInSjPvN0+OHvB2Gcsing=="/>
+	  
+		<POI MapID="32" xpos="122.078" ypos="27.3963" zpos="392.744" type="guildrace.devourerburrow.path" GUID="4iwsutpvfUms0siCLicumw=="/>
+	  
+		<POI MapID="32" xpos="108.028" ypos="30.3499" zpos="391.837" type="guildrace.devourerburrow.path" GUID="jVHNOaMxBUW5Xlvddv+YPQ=="/>
+	  
+		<POI MapID="32" xpos="99.7339" ypos="34.746" zpos="393.603" type="guildrace.devourerburrow.path" GUID="aoobLNixPEer7rcOBGa8lA=="/>
+	  
+		<POI MapID="32" xpos="89.9545" ypos="33.9889" zpos="391.116" type="guildrace.devourerburrow.path" GUID="MbvnYb56pUOBEPb+0BZuxQ=="/>
+	  
+		<POI MapID="32" xpos="67.4151" ypos="34.7549" zpos="384.296" type="guildrace.devourerburrow.path" GUID="7lZ3jeMyo0eGfet1trK49w=="/>
+	  
+		<POI MapID="32" xpos="49.2996" ypos="36.1573" zpos="390.704" type="guildrace.devourerburrow.path" GUID="zZyVK4v5okWxfc9+62ARJA=="/>
+	  
+		<POI MapID="32" xpos="40.9696" ypos="37.0096" zpos="396.905" type="guildrace.devourerburrow.path" GUID="9z/3s3OrSES5uPwmllZNPg=="/>
+	  
+		<POI MapID="32" xpos="40.1519" ypos="38.6187" zpos="403.853" type="guildrace.devourerburrow.path" GUID="Cn70Wwutmkmyr4TDQdj/YA=="/>
+	  
+		<POI MapID="32" xpos="47.5494" ypos="41.9537" zpos="416.066" type="guildrace.devourerburrow.path" GUID="iIuo2tC0P0ylzUSVyh01qw=="/>
+	  
+		<POI MapID="32" xpos="59.9566" ypos="46.5722" zpos="431.937" type="guildrace.devourerburrow.path" GUID="eLxfIVMCuEiW/ja7MpklEw=="/>
+	  
+		<POI MapID="32" xpos="73.7578" ypos="49.3332" zpos="444.342" type="guildrace.devourerburrow.path" GUID="FsHzw5G430yppg/C7WdJwg=="/>
+	  
+		<POI MapID="32" xpos="82.2318" ypos="50.8607" zpos="448.736" type="guildrace.devourerburrow.dodgejump" GUID="7GLZoQy2kk6aelAiC1MZvg=="/>
+	  
+		<POI MapID="32" xpos="81.6075" ypos="52.3157" zpos="456.922" type="guildrace.devourerburrow.path" GUID="YazCRF+kRUy2GAkTsrXhBw=="/>
+	  
+		<POI MapID="32" xpos="78.6502" ypos="53.6775" zpos="464.205" type="guildrace.devourerburrow.path" GUID="hPKtozx97ka4H5SXve6DAA=="/>
+	  
+		<POI MapID="32" xpos="80.4367" ypos="56.1059" zpos="476.918" type="guildrace.devourerburrow.path" GUID="8J0V4VA0i0mSju5/SX4SSQ=="/>
+	  
+		<POI MapID="32" xpos="84.947" ypos="57.6849" zpos="487.525" type="guildrace.devourerburrow.path" GUID="yECNrwiEhUiDkpgKI+XzfQ=="/>
+	  
+		<POI MapID="32" xpos="87.6274" ypos="60.1593" zpos="504.708" type="guildrace.devourerburrow.path" GUID="x7EzVWAEU0aOl/yPoWxb1A=="/>
+	  
+		<POI MapID="32" xpos="86.1104" ypos="61.8111" zpos="517.436" type="guildrace.devourerburrow.path" GUID="m4lrsgsIK0qRHsEd8opPKg=="/>
+	  
+		<POI MapID="32" xpos="94.2737" ypos="60.8621" zpos="520.229" type="guildrace.devourerburrow.path" GUID="CCm+uw3VUESMIsS/ncBlHw=="/>
+	  
+		<POI MapID="32" xpos="100.958" ypos="61.4786" zpos="515.329" type="guildrace.devourerburrow.path" GUID="gJvgIrKp9kqeUlVMBRLJdg=="/>
+	  
+		<POI MapID="32" xpos="108.762" ypos="63.0719" zpos="512.146" type="guildrace.devourerburrow.path" GUID="iEs5fcuZpUGCTz814gVcXg=="/>
+	  
+		<POI MapID="32" xpos="116.581" ypos="65.0877" zpos="515.804" type="guildrace.devourerburrow.path" GUID="KPs9xk+ROESOWeysnSa7lA=="/>
+	  
+		<POI MapID="32" xpos="129.427" ypos="68.0078" zpos="526.573" type="guildrace.devourerburrow.path" GUID="TudF++YUu0mHldISbMN4cA=="/>
+	  
+		<POI MapID="32" xpos="134.529" ypos="69.362" zpos="537.032" type="guildrace.devourerburrow.path" GUID="PHvdtVcVNE2M7sP4UDgLdg=="/>
+	  
+		<POI MapID="32" xpos="139.574" ypos="70.331" zpos="545.736" type="guildrace.devourerburrow.path" GUID="hPyOT2bfJEmWG5Quzp5F3Q=="/>
+	  
+		<POI MapID="32" xpos="135.95" ypos="71.6368" zpos="555.045" type="guildrace.devourerburrow.path" GUID="2JN/g+PjDEC2z12wFCXgvA=="/>
+	  
+		<POI MapID="32" xpos="133.068" ypos="72.7825" zpos="565.235" type="guildrace.devourerburrow.path" GUID="mO+QpCW0Xk6Q1RMak5N+EA=="/>
+	  
+		<POI MapID="32" xpos="128.296" ypos="74.6216" zpos="578.681" type="guildrace.devourerburrow.path" GUID="7ic/TYTggU2MPPQKoYPeTA=="/>
+	  
+		<POI MapID="32" xpos="121.771" ypos="77.4457" zpos="591.777" type="guildrace.devourerburrow.path" GUID="U8/rnAvsgU6RU+c5DiJ4wA=="/>
+	  
+		<POI MapID="32" xpos="116.483" ypos="78.4526" zpos="595.599" type="guildrace.devourerburrow.path" GUID="bhtfjE1gykmcmofSxE6omA=="/>
+	  
+		<POI MapID="32" xpos="105.585" ypos="79.1782" zpos="599.374" type="guildrace.devourerburrow.path" GUID="jcrNR2JgzE+QwWgOkGmY0A=="/>
+	  
+		<POI MapID="32" xpos="95.9912" ypos="79.7851" zpos="609.699" type="guildrace.devourerburrow.path" GUID="U65MvYXrwECGIpuETndhnQ=="/>
+	  
+		<POI MapID="32" xpos="81.8113" ypos="81.6235" zpos="608.105" type="guildrace.devourerburrow.path" GUID="Hx2sBJYuA060ZpLtpvoLKQ=="/>
+	  
+		<POI MapID="32" xpos="67.374" ypos="83.9209" zpos="611.566" type="guildrace.devourerburrow.path" GUID="Er5BX6uAyk6DcZxC3cd3qA=="/>
+	  
+		<POI MapID="32" xpos="55.9175" ypos="86.3044" zpos="615.832" type="guildrace.devourerburrow.path" GUID="DMfDbNJX00m9Su2AJCJzIg=="/>
+	  
+		<POI MapID="32" xpos="49.4721" ypos="88.0446" zpos="617.417" type="guildrace.devourerburrow.path" GUID="MoU7/pwjfUOpeVF30WQz4Q=="/>
+	  
+		<POI MapID="32" xpos="50.0104" ypos="88.5759" zpos="626.082" type="guildrace.devourerburrow.path" GUID="rWmVhqzBTkCbpSXQKaGnuw=="/>
+	  
+		<POI MapID="32" xpos="48.4582" ypos="89.244" zpos="630.808" type="guildrace.devourerburrow.path" GUID="7BsscfFlTkap0DVDlG9pmw=="/>
+	  
+		<POI MapID="32" xpos="42.6574" ypos="90.106" zpos="635.059" type="guildrace.devourerburrow.path" GUID="OdZuNpddMU6yj7tS8Oy0sQ=="/>
+	  
+		<POI MapID="32" xpos="29.889" ypos="91.2378" zpos="639.465" type="guildrace.devourerburrow.path" GUID="q2ZClA0udkuPyzajJPuFIg=="/>
+	  
+		<POI MapID="32" xpos="11.5106" ypos="92.3141" zpos="644.141" type="guildrace.devourerburrow.path" GUID="X9I3OlwruUy0/fYE/XRZWA=="/>
+	  
+		<POI MapID="32" xpos="6.05315" ypos="92.618" zpos="650.693" type="guildrace.devourerburrow.path" GUID="ILHBa61Wekm9jB1+L0ffXQ=="/>
+	  
+		<POI MapID="32" xpos="0.559694" ypos="94.3224" zpos="656.443" type="guildrace.devourerburrow.path" GUID="cgpw1WVCt0CsT9IcHVZOvA=="/>
+	  
+		<POI MapID="32" xpos="-4.57002" ypos="95.9555" zpos="655.549" type="guildrace.devourerburrow.path" GUID="z/1IaPa+zUKexMEnnPw5rg=="/>
+	  
+		<POI MapID="32" xpos="-14.1008" ypos="97.8653" zpos="649.876" type="guildrace.devourerburrow.path" GUID="hbhvSxxJO0SKZoeZatB8+w=="/>
+	  
+		<POI MapID="32" xpos="-32.3183" ypos="102.786" zpos="638.911" type="guildrace.devourerburrow.path" GUID="ndBdI4hzZUGGRDT0dLEe6w=="/>
+	  
+		<POI MapID="32" xpos="-42.3665" ypos="106.004" zpos="633.749" type="guildrace.devourerburrow.path" GUID="cyDAVfs1DUqH00jkhlfmIg=="/>
+	  
+		<POI MapID="32" xpos="-58.3792" ypos="110.447" zpos="636.189" type="guildrace.devourerburrow.dodgejump" GUID="Xeum23w9e0W7n+/Z4r90qA=="/>
+	  
+		<POI MapID="32" xpos="-65.9098" ypos="110.007" zpos="623.749" type="guildrace.devourerburrow.path" GUID="86CLKwjZT0OxPswBhl8log=="/>
+	  
+		<POI MapID="32" xpos="-65.775" ypos="111.449" zpos="611.323" type="guildrace.devourerburrow.path" GUID="0znT0q56akGK71SrBLnL9Q=="/>
+	  
+		<POI MapID="32" xpos="-65.4796" ypos="110.887" zpos="605.394" type="guildrace.devourerburrow.path" GUID="sezctMn1eU+nVnKs+b/WGg=="/>
+	  
+		<POI MapID="32" xpos="-70.4002" ypos="109.211" zpos="598.598" type="guildrace.devourerburrow.path" GUID="13mGkZuuBEWumuybnvVF0w=="/>
+	  
+		<POI MapID="32" xpos="-71.9831" ypos="109.424" zpos="588.839" type="guildrace.devourerburrow.path" GUID="9Cd8Bet8e0C7xgLT/iP6+w=="/>
+	  
+		<POI MapID="32" xpos="-70.8914" ypos="109.536" zpos="580.262" type="guildrace.devourerburrow.path" GUID="Fv6KRw4GBEa2K5eOpvnrbQ=="/>
+	  
+		<POI MapID="32" xpos="-68.1189" ypos="110.571" zpos="574.169" type="guildrace.devourerburrow.path" GUID="E1kLp8D9AkuBX4azWktdTA=="/>
+	  
+		<POI MapID="32" xpos="-73.2977" ypos="111.399" zpos="567.543" type="guildrace.devourerburrow.path" GUID="NXK0sY3lm0eomiZUOaci+g=="/>
+	  
+		<POI MapID="32" xpos="-83.0215" ypos="116.979" zpos="553.68" type="guildrace.devourerburrow.path" GUID="lturds6CykKeH1QyN6VBxg=="/>
+	  
+		<POI MapID="32" xpos="-91.841" ypos="118.388" zpos="551.934" type="guildrace.devourerburrow.path" GUID="+2Gel1eutU2I45cW3P2s7A=="/>
+	  
+		<POI MapID="32" xpos="-101.658" ypos="120.091" zpos="549.517" type="guildrace.devourerburrow.dodgejump" GUID="AgyY0Fy1oEew9vn1e3jvqA=="/>
+	  
+		<POI MapID="32" xpos="-121.627" ypos="119.126" zpos="545.353" type="guildrace.devourerburrow.path" GUID="Y3ByOcR0QEKbkaVQLRdfZA=="/>
+		
+		
+		<POI MapID="26" xpos="-243.685" ypos="114.669" zpos="61.6742" type="guildrace.spiderscurry.spiketrap" GUID="iNs9aKKK0kSp2wVxU0yiAA=="/>
+  
+		<POI MapID="26" xpos="-251.463" ypos="116.381" zpos="52.7302" type="guildrace.spiderscurry.spiketrap" GUID="DzMlDG7sq0e8dfFlez+kyw=="/>
+	  
+		<POI MapID="26" xpos="-242.478" ypos="114.677" zpos="49.8967" type="guildrace.spiderscurry.spiketrap" GUID="sWab1vMzOE+UAxwybHY60Q=="/>
+	  
+		<POI MapID="26" xpos="-235.264" ypos="116.369" zpos="57.671" type="guildrace.spiderscurry.spiketrap" GUID="4rxgALbBB0m/L02MihTyJA=="/>
+	  
+		<POI MapID="26" xpos="-233.262" ypos="114.743" zpos="47.4516" type="guildrace.spiderscurry.spiketrap" GUID="RYXL4XpPfUS8B/QxKezqmQ=="/>
+	  
+		<POI MapID="26" xpos="-229.318" ypos="111.091" zpos="-38.7133" type="guildrace.spiderscurry.spiketrap" GUID="SNtCWNKIGUCg1EaLzglS8Q=="/>
+	  
+		<POI MapID="26" xpos="-225.668" ypos="110.764" zpos="-42.569" type="guildrace.spiderscurry.spiketrap" GUID="vY52cEOEV0qFDa60BoEKrA=="/>
+	  
+		<POI MapID="26" xpos="-231.881" ypos="112.3" zpos="-49.6949" type="guildrace.spiderscurry.spiketrap" GUID="KhEa/zScDUec//lQcORhNg=="/>
+	  
+		<POI MapID="26" xpos="-219.508" ypos="112.936" zpos="-64.6674" type="guildrace.spiderscurry.spiketrap" GUID="lrkaWhjs/EWsWNCcGyVpXA=="/>
+	  
+		<POI MapID="26" xpos="-209.702" ypos="112.151" zpos="-65.1928" type="guildrace.spiderscurry.spiketrap" GUID="wom02nyybkqihxi2ieX7ow=="/>
+	  
+		<POI MapID="26" xpos="-174.511" ypos="112.196" zpos="-72.5253" type="guildrace.spiderscurry.spiketrap" GUID="AGuXGKYNFEOgk7CrYDbJ3g=="/>
+	  
+		<POI MapID="26" xpos="-168.037" ypos="111.711" zpos="-67.1099" type="guildrace.spiderscurry.spiketrap" GUID="Y2yy3g9HRUel4dNw5DUfXQ=="/>
+	  
+		<POI MapID="26" xpos="-146.243" ypos="108.734" zpos="-65.9382" type="guildrace.spiderscurry.spiketrap" GUID="3l3oCUix40WNMxxG0xHX5Q=="/>
+	  
+		<POI MapID="26" xpos="-143.476" ypos="108.385" zpos="-71.8501" type="guildrace.spiderscurry.spiketrap" GUID="UdtWZsRsDUCq4bdCPlOV8A=="/>
+	  
+		<POI MapID="26" xpos="-108.566" ypos="112.624" zpos="-116.24" type="guildrace.spiderscurry.spiketrap" GUID="Ovyxic5kN06lpShKAmyPfg=="/>
+	  
+		<POI MapID="26" xpos="-117.976" ypos="113.854" zpos="-116.691" type="guildrace.spiderscurry.spiketrap" GUID="IQBvA4g7mkCOYSRgRJJskQ=="/>
+	  
+		<POI MapID="26" xpos="-131.612" ypos="130.815" zpos="-105.729" type="guildrace.spiderscurry.stonetrap" GUID="dpPbmrKGbEukH+vYuR+ikA=="/>
+	  
+		<POI MapID="26" xpos="-103.958" ypos="149.332" zpos="-125.969" type="guildrace.spiderscurry.stonetrap" GUID="vwSV+qolYECUnncYbjya6A=="/>
+	  
+		<POI MapID="26" xpos="1.13773" ypos="138.575" zpos="-67.0913" type="guildrace.spiderscurry.stonetrap" GUID="0d86W6PHRE+tiUFYGHK5qQ=="/>
+	  
+		<POI MapID="26" xpos="-53.0826" ypos="147.769" zpos="-43.1199" type="guildrace.spiderscurry.stonetrap" GUID="EZkuQuvHj0u9kOZ5gT2lcA=="/>
+	  
+		<POI MapID="26" xpos="-64.1846" ypos="147.6" zpos="-49.8629" type="guildrace.spiderscurry.stonetrap" GUID="0snO6Xwqz0mCWb6YXEPiKw=="/>
+	  
+		<POI MapID="26" xpos="-253.598" ypos="113.621" zpos="65.2397" type="guildrace.spiderscurry.path" GUID="hg1a/wd/mk6YujfcDaSpkQ=="/>
+	  
+		<POI MapID="26" xpos="-247.209" ypos="114.061" zpos="56.3087" type="guildrace.spiderscurry.path" GUID="YZ0+kBE+Jk2hjGK1ibl4PQ=="/>
+	  
+		<POI MapID="26" xpos="-238.075" ypos="114.756" zpos="54.9092" type="guildrace.spiderscurry.path" GUID="sLY9TAdDR0aVl6IN6ZnXTQ=="/>
+	  
+		<POI MapID="26" xpos="-238.176" ypos="115.499" zpos="42.5243" type="guildrace.spiderscurry.path" GUID="sHPaGHU4VUalIOua+s3AQA=="/>
+	  
+		<POI MapID="26" xpos="-222.254" ypos="113.054" zpos="30.7662" type="guildrace.spiderscurry.path" GUID="ETnSrxGhOESi3HIUrhBAZg=="/>
+	  
+		<POI MapID="26" xpos="-204.67" ypos="108.607" zpos="11.9792" type="guildrace.spiderscurry.path" GUID="J6vkygDJpUWJiJEb80gF2A=="/>
+	  
+		<POI MapID="26" xpos="-206.281" ypos="108.762" zpos="-4.24494" type="guildrace.spiderscurry.path" GUID="OBjtUozKFE61Zxu54bCx/w=="/>
+	  
+		<POI MapID="26" xpos="-217.771" ypos="109.742" zpos="-24.1878" type="guildrace.spiderscurry.path" GUID="dgvjveWcDE+VY83YWTItVQ=="/>
+	  
+		<POI MapID="26" xpos="-222.037" ypos="110.717" zpos="-37.3485" type="guildrace.spiderscurry.path" GUID="G85vJoZMokaa6+TEBFvR3w=="/>
+	  
+		<POI MapID="26" xpos="-219.479" ypos="112.172" zpos="-43.7661" type="guildrace.spiderscurry.path" GUID="oCWH6UlSukmPty2geKO03Q=="/>
+	  
+		<POI MapID="26" xpos="-226.988" ypos="111.558" zpos="-54.258" type="guildrace.spiderscurry.path" GUID="kUingbO6okyJoWJUtwfCdg=="/>
+	  
+		<POI MapID="26" xpos="-214.334" ypos="111.992" zpos="-61.5528" type="guildrace.spiderscurry.path" GUID="o3j4QTPDp0Ge0SDSYITrKQ=="/>
+	  
+		<POI MapID="26" xpos="-214.523" ypos="113.079" zpos="-68.4215" type="guildrace.spiderscurry.path" GUID="E6BnTMO01UOCQL/kvA6v2w=="/>
+	  
+		<POI MapID="26" xpos="-205.352" ypos="112.289" zpos="-70.7489" type="guildrace.spiderscurry.path" GUID="n6HXs8hMOUuTTkWaW4riAw=="/>
+	  
+		<POI MapID="26" xpos="-177.985" ypos="111.898" zpos="-67.7954" type="guildrace.spiderscurry.path" GUID="dQ0+dVh8akmpH2hFbbiBmA=="/>
+	  
+		<POI MapID="26" xpos="-170.416" ypos="111.814" zpos="-70.3015" type="guildrace.spiderscurry.teleport" GUID="UGRlhDdQpk2JIERY1uM9Bw=="/>
+	  
+		<POI MapID="26" xpos="-158.508" ypos="126.033" zpos="-79.0512" type="guildrace.spiderscurry.teleport" GUID="G33Ca5wUTECWjmFSqTszTA=="/>
+	  
+		<POI MapID="26" xpos="-145.819" ypos="126.166" zpos="-88.9278" type="guildrace.spiderscurry.path" GUID="cq2JUZAYIkeyxOXEqJQxvA=="/>
+	  
+		<POI MapID="26" xpos="-133.152" ypos="130.935" zpos="-96.9945" type="guildrace.spiderscurry.path" GUID="YyDdLV98pEqJfVc9yu+mvA=="/>
+	  
+		<POI MapID="26" xpos="-125.725" ypos="130.806" zpos="-101.402" type="guildrace.spiderscurry.path" GUID="+RUEWALqXECUcAgACivoYQ=="/>
+	  
+		<POI MapID="26" xpos="-126.151" ypos="130.84" zpos="-109.092" type="guildrace.spiderscurry.dodgejump" GUID="/ufJxDqYO0uBAAYDn0ucSQ=="/>
+	  
+		<POI MapID="26" xpos="-124.278" ypos="132.862" zpos="-114.759" type="guildrace.spiderscurry.teleport" GUID="6BxXFI9CHEaErkX79wzM1Q=="/>
+	  
+		<POI MapID="26" xpos="-118.047" ypos="149.372" zpos="-122.491" type="guildrace.spiderscurry.teleport" GUID="J6U8on6sYUiIpCEbVS0L3A=="/>
+	  
+		<POI MapID="26" xpos="-106.679" ypos="149.327" zpos="-119.899" type="guildrace.spiderscurry.path" GUID="HXEoMeixBkWaqX0Omte9Xg=="/>
+	  
+		<POI MapID="26" xpos="-98.9416" ypos="149.675" zpos="-119.045" type="guildrace.spiderscurry.path" GUID="YCXVNlo+Z0aRpzYDT7Welw=="/>
+	  
+		<POI MapID="26" xpos="-88.1667" ypos="149.697" zpos="-119.888" type="guildrace.spiderscurry.path" GUID="T5s+hVj8xEiKO1na/EblMw=="/>
+	  
+		<POI MapID="26" xpos="-82.3793" ypos="149.74" zpos="-105.662" type="guildrace.spiderscurry.path" GUID="8w/9vABCxkaA9VD+1tERNQ=="/>
+	  
+		<POI MapID="26" xpos="-60.6948" ypos="149.714" zpos="-106.874" type="guildrace.spiderscurry.path" GUID="sDYbNZI8bEGOYrlVOrphKg=="/>
+	  
+		<POI MapID="26" xpos="-61.6488" ypos="149.708" zpos="-112.631" type="guildrace.spiderscurry.path" GUID="n2xqHSzPz0uN+jfAYAcznA=="/>
+	  
+		<POI MapID="26" xpos="-43.6356" ypos="150.239" zpos="-115.669" type="guildrace.spiderscurry.path" GUID="wRes9fufZkS27eB5rv/lgg=="/>
+	  
+		<POI MapID="26" xpos="-40.9424" ypos="141.811" zpos="-100.134" type="guildrace.spiderscurry.path" GUID="8jM4xPiHfkqE4VZ//82Biw=="/>
+	  
+		<POI MapID="26" xpos="-39.947" ypos="141.8" zpos="-95.6784" type="guildrace.spiderscurry.teleport" GUID="reunvEbjwkm8GBe8YkalxA=="/>
+	  
+		<POI MapID="26" xpos="-35.0309" ypos="139.198" zpos="-84.0933" type="guildrace.spiderscurry.teleport" GUID="kt6HaA2U6ESTJxNeRaDPbg=="/>
+	  
+		<POI MapID="26" xpos="-32.5977" ypos="139.117" zpos="-74.9336" type="guildrace.spiderscurry.path" GUID="2DdnXUpom02pmThr4RCvEA=="/>
+	  
+		<POI MapID="26" xpos="-31.3761" ypos="139.14" zpos="-67.8757" type="guildrace.spiderscurry.teleport" GUID="WUHGmJMDLkiTpXqg7l1rVw=="/>
+	  
+		<POI MapID="26" xpos="-27.7157" ypos="144.503" zpos="-56.6866" type="guildrace.spiderscurry.teleport" GUID="qpPQ7qoY9EuZxzUUKhFK9g=="/>
+	  
+		<POI MapID="26" xpos="-37.7322" ypos="145.388" zpos="-47.9728" type="guildrace.spiderscurry.path" GUID="vPZ9e7ocwkuP9pP2IldpxQ=="/>
+	  
+		<POI MapID="26" xpos="-47.095" ypos="147.258" zpos="-48.4736" type="guildrace.spiderscurry.path" GUID="IF1NK1rYeUqEA+v1pxJNJg=="/>
+	  
+		<POI MapID="26" xpos="-54.9173" ypos="147.603" zpos="-51.635" type="guildrace.spiderscurry.path" GUID="CU7a3f9S/EmuW3ytUm2aDg=="/>
+	  
+		<POI MapID="26" xpos="-59.1003" ypos="147.737" zpos="-46.2189" type="guildrace.spiderscurry.path" GUID="3Rx86d650UOwZsZIJnjSnQ=="/>
+	  
+		<POI MapID="26" xpos="-69.6573" ypos="147.833" zpos="-36.0883" type="guildrace.spiderscurry.path" GUID="bDk4+LZvb0S51HVyljKehQ=="/>
+	  
+		<POI MapID="26" xpos="-84.141" ypos="152.025" zpos="-29.0116" type="guildrace.spiderscurry.path" GUID="HWO5fJOCAESeZECY/cPKKw=="/>
+	  
+		<POI MapID="26" xpos="-92.7406" ypos="146.835" zpos="-27.2376" type="guildrace.spiderscurry.path" GUID="qV0n8HHZ7E+xP0bzOccPuQ=="/>
+	  
+		<POI MapID="26" xpos="-101.554" ypos="144.724" zpos="-24.0093" type="guildrace.spiderscurry.path" GUID="MTuzeL/af0eLX4uvwkmOoA=="/>
+	  
+		<POI MapID="26" xpos="-110.843" ypos="143.4" zpos="-19.3354" type="guildrace.spiderscurry.path" GUID="2uiNEGxwz0umMihSDcu4vQ=="/>
+	  
+		<POI MapID="26" xpos="-122.478" ypos="132.006" zpos="-17.9647" type="guildrace.spiderscurry.path" GUID="Z/vSw4c7oEm/5bxyZHQrWw=="/>
+	  
+		<POI MapID="26" xpos="-113.859" ypos="129.476" zpos="-19.2055" type="guildrace.spiderscurry.path" GUID="wHVN1/5FKUGYrqOXGvQ0dQ=="/>
+	  
+		<POI MapID="26" xpos="-105.912" ypos="128.153" zpos="-20.5674" type="guildrace.spiderscurry.teleport" GUID="tUHRb9Kc6U6DFcMQuVN1LQ=="/>
+	  
+		<POI MapID="26" xpos="-86.6304" ypos="120.069" zpos="-9.66593" type="guildrace.spiderscurry.teleport" GUID="Jl641vpe9UeSGKbFMFKE3g=="/>
+	  
+		<POI MapID="26" xpos="-84.0788" ypos="120.064" zpos="-3.87921" type="guildrace.spiderscurry.path" GUID="+mKpu9x9SEy8r3Y9PepNJw=="/>
+	  
+		<POI MapID="26" xpos="-77.6012" ypos="121.936" zpos="-10.1126" type="guildrace.spiderscurry.path" GUID="TQL9SIq5lEK6aotALFIuBw=="/>
+	  
+		<POI MapID="26" xpos="-65.6314" ypos="124.015" zpos="-12.114" type="guildrace.spiderscurry.path" GUID="VzIYxWsKkUeHBRT2Uq4oOQ=="/>
+	  
+		<POI MapID="26" xpos="-55.6616" ypos="111.651" zpos="-11.99" type="guildrace.spiderscurry.path" GUID="O5zkT/AvxECvIpCqBQt+eQ=="/>
+	  
+		<POI MapID="26" xpos="-43.7357" ypos="114.669" zpos="-0.930089" type="guildrace.spiderscurry.path" GUID="dl36lKjCukCA5s2Ogkw2MA=="/>
+		
+		
+		<POI MapID="21" xpos="687.813" ypos="14.9064" zpos="97.4958" type="guildrace.chickenrun.spiketrap" GUID="UcUeaBGHKUSW9nyBfUw3rQ=="/>
+  
+		<POI MapID="21" xpos="715.775" ypos="15.1343" zpos="89.8715" type="guildrace.chickenrun.spiketrap" GUID="hzJQKVgMS0a8I0mExdMzVQ=="/>
+	  
+		<POI MapID="21" xpos="740.66" ypos="14.6311" zpos="89.5563" type="guildrace.chickenrun.spiketrap" GUID="Nf9LhsSHU0+eGHSwit4l3w=="/>
+	  
+		<POI MapID="21" xpos="764.262" ypos="17.5475" zpos="92.5486" type="guildrace.chickenrun.spiketrap" GUID="x6usvnF000i2EexsAH1NbQ=="/>
+	  
+		<POI MapID="21" xpos="804.326" ypos="18.9185" zpos="124.909" type="guildrace.chickenrun.spiketrap" GUID="FRrVsSUjMkeGPI8sZqfSNw=="/>
+	  
+		<POI MapID="21" xpos="818.457" ypos="17.9293" zpos="138.049" type="guildrace.chickenrun.spiketrap" GUID="8fCZAx6d40GvStESaS1ARg=="/>
+	  
+		<POI MapID="21" xpos="806.992" ypos="18.2267" zpos="145.029" type="guildrace.chickenrun.spiketrap" GUID="kXIjfeibqkCoM8PLEXdOEA=="/>
+	  
+		<POI MapID="21" xpos="832.241" ypos="18.352" zpos="144.523" type="guildrace.chickenrun.spiketrap" GUID="bnxH8Rd2LECF7A8Li1MNCg=="/>
+	  
+		<POI MapID="21" xpos="826.268" ypos="14.6784" zpos="167.874" type="guildrace.chickenrun.spiketrap" GUID="qGfRc4ygz0iV85ga9jek2g=="/>
+	  
+		<POI MapID="21" xpos="835.202" ypos="14.1053" zpos="175.15" type="guildrace.chickenrun.spiketrap" GUID="6shtoZPVtkyRybcbLMHxig=="/>
+	  
+		<POI MapID="21" xpos="831.281" ypos="13.8285" zpos="184.6" type="guildrace.chickenrun.spiketrap" GUID="oAZbalisQkmHSbbRJw4Spg=="/>
+	  
+		<POI MapID="21" xpos="850.34" ypos="14.1258" zpos="240.973" type="guildrace.chickenrun.stonetrap" GUID="OZaYrVff/E+HWNVfT6HHgA=="/>
+	  
+		<POI MapID="21" xpos="847.769" ypos="13.8636" zpos="251.178" type="guildrace.chickenrun.stonetrap" GUID="CLklF6xUVkSOvrTHWlAXBw=="/>
+	  
+		<POI MapID="21" xpos="788.088" ypos="19.2139" zpos="266.947" type="guildrace.chickenrun.spiketrap" GUID="QY1WRealvEuoJ83Yl7BEQw=="/>
+	  
+		<POI MapID="21" xpos="785.015" ypos="15.9837" zpos="317.171" type="guildrace.chickenrun.spiketrap" GUID="sL1FzW8YcUqQhrC3vVcJSQ=="/>
+	  
+		<POI MapID="21" xpos="773.428" ypos="16.0297" zpos="321.071" type="guildrace.chickenrun.spiketrap" GUID="QbpYFFm4O0mMnPx3j1DWqA=="/>
+	  
+		<POI MapID="21" xpos="760.676" ypos="16.2558" zpos="364.684" type="guildrace.chickenrun.stonetrap" GUID="JBwFIcaJHUmo7rt8mfronw=="/>
+	  
+		<POI MapID="21" xpos="759.596" ypos="17.7676" zpos="377.859" type="guildrace.chickenrun.stonetrap" GUID="bMMvsvpdcEG35l3TsK+jpw=="/>
+	  
+		<POI MapID="21" xpos="809.54" ypos="24.2062" zpos="420.222" type="guildrace.chickenrun.spiketrap" GUID="6es3jf11HEmrjaVIQkrXWg=="/>
+	  
+		<POI MapID="21" xpos="830.16" ypos="25.1985" zpos="444.552" type="guildrace.chickenrun.spiketrap" GUID="JEfdN7wkSkmfNqcwPBg8cw=="/>
+	  
+		<POI MapID="21" xpos="837.321" ypos="26.0004" zpos="473.043" type="guildrace.chickenrun.stonetrap" GUID="/7YIvs5BeUe2Zy9wPzeJ+A=="/>
+	  
+		<POI MapID="21" xpos="843.012" ypos="27.6023" zpos="488.729" type="guildrace.chickenrun.spiketrap" GUID="HoaPUYFgokuJmlQhAdHteg=="/>
+	  
+		<POI MapID="21" xpos="801.093" ypos="31.9056" zpos="476.677" type="guildrace.chickenrun.stonetrap" GUID="NUWQ4Vgz3EOf4L6+cq76Nw=="/>
+	  
+		<POI MapID="21" xpos="783.597" ypos="34.0687" zpos="485.889" type="guildrace.chickenrun.stonetrap" GUID="G39Ar6MHU0q32jzah2R34g=="/>
+	  
+		<POI MapID="21" xpos="767.31" ypos="34.3936" zpos="482.246" type="guildrace.chickenrun.stonetrap" GUID="oq6hpKahO0Cg5uzqrpzBRA=="/>
+	  
+		<POI MapID="21" xpos="751.141" ypos="34.4557" zpos="476.433" type="guildrace.chickenrun.spiketrap" GUID="xd9BnwIR1UmUUCsYnGIv7g=="/>
+	  
+		<POI MapID="21" xpos="724.12" ypos="34.7684" zpos="475.226" type="guildrace.chickenrun.spiketrap" GUID="XyMOfrLtaUKYSZUHWfWjkw=="/>
+	  
+		<POI MapID="21" xpos="720.05" ypos="34.873" zpos="470.396" type="guildrace.chickenrun.spiketrap" GUID="jNryaa5G/E2tRT05FtKudQ=="/>
+	  
+		<POI MapID="21" xpos="712.535" ypos="34.9227" zpos="467.777" type="guildrace.chickenrun.spiketrap" GUID="cMyjPkYbEU6Ql2YbRDlElA=="/>
+	  
+		<POI MapID="21" xpos="709.56" ypos="34.9254" zpos="460.941" type="guildrace.chickenrun.spiketrap" GUID="1if9qcUBoUyw8Tm/Wr95Fw=="/>
+	  
+		<POI MapID="21" xpos="676.926" ypos="34.0812" zpos="390.228" type="guildrace.chickenrun.spiketrap" GUID="H5w7os2x+kCbs3QHvZLMZQ=="/>
+	  
+		<POI MapID="21" xpos="663.085" ypos="35.46" zpos="389.99" type="guildrace.chickenrun.spiketrap" GUID="LNsGKdvUB06hZLQtV8dJ7w=="/>
+	  
+		<POI MapID="21" xpos="660.703" ypos="15.4857" zpos="98.194" type="guildrace.chickenrun.path" GUID="1pim7EDWc0m2aEcVYo1Cxw=="/>
+	  
+		<POI MapID="21" xpos="674.736" ypos="15.1165" zpos="95.2529" type="guildrace.chickenrun.path" GUID="G7S7DI23wkCr1kCY0eNY3Q=="/>
+	  
+		<POI MapID="21" xpos="687.742" ypos="14.37" zpos="92.1442" type="guildrace.chickenrun.path" GUID="u8YXBDmNXU6QQgkFL13yRQ=="/>
+	  
+		<POI MapID="21" xpos="699.28" ypos="14.8013" zpos="93.9967" type="guildrace.chickenrun.path" GUID="acJ4IzJhtk2Q31dcQyAyNg=="/>
+	  
+		<POI MapID="21" xpos="715.166" ypos="16.5534" zpos="96.6045" type="guildrace.chickenrun.path" GUID="ZsSjRc3pkUWWxtMMrQDlCg=="/>
+	  
+		<POI MapID="21" xpos="730.298" ypos="15.8755" zpos="95.2107" type="guildrace.chickenrun.path" GUID="NEo3JtTjgkC9Pe9WXwnfZQ=="/>
+	  
+		<POI MapID="21" xpos="741.16" ypos="14.8802" zpos="93.9118" type="guildrace.chickenrun.path" GUID="sHDX9EFFO06/1/QFBIpGlQ=="/>
+	  
+		<POI MapID="21" xpos="752.776" ypos="16.0575" zpos="91.4845" type="guildrace.chickenrun.path" GUID="IwrWkdWsbkKFsKVgvB7jQw=="/>
+	  
+		<POI MapID="21" xpos="763.785" ypos="17.6279" zpos="88.2159" type="guildrace.chickenrun.path" GUID="LAPQ7IZtK0yDFgbEHXUyRw=="/>
+	  
+		<POI MapID="21" xpos="768.264" ypos="17.7319" zpos="90.0102" type="guildrace.chickenrun.path" GUID="ZEBAleauq0iQH1kke6ianQ=="/>
+	  
+		<POI MapID="21" xpos="777.508" ypos="18.9305" zpos="97.933" type="guildrace.chickenrun.path" GUID="7+urPaal0US8jWFrPKPfYg=="/>
+	  
+		<POI MapID="21" xpos="789.131" ypos="19.6806" zpos="106.775" type="guildrace.chickenrun.path" GUID="UD4LFWTHOU2fBX8eNdpYxA=="/>
+	  
+		<POI MapID="21" xpos="800.974" ypos="19.7753" zpos="115.86" type="guildrace.chickenrun.path" GUID="SyrWA9ehsUeUuV3Oys0YRA=="/>
+	  
+		<POI MapID="21" xpos="811.411" ypos="18.9056" zpos="123.826" type="guildrace.chickenrun.path" GUID="BvFysMqnMkmqGjc7F1KrAA=="/>
+	  
+		<POI MapID="21" xpos="812.549" ypos="18.1276" zpos="136.859" type="guildrace.chickenrun.path" GUID="P1X0R6OURkC9H2uqICA33A=="/>
+	  
+		<POI MapID="21" xpos="816.671" ypos="18.2093" zpos="149.625" type="guildrace.chickenrun.path" GUID="eFUPtJv/QEiutNFkel3jtg=="/>
+	  
+		<POI MapID="21" xpos="821.893" ypos="17.3636" zpos="158.072" type="guildrace.chickenrun.path" GUID="omtnZl2Z+UaBaJEIEI1Fuw=="/>
+	  
+		<POI MapID="21" xpos="828.703" ypos="15.2588" zpos="163.621" type="guildrace.chickenrun.path" GUID="gU//mhGpqUe2H2FXdWyHXg=="/>
+	  
+		<POI MapID="21" xpos="833.067" ypos="14.3806" zpos="168.696" type="guildrace.chickenrun.path" GUID="INL7qOrK2kyYwp601u8k2Q=="/>
+	  
+		<POI MapID="21" xpos="840.725" ypos="17.1075" zpos="172.305" type="guildrace.chickenrun.path" GUID="Umc/cgrzGUm4kti4aaKJxQ=="/>
+	  
+		<POI MapID="21" xpos="838.668" ypos="14.5629" zpos="178.757" type="guildrace.chickenrun.path" GUID="JPgmD02xfkSKQyfT1XT+cQ=="/>
+	  
+		<POI MapID="21" xpos="841.877" ypos="14.8906" zpos="200.45" type="guildrace.chickenrun.path" GUID="7R/dB9bBpEypa9J7GPi+7A=="/>
+	  
+		<POI MapID="21" xpos="849.432" ypos="14.2956" zpos="230.22" type="guildrace.chickenrun.path" GUID="pvDopntAaUulhy5GR/CIGg=="/>
+	  
+		<POI MapID="21" xpos="855.611" ypos="14.4705" zpos="237.273" type="guildrace.chickenrun.dodgejump" GUID="Iamy0VJd30uicT8tpIWveQ=="/>
+	  
+		<POI MapID="21" xpos="853.428" ypos="15.3011" zpos="247.901" type="guildrace.chickenrun.dodgejump" GUID="L7YJvDcAHkmVvYoeIrzpzw=="/>
+	  
+		<POI MapID="21" xpos="847.432" ypos="14.5341" zpos="258.952" type="guildrace.chickenrun.path" GUID="fYNtZkouUE2zXa6oggvseg=="/>
+	  
+		<POI MapID="21" xpos="836.071" ypos="14.0676" zpos="268.699" type="guildrace.chickenrun.path" GUID="Nx4tzcfqqEmqIU+oRAPd+g=="/>
+	  
+		<POI MapID="21" xpos="816.007" ypos="14.0141" zpos="273.678" type="guildrace.chickenrun.path" GUID="pMkmLf8zTk2L3a+yhX1Bqw=="/>
+	  
+		<POI MapID="21" xpos="802.761" ypos="17.3029" zpos="274.243" type="guildrace.chickenrun.path" GUID="mHGUQcFs0EG+g/prX7RBtQ=="/>
+	  
+		<POI MapID="21" xpos="791.08" ypos="19.4658" zpos="274.083" type="guildrace.chickenrun.path" GUID="qDy4v3rrokaBoW5x6IFQbg=="/>
+	  
+		<POI MapID="21" xpos="783.667" ypos="16.6388" zpos="284.809" type="guildrace.chickenrun.path" GUID="pIRqNjWW00On8+ckLOI4FQ=="/>
+	  
+		<POI MapID="21" xpos="779.726" ypos="15.2175" zpos="294.999" type="guildrace.chickenrun.path" GUID="UUw5fagHlUWzQnTtq8hlWw=="/>
+	  
+		<POI MapID="21" xpos="777.53" ypos="14.5954" zpos="308.087" type="guildrace.chickenrun.path" GUID="L7tVYC2JPEys2OjCyQKjMg=="/>
+	  
+		<POI MapID="21" xpos="778.796" ypos="16.0281" zpos="323.153" type="guildrace.chickenrun.path" GUID="IqXF2eH0UUaNW7H6WdMuFw=="/>
+	  
+		<POI MapID="21" xpos="775.759" ypos="17.1948" zpos="334.801" type="guildrace.chickenrun.path" GUID="VWlLEWr+9UauqjSq8/IAhw=="/>
+	  
+		<POI MapID="21" xpos="769.72" ypos="17.1623" zpos="347.464" type="guildrace.chickenrun.path" GUID="Kvh+kP6W8Eydtymdo0kpgQ=="/>
+	  
+		<POI MapID="21" xpos="767.411" ypos="16.0413" zpos="361.888" type="guildrace.chickenrun.dodgejump" GUID="VXMjovkx7kuiAN/C3LoNJg=="/>
+	  
+		<POI MapID="21" xpos="762.809" ypos="17.3848" zpos="371.572" type="guildrace.chickenrun.dodgejump" GUID="0b6IQys8302djHDyf/S6ZA=="/>
+	  
+		<POI MapID="21" xpos="762.772" ypos="17.7909" zpos="384.767" type="guildrace.chickenrun.path" GUID="PK1UqYpfYkW9xG4eMmTKUA=="/>
+	  
+		<POI MapID="21" xpos="768.414" ypos="18.9647" zpos="397.202" type="guildrace.chickenrun.path" GUID="4DZnQz7gy0S1TZFE3mcXwg=="/>
+	  
+		<POI MapID="21" xpos="780.921" ypos="21.7034" zpos="406.409" type="guildrace.chickenrun.path" GUID="lq4D0FblFEesgOEckYhmGQ=="/>
+	  
+		<POI MapID="21" xpos="793.475" ypos="23.6578" zpos="413.576" type="guildrace.chickenrun.path" GUID="ACQAjq51ckOEIvK/lAp7jQ=="/>
+	  
+		<POI MapID="21" xpos="806.406" ypos="24.8491" zpos="423.487" type="guildrace.chickenrun.path" GUID="0gjyPlWwDU+YCY+UDoMuig=="/>
+	  
+		<POI MapID="21" xpos="814.168" ypos="25.0427" zpos="430.028" type="guildrace.chickenrun.path" GUID="9i9iq7n0oEaFsphes+BZVw=="/>
+	  
+		<POI MapID="21" xpos="820.544" ypos="25.4383" zpos="437.812" type="guildrace.chickenrun.path" GUID="ofihkF02B02h2jdqORUHag=="/>
+	  
+		<POI MapID="21" xpos="825.03" ypos="25.6689" zpos="446.503" type="guildrace.chickenrun.path" GUID="+wPzoDe5i0ep+c7YnYULLA=="/>
+	  
+		<POI MapID="21" xpos="834.489" ypos="24.9971" zpos="458.73" type="guildrace.chickenrun.path" GUID="xMr6fN21y0ei7Hrg/pJa0A=="/>
+	  
+		<POI MapID="21" xpos="844.34" ypos="25.9297" zpos="470.106" type="guildrace.chickenrun.path" GUID="zMyFrKPk2Eu19wNrtNrP1Q=="/>
+	  
+		<POI MapID="21" xpos="845.225" ypos="27.4394" zpos="484.463" type="guildrace.chickenrun.dodgejump" GUID="tupTZFBsHkmg26f2rf3y0Q=="/>
+	  
+		<POI MapID="21" xpos="842.325" ypos="28.5636" zpos="494.633" type="guildrace.chickenrun.path" GUID="xZmmOMTO20as6oW0ZqJ6Sw=="/>
+	  
+		<POI MapID="21" xpos="828.19" ypos="29.2108" zpos="499.937" type="guildrace.chickenrun.path" GUID="3U//wf8eykOSWQj2qEKuEQ=="/>
+	  
+		<POI MapID="21" xpos="817.387" ypos="30.0865" zpos="493.122" type="guildrace.chickenrun.path" GUID="R7TNmVgrDEKO/LJGR3T08g=="/>
+	  
+		<POI MapID="21" xpos="801.63" ypos="31.6067" zpos="483.407" type="guildrace.chickenrun.dodgejump" GUID="QwtxO2BeiU+UFoNAFLbv+Q=="/>
+	  
+		<POI MapID="21" xpos="792.735" ypos="33.4735" zpos="478.926" type="guildrace.chickenrun.path" GUID="j+ElVROHyEqpVQ6lLJNmmw=="/>
+	  
+		<POI MapID="21" xpos="780.453" ypos="32.8683" zpos="476.44" type="guildrace.chickenrun.path" GUID="P9u4je/cSkG80PcKaPi1bA=="/>
+	  
+		<POI MapID="21" xpos="766.688" ypos="34.3068" zpos="472.099" type="guildrace.chickenrun.path" GUID="NwfzkTQa1Ee/D6qSjHA+cw=="/>
+	  
+		<POI MapID="21" xpos="754.239" ypos="34.0149" zpos="481.585" type="guildrace.chickenrun.path" GUID="MQbHU8HWl0iwu5zhyaiHbw=="/>
+	  
+		<POI MapID="21" xpos="743.762" ypos="34.4426" zpos="481.416" type="guildrace.chickenrun.path" GUID="OOQ4UzbIB0G4LbRe0aJF4Q=="/>
+	  
+		<POI MapID="21" xpos="728.932" ypos="35.8304" zpos="474.4" type="guildrace.chickenrun.path" GUID="lqs8S4AQ9kqa29zIKNtrsg=="/>
+	  
+		<POI MapID="21" xpos="724.661" ypos="34.8909" zpos="471.172" type="guildrace.chickenrun.dodgejump" GUID="TPHTefqLekeXOvVNs9XiUQ=="/>
+	  
+		<POI MapID="21" xpos="717.181" ypos="34.8926" zpos="466.214" type="guildrace.chickenrun.path" GUID="xtcTZx8p3kOjmDPEZw18SA=="/>
+	  
+		<POI MapID="21" xpos="714.34" ypos="34.899" zpos="462.75" type="guildrace.chickenrun.dodgejump" GUID="lKGR/gg3NEWx5FJTCX47vw=="/>
+	  
+		<POI MapID="21" xpos="704.838" ypos="35.0162" zpos="454.391" type="guildrace.chickenrun.path" GUID="7ilCR8XpJ0ifmVz49/wfYw=="/>
+	  
+		<POI MapID="21" xpos="697.059" ypos="35.2728" zpos="440.396" type="guildrace.chickenrun.path" GUID="t8j97LuFKUmPCzrNU9LnVg=="/>
+	  
+		<POI MapID="21" xpos="691.848" ypos="32.8898" zpos="428.276" type="guildrace.chickenrun.path" GUID="BvktsxfrnEGMyrI4fDAoNA=="/>
+	  
+		<POI MapID="21" xpos="689.287" ypos="33.8282" zpos="416.038" type="guildrace.chickenrun.path" GUID="+/OiK1s8r0yCSxHxdPXQ9w=="/>
+	  
+		<POI MapID="21" xpos="684.71" ypos="34.8385" zpos="403.761" type="guildrace.chickenrun.path" GUID="gXcSuYPiNUSsbD+yr6DQJg=="/>
+	  
+		<POI MapID="21" xpos="674.822" ypos="34.2472" zpos="395.893" type="guildrace.chickenrun.path" GUID="Wc8ajKPix0SloDR2rDmaVQ=="/>
+	  
+		<POI MapID="21" xpos="667.716" ypos="34.9069" zpos="386.997" type="guildrace.chickenrun.path" GUID="r3dFEUqIikuDuZwU0hgTbg=="/>
+	  
+		<POI MapID="21" xpos="656.059" ypos="35.9101" zpos="381.291" type="guildrace.chickenrun.path" GUID="crQ0VA7daE2/VVPOB5NAIA=="/>
+	  
+		<POI MapID="21" xpos="643.21" ypos="37.0567" zpos="376.606" type="guildrace.chickenrun.path" GUID="ZIsc0dztY06O1Nnae5sJwQ=="/>
+	  
+		<POI MapID="21" xpos="627.421" ypos="38.5221" zpos="370.436" type="guildrace.chickenrun.path" GUID="OLVXL6aNA0KlU3OtpzzRtg=="/>
+	</POIs>
+</OverlayData>
