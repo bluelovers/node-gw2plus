@@ -76,7 +76,7 @@ addGulpTasks({
 					space: true,
 				}).find('OverlayData > MarkerCategory'));
 
-				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', 'POIs/ZZZ_SC_ResourceNode.xml'), nodes.dump());
+				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', `POIs/${project_config.RUNTIME_PREFIX_TEMP}ResourceNode.xml`), nodes.dump());
 			},
 		},
 
@@ -124,7 +124,7 @@ addGulpTasks({
 					space: true,
 				}).find('OverlayData > MarkerCategory'));
 
-				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', 'POIs/ZZZ_SC_GuildMission.xml'), nodes.dump());
+				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', `POIs/${project_config.RUNTIME_PREFIX_TEMP}GuildMission.xml`), nodes.dump());
 			},
 		},
 
@@ -172,7 +172,7 @@ addGulpTasks({
 					space: true,
 				}).find('OverlayData > MarkerCategory'));
 
-				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', 'POIs/ZZZ_SC_Chest.xml'), nodes.dump());
+				await fs.outputFile(path.join(dist_root, 'assets/gw2taco', `POIs/${project_config.RUNTIME_PREFIX_TEMP}Chest.xml`), nodes.dump());
 			},
 		},
 
@@ -183,7 +183,7 @@ addGulpTasks({
 
 			async callback()
 			{
-				await pack_poi('POIs/MapSpecific', path.join(dist_root, 'assets/gw2taco', 'POIs/ZZZ_SC_MapSpecific.xml'))
+				await pack_poi('POIs/MapSpecific', path.join(dist_root, 'assets/gw2taco', `POIs/${project_config.RUNTIME_PREFIX_TEMP}MapSpecific.xml`))
 			},
 		},
 	},
