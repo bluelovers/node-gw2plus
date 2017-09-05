@@ -104,7 +104,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="guildrace" DisplayName="Guild Races" data-class="fade-8" fadeFar="5600" fadeNear="1200">
+  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200">
     <MarkerCategory name="bearlope" DisplayName="Bear Lope">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -121,6 +121,12 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="chickenrun" DisplayName="Chicken Run">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Guilde">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
@@ -154,12 +160,6 @@
       <MarkerCategory name="TheMists" DisplayName="The Mists" triggerRange="3">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="undefined"/>
-  </MarkerCategory>
-  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Guilde">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
