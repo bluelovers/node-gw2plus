@@ -80,5 +80,7 @@
     <POI MapID="1043" xpos="385.606" ypos="242.086" zpos="-227.376" type="resourcenode.plant.orichalcum.mussels" GUID="SILVR43w6UW9aXxSgkNwAw=="/>
     <POI MapID="1043" xpos="-431.98" ypos="290.974" zpos="-445.719" type="resourcenode.plant.orichalcum.mussels" GUID="3F6ByoCMIkaNiySgGx77Tw=="/>
     <POI MapID="1043" xpos="316.253" ypos="142.474" zpos="1.62642" type="resourcenode.plant.orichalcum.mussels" GUID="QNJZPtxWs0GQ3eCPPaELGA=="/>
+    <POI MapID="1043" xpos="473.068" ypos="242.074" zpos="-230.038" type="resourcenode.plant.orichalcum.mussels" GUID="/E3150NP/EW6z3ycCdSN1g=="/>
+    <POI MapID="1043" xpos="475.769" ypos="242.078" zpos="-240.719" type="resourcenode.plant.orichalcum.mussels" GUID="/0PtfX7QI0uZYktdreIWcw=="/>
   </POIs>
 </OverlayData>
