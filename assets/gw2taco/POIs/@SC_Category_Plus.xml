@@ -42,6 +42,16 @@
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3"/>
   </MarkerCategory>
+  <MarkerCategory name="Tactical">
+		<MarkerCategory name="GuildMission">
+			<MarkerCategory name="Trek" heightOffset="4"/>
+      <MarkerCategory name="Puzzle"/>
+      <MarkerCategory name="Race" data-allowsub="true">
+        <MarkerCategory name="Trap"/>
+      </MarkerCategory>
+		</MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true"/>
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles">
     <MarkerCategory name="Start"/>
     <MarkerCategory name="Guilde">
@@ -53,16 +63,6 @@
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical">
-		<MarkerCategory name="GuildMission">
-			<MarkerCategory name="Trek" heightOffset="4"/>
-      <MarkerCategory name="Puzzle"/>
-      <MarkerCategory name="Race" data-allowsub="true">
-        <MarkerCategory name="Trap"/>
-      </MarkerCategory>
-		</MarkerCategory>
-  </MarkerCategory>
-  <MarkerCategory name="guildrace" data-class="fade-8"/>
   <MarkerCategory name="Achievement" data-allowsub="true"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>

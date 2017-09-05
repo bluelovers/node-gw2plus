@@ -225,7 +225,7 @@
       <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="guildrace" DisplayName="Guild Races" data-class="fade-8" fadeFar="5600" fadeNear="1200">
+  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200">
     <MarkerCategory name="bearlope" DisplayName="Bear Lope">
       <MarkerCategory name="Path" iconFile="Data/GuildRaces/path.png" iconSize="0.5" behavior="0"/>
       <MarkerCategory name="Spiketrap" iconFile="Data/GuildRaces/spikes.png" iconSize="0.5" behavior="0"/>
@@ -262,8 +262,16 @@
       <MarkerCategory name="Stonetrap" iconFile="Data/GuildRaces/boulders.png" iconSize="0.5" behavior="0"/>
     </MarkerCategory>
   </MarkerCategory>
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Start"/>
+    <MarkerCategory name="Guilde">
+      <MarkerCategory name="End"/>
+    </MarkerCategory>
+  </MarkerCategory>
   <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
+    <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
+    <MarkerCategory name="Portal"/>
     <MarkerCategory name="Guide">
       <MarkerCategory name="Ascalon">
         <MarkerCategory name="BehemGauntlet" DisplayName="Behem Gauntlet"/>
@@ -332,14 +340,6 @@
         <MarkerCategory name="MistwroughtVault" DisplayName="Mistwrought Vault"/>
         <MarkerCategory name="ObsidianSanctum" DisplayName="Obsidian Sanctum"/>
       </MarkerCategory>
-    </MarkerCategory>
-    <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
-    <MarkerCategory name="Portal"/>
-  </MarkerCategory>
-  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Start"/>
-    <MarkerCategory name="Guilde">
-      <MarkerCategory name="End"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
