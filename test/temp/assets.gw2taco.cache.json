@@ -44,6 +44,7 @@
   "resourcenode.ore.rich": "ResourceNode/Ore.Rich.png",
   "resourcenode.ore.normal.orichalcum": "ResourceNode/Ore.Normal.Orichalcum.png",
   "resourcenode.ore": "ResourceNode/Ore.png",
+  "resourcenode.other.candy_corn": "ResourceNode/Other/Candy_Corn.png",
   "resourcenode.other.cloth": "ResourceNode/Other/Cloth.png",
   "resourcenode.other.leather": "ResourceNode/Other/Leather.png",
   "resourcenode.other.watchwork_sprocket": "ResourceNode/Other/Watchwork_Sprocket.png",

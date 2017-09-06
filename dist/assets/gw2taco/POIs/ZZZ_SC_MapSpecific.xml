@@ -29,7 +29,7 @@
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
       <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" fadeFar="25200" fadeNear="16800"/>
-      <MarkerCategory name="Candy Cron" data-class="fade-min" fadeFar="2400" fadeNear="1200" DisplayName="Candy Cron"/>
+      <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200" DisplayName="Candy Corn"/>
       <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" DisplayName="Watchwork Sprocket"/>
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
@@ -80,7 +80,7 @@
     <POI MapID="371" xpos="346.425" ypos="132.198" zpos="290.36" type="resourcenode.plant.orichalcum.omnomberries" GUID="81GTwuOmD0Wl17tE0sH+FQ=="/>
     <POI MapID="371" xpos="361.825" ypos="132.184" zpos="295.333" type="resourcenode.plant.orichalcum.lotus" GUID="npDU9iBQC0qbWIo9d6+GWw=="/>
     <POI MapID="371" xpos="361.138" ypos="135.757" zpos="290.089" type="resourcenode.other.quartzcrystal" GUID="KZHmRKSk3UmdSEn3W1Qmaw=="/>
-    <POI MapID="371" xpos="360.597" ypos="136.451" zpos="286.187" type="resourcenode.other.candy_cron" GUID="1CMiP5jZdkOHgKZtpOdZ5Q=="/>
+    <POI MapID="371" xpos="360.597" ypos="136.451" zpos="286.187" type="resourcenode.other.candy_corn" GUID="1CMiP5jZdkOHgKZtpOdZ5Q=="/>
     <POI MapID="371" xpos="373.999" ypos="134.442" zpos="288.626" type="resourcenode.other.watchwork_sprocket" GUID="5/CELD97TEqB2OwBFiqMMg=="/>
     <POI MapID="371" xpos="381.023" ypos="135.607" zpos="290.955" type="resourcenode.ore.normal.orichalcum" GUID="OQ31XOujr0iq1is/cIu5Ag=="/>
     <POI MapID="371" xpos="384.087" ypos="135.154" zpos="292.251" type="resourcenode.ore.normal.mithril" GUID="BL6ZyP9oCkWUVq+XIZAMkw=="/>
