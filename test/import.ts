@@ -63,10 +63,10 @@ import gw2api, { getMapAll, getMapInfo } from '../src/gw2api/map';
 			'A Crack in the Ice',
 			'Thorough Sampling',
 		],
-		'resourcenode.other.candy cron': [
+		'resourcenode.other.candy corn': [
 			'ResourceNode',
 			'Other',
-			'Candy Cron',
+			'Candy Corn',
 		],
 	};
 
