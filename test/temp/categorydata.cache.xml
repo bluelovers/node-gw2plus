@@ -112,7 +112,7 @@
       <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
-      <MarkerCategory name="Candy Cron" data-class="fade-min" fadeFar="2400" fadeNear="1200"/>
+      <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200"/>
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" fadeFar="25200" fadeNear="16800"/>
