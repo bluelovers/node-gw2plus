@@ -62,10 +62,18 @@
     <MarkerCategory name="Start"/>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
+    <MarkerCategory name="Point"/>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
+  </MarkerCategory>
+  <MarkerCategory name="Other" data-allowsub="true">
+    <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4">
+      <MarkerCategory name="Merchant"/>
+      <MarkerCategory name="Ectoplasm"/>
+      <MarkerCategory name="Karma"/>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
 </OverlayData>

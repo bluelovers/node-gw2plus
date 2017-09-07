@@ -15,6 +15,7 @@ import * as path from 'path';
 
 export interface toListObject
 {
+	is: string;
 	name: string;
 	name_id: string;
 	name_id_lc: string;
@@ -28,13 +29,13 @@ class Category extends Node
 	static defaultFilter = 'OverlayData > MarkerCategory';
 	static defaultTagName: string = 'MarkerCategory';
 
-	toList(): toListObject
+	toList(toarray = false): toListObject[]
 	{
 		let self = this;
 
 		let top = this.filter();
 
-		let list = {};
+		let list = toarray ? [] : {};
 
 		let fn = function (dom, parent_name, list)
 		{
@@ -49,13 +50,23 @@ class Category extends Node
 
 				let id = Poi.normalize(name_id_lc);
 
-				list[id] = {
+				let o = {
+					id: id,
 					name: name,
 					name_id: name_id,
 					name_id_lc: name_id_lc,
 					parent_name: parent_name,
 					elem: _this,
 				};
+
+				if (toarray)
+				{
+					list.push(o);
+				}
+				else
+				{
+					list[id] = o;
+				}
 
 				//console.log(999, name_id, Object.keys(list).length);
 
@@ -74,7 +85,20 @@ class Category extends Node
 
 		//console.log('list', Object.keys(list).length);
 
-		return list as toListObject;
+		return list as toListObject[];
+	}
+
+	getListOrder(list = null)
+	{
+		if (list === null)
+		{
+			list = this.toList(true);
+		}
+
+		return list.slice(0).map(function (o)
+		{
+			return o.id;
+		});
 	}
 
 	makeTree(list, skip = [], options?: object)
