@@ -10,6 +10,8 @@ const gw2taco = {
 
 	Node: require('./node'),
 
+	Route: require('./route'),
+
 	default: null,
 
 };
