@@ -312,6 +312,7 @@ enum m_translate {
 	LANG_PAN_OPTIONS_BS_NOTOTALS,
 	LANG_PAN_OPTIONS_BS_ALTUICLICKLOCK,
 	LANG_PAN_OPTIONS_RS_EMBEDEXTRA,
+	LANG_PAN_OPTIONS_LOGGING,
 
 	/* panels: templates */
 	LANG_PAN_TEMPLATES_HEADER = 570,
@@ -647,7 +648,7 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_OPTIONS_HEADER] = "OPTIONS";
 	lang[m_translate.LANG_PAN_OPTIONS_PANELS] = "WINDOWS";
 	lang[m_translate.LANG_PAN_OPTIONS_SUMMARIES] = "TOOLTIP";
-	lang[m_translate.LANG_PAN_OPTIONS_BASIC] = "CONFIG";
+	lang[m_translate.LANG_PAN_OPTIONS_BASIC] = "GENERAL";
 	lang[m_translate.LANG_PAN_OPTIONS_Y] = "Y";
 	lang[m_translate.LANG_PAN_OPTIONS_N] = "N";
 	lang[m_translate.LANG_PAN_OPTIONS_SM_LINK] = "LINK PANELS";
@@ -680,6 +681,7 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_OPTIONS_BS_MENULOCK] = "REQUIRE MODIFIERS TO SHOW MENUS";
 	lang[m_translate.LANG_PAN_OPTIONS_BS_NOTOTALS] = "DONT SHOW TOTALS";
 	lang[m_translate.LANG_PAN_OPTIONS_BS_ALTUICLICKLOCK] = "REQUIRE MODIFIERS TO CLICK";
+	lang[m_translate.LANG_PAN_OPTIONS_LOGGING] = "LOGGING";
 
 	/* panels: templates */
 	lang[m_translate.LANG_PAN_TEMPLATES_HEADER] = "TEMPLATES";
