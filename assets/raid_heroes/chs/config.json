@@ -1,0 +1,1 @@
+{	"render": {		"rotation_weap1": false,		"mechanics_hidden" : true,		"stats": {			"inc_dmg": true		}			},	"report": {		"gen_10dps": true,		"gen_30dps": true	},	"output_dir": "."}
