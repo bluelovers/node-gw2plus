@@ -5,9 +5,13 @@ EXTENSIONS MUST BE UPDATED WITH ARCDPS.
 install/usage:
 save dll into bin64 folder.
 alt-shift-d to bring up (or hide) templates window.
+to use a different key, check example ini and create a line under [keys] for global_templates.
 saving will take a snapshot of your current loadout for each selected category.
 loading can load one of each category - click to select, click again to deselect.
 if no trait or skill templates selected, it will try to load the specified text codes.
+right click on either text code to copy both to clipboard.
+text codes will auto fill if valid code detected in clipboard.
+text codes will auto fill if valid code detected in game text.
 x to delete.
 
 restrictions:
