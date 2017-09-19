@@ -39,7 +39,8 @@ skill template code:
 byte 0 = 's' (0x73).
 byte 1 = u16 prof id.
 byte 3-22 = u16[10] landheal, landutil1, landutil2, landutil3, landelite, waterheal, waterutil1, wateruril2, waterutil3, waterelite.
-skillpaletteid's used for skill template are not currently available via web api.
+skillpalette ids used for skill template are not currently available via web api.
+to use skilldef ids (from web api), replace byte0 with 'k' (0x6b) - experimental.
 
 gear template code:
 too long to be feasible
