@@ -83,6 +83,9 @@ const _gulp_ = {
 				let chs = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/chs.ini'), encodings);
 				let chs_ini = ini.parse(chs.toString());
 
+				let chs2 = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/chinese-simplified/arcdps_lang.ini'), encodings);
+				let chs2_ini = ini.parse(chs2.toString());
+
 				let tw = await fs.readFile(path.join(project_root, 'assets', 'arcdps/translations/tw.ini'), encodings);
 				let tw_ini = ini.parse(tw.toString());
 
@@ -110,31 +113,63 @@ const _gulp_ = {
 						continue;
 					}
 
-					cht_new.push(`;${i}=${c.lang[i]}`);
+					let cv = [];
+					let v = '';
 
-					if (chs_ini[i])
+					cv.push(c.lang[i]);
+					//cht_new.push(`;${i}=${c.lang[i]}`);
+
+					if (chs2_ini[i] && !cv.includes(chs2_ini[i]))
 					{
-						cht_new.push(`;${i}=${chs_ini[i]}`);
+						cv.push(chs2_ini[i]);
+					}
+
+					if (chs_ini[i] && !cv.includes(chs_ini[i]))
+					{
+						cv.push(chs_ini[i]);
+						//cht_new.push(`;${i}=${chs_ini[i]}`);
 					}
 
 					if (cht_ini[i])
 					{
 						//console.log(`${i}=${cht_ini[i]}`);
 
-						cht_new.push(`${i}=${cht_ini[i]}`);
+						v = cht_ini[i];
+						//cht_new.push(`${i}=${cht_ini[i]}`);
 					}
 					else if (cht_ini[i] === '')
 					{
 						// reset to english
 
-						if (tw_ini[i])
+						if (tw_ini[i] && !cv.includes(tw_ini[i]))
 						{
-							cht_new.push(`;${i}=${tw_ini[i]}`);
+							cv.push(tw_ini[i]);
+							//cht_new.push(`;${i}=${tw_ini[i]}`);
 						}
 					}
 					else if (tw_ini[i])
 					{
-						cht_new.push(`${i}=${tw_ini[i]}`);
+						v = tw_ini[i];
+						//cht_new.push(`${i}=${tw_ini[i]}`);
+					}
+
+					if (cv.length)
+					{
+						cv = cv.reduce(function(a, b)
+						{
+							a.push(`;${i}=${b}`);
+
+							return a;
+						}, cht_new);
+
+						//console.log(cv);
+
+						//cht_new = cht_new.concat(cv);
+					}
+
+					if (v)
+					{
+						cht_new.push(`${i}=${v}`);
 					}
 				}
 
@@ -146,7 +181,7 @@ const _gulp_ = {
 
 				fs.outputFile(path.join(dist_root, 'assets', 'arcdps/translations/cht/arcdps_lang.ini'), out as any, encodings);
 			}
-		}
+		},
 
 	},
 };
