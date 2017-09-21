@@ -13,3 +13,4 @@
 /test/temp/temp2/
 /test/temp/poidata.import/
 /test/temp/runtime/
+*.d.ts
