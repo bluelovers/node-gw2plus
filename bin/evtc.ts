@@ -4,18 +4,20 @@
  * Created by user on 2017/8/11/011.
  */
 
-import { evtc, search, winDocuments } from '../src/arcdps/script/raid_heroes';
+import { evtc, search, winDocuments, gw2path } from '../src/arcdps/script/raid_heroes';
 
 //console.log(process.env);
 
 export = (async () =>
 {
 	const myDocFolder = await winDocuments();
+	const myGW2Path= await gw2path();
 
 	let paths = [
 		process.cwd(),
 		'.',
 		`${myDocFolder}/Documents`,
+		`${myGW2Path}/addons`,
 		`${myDocFolder}`,
 		`${process.env.USERPROFILE}/Documents`,
 		`${process.env.USERPROFILE}`,
