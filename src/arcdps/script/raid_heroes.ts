@@ -147,3 +147,61 @@ export async function winDocuments()
 
 	return myDocFolder;
 }
+
+export async function winreg(name, key, hive)
+{
+	let regKey = new Winreg({
+		hive: hive,
+		key: key,
+	});
+
+	let v = await new Promise(function (resolve, reject)
+	{
+		regKey.get(name, function (err, item)
+		{
+			if (err)
+			{
+				//reject(err);
+				resolve();
+			}
+			else
+			{
+				resolve(item.value);
+			}
+		});
+	});
+
+	return v;
+}
+
+export async function gw2exe()
+{
+	let p1 = await winreg(Winreg.DEFAULT_VALUE, '\\Gw2\\shell\\open\\command', Winreg.HKCR);
+
+	if (p1 && p1.toString().match(/^\s*\"([^\"]+)\"/))
+	{
+		p1 = RegExp.$1;
+	}
+
+	if (p1 && fs.existsSync(p1))
+	{
+		return p1;
+	}
+
+	let p2 = await winreg('Path', '\\SOFTWARE\\ArenaNet\\Guild Wars 2', Winreg.HKLM);
+
+	if (p2 && fs.existsSync(p2))
+	{
+		return p2;
+	}
+}
+
+export async function gw2path()
+{
+	let exe = await gw2exe();
+
+	if (exe)
+	{
+		return path.dirname(exe);
+	}
+}
