@@ -237,6 +237,39 @@
     <MarkerCategory name="Aurora">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
+      <MarkerCategory name="1" data-allowsub="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="2">
+        <MarkerCategory name="Crystalline Memories" data-allowsub="true" DisplayName="Crystalline Memories">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Hallowed Ground" data-allowsub="true" DisplayName="Hallowed Ground">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Facing the Truth" data-allowsub="true" DisplayName="Facing the Truth">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="The Way Forward" data-allowsub="true" DisplayName="The Way Forward">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="3" data-allowsub="true">
+        <MarkerCategory name="Beast of War" DisplayName="Beast of War">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Desolation" DisplayName="The Desolation">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>

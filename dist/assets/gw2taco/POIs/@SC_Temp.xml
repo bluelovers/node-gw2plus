@@ -30,5 +30,34 @@
     <MarkerCategory name="Aurora">
       <MarkerCategory name="Aurora II: Empowering"/>
     </MarkerCategory>
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
+      <MarkerCategory name="1" data-allowsub="true">
+      </MarkerCategory>
+      <MarkerCategory name="2">
+        <MarkerCategory name="Crystalline Memories" data-allowsub="true" DisplayName="Crystalline Memories">
+          <MarkerCategory name="All the Essences" DisplayName="All the Essences"/>
+        </MarkerCategory>
+        <MarkerCategory name="Hallowed Ground" data-allowsub="true" DisplayName="Hallowed Ground">
+        </MarkerCategory>
+        <MarkerCategory name="Facing the Truth" data-allowsub="true" DisplayName="Facing the Truth">
+          <MarkerCategory name="Wedge Symbol" DisplayName="Wedge Symbol"/>
+          <MarkerCategory name="Seeker of Truth and Knowledge" DisplayName="Seeker of Truth and Knowledge"/>
+          <MarkerCategory name="Goddess of Secrets" DisplayName="Goddess of Secrets"/>
+        </MarkerCategory>
+        <MarkerCategory name="The Way Forward" data-allowsub="true" DisplayName="The Way Forward">
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="3" data-allowsub="true">
+        <MarkerCategory name="Beast of War" DisplayName="Beast of War">
+          <MarkerCategory name="Destroy Additional Pylons" DisplayName="Destroy Additional Pylons"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis">
+        <MarkerCategory name="Lost Lore of Crystal Oasis" DisplayName="Lost Lore of Crystal Oasis"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Desolation" DisplayName="The Desolation">
+        <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
+      </MarkerCategory>
+    </MarkerCategory>
   </MarkerCategory>
 </OverlayData>

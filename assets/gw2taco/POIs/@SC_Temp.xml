@@ -30,5 +30,39 @@
     <MarkerCategory name="Aurora">
       <MarkerCategory name="Aurora II: Empowering"/>
     </MarkerCategory>
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="1" data-allowsub="true">
+      </MarkerCategory>
+      <MarkerCategory name="2">
+        <MarkerCategory name="Crystalline Memories" data-allowsub="true">
+          <MarkerCategory name="All the Essences"/>
+        </MarkerCategory>
+        <MarkerCategory name="Hallowed Ground" data-allowsub="true">
+
+        </MarkerCategory>
+        <MarkerCategory name="Facing the Truth" data-allowsub="true">
+          <MarkerCategory name="Wedge Symbol"></MarkerCategory>
+          <MarkerCategory name="Seeker of Truth and Knowledge"/>
+          <MarkerCategory name="Goddess of Secrets"/>
+        </MarkerCategory>
+        <MarkerCategory name="The Way Forward" data-allowsub="true">
+
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="3" data-allowsub="true">
+        <MarkerCategory name="Beast of War">
+          <MarkerCategory name="Destroy Additional Pylons"/>
+        </MarkerCategory>
+      </MarkerCategory>
+
+      <MarkerCategory name="Crystal Oasis">
+        <MarkerCategory name="Lost Lore of Crystal Oasis"/>
+      </MarkerCategory>
+
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="Lost Lore of the Desolation"/>
+      </MarkerCategory>
+
+    </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
