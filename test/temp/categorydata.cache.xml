@@ -265,7 +265,7 @@
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Start"/>
     <MarkerCategory name="Guilde">
-      <MarkerCategory name="End"/>
+      <MarkerCategory name="End" iconFile="Data/DivingGoggles/Guilde.End.png" data-iconFile="Data/DivingGoggles/Guilde.End.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400">
@@ -437,6 +437,32 @@
     </MarkerCategory>
     <MarkerCategory name="Aurora">
       <MarkerCategory name="Aurora II_ Empowering" DisplayName="Aurora II: Empowering"/>
+    </MarkerCategory>
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="1" data-allowsub="true"/>
+      <MarkerCategory name="2">
+        <MarkerCategory name="Crystalline Memories" data-allowsub="true">
+          <MarkerCategory name="All the Essences"/>
+        </MarkerCategory>
+        <MarkerCategory name="Hallowed Ground" data-allowsub="true"/>
+        <MarkerCategory name="Facing the Truth" data-allowsub="true">
+          <MarkerCategory name="Wedge Symbol"/>
+          <MarkerCategory name="Seeker of Truth and Knowledge"/>
+          <MarkerCategory name="Goddess of Secrets"/>
+        </MarkerCategory>
+        <MarkerCategory name="The Way Forward" data-allowsub="true"/>
+      </MarkerCategory>
+      <MarkerCategory name="3" data-allowsub="true">
+        <MarkerCategory name="Beast of War">
+          <MarkerCategory name="Destroy Additional Pylons"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="Crystal Oasis">
+        <MarkerCategory name="Lost Lore of Crystal Oasis"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="Lost Lore of the Desolation"/>
+      </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
