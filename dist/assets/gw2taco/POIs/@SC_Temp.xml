@@ -55,8 +55,25 @@
       <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis">
         <MarkerCategory name="Lost Lore of Crystal Oasis" DisplayName="Lost Lore of Crystal Oasis"/>
       </MarkerCategory>
+      <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
+        <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
+        <MarkerCategory name="Equipment Tracker" DisplayName="Equipment Tracker"/>
+      </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
         <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
+      </MarkerCategory>
+      <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
+        <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>
+        <MarkerCategory name="Lost Lore of the Domain of Vabbi" DisplayName="Lost Lore of the Domain of Vabbi"/>
+      </MarkerCategory>
+      <MarkerCategory name="Griffon" DisplayName="Open Skies: Domain of Vabbi"/>
+      <MarkerCategory name="Open Skies: Sunspear Sanctuary">
+        <MarkerCategory name="Open Skies: Crystal Oasis"/>
+        <MarkerCategory name="Open Skies: Elon Riverlands"/>
+        <MarkerCategory name="Open Skies: Desert Highlands"/>
+        <MarkerCategory name="Open Skies: The Desolation"/>
+        <MarkerCategory name="Open Skies: Sunspear VVrsdom"/>
+        <MarkerCategory name="Open Skies: On Wings and a Prayer"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

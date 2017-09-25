@@ -265,7 +265,16 @@
       <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Open Skies_ Sunspear Sanctuary" DisplayName="Open Skies: Sunspear Sanctuary">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
