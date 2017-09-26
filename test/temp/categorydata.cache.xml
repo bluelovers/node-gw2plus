@@ -406,6 +406,10 @@
       <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
       <MarkerCategory name="Merchant"/>
     </MarkerCategory>
+    <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
+      <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
+      <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
     <MarkerCategory name="Letters from E"/>
@@ -459,6 +463,10 @@
       </MarkerCategory>
       <MarkerCategory name="Crystal Oasis">
         <MarkerCategory name="Lost Lore of Crystal Oasis"/>
+        <MarkerCategory name="Priory Historian Elisa">
+          <MarkerCategory name="Roads Less Traveled"/>
+          <MarkerCategory name="Recitation of the Litany of Deeds"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands"/>

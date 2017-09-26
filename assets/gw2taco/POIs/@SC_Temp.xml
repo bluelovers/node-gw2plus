@@ -57,6 +57,11 @@
 
       <MarkerCategory name="Crystal Oasis">
         <MarkerCategory name="Lost Lore of Crystal Oasis"/>
+        <MarkerCategory name="Priory Historian Elisa">
+          <MarkerCategory name="Roads Less Traveled"/>
+          <MarkerCategory name="Recitation of the Litany of Deeds"/>
+        </MarkerCategory>
+
       </MarkerCategory>
 
 

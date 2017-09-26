@@ -74,6 +74,10 @@
       <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
       <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
     </MarkerCategory>
+    <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
+      <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
+      <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
 </OverlayData>

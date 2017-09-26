@@ -213,6 +213,9 @@
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
@@ -263,6 +266,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis">
+        <MarkerCategory name="Priory Historian Elisa" DisplayName="Priory Historian Elisa">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
