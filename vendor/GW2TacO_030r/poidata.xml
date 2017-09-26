@@ -315,5 +315,9 @@
 		<POI MapID="1210" xpos="27.6091" ypos="26.3304" zpos="327.811" type="resourcenode.ore.normal.orichalcum" GUID="kMnm/9vN0UyI4qhTnkFL8Q=="/>
 		<POI MapID="1210" xpos="70.82" ypos="53.7976" zpos="446.506" type="chest.mapspecific.keyrequired" GUID="0J9MBT1OHUaU3WUNW9dP5Q=="/>
 		<POI MapID="1210" xpos="566.661" ypos="97.4501" zpos="213.157" type="chest.mapspecific.keyrequired" GUID="u491+U3NRk+8QlNPaEShiA=="/>
+		<POI MapID="1210" xpos="658.943" ypos="88.4694" zpos="612.075" type="resourcenode.plant.orichalcum.mussels" GUID="ZQeCh8EdRU2M/QC7jUvlQA=="/>
+		<POI MapID="1228" xpos="666.885" ypos="103.516" zpos="890.414" type="other.portal" GUID="anrNBGTOqEK04jdWrluSjQ=="/>
+		<POI MapID="1228" xpos="781.01" ypos="107.901" zpos="840.72" type="other.portal" GUID="Kb2aUkRXy0u6t7+x5TYUAg=="/>
+		<POI MapID="1228" xpos="797.961" ypos="122.21" zpos="775.741" type="resourcenode.ore.normal.orichalcum" GUID="EKV2l+aQhEuXOyV6EY34Yg=="/>
 	</POIs>
 </OverlayData>
