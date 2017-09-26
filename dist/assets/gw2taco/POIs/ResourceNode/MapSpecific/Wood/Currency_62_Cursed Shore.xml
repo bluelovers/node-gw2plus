@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
+        <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="62" xpos="79.4484" ypos="25.2495" zpos="363.826" type="resourcenode.mapspecific.wood.currency" GUID="zmLoDFrT7EC3IzKN7YPxLA=="/>
+  </POIs>
+</OverlayData>
