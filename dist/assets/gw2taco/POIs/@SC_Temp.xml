@@ -54,6 +54,10 @@
       </MarkerCategory>
       <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis">
         <MarkerCategory name="Lost Lore of Crystal Oasis" DisplayName="Lost Lore of Crystal Oasis"/>
+        <MarkerCategory name="Priory Historian Elisa" DisplayName="Priory Historian Elisa">
+          <MarkerCategory name="Roads Less Traveled" DisplayName="Roads Less Traveled"/>
+          <MarkerCategory name="Recitation of the Litany of Deeds" DisplayName="Recitation of the Litany of Deeds"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
