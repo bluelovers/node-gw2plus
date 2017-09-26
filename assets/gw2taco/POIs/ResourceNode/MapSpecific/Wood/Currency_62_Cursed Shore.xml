@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Wood">
+        <MarkerCategory name="Currency"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="62" xpos="79.4484" ypos="25.2495" zpos="363.826" type="resourcenode.mapspecific.wood.currency" GUID="zmLoDFrT7EC3IzKN7YPxLA=="/>
+  </POIs>
+</OverlayData>

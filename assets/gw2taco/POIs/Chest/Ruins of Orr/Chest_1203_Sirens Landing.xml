@@ -23,5 +23,9 @@
     <POI MapID="1203" xpos="-397.012" ypos="23.2034" zpos="-25.7898" type="chest.permanent" GUID="lWLM12EE4U+zoRypHpnuMA=="/>
     <POI MapID="1203" xpos="-230.026" ypos="32.6128" zpos="-46.9169" type="chest.permanent" GUID="cPF2jvfK40W3jTz1qk/+fQ=="/>
     <POI MapID="1203" xpos="-626.982" ypos="127.709" zpos="161.371" type="chest.permanent" GUID="sL5y5d+3aEmvmdGGOUr/GQ=="/>
+    <POI MapID="1203" xpos="528.608" ypos="171.301" zpos="166.876" type="chest.permanent" GUID="3KTgQxiMwEefbQdDzs8bPQ=="/>
+    <POI MapID="1203" xpos="563.857" ypos="287.285" zpos="114.952" type="chest.permanent" GUID="8QYZt/JSDkqi8mMpD0Ksxw=="/>
+    <POI MapID="1203" xpos="569.494" ypos="511.56" zpos="96.0037" type="chest.permanent" GUID="ZFJ6Yk4F3EWMuR7m77lVYw=="/>
+    <POI MapID="1203" xpos="-356.645" ypos="106.496" zpos="281.472" type="chest.permanent" GUID="V9+fPf8gHUq/RF0MQhEA6w=="/>
   </POIs>
 </OverlayData>
