@@ -109,5 +109,9 @@
     <POI MapID="1195" xpos="-463.187" ypos="451.939" zpos="-325.267" type="resourcenode.mapspecific.wood.currency" GUID="qT3a3i6W20qtKV6D8caxTQ=="/>
     <POI MapID="1195" xpos="-369.677" ypos="32.4779" zpos="-600.501" type="resourcenode.mapspecific.wood.currency" GUID="neN7kuHqCUOO43n4/v3CLQ=="/>
     <POI MapID="1195" xpos="-355.539" ypos="436.747" zpos="-428.156" type="resourcenode.mapspecific.wood.currency" GUID="5gnhM2H6yECI9BPzPX5klw=="/>
+    <POI MapID="1195" xpos="-9.31478" ypos="251.738" zpos="-55.55" type="resourcenode.mapspecific.wood.currency" GUID="d1Cz7SicpkOBxcAVOrVQvA=="/>
+    <POI MapID="1195" xpos="464.727" ypos="249.64" zpos="-308.365" type="resourcenode.mapspecific.wood.currency" GUID="4WTyjIjDwES8LOPt+59Wxg=="/>
+    <POI MapID="1195" xpos="-102.543" ypos="357.603" zpos="-116.573" type="resourcenode.mapspecific.wood.currency" GUID="yoHbN0611kSWVG/JgjficQ=="/>
+    <POI MapID="1195" xpos="-91.412" ypos="412.641" zpos="-97.3478" type="resourcenode.mapspecific.wood.currency" GUID="f4uiJR7vDUSMwdz9od9oVw=="/>
   </POIs>
 </OverlayData>
