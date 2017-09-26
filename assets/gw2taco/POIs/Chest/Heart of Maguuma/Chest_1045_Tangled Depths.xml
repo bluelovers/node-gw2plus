@@ -2,6 +2,9 @@
   <MarkerCategory name="Chest">
     <MarkerCategory name="Permanent"/>
     <MarkerCategory name="Meta"/>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="TangledDepths"/>
+    </MarkerCategory>
   </MarkerCategory>
   <POIs>
     <POI MapID="1045" xpos="140.878" ypos="16.035" zpos="-533.907" type="chest.permanent" GUID="5yNC6vfna06T/1HNcNF7AA=="/>
@@ -15,5 +18,8 @@
     <POI MapID="1045" xpos="-658.374" ypos="184.668" zpos="-68.3733" type="chest.permanent" GUID="k5mXfr80kEewkYUG4IIwHA=="/>
     <POI MapID="1045" xpos="-303.781" ypos="257.894" zpos="-107.29" type="chest.permanent" GUID="rEZ2AFy1MEa6Bm4tuKK4FA=="/>
     <POI MapID="1045" xpos="148.693" ypos="1.55958" zpos="-369.849" type="chest.meta" GUID="mg9O0qOlFEaNZjwsgBcduA=="/>
+    <POI MapID="1045" xpos="470.543" ypos="39.0082" zpos="-210.029" type="chest.mapspecific.tangleddepths" GUID="MR2P/riIfEqH9bjeXQyQqw=="/>
+    <POI MapID="1045" xpos="192.456" ypos="185.683" zpos="137.26" type="chest.permanent" GUID="rKTWbUJG9EC+ltWrexq6+w=="/>
+    <POI MapID="1045" xpos="-835.517" ypos="252.727" zpos="-288.425" type="chest.permanent" GUID="PjbYAYihU0KMPZeESg9t/w=="/>
   </POIs>
 </OverlayData>
