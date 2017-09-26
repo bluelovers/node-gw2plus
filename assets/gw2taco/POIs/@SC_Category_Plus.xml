@@ -74,6 +74,10 @@
       <MarkerCategory name="Ectoplasm"/>
       <MarkerCategory name="Karma"/>
     </MarkerCategory>
+    <MarkerCategory name="Portal">
+      <MarkerCategory name="In"/>
+      <MarkerCategory name="Out"/>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
 </OverlayData>
