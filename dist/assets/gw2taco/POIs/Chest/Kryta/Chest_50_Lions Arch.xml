@@ -1,0 +1,8 @@
+<OverlayData>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Permanent"/>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="50" xpos="573.716" ypos="2.28927" zpos="-407.523" type="chest.permanent" GUID="wk5ouBs7EkeyZI4Gw19luA=="/>
+  </POIs>
+</OverlayData>
