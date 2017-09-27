@@ -271,7 +271,13 @@
         </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
+        <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
@@ -281,6 +287,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Open Skies_ Sunspear Sanctuary" DisplayName="Open Skies: Sunspear Sanctuary">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Specialization Collections" DisplayName="Specialization Collections">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
