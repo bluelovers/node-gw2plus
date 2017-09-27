@@ -20,5 +20,8 @@
     <POI MapID="1052" xpos="-493.651" ypos="717.559" zpos="-155.875" type="chest.meta" GUID="LVfoNSoW2EaDrcIdcFCozw=="/>
     <POI MapID="1052" xpos="177.315" ypos="665.116" zpos="-33.4837" type="chest.meta" GUID="YBt0OwOJakK443pmi8dihQ=="/>
     <POI MapID="1052" xpos="173.05" ypos="383.569" zpos="-214.79" type="chest.mapspecific.verdantbrink" GUID="wIRDN3e6ZE68MQAONgem2A=="/>
+    <POI MapID="1052" xpos="431.213" ypos="433.68" zpos="-402.123" type="chest.mapspecific.verdantbrink" GUID="Z5IzI8MlIEuBUb5exUnJlA=="/>
+    <POI MapID="1052" xpos="-693.007" ypos="361.769" zpos="-337.616" type="chest.mapspecific.verdantbrink" GUID="3sN7MYdag0eLhkpZ4nzR1Q=="/>
+    <POI MapID="1052" xpos="-676.266" ypos="364.215" zpos="-373.798" type="chest.mapspecific.verdantbrink" GUID="iPDm66mHDkKEJuYec/l3cQ=="/>
   </POIs>
 </OverlayData>

@@ -432,5 +432,19 @@
     <POI MapID="1210" xpos="-850.679" ypos="13.7484" zpos="303.776" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="y4f5zS3Dnkar0DBdJG8E5w=="/>
     <POI MapID="1210" xpos="-835.085" ypos="38.6754" zpos="656.982" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="elPOjT36JESd6zdCnf89kw=="/>
     <POI MapID="1210" xpos="291.53" ypos="58.985" zpos="513.434" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="mrUQKzeyqUikViQo4K62mA=="/>
+    <POI MapID="1228" xpos="277.01" ypos="28.1145" zpos="-10.8934" type="temp.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="0D+QCl65yUmPz8OtYa1dcg=="/>
+    <POI MapID="1211" xpos="-1294.38" ypos="434.532" zpos="313.497" type="temp.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="Qtg7vggnvE+gQh7T8DZdMw=="/>
+    <POI MapID="1226" xpos="-527.001" ypos="217.63" zpos="-377.679" type="other.portal.gate" GUID="mTuF9cYCeE2YpZ6Sk2ZbRA=="/>
+    <POI MapID="1226" xpos="-686.18" ypos="201.847" zpos="-515.007" type="other.portal.gate" GUID="iX3WrdPnwkOvNjqfHZo/uA=="/>
+    <POI MapID="1210" xpos="-492.026" ypos="-9.68781" zpos="-514.608" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="yGNN4jZjxkO8qAbNSbzRPw=="/>
+    <POI MapID="1210" xpos="-897.416" ypos="87.9316" zpos="17.775" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="vH3esqCshEWacTD9CUMWCw=="/>
+    <POI MapID="1210" xpos="1186.55" ypos="374.996" zpos="393.922" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="iqJ569Vw90Sd217oYMhYSQ=="/>
+    <POI MapID="1211" xpos="-100.597" ypos="314.301" zpos="16.9505" type="other.portal" GUID="9bMHMANmzEKIVhWpUzPT3g=="/>
+    <POI MapID="1211" xpos="-107.506" ypos="365.841" zpos="-141.178" type="other.portal" GUID="QZOQzwE2QkK8niAx+zf4vg=="/>
+    <POI MapID="1211" xpos="-89.9557" ypos="339.369" zpos="-254.833" type="other.portal" GUID="z6Jvuu/5tEWh/DMCkFsCLQ=="/>
+    <POI MapID="1211" xpos="-31.6963" ypos="384.26" zpos="-285.615" type="other.portal" GUID="0tod3wLet0WtE7D6j9BiTg=="/>
+    <POI MapID="1211" xpos="38.6923" ypos="404.32" zpos="-437.707" type="other.portal" GUID="C/LlPK1450OAXjiWETVLvg=="/>
+    <POI MapID="1211" xpos="-25.8714" ypos="463.412" zpos="-235.816" type="other.portal" GUID="GKzQ02PNrkGKb1uPCmANiw=="/>
+    <POI MapID="1211" xpos="50.5746" ypos="335.501" zpos="273.378" type="other.portal" GUID="BlTkex7kEkmuJulClrmUPA=="/>
   </POIs>
 </OverlayData>

@@ -21,5 +21,6 @@
     <POI MapID="1045" xpos="470.543" ypos="39.0082" zpos="-210.029" type="chest.mapspecific.tangleddepths" GUID="MR2P/riIfEqH9bjeXQyQqw=="/>
     <POI MapID="1045" xpos="192.456" ypos="185.683" zpos="137.26" type="chest.permanent" GUID="rKTWbUJG9EC+ltWrexq6+w=="/>
     <POI MapID="1045" xpos="-835.517" ypos="252.727" zpos="-288.425" type="chest.permanent" GUID="PjbYAYihU0KMPZeESg9t/w=="/>
+    <POI MapID="1045" xpos="360.771" ypos="49.7711" zpos="-128.066" type="chest.permanent" GUID="LTnEoK8iqk65G2MI9ChRKg=="/>
   </POIs>
 </OverlayData>
