@@ -612,5 +612,17 @@
     <POI MapID="1210" xpos="457.107" ypos="114.733" zpos="700.478" type="resourcenode.wood.elder" GUID="VOLhJl/Tm0Gmq3Rab1spIQ=="/>
     <POI MapID="1228" xpos="-112.467" ypos="112.829" zpos="722.188" type="resourcenode.wood.elder" GUID="5Woyazmpfk6zt8n6HpMrAQ=="/>
     <POI MapID="1045" xpos="-127.429" ypos="148.222" zpos="308.728" type="resourcenode.wood.elder" GUID="T8U4PQCUdkSqHc6CZu5KNg=="/>
+    <POI MapID="1210" xpos="-133.871" ypos="33.261" zpos="336.336" type="resourcenode.wood.elder" GUID="SoDBuN3hhk6d3D9JtvRc8w=="/>
+    <POI MapID="1226" xpos="-546.872" ypos="287.754" zpos="420.226" type="resourcenode.wood.elder" GUID="IPQJ5Dr3BkyMGftbB7v9nA=="/>
+    <POI MapID="1228" xpos="-878.236" ypos="71.2468" zpos="159.068" type="resourcenode.wood.elder" GUID="FNNAKkiHwkGMk8v+gfyj6g=="/>
+    <POI MapID="1228" xpos="-116.503" ypos="32.3591" zpos="40.8368" type="resourcenode.wood.elder" GUID="hg+QmDe5pUSLGBodJ/Xh+g=="/>
+    <POI MapID="1228" xpos="-67.1653" ypos="76.5902" zpos="194.854" type="resourcenode.wood.elder" GUID="45GJIt/mLEaSTZhOd+ZM3g=="/>
+    <POI MapID="1248" xpos="-254.934" ypos="82.7927" zpos="-827.484" type="resourcenode.wood.elder" GUID="Tk1XkJil6UuCV+zVFdoPwA=="/>
+    <POI MapID="1248" xpos="-378.843" ypos="182.108" zpos="54.6929" type="resourcenode.wood.elder" GUID="MkF1EGtrcUOsUE5Hjdb9cQ=="/>
+    <POI MapID="1226" xpos="518.607" ypos="258.462" zpos="-953.795" type="resourcenode.wood.elder" GUID="ERTiB33Hx0WfLVDX/ywB4Q=="/>
+    <POI MapID="1228" xpos="1021.87" ypos="86.7499" zpos="864.489" type="resourcenode.wood.elder" GUID="EZ5IJxJRoUW0XbgRvJU09A=="/>
+    <POI MapID="1228" xpos="-1049.95" ypos="93.0214" zpos="709.756" type="resourcenode.wood.elder" GUID="6gliqcS0+UKOoy9lkfuYIQ=="/>
+    <POI MapID="1248" xpos="-287.207" ypos="108.095" zpos="101.789" type="resourcenode.wood.elder" GUID="JULc54OtuU+g2nWW5bRY6g=="/>
+    <POI MapID="1210" xpos="-1233.37" ypos="17.526" zpos="538.016" type="resourcenode.wood.elder" GUID="TYfq/vabmUmC6emIMSDU3g=="/>
   </POIs>
 </OverlayData>
