@@ -40,7 +40,7 @@
         <MarkerCategory name="Potato" iconFile="Data/ResourceNode/Plant/Copper/Potato.png" data-iconFile="Data/ResourceNode/Plant/Copper/Potato.png" iconSize="0.35"/>
       </MarkerCategory>
       <MarkerCategory name="Iron">
-        <MarkerCategory name="Clam"/>
+        <MarkerCategory name="Clam" iconFile="Data/ResourceNode/Plant/Iron/Clam.png" data-iconFile="Data/ResourceNode/Plant/Iron/Clam.png" iconSize="0.35"/>
         <MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts"/>
         <MarkerCategory name="Spinach"/>
         <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
