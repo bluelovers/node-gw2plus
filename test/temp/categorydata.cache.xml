@@ -40,7 +40,7 @@
         <MarkerCategory name="Potato" iconFile="Data/ResourceNode/Plant/Copper/Potato.png" data-iconFile="Data/ResourceNode/Plant/Copper/Potato.png" iconSize="0.35"/>
       </MarkerCategory>
       <MarkerCategory name="Iron">
-        <MarkerCategory name="Clam"/>
+        <MarkerCategory name="Clam" iconFile="Data/ResourceNode/Plant/Iron/Clam.png" data-iconFile="Data/ResourceNode/Plant/Iron/Clam.png" iconSize="0.35"/>
         <MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts"/>
         <MarkerCategory name="Spinach"/>
         <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
@@ -91,6 +91,7 @@
         <MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms"/>
         <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" iconSize="0.35"/>
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
+        <MarkerCategory name="Lentils"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
@@ -409,6 +410,7 @@
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
       <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
+      <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
@@ -467,13 +469,22 @@
           <MarkerCategory name="Roads Less Traveled"/>
           <MarkerCategory name="Recitation of the Litany of Deeds"/>
         </MarkerCategory>
+        <MarkerCategory name="Bleached Bones"/>
+      </MarkerCategory>
+      <MarkerCategory name="Desert Highlands">
+        <MarkerCategory name="Lost Lore of Desert Highlands"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands"/>
         <MarkerCategory name="Equipment Tracker"/>
+        <MarkerCategory name="Flameseeker Prophecies">
+          <MarkerCategory name="Forgotten Light"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="The Desolation">
         <MarkerCategory name="Lost Lore of the Desolation"/>
+        <MarkerCategory name="Acrid Springs Recovery"/>
+        <MarkerCategory name="Shadows Provisions"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster"/>
@@ -487,6 +498,10 @@
         <MarkerCategory name="Open Skies_ The Desolation" DisplayName="Open Skies: The Desolation"/>
         <MarkerCategory name="Open Skies_ Sunspear VVrsdom" DisplayName="Open Skies: Sunspear VVrsdom"/>
         <MarkerCategory name="Open Skies_ On Wings and a Prayer" DisplayName="Open Skies: On Wings and a Prayer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Specialization Collections">
+        <MarkerCategory name="Expurgation"/>
+        <MarkerCategory name="The Cutting Edge"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

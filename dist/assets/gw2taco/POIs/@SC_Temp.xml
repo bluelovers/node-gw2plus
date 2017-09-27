@@ -58,13 +58,22 @@
           <MarkerCategory name="Roads Less Traveled" DisplayName="Roads Less Traveled"/>
           <MarkerCategory name="Recitation of the Litany of Deeds" DisplayName="Recitation of the Litany of Deeds"/>
         </MarkerCategory>
+        <MarkerCategory name="Bleached Bones" DisplayName="Bleached Bones"/>
+      </MarkerCategory>
+      <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands">
+        <MarkerCategory name="Lost Lore of Desert Highlands" DisplayName="Lost Lore of Desert Highlands"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
         <MarkerCategory name="Equipment Tracker" DisplayName="Equipment Tracker"/>
+        <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies">
+          <MarkerCategory name="Forgotten Light" DisplayName="Forgotten Light"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
         <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
+        <MarkerCategory name="Acrid Springs Recovery" DisplayName="Acrid Springs Recovery"/>
+        <MarkerCategory name="Shadows Provisions" DisplayName="Shadows Provisions"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>
@@ -78,6 +87,10 @@
         <MarkerCategory name="Open Skies: The Desolation"/>
         <MarkerCategory name="Open Skies: Sunspear VVrsdom"/>
         <MarkerCategory name="Open Skies: On Wings and a Prayer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Specialization Collections" DisplayName="Specialization Collections">
+        <MarkerCategory name="Expurgation"/>
+        <MarkerCategory name="The Cutting Edge" DisplayName="The Cutting Edge"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
