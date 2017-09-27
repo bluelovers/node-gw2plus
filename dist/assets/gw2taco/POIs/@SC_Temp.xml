@@ -62,6 +62,7 @@
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands">
         <MarkerCategory name="Lost Lore of Desert Highlands" DisplayName="Lost Lore of Desert Highlands"/>
+        <MarkerCategory name="Dwarven Remnants" DisplayName="Dwarven Remnants"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
