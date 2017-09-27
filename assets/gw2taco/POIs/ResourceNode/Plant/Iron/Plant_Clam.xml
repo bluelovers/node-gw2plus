@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="Clam"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="-1461.83" ypos="-3.52229" zpos="635.156" type="resourcenode.plant.iron.clam" GUID="Fxu85bpCVkylWIotpWK2XA=="/>
+  </POIs>
+</OverlayData>
