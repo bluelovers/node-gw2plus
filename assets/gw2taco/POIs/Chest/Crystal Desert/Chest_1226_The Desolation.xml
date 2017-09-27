@@ -52,5 +52,6 @@
     <POI MapID="1226" xpos="253.169" ypos="324.575" zpos="-819.711" type="chest.permanent" GUID="mvnsOZDyn0+uhlv+KTAa4Q=="/>
     <POI MapID="1226" xpos="-828.424" ypos="251.636" zpos="-248.105" type="chest.permanent" GUID="3E/sIvjRqk2sqMwyets9VQ=="/>
     <POI MapID="1226" xpos="-579.185" ypos="211.965" zpos="-1184.12" type="chest.permanent" GUID="7fcfAlnlKEqSexA0qWxdOg=="/>
+    <POI MapID="1226" xpos="-395.274" ypos="261.034" zpos="-115.881" type="chest.meta" GUID="/IUCB1MI+0CIbx1oJaycnQ=="/>
   </POIs>
 </OverlayData>
