@@ -11,5 +11,10 @@
     <POI MapID="1210" xpos="-526.517" ypos="20.1055" zpos="-647.642" type="resourcenode.plant.orichalcum.lentils" GUID="vmhsnc4QukS15IgCXUN1XQ=="/>
     <POI MapID="1210" xpos="-1230.68" ypos="5.28646" zpos="463.238" type="resourcenode.plant.orichalcum.lentils" GUID="jQs/AJg/w0SaqYVR+WIiCA=="/>
     <POI MapID="1210" xpos="-822.041" ypos="15.331" zpos="306.048" type="resourcenode.plant.orichalcum.lentils" GUID="ezC+x2vVjUChMMv76ysQ6Q=="/>
+    <POI MapID="1211" xpos="580.315" ypos="251.857" zpos="681.713" type="resourcenode.plant.orichalcum.lentils" GUID="EFD3CBeG9U+iZcbVEn6bmQ=="/>
+    <POI MapID="1228" xpos="680.419" ypos="0.185931" zpos="-103.446" type="resourcenode.plant.orichalcum.lentils" GUID="KbamvDT+kUmf5ll7nsFxgw=="/>
+    <POI MapID="1210" xpos="212.254" ypos="80.2169" zpos="477.343" type="resourcenode.plant.orichalcum.lentils" GUID="+UgN+QwZskCwRCS9FMC9XA=="/>
+    <POI MapID="1211" xpos="269.831" ypos="250.418" zpos="282.374" type="resourcenode.plant.orichalcum.lentils" GUID="u50IjH0gpUCJaNj/l20jTw=="/>
+    <POI MapID="1228" xpos="-487.156" ypos="69.2183" zpos="530.46" type="resourcenode.plant.orichalcum.lentils" GUID="tt8EL7UPU0GwDmmR4bNu5w=="/>
   </POIs>
 </OverlayData>
