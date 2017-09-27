@@ -8,7 +8,11 @@
         <MarkerCategory name="Orichalcum" data-class="fade-max" behavior="0"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Plant" data-class="iconsize-0.35"/>
+    <MarkerCategory name="Plant" data-class="iconsize-0.35">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Lentils"/>
+      </MarkerCategory>
+    </MarkerCategory>
     <MarkerCategory name="MapSpecific" data-class="fade-3">
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="Currency"/>
@@ -77,6 +81,7 @@
     <MarkerCategory name="Portal">
       <MarkerCategory name="In"/>
       <MarkerCategory name="Out"/>
+      <MarkerCategory name="Gate"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
