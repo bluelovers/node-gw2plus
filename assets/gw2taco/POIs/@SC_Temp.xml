@@ -62,16 +62,27 @@
           <MarkerCategory name="Recitation of the Litany of Deeds"/>
         </MarkerCategory>
 
+        <MarkerCategory name="Bleached Bones"/>
+
+      </MarkerCategory>
+
+      <MarkerCategory name="Desert Highlands">
+        <MarkerCategory name="Lost Lore of Desert Highlands"/>
       </MarkerCategory>
 
 
       <MarkerCategory name="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands"/>
         <MarkerCategory name="Equipment Tracker"/>
+        <MarkerCategory name="Flameseeker Prophecies">
+          <MarkerCategory name="Forgotten Light"/>
+        </MarkerCategory>
       </MarkerCategory>
 
       <MarkerCategory name="The Desolation">
         <MarkerCategory name="Lost Lore of the Desolation"/>
+        <MarkerCategory name="Acrid Springs Recovery"/>
+        <MarkerCategory name="Shadows Provisions"/>
       </MarkerCategory>
 
       <MarkerCategory name="Domain of Vabbi">
@@ -88,6 +99,11 @@
         <MarkerCategory name="Open Skies: The Desolation"/>
         <MarkerCategory name="Open Skies: Sunspear VVrsdom"/>
         <MarkerCategory name="Open Skies: On Wings and a Prayer"/>
+      </MarkerCategory>
+
+      <MarkerCategory name="Specialization Collections">
+        <MarkerCategory name="Expurgation"/>
+        <MarkerCategory name="The Cutting Edge"/>
       </MarkerCategory>
 
     </MarkerCategory>
