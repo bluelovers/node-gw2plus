@@ -9,5 +9,7 @@
     <POI MapID="1043" xpos="448.914" ypos="314.268" zpos="-289.962" type="chest.permanent" GUID="ydXBiAhQnUK/1mOfTnQknA=="/>
     <POI MapID="1043" xpos="77.2521" ypos="21.4139" zpos="120.286" type="chest.meta" GUID="nX9mmmtDd0eCbw1mmdBupA=="/>
     <POI MapID="1043" xpos="-442.721" ypos="294.276" zpos="-453.799" type="chest.permanent" GUID="RPpDcZBLgUSXOC5YZu/EdQ=="/>
+    <POI MapID="1043" xpos="77.1118" ypos="21.4823" zpos="119.981" type="chest.meta" GUID="HX5TDtFcukGgtgiGwhhqOg=="/>
+    <POI MapID="1043" xpos="508.89" ypos="383.318" zpos="259.984" type="chest.permanent" GUID="9tOtej6uxEm0qZpnScIG2A=="/>
   </POIs>
 </OverlayData>
