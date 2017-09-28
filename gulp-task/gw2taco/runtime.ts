@@ -140,7 +140,11 @@ addGulpTasks({
 							//pois_target_id = type;
 							pois_target_id = cats[type].name_id.split('.');
 						}
-						else if (cats[type] && type.match(/^(?:resourcenode.wood)\.(.+)$/i))
+						else if (cats[type] && type.match(/^(?:tactical\.juvenile_pets)\.(.+)$/i))
+						{
+							pois_target_id = cats[type].name_id.split('.');
+						}
+						else if (cats[type] && type.match(/^(?:resourcenode\.wood)\.(.+)$/i))
 						{
 							pois_target_id = cats[type].name_id.split('.');
 							type_new = pois_target_id.slice(0);
