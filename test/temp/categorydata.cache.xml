@@ -109,6 +109,7 @@
         <MarkerCategory name="Berry Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800"/>
         <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800"/>
         <MarkerCategory name="Vegetable Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800"/>
+        <MarkerCategory name="Toxic Seedling" data-class="size-0.35" iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" data-iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" iconSize="0.35"/>
       </MarkerCategory>
       <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
     </MarkerCategory>
@@ -411,12 +412,13 @@
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
       <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
       <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
+      <MarkerCategory name="Cave" iconFile="Data/Other/Portal/Cave.png" data-iconFile="Data/Other/Portal/Cave.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
     <MarkerCategory name="Letters from E"/>
     <MarkerCategory name="Flashpoint">
-      <MarkerCategory name="Burnin___ Down the House" DisplayName="Burnin’ Down the House"/>
+      <MarkerCategory name="Burnin Down the House" DisplayName="Burnin’ Down the House"/>
       <MarkerCategory name="Rock Collector"/>
       <MarkerCategory name="Druid Stone">
         <MarkerCategory name="The Druid Stone"/>
@@ -429,7 +431,7 @@
       <MarkerCategory name="Treasure Mushroom"/>
       <MarkerCategory name="Champion"/>
     </MarkerCategory>
-    <MarkerCategory name="Chinese __" DisplayName="Chinese 中文"/>
+    <MarkerCategory name="Chinese" DisplayName="Chinese 中文"/>
     <MarkerCategory name="Side Stories">
       <MarkerCategory name="Bloodstone Sightings"/>
     </MarkerCategory>
@@ -442,7 +444,7 @@
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Aurora">
-      <MarkerCategory name="Aurora II_ Empowering" DisplayName="Aurora II: Empowering"/>
+      <MarkerCategory name="Aurora II Empowering" DisplayName="Aurora II: Empowering"/>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire">
       <MarkerCategory name="1" data-allowsub="true"/>
@@ -481,6 +483,9 @@
         <MarkerCategory name="Flameseeker Prophecies">
           <MarkerCategory name="Forgotten Light"/>
         </MarkerCategory>
+        <MarkerCategory name="Ghostly Trio">
+          <MarkerCategory name="path"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="The Desolation">
         <MarkerCategory name="Lost Lore of the Desolation"/>
@@ -492,13 +497,13 @@
         <MarkerCategory name="Lost Lore of the Domain of Vabbi"/>
       </MarkerCategory>
       <MarkerCategory name="Griffon" DisplayName="Open Skies: Domain of Vabbi"/>
-      <MarkerCategory name="Open Skies_ Sunspear Sanctuary" DisplayName="Open Skies: Sunspear Sanctuary">
-        <MarkerCategory name="Open Skies_ Crystal Oasis" DisplayName="Open Skies: Crystal Oasis"/>
-        <MarkerCategory name="Open Skies_ Elon Riverlands" DisplayName="Open Skies: Elon Riverlands"/>
-        <MarkerCategory name="Open Skies_ Desert Highlands" DisplayName="Open Skies: Desert Highlands"/>
-        <MarkerCategory name="Open Skies_ The Desolation" DisplayName="Open Skies: The Desolation"/>
-        <MarkerCategory name="Open Skies_ Sunspear VVrsdom" DisplayName="Open Skies: Sunspear VVrsdom"/>
-        <MarkerCategory name="Open Skies_ On Wings and a Prayer" DisplayName="Open Skies: On Wings and a Prayer"/>
+      <MarkerCategory name="Open Skies Sunspear Sanctuary" DisplayName="Open Skies: Sunspear Sanctuary">
+        <MarkerCategory name="Open Skies Crystal Oasis" DisplayName="Open Skies: Crystal Oasis"/>
+        <MarkerCategory name="Open Skies Elon Riverlands" DisplayName="Open Skies: Elon Riverlands"/>
+        <MarkerCategory name="Open Skies Desert Highlands" DisplayName="Open Skies: Desert Highlands"/>
+        <MarkerCategory name="Open Skies The Desolation" DisplayName="Open Skies: The Desolation"/>
+        <MarkerCategory name="Open Skies Sunspear VVrsdom" DisplayName="Open Skies: Sunspear VVrsdom"/>
+        <MarkerCategory name="Open Skies On Wings and a Prayer" DisplayName="Open Skies: On Wings and a Prayer"/>
       </MarkerCategory>
       <MarkerCategory name="Specialization Collections">
         <MarkerCategory name="Expurgation"/>
