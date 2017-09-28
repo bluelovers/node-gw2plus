@@ -82,6 +82,11 @@
   <MarkerCategory name="Achievement" data-allowsub="true"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
+    <MarkerCategory name="Path of Fire" data-allowsub="true">
+      <MarkerCategory name="Act 1" data-allowsub="true"/>
+      <MarkerCategory name="Act 2" data-allowsub="true"/>
+      <MarkerCategory name="Act 3" data-allowsub="true"/>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Other" data-allowsub="true">
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4">
