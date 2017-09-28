@@ -11,5 +11,10 @@
     <POI MapID="73" xpos="515.104" ypos="22.6817" zpos="-628.023" type="resourcenode.plant.copper.carrots" GUID="Vnhqn8ey5EuStbFYVD43wg=="/>
     <POI MapID="31" xpos="-900.433" ypos="32.4275" zpos="-312.346" type="resourcenode.plant.copper.carrots" GUID="BHYz2EnZB0603/n1wpA6WA=="/>
     <POI MapID="28" xpos="323.914" ypos="71.6833" zpos="190.909" type="resourcenode.plant.copper.carrots" GUID="6UB8FrPvaE6BCukReQiwTQ=="/>
+    <POI MapID="1226" xpos="466.672" ypos="17.3855" zpos="1472.75" type="resourcenode.plant.copper.carrots" GUID="iAfAaRXDGkyaX9YIQjixow=="/>
+    <POI MapID="1226" xpos="471.887" ypos="17.4457" zpos="1476.78" type="resourcenode.plant.copper.carrots" GUID="mNKJgwONOUyRYh8I+GCFMA=="/>
+    <POI MapID="1226" xpos="472.721" ypos="17.4477" zpos="1483.81" type="resourcenode.plant.copper.carrots" GUID="4C8p4LofBU667FTiLtHNXw=="/>
+    <POI MapID="1226" xpos="468.932" ypos="17.4477" zpos="1488.87" type="resourcenode.plant.copper.carrots" GUID="OgCdcf8ai06y8NYKipNNKw=="/>
+    <POI MapID="1226" xpos="482.325" ypos="17.4704" zpos="1485.2" type="resourcenode.plant.copper.carrots" GUID="B2lAZmfCoEa5vK/+jIVmVw=="/>
   </POIs>
 </OverlayData>
