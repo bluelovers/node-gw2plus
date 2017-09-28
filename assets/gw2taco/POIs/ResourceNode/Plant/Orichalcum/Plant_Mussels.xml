@@ -122,5 +122,10 @@
     <POI MapID="1045" xpos="-484.58" ypos="-131.271" zpos="-116.559" type="resourcenode.plant.orichalcum.mussels" GUID="4t1frKr2xUqlIvZHq6VAmg=="/>
     <POI MapID="1045" xpos="-519.018" ypos="-154.724" zpos="433.863" type="resourcenode.plant.orichalcum.mussels" GUID="3RYU5VI64kesIpEkt960xw=="/>
     <POI MapID="1043" xpos="380.412" ypos="242.385" zpos="-216.283" type="resourcenode.plant.orichalcum.mussels" GUID="n07+Ry4am0a/mBRvXpzKLw=="/>
+    <POI MapID="1228" xpos="889.254" ypos="6.3698" zpos="-125.571" type="resourcenode.plant.orichalcum.mussels" GUID="2Z2XB7L1mEqIhNNUUeE72g=="/>
+    <POI MapID="1226" xpos="-24.562" ypos="-12.548" zpos="1460.33" type="resourcenode.plant.orichalcum.mussels" GUID="FxxrU51Wd0C9vyxBxoU6Sw=="/>
+    <POI MapID="1210" xpos="1160.34" ypos="-0.278803" zpos="-501.014" type="resourcenode.plant.orichalcum.mussels" GUID="lKLyYDyQ00KKA2XJgzgOMg=="/>
+    <POI MapID="1210" xpos="1141.28" ypos="-0.738666" zpos="-266.434" type="resourcenode.plant.orichalcum.mussels" GUID="l6gvkfL9tUCRYXjE8DB8QA=="/>
+    <POI MapID="1228" xpos="1025.64" ypos="-0.369256" zpos="-104.406" type="resourcenode.plant.orichalcum.mussels" GUID="EIH4dDM+pU+XuLIA0KpSNw=="/>
   </POIs>
 </OverlayData>

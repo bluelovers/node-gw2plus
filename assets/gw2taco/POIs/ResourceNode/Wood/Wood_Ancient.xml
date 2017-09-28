@@ -198,5 +198,11 @@
     <POI MapID="1210" xpos="-1316.62" ypos="1.40802" zpos="569.431" type="resourcenode.wood.ancient" GUID="LfCtEd8gEUylzk8CADKBow=="/>
     <POI MapID="1211" xpos="-82.2164" ypos="69.1786" zpos="-522.302" type="resourcenode.wood.ancient" GUID="0jNo0R0FeUuHmK/usT/LbQ=="/>
     <POI MapID="1043" xpos="-531.297" ypos="295.746" zpos="-132.06" type="resourcenode.wood.ancient" GUID="zuPkCHtyV0aMie1CD0BVNg=="/>
+    <POI MapID="1228" xpos="-864.761" ypos="25.2686" zpos="-951.427" type="resourcenode.wood.ancient" GUID="43uv/mZ3h02Bp6Yy8sj8Bw=="/>
+    <POI MapID="1228" xpos="-309.045" ypos="1.36343" zpos="-827.746" type="resourcenode.wood.ancient" GUID="YzgSI+vnGU+od4/A0dqZGg=="/>
+    <POI MapID="1226" xpos="938.484" ypos="101.767" zpos="1238.39" type="resourcenode.wood.ancient" GUID="6ypJc41O60CoRh3t+wa3zQ=="/>
+    <POI MapID="1211" xpos="-1403.04" ypos="469.139" zpos="-38.9889" type="resourcenode.wood.ancient" GUID="maGN5oFt8UmgTno25XOPiA=="/>
+    <POI MapID="1226" xpos="481.589" ypos="319.969" zpos="-871.508" type="resourcenode.wood.ancient" GUID="o4l6QX2mjEO7WeNBdT7Huw=="/>
+    <POI MapID="1228" xpos="373.765" ypos="59.0622" zpos="331.746" type="resourcenode.wood.ancient" GUID="jGcYb3WDd0a4+U2KEI9emg=="/>
   </POIs>
 </OverlayData>

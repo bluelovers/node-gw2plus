@@ -28,6 +28,7 @@
         <MarkerCategory name="Berry Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Berry Synthesizer"/>
         <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Herb Synthesizer"/>
         <MarkerCategory name="Vegetable Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Vegetable Synthesizer"/>
+        <MarkerCategory name="Toxic Seedling" data-class="size-0.35" iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" data-iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" iconSize="0.35" DisplayName="Toxic Seedling"/>
       </MarkerCategory>
       <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
     </MarkerCategory>
@@ -52,6 +53,16 @@
       <MarkerCategory name="Puzzle"/>
       <MarkerCategory name="Race" data-allowsub="true">
         <MarkerCategory name="Trap"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+      </MarkerCategory>
+      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
+      </MarkerCategory>
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+        <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
+        <MarkerCategory name="Cheetah"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
@@ -82,6 +93,7 @@
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
       <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
       <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
+      <MarkerCategory name="Cave" iconFile="Data/Other/Portal/Cave.png" data-iconFile="Data/Other/Portal/Cave.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>

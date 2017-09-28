@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Path of Fire">
+        <MarkerCategory name="Sand Lion"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="-276.003" ypos="33.1166" zpos="380.828" type="tactical.juvenile_pets.path_of_fire.sand_lion" GUID="wAP4KCryf0GveBqXzEjPUA=="/>
+  </POIs>
+</OverlayData>

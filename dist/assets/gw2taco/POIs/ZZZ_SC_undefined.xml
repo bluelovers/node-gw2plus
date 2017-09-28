@@ -99,6 +99,18 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="Adventure">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -278,6 +290,9 @@
         <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
+        <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
@@ -286,7 +301,7 @@
       <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Open Skies_ Sunspear Sanctuary" DisplayName="Open Skies: Sunspear Sanctuary">
+      <MarkerCategory name="Open Skies_ Sunspear Sanctuary" DisplayName="Open Skies_ Sunspear Sanctuary">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Specialization Collections" DisplayName="Specialization Collections">

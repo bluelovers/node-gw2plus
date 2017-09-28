@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Path of Fire">
+        <MarkerCategory name="Cheetah"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="1033.37" ypos="-0.0609184" zpos="-107.601" type="tactical.juvenile_pets.path_of_fire.cheetah" GUID="V+kd5otuQ0+3zbjMjk6X2g=="/>
+  </POIs>
+</OverlayData>
