@@ -50,6 +50,7 @@
   "resourcenode.mapspecific.plant.currency": "ResourceNode/MapSpecific.Plant.Currency.png",
   "resourcenode.mapspecific.wood.currency": "ResourceNode/MapSpecific.Wood.Currency.png",
   "resourcenode.mapspecific.ore.lump_of_aurillium": "ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png",
+  "resourcenode.mapspecific.plant.toxic_seedling": "ResourceNode/MapSpecific/Plant/Toxic Seedling.png",
   "resourcenode.ore.rich": "ResourceNode/Ore.Rich.png",
   "resourcenode.ore.normal.orichalcum": "ResourceNode/Ore.Normal.Orichalcum.png",
   "resourcenode.ore": "ResourceNode/Ore.png",
