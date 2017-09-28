@@ -180,6 +180,154 @@ addGulpTasks({
 							pois_target_id[pois_target_id.length - 1]
 								= pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
 						}
+						else if (type.match(/^(?:temp\.path_of_fire)\.(.+)$/i))
+						{
+							pois_target_id = [
+								'Achievement',
+								'Path of Fire',
+							];
+
+							let k = RegExp.$1;
+
+							switch (k)
+							{
+								case 'elon_riverlands.ghostly_trio':
+								case 'elon_riverlands.ghostly_trio.path':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Elon Riverlands',
+											'Ghostly Trio',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									if (k == 'elon_riverlands.ghostly_trio.path')
+									{
+										type_new.push('Path');
+									}
+
+									break;
+								case 'the_desolation.shadows_provisions':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Shadows Provisions',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'griffon':
+								case 'open_skies__sunspear_sanctuary.open_skies__crystal_oasis':
+								case 'open_skies__sunspear_sanctuary.open_skies__elon_riverlands':
+								case 'open_skies__sunspear_sanctuary.open_skies__desert_highlands':
+								case 'open_skies__sunspear_sanctuary.open_skies__the_desolation':
+								case 'open_skies__sunspear_sanctuary':
+								case 'temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom':
+								case 'open_skies__sunspear_sanctuary.open_skies__on_wings_and_a_prayer':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Open Skies',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'griffon':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Sanctuary',
+													'Domain of Vabbi',
+												])
+											;
+
+											break;
+										case 'open_skies__sunspear_sanctuary.open_skies__crystal_oasis':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Sanctuary',
+													'Crystal Oasis',
+												])
+											;
+
+											break;
+										case 'open_skies__sunspear_sanctuary.open_skies__elon_riverlands':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Sanctuary',
+													'Elon Riverlands',
+												])
+											;
+
+											break;
+										case 'open_skies__sunspear_sanctuary.open_skies__desert_highlands':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Sanctuary',
+													'Desert Highlands',
+												])
+											;
+
+											break;
+										case 'open_skies__sunspear_sanctuary.open_skies__the_desolation':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Sanctuary',
+													'The Desolation',
+												])
+											;
+
+											break;
+										case 'open_skies__sunspear_sanctuary':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Sanctuary',
+												])
+											;
+
+											break;
+										case 'temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Sanctuary',
+													'Sunspear Wisdom',
+												])
+											;
+
+											break;
+										case 'open_skies__sunspear_sanctuary.open_skies__on_wings_and_a_prayer':
+
+											type_new = type_new
+												.concat([
+													'On Wings and a Prayer',
+												])
+											;
+
+											break;
+										default:
+											break POIS;
+									}
+
+									break;
+								default:
+									break POIS;
+								//break;
+							}
+						}
 						else if (type.match(/^(?:chest)\.(.+)$/i))
 						{
 							pois_target_id = [
