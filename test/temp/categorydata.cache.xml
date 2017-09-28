@@ -223,6 +223,14 @@
         <MarkerCategory name="Trap"/>
       </MarkerCategory>
     </MarkerCategory>
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png">
+      <MarkerCategory name="Core" data-sort="true" data-allowsub="true"/>
+      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true"/>
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="Cheetah"/>
+        <MarkerCategory name="Sand Lion"/>
+      </MarkerCategory>
+    </MarkerCategory>
     <MarkerCategory name="Adventure">
       <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
     </MarkerCategory>
