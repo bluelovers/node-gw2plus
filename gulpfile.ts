@@ -317,7 +317,8 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 
 				let d = name_id;
 				let p = cat.makeTree(d.split('.'), [], {
-					gw2taco: true,
+					//gw2taco: true,
+					gw2taco: false,
 					lc: false,
 					space: true,
 				});
@@ -724,12 +725,13 @@ gulp.task('category:attr', ['category:undefined', 'gw2taco:build-poi:default'], 
 							attrs[attr] = value;
 						}
 
-						ls[id].elem[0].attribs = Object.assign(ls[id].elem[0].attribs, cat_cache[id].elem[0].attribs);
+						//ls[id].elem[0].attribs = Object.assign(ls[id].elem[0].attribs, cat_cache[id].elem[0].attribs);
+						ls[id].elem[0].attribs = Object.assign(ls[id].elem[0].attribs, attrs);
+					}
 
-						if (!ls[id].elem[0].attribs['DisplayName'] && Category.normalize2(ls[id].elem[0].attribs['name']) != ls[id].elem[0].attribs['name'])
-						{
-							ls[id].elem[0].attribs['DisplayName'] = ls[id].elem[0].attribs['name'];
-						}
+					if (!ls[id].elem[0].attribs['DisplayName'] && Category.normalize2(ls[id].elem[0].attribs['name']) != ls[id].elem[0].attribs['name'])
+					{
+						ls[id].elem[0].attribs['DisplayName'] = ls[id].elem[0].attribs['name'];
 					}
 				}
 
