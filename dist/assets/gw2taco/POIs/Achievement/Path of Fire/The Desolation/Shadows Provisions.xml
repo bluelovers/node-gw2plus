@@ -1,0 +1,21 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="Shadows Provisions" DisplayName="Shadows Provisions"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="-161.045" ypos="354.546" zpos="-1314.17" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="mdY+QQlQeUynsrR3MROpmg=="/>
+    <POI MapID="1226" xpos="21.2053" ypos="256.372" zpos="-99.2542" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="nqaCwWF+VEShveZAdI32Xg=="/>
+    <POI MapID="1226" xpos="550.732" ypos="264.642" zpos="446.173" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="V8+ZDEFbhUabFWQyPY0coA=="/>
+    <POI MapID="1226" xpos="-903.346" ypos="150.809" zpos="145.691" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="9qHz3O/YSkqiqDI1SwtcDg=="/>
+    <POI MapID="1226" xpos="-447.945" ypos="228.84" zpos="-1041.8" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="tCnJl3kLgUW0lIiaaEvH8Q=="/>
+    <POI MapID="1226" xpos="442.428" ypos="158.387" zpos="872.893" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="C/7ka7JZ80KNmLlgftEBPg=="/>
+    <POI MapID="1226" xpos="-610.99" ypos="341.714" zpos="-516.497" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="Y1BrTBNy6E6Ga3rCFiL3ng=="/>
+    <POI MapID="1226" xpos="-544.513" ypos="328.583" zpos="172.419" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="VSlsr8i1GUOKZGKDWunoPQ=="/>
+    <POI MapID="1226" xpos="284.215" ypos="294.038" zpos="-1151.38" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="9+UdC0twTUW5rrmEdsiEhw=="/>
+    <POI MapID="1226" xpos="627.859" ypos="8.85463" zpos="1419.79" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="1JcMChWKTEWJ/RfdK/iV5w=="/>
+  </POIs>
+</OverlayData>
