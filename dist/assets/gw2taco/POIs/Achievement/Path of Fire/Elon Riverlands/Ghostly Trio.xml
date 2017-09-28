@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
+        <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
+          <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="14.8888" ypos="86.4498" zpos="739.21" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="GeSk4FBf+0uqMlTun16ZvA=="/>
+    <POI MapID="1228" xpos="-232.726" ypos="103.771" zpos="728.788" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="PBgAYVfbkEKEJ3GbAvjODw=="/>
+    <POI MapID="1228" xpos="-472.702" ypos="82.4926" zpos="707.412" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="APUH4PTB006mRloPxso0oQ=="/>
+    <POI MapID="1228" xpos="-621.672" ypos="72.6547" zpos="543.588" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="mpzYDLXgnUmG20GdPi52zQ=="/>
+    <POI MapID="1228" xpos="-661.022" ypos="39.4931" zpos="320.941" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="p9EoZuvsMUKj0TS0YxfiMQ=="/>
+    <POI MapID="1228" xpos="-535.588" ypos="5.76107" zpos="92.1753" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="TM9RhBwWskSacvOsZWSF2A=="/>
+    <POI MapID="1228" xpos="-535.051" ypos="3.36483" zpos="-190.859" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="d4inuU0+s0qJZIPqolWyPg=="/>
+    <POI MapID="1228" xpos="-565.636" ypos="-0.341801" zpos="-563.858" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="/Gb9qoGTP0+AYldT+SGtXg=="/>
+    <POI MapID="1228" xpos="-803.832" ypos="-0.325864" zpos="-652.112" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="daEG/oMbOU2rw6ycXsA5Bg=="/>
+    <POI MapID="1228" xpos="-908.675" ypos="8.79352" zpos="-844.429" type="achievement.path_of_fire.elon_riverlands.ghostly_trio" GUID="XNjGGI0oY0CcGwfhM5cD7w=="/>
+  </POIs>
+</OverlayData>
