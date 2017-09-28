@@ -78,6 +78,9 @@
         <MarkerCategory name="Flameseeker Prophecies">
           <MarkerCategory name="Forgotten Light"/>
         </MarkerCategory>
+        <MarkerCategory name="Ghostly Trio">
+          <MarkerCategory name="path"/>
+        </MarkerCategory>
       </MarkerCategory>
 
       <MarkerCategory name="The Desolation">
