@@ -82,6 +82,11 @@
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
+    <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
+      <MarkerCategory name="Act 1" data-allowsub="true" DisplayName="Act 1"/>
+      <MarkerCategory name="Act 2" data-allowsub="true" DisplayName="Act 2"/>
+      <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3"/>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">

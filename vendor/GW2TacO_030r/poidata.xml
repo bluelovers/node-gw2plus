@@ -220,65 +220,16 @@
     <POI MapID="1210" xpos="255.956" ypos="60.5678" zpos="620.168" type="temp.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="mYa2H6HqlU2b8D7UxG6O1Q=="/>
     <POI MapID="1248" xpos="1273.68" ypos="57.0631" zpos="-636.045" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="NGH7A+ZjUUKcj8ShpgJ1+w=="/>
     <POI MapID="1248" xpos="1378.64" ypos="102.794" zpos="-595.586" type="temp.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="FwBsSEiHSE6eDPsGbxt1ig=="/>
-    <POI MapID="1248" xpos="1410.06" ypos="275.282" zpos="-805.71" type="temp.path_of_fire.griffon" GUID="bnm5NtMs40uM3FrFollucg=="/>
-    <POI MapID="1248" xpos="1286.81" ypos="281.702" zpos="-517.949" type="temp.path_of_fire.griffon" GUID="f/4yP3XQLUeX4+DpJXy2Aw=="/>
-    <POI MapID="1248" xpos="988.96" ypos="199.747" zpos="-550.073" type="temp.path_of_fire.griffon" GUID="AQAwDXWsvk2Gg7XdGFCY/w=="/>
-    <POI MapID="1248" xpos="1315.95" ypos="210.021" zpos="-128.663" type="temp.path_of_fire.griffon" GUID="bsBcyoxB7kGcVaojes9sZg=="/>
-    <POI MapID="1248" xpos="292.702" ypos="101.815" zpos="-611.447" type="temp.path_of_fire.griffon" GUID="LwHhpsz8skyT//lR4/gqig=="/>
-    <POI MapID="1248" xpos="1017.4" ypos="133.63" zpos="-808.08" type="temp.path_of_fire.griffon" GUID="xH2KLcttzEGcRSEN6S7fsg=="/>
-    <POI MapID="1210" xpos="-353.127" ypos="8.68093" zpos="-344.948" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__crystal_oasis" GUID="utOI+fgXg0yMgeQRmr3D/Q=="/>
-    <POI MapID="1210" xpos="1236.02" ypos="317.838" zpos="451.873" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__crystal_oasis" GUID="gsZdcZY6OU2DHLbzZbRJmw=="/>
     <POI MapID="1210" xpos="1205.58" ypos="372.936" zpos="392.209" type="temp.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="cJUwBoSUvECnZZAHPXkZzQ=="/>
     <POI MapID="1210" xpos="511.159" ypos="283.293" zpos="451.65" type="resourcenode.ore.undefined" GUID="45W6CzEge0WVCzwce/X7Cg=="/>
-    <POI MapID="1210" xpos="561.503" ypos="278.454" zpos="378.861" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__crystal_oasis" GUID="ydz4ZG3CKE6yLLzG2EK14A=="/>
-    <POI MapID="1210" xpos="169.724" ypos="171.328" zpos="625.03" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__crystal_oasis" GUID="vyn/BA/l9k6w1JaKMKyN+w=="/>
-    <POI MapID="1210" xpos="744.289" ypos="159.749" zpos="-496.152" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__crystal_oasis" GUID="TZuO1SRZ+Uu9KQ0Yy8076w=="/>
-    <POI MapID="1210" xpos="558.588" ypos="172.563" zpos="342.54" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__crystal_oasis" GUID="l3w45hnZHkGwlfQTWhx5lA=="/>
-    <POI MapID="1210" xpos="707.736" ypos="124.094" zpos="111.334" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__crystal_oasis" GUID="dfModLloRUuJz6Bkmv8wDA=="/>
-    <POI MapID="1228" xpos="480.075" ypos="102.091" zpos="909.832" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="mrwHpahi4Umxvu8ey6t30g=="/>
-    <POI MapID="1228" xpos="382.273" ypos="45.0165" zpos="153.681" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="SPM1qwUpE0ygEUh3xpXqrw=="/>
     <POI MapID="1228" xpos="-1031.89" ypos="17.6007" zpos="-624.523" type="temp.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="GxU0Wwc/8Ea9c6buj3//qQ=="/>
-    <POI MapID="1228" xpos="-1029.2" ypos="16.1836" zpos="-617.604" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="g7maDMjiy0mcYU7gAReI6g=="/>
-    <POI MapID="1228" xpos="-387.571" ypos="93.5475" zpos="-281.179" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="7tPl+9ifSk+ZI23Ovowp6Q=="/>
     <POI MapID="1228" xpos="-337.485" ypos="97.3484" zpos="-333.754" type="divinggoggles.start" GUID="wr5XtIgRfU6Wu6F0//L84w=="/>
     <POI MapID="1228" xpos="-342.678" ypos="-1.56097" zpos="-353.57" type="divinggoggles.guilde.end" GUID="fWjTWbzma0auQug92z9bdA=="/>
-    <POI MapID="1228" xpos="-593.332" ypos="26.6779" zpos="-342.888" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="x7sXmcs2u0G4jncfe2HuKA=="/>
     <POI MapID="1228" xpos="-985.614" ypos="42.2178" zpos="279.661" type="temp.path_of_fire.elon_riverlands.equipment_tracker" GUID="umZGNnnytUSHS85f0RTHgA=="/>
     <POI MapID="1228" xpos="1036.31" ypos="57.4351" zpos="737.737" type="temp.path_of_fire.elon_riverlands.equipment_tracker" GUID="LaS/NBLZoUKVnWbxwVcVBQ=="/>
-    <POI MapID="1228" xpos="328.176" ypos="85.9468" zpos="-120.026" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="VcBKuqgHgUmb9h9254lP0w=="/>
     <POI MapID="1228" xpos="336.676" ypos="113.436" zpos="-128.341" type="divinggoggles.start" GUID="A16YBmkkKkSQykUWUPd57w=="/>
     <POI MapID="1228" xpos="347.321" ypos="-4.00586" zpos="-154.713" type="divinggoggles.guilde.end" GUID="o3I+yN42zUW7sQvaOmLbRA=="/>
-    <POI MapID="1211" xpos="540.986" ypos="148.192" zpos="-620.259" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__desert_highlands" GUID="Lyk+qn7XhUGzG1WwykpqsA=="/>
-    <POI MapID="1211" xpos="-598.072" ypos="340.108" zpos="123.459" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__desert_highlands" GUID="AkxQ+MoQW0mq37XJ1DH+0Q=="/>
-    <POI MapID="1211" xpos="-184.461" ypos="292.117" zpos="-129.041" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__desert_highlands" GUID="IMBmpmGbh0SJ/rRbNcDU1Q=="/>
-    <POI MapID="1211" xpos="-992.623" ypos="234.386" zpos="-349.628" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__desert_highlands" GUID="MfDo40Sq6ESmid8hnWwUPA=="/>
-    <POI MapID="1211" xpos="47.6136" ypos="115.316" zpos="-499.467" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__desert_highlands" GUID="1aOdFGGk3k+xI8kq9WchMA=="/>
-    <POI MapID="1211" xpos="35.5966" ypos="335.948" zpos="215.624" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__desert_highlands" GUID="3rA2L6bNSUWtXQ1Z9FX+1Q=="/>
-    <POI MapID="1211" xpos="131.961" ypos="250.98" zpos="-359.212" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__desert_highlands" GUID="onCqhrowVke64GjwZojNnA=="/>
-    <POI MapID="1226" xpos="205.486" ypos="7.45777" zpos="1329.62" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="xRawFEHD+EKSCIyhyYe1tA=="/>
-    <POI MapID="1226" xpos="897.101" ypos="253.163" zpos="-196.784" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="wWxyBUFt9U2YYE0s1nx/8g=="/>
-    <POI MapID="1226" xpos="227.156" ypos="420.055" zpos="-78.8407" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="3uZep4JxD0WmzSiM87EpCQ=="/>
-    <POI MapID="1226" xpos="-131.124" ypos="325.479" zpos="146.291" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="OR3lmt0hZ06N/NzJcmVVpg=="/>
-    <POI MapID="1226" xpos="4.01636" ypos="348.312" zpos="463.568" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="ugXZIMDUeEKZWQOLnRBQIg=="/>
-    <POI MapID="1226" xpos="330.194" ypos="391.746" zpos="181.06" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="zczkXKltg0m1BFkoDmREJw=="/>
-    <POI MapID="1226" xpos="-670.984" ypos="312.645" zpos="366" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="GaEgLYfKW0qpfR/EDzLWpw=="/>
-    <POI MapID="1226" xpos="-438.978" ypos="274.043" zpos="-29.878" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__the_desolation" GUID="ciXLrzG1bEeI49EtH9xCFg=="/>
-    <POI MapID="1228" xpos="-36.011" ypos="125.575" zpos="51.7317" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="XL+FhHN+7EK/ZlBoewFyLQ=="/>
     <POI MapID="1228" xpos="-343.993" ypos="4.93016" zpos="175.605" type="temp.path_of_fire.elon_riverlands.equipment_tracker" GUID="TIx8czysLEOoIJwodyP3CA=="/>
-    <POI MapID="1228" xpos="-834.106" ypos="99.25" zpos="890.446" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__elon_riverlands" GUID="+RLeZfgonUKADZLcrmrDrw=="/>
-    <POI MapID="1248" xpos="1430.34" ypos="153.773" zpos="-678.696" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="c12LisXiMUWyOn2yxyK1+Q=="/>
-    <POI MapID="1248" xpos="1438.88" ypos="153.773" zpos="-675.433" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="LkqLUvoOrEuGmCOXzgYynA=="/>
-    <POI MapID="1248" xpos="1442.14" ypos="153.776" zpos="-666.875" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="xkvaI4kQHEOyBmBna1T9Uw=="/>
-    <POI MapID="1248" xpos="1438.88" ypos="153.774" zpos="-658.883" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="k4KyTB7kP06hCV/sME2OcQ=="/>
-    <POI MapID="1248" xpos="1430.39" ypos="153.775" zpos="-655.277" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="emzmtSiWlk+BSLNT2fD2dg=="/>
-    <POI MapID="1248" xpos="1422.2" ypos="153.773" zpos="-658.771" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="/+w0241zLU+CiJfNJIDQEg=="/>
-    <POI MapID="1248" xpos="1418.4" ypos="153.773" zpos="-667.53" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="m8Jis0a9mE+LGrHERJKrvw=="/>
-    <POI MapID="1248" xpos="1422.41" ypos="153.776" zpos="-675.524" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="t545DSFehk23nGOpqIa1Pw=="/>
-    <POI MapID="1248" xpos="1419.16" ypos="153.501" zpos="-653.216" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="7hdTE7l5GEevmFzkVGI0jQ=="/>
-    <POI MapID="1248" xpos="1435.18" ypos="153.516" zpos="-646.765" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="KD6aXmyuXE6GnX0wOzpM4g=="/>
-    <POI MapID="1248" xpos="1441.99" ypos="153.33" zpos="-649.778" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="V7+fSecuCUiesi8tQE3+BQ=="/>
-    <POI MapID="1248" xpos="1448.31" ypos="153.243" zpos="-678.614" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="OG18eWBhTEmaE32qnoNX1Q=="/>
-    <POI MapID="1248" xpos="1431.66" ypos="153.317" zpos="-687.083" type="temp.path_of_fire.open_skies__sunspear_sanctuary" GUID="6pLc4PDAFUu49uipe1kX0w=="/>
     <POI MapID="1211" xpos="1453.6" ypos="163.455" zpos="580.29" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom" GUID="VN4cka1Uh0G+6nWZjRw0ng=="/>
     <POI MapID="1256" xpos="604.069" ypos="2.27685" zpos="270.24" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom" GUID="DH3lcMbF7kSiMm4UxBRBRg=="/>
     <POI MapID="1256" xpos="561.453" ypos="141.715" zpos="243.529" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom" GUID="tbDkzNIJDUGfD3/Ud91PVg=="/>
@@ -301,7 +252,6 @@
     <POI MapID="1256" xpos="444.228" ypos="13.9982" zpos="331.743" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom" GUID="QqPmh5MPi0yQLRa1P3lXFw=="/>
     <POI MapID="1256" xpos="803.807" ypos="2.73977" zpos="364.797" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom" GUID="gvnyTYlmdEOmYhgG7l+k+A=="/>
     <POI MapID="1256" xpos="710.125" ypos="16.3648" zpos="337.32" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom" GUID="tLevhmC5OUKaSKhLEKLqoQ=="/>
-    <POI MapID="1248" xpos="1455.64" ypos="153.482" zpos="-667.021" type="temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__on_wings_and_a_prayer" GUID="oDq+vl8PUkyyib2tnuiLug=="/>
     <POI MapID="1210" xpos="986.895" ypos="209.571" zpos="394.137" type="temp.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="+vkGBJw6D0+g21KnqUVJuA=="/>
     <POI MapID="1228" xpos="-619.492" ypos="75.4283" zpos="-184.979" type="divinggoggles.start" GUID="IT8sNRJ+NU+28mf01eMi+A=="/>
     <POI MapID="1228" xpos="-625.014" ypos="-1.05301" zpos="-164.647" type="divinggoggles.guilde.end" GUID="n0viS6rD+0ugKU+sIBPbkg=="/>
@@ -396,7 +346,6 @@
     <POI MapID="1226" xpos="-418.638" ypos="370.325" zpos="-1188.71" type="other.portal" GUID="b8FpuHO6hkezCuJ5C3qnFA=="/>
     <POI MapID="1226" xpos="-412.593" ypos="231.336" zpos="-1177.43" type="other.portal" GUID="gciCx0Al7ECZAn65vIeoGA=="/>
     <POI MapID="1226" xpos="-194.214" ypos="349.644" zpos="-1291.46" type="other.portal" GUID="x1WbJFBc6UibjJoqVM2bPg=="/>
-    <POI MapID="1226" xpos="-161.045" ypos="354.546" zpos="-1314.17" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="mdY+QQlQeUynsrR3MROpmg=="/>
     <POI MapID="1226" xpos="-381.864" ypos="401.889" zpos="-1212.19" type="other.portal" GUID="1tU/20NHT02X0aMZXQIxBw=="/>
     <POI MapID="1226" xpos="-426.279" ypos="425.434" zpos="-1273.6" type="other.portal" GUID="ItYYWIVHbUGTXLz5Ottqdw=="/>
     <POI MapID="1226" xpos="-929.393" ypos="0.460588" zpos="1048.55" type="temp.path_of_fire.the_desolation.acrid_springs_recovery" GUID="85yi79ufvEiekzvK+FEM5A=="/>
@@ -405,12 +354,8 @@
     <POI MapID="1228" xpos="400.752" ypos="166.758" zpos="686.694" type="temp.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="zG0CzSi8e0qBya9PeTwyHw=="/>
     <POI MapID="1228" xpos="369.769" ypos="172.053" zpos="705.251" type="temp.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="/o8MsY5fCU6nN3WSngbi7w=="/>
     <POI MapID="1228" xpos="350.407" ypos="180.705" zpos="690.078" type="temp.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="KDvCHK+fuUmFIARh4qRo8w=="/>
-    <POI MapID="1226" xpos="21.2053" ypos="256.372" zpos="-99.2542" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="nqaCwWF+VEShveZAdI32Xg=="/>
-    <POI MapID="1226" xpos="550.732" ypos="264.642" zpos="446.173" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="V8+ZDEFbhUabFWQyPY0coA=="/>
     <POI MapID="1226" xpos="773.957" ypos="294.429" zpos="-459.56" type="temp.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="WXAeuNJqxEiF4BZxOEEAeQ=="/>
     <POI MapID="1226" xpos="-983.422" ypos="1.89012" zpos="1209.55" type="temp.path_of_fire.the_desolation.acrid_springs_recovery" GUID="AcchZ/s0Jk2Zw7mBxjf3bw=="/>
-    <POI MapID="1226" xpos="-903.346" ypos="150.809" zpos="145.691" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="9qHz3O/YSkqiqDI1SwtcDg=="/>
-    <POI MapID="1226" xpos="-447.945" ypos="228.84" zpos="-1041.8" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="tCnJl3kLgUW0lIiaaEvH8Q=="/>
     <POI MapID="1248" xpos="169.276" ypos="176.872" zpos="910.751" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="qalC6TeySkG77Q33cRtACg=="/>
     <POI MapID="1248" xpos="25.7121" ypos="148.783" zpos="874.795" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="UMuIRtkTxka/DQeTN26K2w=="/>
     <POI MapID="1248" xpos="-748.893" ypos="126.372" zpos="952.771" type="other.portal.gate" GUID="xRJA+EQ4/UWZ1CBOaUQDwA=="/>
@@ -459,12 +404,8 @@
     <POI MapID="1228" xpos="600.289" ypos="19.1648" zpos="-845.421" type="other.portal.out" GUID="bKpS/4k24U64C46tGwN0SQ=="/>
     <POI MapID="1228" xpos="608.139" ypos="3.29646" zpos="-759.754" type="other.portal" GUID="d5toU6AGK0214aRAMK8AbQ=="/>
     <POI MapID="1226" xpos="366.6" ypos="182.289" zpos="854.499" type="other.portal.out" GUID="CC6EsdoC2UiZ9KFe18OxQQ=="/>
-    <POI MapID="1226" xpos="442.428" ypos="158.387" zpos="872.893" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="C/7ka7JZ80KNmLlgftEBPg=="/>
     <POI MapID="1226" xpos="382.986" ypos="161.339" zpos="840.127" type="other.portal.in" GUID="9TaewvrrPk2wd0b6bEWbFw=="/>
-    <POI MapID="1226" xpos="-610.99" ypos="341.714" zpos="-516.497" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="Y1BrTBNy6E6Ga3rCFiL3ng=="/>
-    <POI MapID="1226" xpos="-544.513" ypos="328.583" zpos="172.419" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="VSlsr8i1GUOKZGKDWunoPQ=="/>
     <POI MapID="1226" xpos="334.619" ypos="291.403" zpos="-956.602" type="temp.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="EFOsyz2J50KdX3pqWTiIEg=="/>
-    <POI MapID="1226" xpos="284.215" ypos="294.038" zpos="-1151.38" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="9+UdC0twTUW5rrmEdsiEhw=="/>
     <POI MapID="23" xpos="920.001" ypos="26.0325" zpos="197.132" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="hKECy3Uuz0C6bWnqPHWzug=="/>
     <POI MapID="23" xpos="920.086" ypos="25.2904" zpos="188.217" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="XDUHMlM2RUizQ5ME+oLpRA=="/>
     <POI MapID="23" xpos="912.491" ypos="23.3686" zpos="191.986" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="w4cwMmBsU0e2UECRm1cOLQ=="/>
@@ -473,7 +414,6 @@
     <POI MapID="1211" xpos="-1227.26" ypos="330.836" zpos="-162.758" type="temp.path_of_fire.desert_highlands.dwarven_remnants" GUID="yfFOyAbnjUyziUXN2wex7g=="/>
     <POI MapID="1211" xpos="1265.56" ypos="231.356" zpos="478.642" type="temp.path_of_fire.desert_highlands.dwarven_remnants" GUID="Q/MOwN5T1E2gQm9RpmioGg=="/>
     <POI MapID="1248" xpos="-1226.12" ypos="135.403" zpos="-260.531" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="LQA5843NDkWgdLHDUf6I1A=="/>
-    <POI MapID="1226" xpos="627.859" ypos="8.85463" zpos="1419.79" type="temp.path_of_fire.the_desolation.shadows_provisions" GUID="1JcMChWKTEWJ/RfdK/iV5w=="/>
     <POI MapID="1211" xpos="-984.916" ypos="391.699" zpos="543.032" type="temp.path_of_fire.desert_highlands.dwarven_remnants" GUID="xWhc3JTetECyd8uYwz4kBA=="/>
     <POI MapID="1228" xpos="966.402" ypos="46.288" zpos="6.54752" type="other.portal.cave" GUID="8nqV7rr3IES9TpQGUckRLg=="/>
     <POI MapID="1211" xpos="-609.972" ypos="67.6891" zpos="-321.507" type="other.portal" GUID="AsoN+97Z/kC/2d7ZM8l+ow=="/>
@@ -493,15 +433,5 @@
     <POI MapID="1228" xpos="440.238" ypos="159.943" zpos="691.11" type="temp.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="HveN5NuV8EeoVbtpDxeOMg=="/>
     <POI MapID="1228" xpos="428.875" ypos="130.153" zpos="762.205" type="temp.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="QO8cOB1bfk6UVXQ9dIXIlg=="/>
     <POI MapID="1228" xpos="443.376" ypos="98.9687" zpos="739.441" type="temp.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="zlXedq54TE+4vtUYmKS5oQ=="/>
-    <POI MapID="1228" xpos="14.8888" ypos="86.4498" zpos="739.21" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="GeSk4FBf+0uqMlTun16ZvA=="/>
-    <POI MapID="1228" xpos="-232.726" ypos="103.771" zpos="728.788" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="PBgAYVfbkEKEJ3GbAvjODw=="/>
-    <POI MapID="1228" xpos="-472.702" ypos="82.4926" zpos="707.412" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="APUH4PTB006mRloPxso0oQ=="/>
-    <POI MapID="1228" xpos="-621.672" ypos="72.6547" zpos="543.588" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="mpzYDLXgnUmG20GdPi52zQ=="/>
-    <POI MapID="1228" xpos="-661.022" ypos="39.4931" zpos="320.941" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="p9EoZuvsMUKj0TS0YxfiMQ=="/>
-    <POI MapID="1228" xpos="-535.588" ypos="5.76107" zpos="92.1753" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="TM9RhBwWskSacvOsZWSF2A=="/>
-    <POI MapID="1228" xpos="-535.051" ypos="3.36483" zpos="-190.859" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="d4inuU0+s0qJZIPqolWyPg=="/>
-    <POI MapID="1228" xpos="-565.636" ypos="-0.341801" zpos="-563.858" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="/Gb9qoGTP0+AYldT+SGtXg=="/>
-    <POI MapID="1228" xpos="-803.832" ypos="-0.325864" zpos="-652.112" type="temp.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="daEG/oMbOU2rw6ycXsA5Bg=="/>
-    <POI MapID="1228" xpos="-908.675" ypos="8.79352" zpos="-844.429" type="temp.path_of_fire.elon_riverlands.ghostly_trio" GUID="XNjGGI0oY0CcGwfhM5cD7w=="/>
   </POIs>
 </OverlayData>

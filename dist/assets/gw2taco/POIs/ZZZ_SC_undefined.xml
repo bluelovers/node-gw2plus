@@ -189,6 +189,24 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
+        <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Open Skies" DisplayName="Open Skies">
+        <MarkerCategory name="Sunspear Sanctuary" DisplayName="Sunspear Sanctuary">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
@@ -215,6 +233,18 @@
         <MarkerCategory name="A Meeting of Ministers" DisplayName="A Meeting of Ministers">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
+      <MarkerCategory name="Act 1" data-allowsub="true" DisplayName="Act 1">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Act 2" data-allowsub="true" DisplayName="Act 2">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>

@@ -365,6 +365,26 @@
         <MarkerCategory name="Nevermore IV"/>
       </MarkerCategory>
     </MarkerCategory>
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png">
+      <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png">
+        <MarkerCategory name="Ghostly Trio">
+          <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="Open Skies">
+        <MarkerCategory name="Sunspear Sanctuary">
+          <MarkerCategory name="Domain of Vabbi"/>
+          <MarkerCategory name="Crystal Oasis"/>
+          <MarkerCategory name="Elon Riverlands"/>
+          <MarkerCategory name="Desert Highlands"/>
+          <MarkerCategory name="The Desolation"/>
+        </MarkerCategory>
+        <MarkerCategory name="On Wings and a Prayer"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png">
+        <MarkerCategory name="Shadows Provisions"/>
+      </MarkerCategory>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
@@ -408,6 +428,11 @@
         <MarkerCategory name="Cin Business"/>
         <MarkerCategory name="Not All Who Wander Are Lost"/>
       </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Path of Fire" data-allowsub="true">
+      <MarkerCategory name="Act 1" data-allowsub="true"/>
+      <MarkerCategory name="Act 2" data-allowsub="true"/>
+      <MarkerCategory name="Act 3" data-allowsub="true"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400">
