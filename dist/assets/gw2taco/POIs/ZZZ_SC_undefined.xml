@@ -114,6 +114,12 @@
     <MarkerCategory name="Adventure">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
+      <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200">
