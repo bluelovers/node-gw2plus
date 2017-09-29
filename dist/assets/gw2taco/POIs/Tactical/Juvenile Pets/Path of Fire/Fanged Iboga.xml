@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+        <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="-322.567" ypos="206.666" zpos="154.609" type="tactical.juvenile_pets.path_of_fire.fanged_iboga" GUID="+wCyQOpmjUiNDPmjpK9P3Q=="/>
+  </POIs>
+</OverlayData>
