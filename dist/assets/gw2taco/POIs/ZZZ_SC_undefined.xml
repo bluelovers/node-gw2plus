@@ -323,6 +323,9 @@
         <MarkerCategory name="Priory Historian Elisa" DisplayName="Priory Historian Elisa">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
+        <MarkerCategory name="Casino Blits" DisplayName="Casino Blits">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands">
@@ -347,6 +350,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Specialization Collections" DisplayName="Specialization Collections">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Race">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
