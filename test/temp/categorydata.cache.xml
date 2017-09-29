@@ -367,6 +367,10 @@
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png">
+      <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png">
+        <MarkerCategory name="Carrot Collector"/>
+        <MarkerCategory name="Hidden Carrot Hunt"/>
+      </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png">
         <MarkerCategory name="Ghostly Trio">
           <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
