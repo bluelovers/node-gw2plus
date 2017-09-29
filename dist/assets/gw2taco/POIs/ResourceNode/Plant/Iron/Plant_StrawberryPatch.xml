@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="-400.543" ypos="87.661" zpos="-177.026" type="resourcenode.plant.iron.strawberrypatch" GUID="n72Ng5+SMkSq/tdu0sNOkg=="/>
+    <POI MapID="1211" xpos="-417.74" ypos="86.5214" zpos="-168.267" type="resourcenode.plant.iron.strawberrypatch" GUID="Sut2z/RMV0awwWaqUtVk+A=="/>
+  </POIs>
+</OverlayData>
