@@ -190,7 +190,13 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" DisplayName="Crystal Oasis">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" DisplayName="Domain of Vabbi">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
