@@ -397,6 +397,7 @@
         <MarkerCategory name="On Wings and a Prayer"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png">
+        <MarkerCategory name="Acrid Springs Recovery"/>
         <MarkerCategory name="Lost Lore of the Desolation"/>
         <MarkerCategory name="Shadows Provisions"/>
       </MarkerCategory>
