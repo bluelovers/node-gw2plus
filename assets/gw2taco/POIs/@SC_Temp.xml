@@ -64,6 +64,13 @@
 
         <MarkerCategory name="Bleached Bones"/>
 
+        <MarkerCategory name="Casino Blits">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="Boss"/>
+        </MarkerCategory>
+
       </MarkerCategory>
 
       <MarkerCategory name="Desert Highlands">
@@ -115,6 +122,12 @@
       <MarkerCategory name="Glorify the Golden Heart"/>
 
       <MarkerCategory name="Treasure"/>
+
+      <MarkerCategory name="Race">
+        <MarkerCategory name="Start"/>
+        <MarkerCategory name="CheckPoint"/>
+        <MarkerCategory name="End"/>
+      </MarkerCategory>
 
     </MarkerCategory>
   </MarkerCategory>
