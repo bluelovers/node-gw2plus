@@ -1,0 +1,16 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
+        <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="-1031.89" ypos="17.6007" zpos="-624.523" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="GxU0Wwc/8Ea9c6buj3//qQ=="/>
+    <POI MapID="1228" xpos="330.532" ypos="196.485" zpos="805.446" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="H6yj5vTcE0a5FeI52HwGSg=="/>
+    <POI MapID="1228" xpos="277.01" ypos="28.1145" zpos="-10.8934" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="0D+QCl65yUmPz8OtYa1dcg=="/>
+    <POI MapID="1228" xpos="-701.04" ypos="100.155" zpos="-205.515" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="4mTdDIu9jU6fJf2SARAuFg=="/>
+    <POI MapID="1228" xpos="625.203" ypos="10.9438" zpos="-942.51" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="8QAnRu994ki514E6xki+MA=="/>
+  </POIs>
+</OverlayData>
