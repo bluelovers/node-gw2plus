@@ -237,10 +237,10 @@
     </MarkerCategory>
     <MarkerCategory name="Path of Fire">
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png">
-        <MarkerCategory name="Round 1" iconFile="Data/1.png" iconSize="0.35"/>
-        <MarkerCategory name="Round 2" iconFile="Data/2.png" iconSize="0.35"/>
-        <MarkerCategory name="Round 3" iconFile="Data/3.png" iconSize="0.35"/>
-        <MarkerCategory name="Boss" iconFile="Data/Boss.png"/>
+        <MarkerCategory name="Round 1" iconFile="Data/1.png"/>
+        <MarkerCategory name="Round 2" iconFile="Data/2.png"/>
+        <MarkerCategory name="Round 3" iconFile="Data/3.png"/>
+        <MarkerCategory name="Boss" data-class="boss-1" iconFile="Data/Boss.png" heightOffset="3"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
