@@ -190,6 +190,14 @@ addGulpTasks({
 
 							type_new = cats[type].name_id.split('.');
 						}
+						else if (cats[type] && type.match(/^(?:jumpingpuzzle)\.(.+)$/i))
+						{
+							pois_target_id = [
+								'JumpingPuzzle',
+							];
+
+							type_new = cats[type].name_id.split('.');
+						}
 						else if (type.match(/^(?:temp\.path_of_fire)\.(.+)$/i))
 						{
 							pois_target_id = [
