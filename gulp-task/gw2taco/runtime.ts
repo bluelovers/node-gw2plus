@@ -182,6 +182,14 @@ addGulpTasks({
 							pois_target_id[pois_target_id.length - 1]
 								= pois_target_id[1] + '_' + pois_target_id[pois_target_id.length - 1];
 						}
+						else if (cats[type] && type.match(/^(?:divinggoggles)\.(.+)$/i))
+						{
+							pois_target_id = [
+								'DivingGoggles',
+							];
+
+							type_new = cats[type].name_id.split('.');
+						}
 						else if (type.match(/^(?:temp\.path_of_fire)\.(.+)$/i))
 						{
 							pois_target_id = [

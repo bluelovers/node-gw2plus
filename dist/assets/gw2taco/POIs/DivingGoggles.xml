@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Start"/>
+    <MarkerCategory name="Guilde">
+      <MarkerCategory name="End" iconFile="Data/DivingGoggles/Guilde.End.png" data-iconFile="Data/DivingGoggles/Guilde.End.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1195" xpos="-24.3984" ypos="546.803" zpos="-258.555" type="divinggoggles.start" GUID="CeLmDv7e2U2A+Co9wPVunw=="/>
+    <POI MapID="1195" xpos="-42.2962" ypos="-0.183233" zpos="-246.615" type="divinggoggles.guilde.end" GUID="AplvSwjTwEuwe+5VJmDiyg=="/>
+    <POI MapID="1203" xpos="535.715" ypos="516.693" zpos="231.552" type="divinggoggles.start" GUID="4YGJOgJVAkGb2ujCwBsjGg=="/>
+    <POI MapID="1230" xpos="687.12" ypos="126.52" zpos="159.622" type="divinggoggles.start" GUID="UAXR8Cif9EuWQmOr+8xNeA=="/>
+    <POI MapID="1230" xpos="708.441" ypos="-3.48515" zpos="162.468" type="divinggoggles.guilde.end" GUID="FhLaiHYr6Ey377YRzT1k2A=="/>
+    <POI MapID="1211" xpos="-1214.66" ypos="298.498" zpos="-348.531" type="divinggoggles.start" GUID="nosPidvgKkyqDCgs3hdlJQ=="/>
+    <POI MapID="1211" xpos="-1209.34" ypos="-1.05664" zpos="-388.119" type="divinggoggles.guilde.end" GUID="h9uF0jHq7kuBv2U2RjCeQw=="/>
+    <POI MapID="1228" xpos="-337.485" ypos="97.3484" zpos="-333.754" type="divinggoggles.start" GUID="wr5XtIgRfU6Wu6F0//L84w=="/>
+    <POI MapID="1228" xpos="-342.678" ypos="-1.56097" zpos="-353.57" type="divinggoggles.guilde.end" GUID="fWjTWbzma0auQug92z9bdA=="/>
+    <POI MapID="1228" xpos="336.676" ypos="113.436" zpos="-128.341" type="divinggoggles.start" GUID="A16YBmkkKkSQykUWUPd57w=="/>
+    <POI MapID="1228" xpos="347.321" ypos="-4.00586" zpos="-154.713" type="divinggoggles.guilde.end" GUID="o3I+yN42zUW7sQvaOmLbRA=="/>
+    <POI MapID="1228" xpos="-619.492" ypos="75.4283" zpos="-184.979" type="divinggoggles.start" GUID="IT8sNRJ+NU+28mf01eMi+A=="/>
+    <POI MapID="1228" xpos="-625.014" ypos="-1.05301" zpos="-164.647" type="divinggoggles.guilde.end" GUID="n0viS6rD+0ugKU+sIBPbkg=="/>
+  </POIs>
+</OverlayData>
