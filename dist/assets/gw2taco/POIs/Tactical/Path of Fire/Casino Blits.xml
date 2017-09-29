@@ -2,9 +2,9 @@
   <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
-        <MarkerCategory name="Round 1" DisplayName="Round 1"/>
-        <MarkerCategory name="Round 2" DisplayName="Round 2"/>
-        <MarkerCategory name="Round 3" DisplayName="Round 3"/>
+        <MarkerCategory name="Round 1" iconFile="Data/1.png" iconSize="0.35" DisplayName="Round 1"/>
+        <MarkerCategory name="Round 2" iconFile="Data/2.png" iconSize="0.35" DisplayName="Round 2"/>
+        <MarkerCategory name="Round 3" iconFile="Data/3.png" iconSize="0.35" DisplayName="Round 3"/>
         <MarkerCategory name="Boss" iconFile="Data/Boss.png"/>
       </MarkerCategory>
     </MarkerCategory>
