@@ -59,6 +59,12 @@
           <MarkerCategory name="Recitation of the Litany of Deeds" DisplayName="Recitation of the Litany of Deeds"/>
         </MarkerCategory>
         <MarkerCategory name="Bleached Bones" DisplayName="Bleached Bones"/>
+        <MarkerCategory name="Casino Blits" DisplayName="Casino Blits">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="Boss"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands">
         <MarkerCategory name="Lost Lore of Desert Highlands" DisplayName="Lost Lore of Desert Highlands"/>
@@ -100,6 +106,11 @@
       </MarkerCategory>
       <MarkerCategory name="Glorify the Golden Heart" DisplayName="Glorify the Golden Heart"/>
       <MarkerCategory name="Treasure"/>
+      <MarkerCategory name="Race">
+        <MarkerCategory name="Start"/>
+        <MarkerCategory name="CheckPoint"/>
+        <MarkerCategory name="End"/>
+      </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
