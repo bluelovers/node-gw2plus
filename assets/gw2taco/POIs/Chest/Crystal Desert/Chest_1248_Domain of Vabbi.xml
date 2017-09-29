@@ -73,5 +73,10 @@
     <POI MapID="1248" xpos="816.677" ypos="109.686" zpos="-68.3061" type="chest.permanent" GUID="MAGc0YYjJ0ytQHFji9xH8g=="/>
     <POI MapID="1248" xpos="-706.804" ypos="125.452" zpos="924.736" type="chest.mapspecific.keyrequired" GUID="Imu4kvUQqEGTMch4mPsbUg=="/>
     <POI MapID="1248" xpos="-1337.35" ypos="262.94" zpos="-538.286" type="chest.mapspecific.keyrequired" GUID="5WzQujMZRkCGM7whVN4hzQ=="/>
+    <POI MapID="1248" xpos="1407.23" ypos="78.0891" zpos="-207.305" type="chest.mapspecific.keyrequired" GUID="6/QJ0sM/ZUmYQ+zCH8fSgQ=="/>
+    <POI MapID="1248" xpos="-733.64" ypos="129.03" zpos="976.969" type="chest.mapspecific.keyrequired" GUID="ZehEYG+Li02EUth+o24OpQ=="/>
+    <POI MapID="1248" xpos="-816.147" ypos="100.309" zpos="955.163" type="chest.mapspecific.keyrequired" GUID="BKcfeGDQ6U+r8Z54K0P01g=="/>
+    <POI MapID="1248" xpos="1358.67" ypos="126.018" zpos="-129.036" type="chest.permanent" GUID="0PkH5v309US26s1s6hu4ig=="/>
+    <POI MapID="1248" xpos="1349.85" ypos="90.0571" zpos="-38.2293" type="chest.mapspecific.keyrequired" GUID="8vWVSDoIrkKEBLt9ejvYbw=="/>
   </POIs>
 </OverlayData>
