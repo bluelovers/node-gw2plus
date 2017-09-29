@@ -1,0 +1,18 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="Acrid Springs Recovery"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="-680.743" ypos="202.71" zpos="670.702" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="pfOJPX8Q3UCxN9oeRunoow=="/>
+    <POI MapID="1226" xpos="-604.174" ypos="127.03" zpos="829.216" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="18xgCSMHykuyBl/5s3IlVQ=="/>
+    <POI MapID="1226" xpos="-851.927" ypos="31.0216" zpos="1074.85" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="0ObI0W5Kn02CvDwl5pcpdw=="/>
+    <POI MapID="1226" xpos="-959.588" ypos="107.432" zpos="938.749" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="6rnUwJNfRUKfLrLkYMPiGg=="/>
+    <POI MapID="1226" xpos="-888.354" ypos="2.53037" zpos="1187" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="ZhRT6aF9IE6FQk9maSMbVA=="/>
+    <POI MapID="1226" xpos="-929.393" ypos="0.460588" zpos="1048.55" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="85yi79ufvEiekzvK+FEM5A=="/>
+    <POI MapID="1226" xpos="-983.422" ypos="1.89012" zpos="1209.55" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="AcchZ/s0Jk2Zw7mBxjf3bw=="/>
+  </POIs>
+</OverlayData>
