@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" DisplayName="Domain of Vabbi">
+        <MarkerCategory name="Lost Lore of the Domain of Vabbi" DisplayName="Lost Lore of the Domain of Vabbi"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1248" xpos="1378.64" ypos="102.794" zpos="-595.586" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="FwBsSEiHSE6eDPsGbxt1ig=="/>
+    <POI MapID="1248" xpos="-1233.85" ypos="120.401" zpos="346.815" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="bMMPZ54rcki0qRHM9w01pw=="/>
+  </POIs>
+</OverlayData>

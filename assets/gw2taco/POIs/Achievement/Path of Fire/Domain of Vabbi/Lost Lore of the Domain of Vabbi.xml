@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Domain of Vabbi">
+        <MarkerCategory name="Lost Lore of the Domain of Vabbi"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1248" xpos="1378.64" ypos="102.794" zpos="-595.586" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="FwBsSEiHSE6eDPsGbxt1ig=="/>
+    <POI MapID="1248" xpos="-1233.85" ypos="120.401" zpos="346.815" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="bMMPZ54rcki0qRHM9w01pw=="/>
+  </POIs>
+</OverlayData>

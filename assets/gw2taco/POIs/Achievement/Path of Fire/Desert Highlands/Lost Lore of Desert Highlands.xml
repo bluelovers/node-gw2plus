@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Desert Highlands">
+        <MarkerCategory name="Lost Lore of Desert Highlands"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="-484.505" ypos="278.928" zpos="-18.2637" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="V8LPa2TNRUK7GlKzrBrNZw=="/>
+    <POI MapID="1211" xpos="-1294.38" ypos="434.532" zpos="313.497" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="Qtg7vggnvE+gQh7T8DZdMw=="/>
+  </POIs>
+</OverlayData>
