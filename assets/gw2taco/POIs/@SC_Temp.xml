@@ -69,6 +69,8 @@
       <MarkerCategory name="Desert Highlands">
         <MarkerCategory name="Lost Lore of Desert Highlands"/>
         <MarkerCategory name="Dwarven Remnants"/>
+        <MarkerCategory name="Carrot Collector"/>
+        <MarkerCategory name="Hidden Carrot Hunt"/>
       </MarkerCategory>
 
 
@@ -109,6 +111,10 @@
         <MarkerCategory name="Expurgation"/>
         <MarkerCategory name="The Cutting Edge"/>
       </MarkerCategory>
+
+      <MarkerCategory name="Glorify the Golden Heart"/>
+
+      <MarkerCategory name="Treasure"/>
 
     </MarkerCategory>
   </MarkerCategory>

@@ -228,6 +228,7 @@
       <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true"/>
       <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true">
         <MarkerCategory name="Cheetah"/>
+        <MarkerCategory name="Fanged Iboga"/>
         <MarkerCategory name="Sand Lion"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -509,6 +510,8 @@
       <MarkerCategory name="Desert Highlands">
         <MarkerCategory name="Lost Lore of Desert Highlands"/>
         <MarkerCategory name="Dwarven Remnants"/>
+        <MarkerCategory name="Carrot Collector"/>
+        <MarkerCategory name="Hidden Carrot Hunt"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands"/>
@@ -542,6 +545,8 @@
         <MarkerCategory name="Expurgation"/>
         <MarkerCategory name="The Cutting Edge"/>
       </MarkerCategory>
+      <MarkerCategory name="Glorify the Golden Heart"/>
+      <MarkerCategory name="Treasure"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>

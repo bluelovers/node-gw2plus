@@ -63,6 +63,7 @@
       <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
         <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
         <MarkerCategory name="Cheetah"/>
+        <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
