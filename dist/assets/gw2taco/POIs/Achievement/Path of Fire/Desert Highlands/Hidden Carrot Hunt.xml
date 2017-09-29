@@ -1,0 +1,22 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
+        <MarkerCategory name="Hidden Carrot Hunt" DisplayName="Hidden Carrot Hunt"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="-328.096" ypos="4.3237" zpos="-479.735" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="hx+YJZ6GyU2RwfV5Rh6xIA=="/>
+    <POI MapID="1211" xpos="-415.496" ypos="22.1198" zpos="-385.892" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="XHwZgmKZcE2Kpd7Fq/85Iw=="/>
+    <POI MapID="1211" xpos="-564.372" ypos="35.3552" zpos="-359.8" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="89NAZOnVK0W/PjsnyLgxxg=="/>
+    <POI MapID="1211" xpos="-689.406" ypos="36.507" zpos="-372.04" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="ry+kVukHr0Og3t+m/m487g=="/>
+    <POI MapID="1211" xpos="-807.08" ypos="3.21367" zpos="-534.464" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="OtoYsmayo0CYrD3QoGux7g=="/>
+    <POI MapID="1211" xpos="-627.449" ypos="3.06917" zpos="-616.969" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="pp7SDTyPXkG6VqvciR49gQ=="/>
+    <POI MapID="1211" xpos="-544.015" ypos="0.423359" zpos="-695.129" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="Ky79sTlXcEuTB6LecdJyOQ=="/>
+    <POI MapID="1211" xpos="-443.03" ypos="39.3766" zpos="-689.444" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="GRSUdqzrzE+nHvT2vWzTiA=="/>
+    <POI MapID="1211" xpos="-295.738" ypos="200.095" zpos="-218.399" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="vHNFD1awpkyAuq+XjyXCJA=="/>
+    <POI MapID="1211" xpos="-544.8" ypos="161.83" zpos="-175.784" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="7439J+dGPECpBf55qdhJFA=="/>
+    <POI MapID="1211" xpos="-407.963" ypos="86.4875" zpos="-180.991" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="WJrPJtzq5EiC2A76egGULQ=="/>
+  </POIs>
+</OverlayData>

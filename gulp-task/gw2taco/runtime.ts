@@ -323,7 +323,7 @@ addGulpTasks({
 									}
 
 									break;
-								case 'temp.path_of_fire.desert_highlands.hidden_carrot_hunt':
+								case 'desert_highlands.hidden_carrot_hunt':
 
 									pois_target_id = pois_target_id
 										.concat([
@@ -335,7 +335,7 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
-								case 'temp.path_of_fire.desert_highlands.carrot_collector':
+								case 'desert_highlands.carrot_collector':
 
 									pois_target_id = pois_target_id
 										.concat([

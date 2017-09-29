@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="StrawberryPatch"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="-400.543" ypos="87.661" zpos="-177.026" type="resourcenode.plant.iron.strawberrypatch" GUID="n72Ng5+SMkSq/tdu0sNOkg=="/>
+    <POI MapID="1211" xpos="-417.74" ypos="86.5214" zpos="-168.267" type="resourcenode.plant.iron.strawberrypatch" GUID="Sut2z/RMV0awwWaqUtVk+A=="/>
+  </POIs>
+</OverlayData>
