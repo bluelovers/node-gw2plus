@@ -1,0 +1,16 @@
+<OverlayData>
+  <MarkerCategory name="LS">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Act 2">
+        <MarkerCategory name="Facing the Truth">
+          <MarkerCategory name="Wedge Symbol"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1230" xpos="-768.423" ypos="55.7006" zpos="-215.084" type="ls.path_of_fire.act_2.facing_the_truth.wedge_symbol" GUID="rdBAP1FwW0WYGBIQCQ+JqQ=="/>
+    <POI MapID="1230" xpos="-682" ypos="2.90631" zpos="-301.862" type="ls.path_of_fire.act_2.facing_the_truth.wedge_symbol" GUID="0+XdpPxbukmSsB3ero7ePQ=="/>
+    <POI MapID="1230" xpos="-671.799" ypos="97.2519" zpos="-188.469" type="ls.path_of_fire.act_2.facing_the_truth.wedge_symbol" GUID="w/HBULSxyUCG8A4FRqrG1Q=="/>
+  </POIs>
+</OverlayData>

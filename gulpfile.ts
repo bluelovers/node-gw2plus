@@ -35,6 +35,7 @@ gulp.task('gw2taco:link', async function ()
 
 	let ls = await globby([
 			'categorydata.xml',
+			'*.xml',
 			'*/*.xml',
 			'**/*.{gif,jpg,jpeg,png}',
 		], options)
