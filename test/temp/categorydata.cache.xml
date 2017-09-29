@@ -91,7 +91,7 @@
         <MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms"/>
         <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" iconSize="0.35"/>
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
-        <MarkerCategory name="Lentils"/>
+        <MarkerCategory name="Lentils" iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" iconSize="0.35"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
@@ -528,6 +528,12 @@
           <MarkerCategory name="Recitation of the Litany of Deeds"/>
         </MarkerCategory>
         <MarkerCategory name="Bleached Bones"/>
+        <MarkerCategory name="Casino Blits">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="Boss"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands">
         <MarkerCategory name="Lost Lore of Desert Highlands"/>
@@ -569,6 +575,11 @@
       </MarkerCategory>
       <MarkerCategory name="Glorify the Golden Heart"/>
       <MarkerCategory name="Treasure"/>
+      <MarkerCategory name="Race">
+        <MarkerCategory name="Start"/>
+        <MarkerCategory name="CheckPoint"/>
+        <MarkerCategory name="End"/>
+      </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
