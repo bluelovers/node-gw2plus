@@ -229,7 +229,7 @@ addGulpTasks({
 								case 'open_skies__sunspear_sanctuary.open_skies__desert_highlands':
 								case 'open_skies__sunspear_sanctuary.open_skies__the_desolation':
 								case 'open_skies__sunspear_sanctuary':
-								case 'temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom':
+								case 'open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom':
 								case 'open_skies__sunspear_sanctuary.open_skies__on_wings_and_a_prayer':
 
 									pois_target_id = pois_target_id
@@ -301,7 +301,7 @@ addGulpTasks({
 											;
 
 											break;
-										case 'temp.path_of_fire.open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom':
+										case 'open_skies__sunspear_sanctuary.open_skies__sunspear_vvrsdom':
 
 											type_new = type_new
 												.concat([
