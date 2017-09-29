@@ -245,6 +245,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Act 2" data-allowsub="true" DisplayName="Act 2">
+        <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
