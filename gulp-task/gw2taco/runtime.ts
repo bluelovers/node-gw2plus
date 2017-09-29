@@ -376,6 +376,60 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
+								case '2.facing_the_truth.seeker_of_truth_and_knowledge':
+
+									pois_target_id = [
+										'LS',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Act 2',
+											'Facing the Truth',
+											'Seeker of Truth and Knowledge',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case '2.facing_the_truth.goddess_of_secrets':
+
+									pois_target_id = [
+										'LS',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Act 2',
+											'Facing the Truth',
+											'Goddess of Secrets',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case '2.facing_the_truth.wedge_symbol':
+
+									pois_target_id = [
+										'LS',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Act 2',
+											'Facing the Truth',
+											'Wedge Symbol',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
 								default:
 									break POIS;
 								//break;
