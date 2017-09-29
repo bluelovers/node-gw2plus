@@ -10,7 +10,7 @@
     </MarkerCategory>
     <MarkerCategory name="Plant" data-class="iconsize-0.35" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Orichalcum">
-        <MarkerCategory name="Lentils"/>
+        <MarkerCategory name="Lentils" iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" iconSize="0.35"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">

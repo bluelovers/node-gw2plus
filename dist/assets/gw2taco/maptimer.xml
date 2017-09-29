@@ -175,7 +175,8 @@
   </Map>
   <Map Name="Crystal Oasis: Casino Blitz" Length="60" Start="5" id="cb">
     <Event Name="1" Length="5" Color="80ffd7d7"/>
-    <Event Name="2" Length="10" Color="80ffbdbd"/>
+    <Event Name="2" Length="5" Color="80ffd7d7"/>
+    <Event Name="3" Length="5" Color="80ffd7d7"/>
     <Event Name="Boss" Length="5" Color="80ff9999"/>
     <Event Name="" Length="40" Color=""/>
   </Map>
