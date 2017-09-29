@@ -639,5 +639,7 @@
     <POI MapID="1211" xpos="-861.948" ypos="466.851" zpos="110.462" type="resourcenode.wood.elder" GUID="B+Ccxyn3tUaFvQuhLRV6Tw=="/>
     <POI MapID="1228" xpos="948.147" ypos="55.8689" zpos="-88.4375" type="resourcenode.wood.elder" GUID="rJfKVwztGU6WN3z7vwVB8Q=="/>
     <POI MapID="1211" xpos="-370.115" ypos="239.063" zpos="489.091" type="resourcenode.wood.elder" GUID="CcmD9d8caUumU/G98GpDow=="/>
+    <POI MapID="1228" xpos="774.985" ypos="96.9243" zpos="588.318" type="resourcenode.wood.elder" GUID="UArGXLbkp0uNWcTD4JK8Og=="/>
+    <POI MapID="1226" xpos="-397.91" ypos="262.781" zpos="-137.552" type="resourcenode.wood.elder" GUID="CfYsmUIJFEmk5Mrwm40yaQ=="/>
   </POIs>
 </OverlayData>
