@@ -63,5 +63,8 @@
     <POI MapID="1226" xpos="406.176" ypos="279.364" zpos="-519.972" type="chest.mapspecific.keyrequired" GUID="qnJMrZSp1UmJg/FkrlvEKw=="/>
     <POI MapID="1226" xpos="398.566" ypos="278.706" zpos="-505.242" type="chest.meta" GUID="K3y31fc3kECaHlSGPFoWEw=="/>
     <POI MapID="1226" xpos="-595.189" ypos="222.957" zpos="-330.409" type="chest.meta" GUID="Moqkpf63jkCHg/UIuzEgAQ=="/>
+    <POI MapID="1226" xpos="-672.029" ypos="226.287" zpos="-349.316" type="chest.meta" GUID="U7d0Ba3aw0m6fmAvoyhNYA=="/>
+    <POI MapID="1226" xpos="-225.448" ypos="301.759" zpos="140.207" type="chest.permanent" GUID="5diF4aMFVk27Z+xT25uDwQ=="/>
+    <POI MapID="1226" xpos="-154.511" ypos="326.213" zpos="150.147" type="chest.permanent" GUID="cQoFDFoNUkKTFRUcAtnGKQ=="/>
   </POIs>
 </OverlayData>
