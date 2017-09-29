@@ -1,0 +1,17 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Glorify the Golden Heart"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="205.73" ypos="85.9207" zpos="356.027" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="pZHmXG3pe0O38kmgsYtm2g=="/>
+    <POI MapID="1248" xpos="-963.311" ypos="113.507" zpos="945.673" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="cvFAPWd8J0qz3g/EKlTwug=="/>
+    <POI MapID="1248" xpos="-912.279" ypos="91.4292" zpos="915.704" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="HvtmngUmAkeGl7eB/qh1kg=="/>
+    <POI MapID="1248" xpos="-957.905" ypos="91.1862" zpos="892.266" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="G9TU2bv3ZEqQ4PRm27fBjA=="/>
+    <POI MapID="1248" xpos="-999.324" ypos="91.5231" zpos="917.395" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="pw1I1O7KxkieSwhWf8xDRw=="/>
+    <POI MapID="1248" xpos="-1021.11" ypos="91.4437" zpos="962.18" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="LFW+GvOTikSSN1ZWSAdCeg=="/>
+    <POI MapID="1248" xpos="1233.96" ypos="112.84" zpos="-88.9436" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="UO4TW88bmkaCgOoGwlh7hg=="/>
+    <POI MapID="1248" xpos="1373.08" ypos="90.2818" zpos="-112.43" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="vGfNq0bV7kGolcqETbF1fQ=="/>
+  </POIs>
+</OverlayData>

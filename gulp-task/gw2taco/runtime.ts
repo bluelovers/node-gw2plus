@@ -48,6 +48,7 @@ addGulpTasks({
 				'resourcenode.other.watchwork_sprocket',
 				'tactical.guildmission.trek',
 				'resourcenode.mapspecific.synthesizer',
+				'resourcenode.mapspecific.plant.toxic_seedling',
 			];
 
 			let types2 = {
@@ -67,6 +68,7 @@ addGulpTasks({
 			const map_gh = [
 				'1124',
 				'1121',
+				'1232',
 			];
 
 			let ls = pois.filter();
@@ -341,6 +343,17 @@ addGulpTasks({
 										.concat([
 											'Desert Highlands',
 											'Carrot Collector',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'glorify_the_golden_heart':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Glorify the Golden Heart',
 										])
 									;
 

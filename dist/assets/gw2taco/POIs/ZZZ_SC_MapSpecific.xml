@@ -72,6 +72,11 @@
     <POI MapID="1124" xpos="21.4448" ypos="104.32" zpos="-199.383" type="resourcenode.mapspecific.plant.herb_synthesizer" GUID="AjbOR4smg0iju35iCwY1gg=="/>
     <POI MapID="1124" xpos="18.7016" ypos="104.305" zpos="-199.484" type="resourcenode.mapspecific.plant.berry_synthesizer" GUID="YfxDdMVjw0iyyqk9nYK37A=="/>
     <POI MapID="1124" xpos="15.6084" ypos="104.31" zpos="-199.588" type="resourcenode.mapspecific.plant.vegetable_synthesizer" GUID="A9XuQX5NgE6rUv/clPEdlw=="/>
+    <POI MapID="1232" xpos="11.2874" ypos="13.5997" zpos="-76.7309" type="resourcenode.mapspecific.ore.ore_synthesizer" GUID="1lv6CKdpx0CodhZ9YXpUVQ=="/>
+    <POI MapID="1232" xpos="8.64746" ypos="13.6002" zpos="-75.4963" type="resourcenode.mapspecific.wood.lumber_synthesizer" GUID="2JSqZFcnckO/LR1HlkYQjQ=="/>
+    <POI MapID="1232" xpos="5.79287" ypos="13.6004" zpos="-74.4622" type="resourcenode.mapspecific.plant.vegetable_synthesizer" GUID="7P3SycvYBESzmCEIoTVJig=="/>
+    <POI MapID="1232" xpos="2.7034" ypos="13.6028" zpos="-73.6961" type="resourcenode.mapspecific.plant.herb_synthesizer" GUID="9A7nU0IbNEqelhnDhFKEkg=="/>
+    <POI MapID="1232" xpos="-0.135894" ypos="13.6009" zpos="-74.5457" type="resourcenode.mapspecific.plant.berry_synthesizer" GUID="WvQGbobBT0aKbkU/02NrBg=="/>
     <POI MapID="371" xpos="340" ypos="136.623" zpos="271.149" type="resourcenode.mapspecific.ore.currency" GUID="l5fBhaykBE6P+P0eIo7nRg=="/>
     <POI MapID="371" xpos="337.987" ypos="132.396" zpos="289.798" type="resourcenode.plant.orichalcum.orriantruffle" GUID="80G5yw3WYkiEjEqD24CXuw=="/>
     <POI MapID="371" xpos="339.812" ypos="132.254" zpos="291.065" type="resourcenode.plant.orichalcum.snowtruffle" GUID="ztwHXYmcB0yJvDbcZmaJIA=="/>

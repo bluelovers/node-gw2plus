@@ -1,0 +1,24 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
+      <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
+        <MarkerCategory name="Ore Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Ore Synthesizer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
+        <MarkerCategory name="Lumber Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Lumber Synthesizer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+        <MarkerCategory name="Vegetable Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Vegetable Synthesizer"/>
+        <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Herb Synthesizer"/>
+        <MarkerCategory name="Berry Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Berry Synthesizer"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1232" xpos="11.2874" ypos="13.5997" zpos="-76.7309" type="resourcenode.mapspecific.ore.ore_synthesizer" GUID="1lv6CKdpx0CodhZ9YXpUVQ=="/>
+    <POI MapID="1232" xpos="8.64746" ypos="13.6002" zpos="-75.4963" type="resourcenode.mapspecific.wood.lumber_synthesizer" GUID="2JSqZFcnckO/LR1HlkYQjQ=="/>
+    <POI MapID="1232" xpos="5.79287" ypos="13.6004" zpos="-74.4622" type="resourcenode.mapspecific.plant.vegetable_synthesizer" GUID="7P3SycvYBESzmCEIoTVJig=="/>
+    <POI MapID="1232" xpos="2.7034" ypos="13.6028" zpos="-73.6961" type="resourcenode.mapspecific.plant.herb_synthesizer" GUID="9A7nU0IbNEqelhnDhFKEkg=="/>
+    <POI MapID="1232" xpos="-0.135894" ypos="13.6009" zpos="-74.5457" type="resourcenode.mapspecific.plant.berry_synthesizer" GUID="WvQGbobBT0aKbkU/02NrBg=="/>
+  </POIs>
+</OverlayData>

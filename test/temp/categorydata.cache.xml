@@ -376,6 +376,7 @@
           <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
         </MarkerCategory>
       </MarkerCategory>
+      <MarkerCategory name="Glorify the Golden Heart"/>
       <MarkerCategory name="Open Skies">
         <MarkerCategory name="Sunspear Sanctuary">
           <MarkerCategory name="Domain of Vabbi"/>

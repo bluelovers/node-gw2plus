@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+        <MarkerCategory name="Toxic Seedling" data-class="size-0.35" iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" data-iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" iconSize="0.35" DisplayName="Toxic Seedling"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="23" xpos="920.001" ypos="26.0325" zpos="197.132" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="hKECy3Uuz0C6bWnqPHWzug=="/>
+    <POI MapID="23" xpos="920.086" ypos="25.2904" zpos="188.217" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="XDUHMlM2RUizQ5ME+oLpRA=="/>
+    <POI MapID="23" xpos="912.491" ypos="23.3686" zpos="191.986" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="w4cwMmBsU0e2UECRm1cOLQ=="/>
+    <POI MapID="23" xpos="906.288" ypos="21.2985" zpos="188.419" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="RWC43mDp3UqQR4DHYm69kg=="/>
+  </POIs>
+</OverlayData>
