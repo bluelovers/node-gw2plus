@@ -63,6 +63,8 @@
       <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands">
         <MarkerCategory name="Lost Lore of Desert Highlands" DisplayName="Lost Lore of Desert Highlands"/>
         <MarkerCategory name="Dwarven Remnants" DisplayName="Dwarven Remnants"/>
+        <MarkerCategory name="Carrot Collector" DisplayName="Carrot Collector"/>
+        <MarkerCategory name="Hidden Carrot Hunt" DisplayName="Hidden Carrot Hunt"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
@@ -96,6 +98,8 @@
         <MarkerCategory name="Expurgation"/>
         <MarkerCategory name="The Cutting Edge" DisplayName="The Cutting Edge"/>
       </MarkerCategory>
+      <MarkerCategory name="Glorify the Golden Heart" DisplayName="Glorify the Golden Heart"/>
+      <MarkerCategory name="Treasure"/>
     </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
