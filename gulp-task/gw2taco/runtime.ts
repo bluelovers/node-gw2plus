@@ -503,6 +503,67 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
+								case 'crystal_oasis.casino_blits.1':
+								case 'crystal_oasis.casino_blits.2':
+								case 'crystal_oasis.casino_blits.3':
+								case 'crystal_oasis.casino_blits.boss':
+
+									pois_target_id = [
+										'Tactical',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Casino Blits',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'crystal_oasis.casino_blits.1':
+
+											type_new = type_new
+												.concat([
+													'Round 1',
+												])
+											;
+
+											break;
+										case 'crystal_oasis.casino_blits.2':
+
+											type_new = type_new
+												.concat([
+													'Round 2',
+												])
+											;
+
+											break;
+										case 'crystal_oasis.casino_blits.3':
+
+											type_new = type_new
+												.concat([
+													'Round 3',
+												])
+											;
+
+											break;
+										case 'crystal_oasis.casino_blits.boss':
+
+											type_new = type_new
+												.concat([
+													'Boss',
+												])
+											;
+
+											break;
+										default:
+											break POIS;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
