@@ -289,5 +289,19 @@
 		<POI MapID="1248" xpos="-871.918" ypos="190.907" zpos="872.149" type="chest.permanent" GUID="q/h9krNulUyLx2vINNFjLw=="/>
 		<POI MapID="1248" xpos="-877.66" ypos="141.576" zpos="855.761" type="other.portal.cave" GUID="FXINn4b7x0mYNKdKA6hOBQ=="/>
 		<POI MapID="1228" xpos="774.985" ypos="96.9243" zpos="588.318" type="resourcenode.wood.elder" GUID="UArGXLbkp0uNWcTD4JK8Og=="/>
+		<POI MapID="1210" xpos="728.913" ypos="43.5125" zpos="226.508" type="resourcenode.plant.orichalcum.lentils" GUID="V9b5BU+6Q0CIG1y541GCog=="/>
+		<POI MapID="1210" xpos="1095.82" ypos="163.768" zpos="291.391" type="resourcenode.wood.ancient" GUID="0+CT+kJDQUabXwBLqkFqzA=="/>
+		<POI MapID="1210" xpos="-1295.15" ypos="-21.9102" zpos="220.414" type="resourcenode.plant.iron.clam" GUID="gEZhjbBOeUSjWzMCF6YorA=="/>
+		<POI MapID="1210" xpos="-1279.13" ypos="0.287653" zpos="166.155" type="chest.permanent" GUID="txWnimJ+oUK2uKUYn1ERCQ=="/>
+		<POI MapID="1210" xpos="-1260.43" ypos="12.4466" zpos="163.39" type="chest.mapspecific.keyrequired" GUID="VregNvrNUkidnCwMqV7fyg=="/>
+		<POI MapID="1228" xpos="-410.469" ypos="94.9825" zpos="980.398" type="chest.permanent" GUID="0dzgEAMhS0ac0OZKfesYyA=="/>
+		<POI MapID="1228" xpos="944.452" ypos="41.4718" zpos="-158.845" type="chest.permanent" GUID="44rhMy13oUqp48nZRCfg2g=="/>
+		<POI MapID="1228" xpos="260.412" ypos="-33.7654" zpos="35.1208" type="other.portal.cave" GUID="wm3BuNHcYEWOc/ShdlYBpw=="/>
+		<POI MapID="1228" xpos="233.181" ypos="-73.9238" zpos="34.4307" type="chest.permanent" GUID="5CBNVyEtCkCfmGf0aqwlyA=="/>
+		<POI MapID="1228" xpos="213.073" ypos="-73.7779" zpos="44.8387" type="resourcenode.ore.normal.orichalcum" GUID="RRrnZwkviEWPKfduKBG0GQ=="/>
+		<POI MapID="1228" xpos="219.204" ypos="-29.4058" zpos="-7.71487" type="other.portal.cave" GUID="425GwDc+5UiT5vJSpL6RWg=="/>
+		<POI MapID="1226" xpos="-496.471" ypos="288.677" zpos="-99.597" type="resourcenode.plant.orichalcum.lentils" GUID="d0jKOHC+OUK+R5hgrpARfw=="/>
+		<POI MapID="1226" xpos="-595.189" ypos="222.957" zpos="-330.409" type="chest.meta" GUID="Moqkpf63jkCHg/UIuzEgAQ=="/>
+		<POI MapID="1226" xpos="-397.91" ypos="262.781" zpos="-137.552" type="resourcenode.wood.elder" GUID="CfYsmUIJFEmk5Mrwm40yaQ=="/>
 	</POIs>
 </OverlayData>
