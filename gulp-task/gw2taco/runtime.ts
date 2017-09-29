@@ -49,6 +49,7 @@ addGulpTasks({
 				'tactical.guildmission.trek',
 				'resourcenode.mapspecific.synthesizer',
 				'resourcenode.mapspecific.plant.toxic_seedling',
+				'ls.ls3.flashpoint.lessons_learned',
 			];
 
 			let types2 = {
@@ -424,6 +425,66 @@ addGulpTasks({
 											'Act 2',
 											'Facing the Truth',
 											'Wedge Symbol',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'the_desolation.lost_lore_of_the_desolation':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Lost Lore of the Desolation',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'domain_of_vabbi.lost_lore_of_the_domain_of_vabbi':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Domain of Vabbi',
+											'Lost Lore of the Domain of Vabbi',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'elon_riverlands.lost_lore_of_elon_riverlands':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Elon Riverlands',
+											'Lost Lore of Elon Riverlands',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'crystal_oasis.lost_lore_of_crystal_oasis':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Crystal Oasis',
+											'Lost Lore of Crystal Oasis',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'desert_highlands.lost_lore_of_desert_highlands':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Desert Highlands',
+											'Lost Lore of Desert Highlands',
 										])
 									;
 
