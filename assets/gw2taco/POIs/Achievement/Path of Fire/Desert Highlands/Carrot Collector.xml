@@ -1,0 +1,43 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Desert Highlands">
+        <MarkerCategory name="Carrot Collector"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="-55.0221" ypos="265.357" zpos="402.867" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="+bJ/Eg0HAEKqEn6r4WuO6Q=="/>
+    <POI MapID="1211" xpos="-136.972" ypos="267.515" zpos="282.801" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="svX9v2T3mUWyaltE2b+AqQ=="/>
+    <POI MapID="1211" xpos="-254.794" ypos="297.107" zpos="292.423" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="xgXog3i0g06MnzgNlgT04Q=="/>
+    <POI MapID="1211" xpos="-235.711" ypos="310.827" zpos="429.288" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="UD1JKirt4EWQxirIxWmYzQ=="/>
+    <POI MapID="1211" xpos="-275.189" ypos="326.886" zpos="384.962" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="e7kWJ+xnBkCHN9rsuci3FA=="/>
+    <POI MapID="1211" xpos="-215.302" ypos="269.975" zpos="422.952" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="O+Bt15HXpE2BaxHndAHMcw=="/>
+    <POI MapID="1211" xpos="-226.292" ypos="260.722" zpos="443.794" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="8g0WbWJrA0i3ZAkh71nOww=="/>
+    <POI MapID="1211" xpos="-208.777" ypos="261.131" zpos="519.543" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="63quuu1A1UiWtgzNXyx+vA=="/>
+    <POI MapID="1211" xpos="-285.089" ypos="255.026" zpos="400.872" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="bjMwOJn0vk2hDGdl9KKD5g=="/>
+    <POI MapID="1211" xpos="-297.656" ypos="250.766" zpos="446.321" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="w9GkwPYF7Uq4qnwqLJCkKg=="/>
+    <POI MapID="1211" xpos="-307.703" ypos="238.128" zpos="383.669" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="Rs9q5u7JKUqD2rufA0CGvA=="/>
+    <POI MapID="1211" xpos="-273.126" ypos="225.974" zpos="336.943" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="XpmcGEzkKUK/BsyuM9FIsw=="/>
+    <POI MapID="1211" xpos="-258.708" ypos="213.142" zpos="191.251" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="LYDeQirEiU2+PlFOeIIgtQ=="/>
+    <POI MapID="1211" xpos="-230.902" ypos="226.997" zpos="255.27" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="9gDaun7ugkOrADNUc4lmPg=="/>
+    <POI MapID="1211" xpos="-221.364" ypos="234.025" zpos="296.89" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="SY4WRXDI40K4yFz+VI5bXg=="/>
+    <POI MapID="1211" xpos="-169.846" ypos="243.787" zpos="345.82" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="Itk3rT4/5ECEIo5Pb9Gklg=="/>
+    <POI MapID="1211" xpos="-160.988" ypos="242.081" zpos="308.776" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="b/2FlPC9xk66H94gkd3d9Q=="/>
+    <POI MapID="1211" xpos="-197.503" ypos="251.092" zpos="384.582" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="gzesmOyVXEygXh6epada8A=="/>
+    <POI MapID="1211" xpos="-159.098" ypos="249.14" zpos="390.28" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="4dm4skqZ+E2wrM3qQPUZ8g=="/>
+    <POI MapID="1211" xpos="-109.928" ypos="251.5" zpos="404.828" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="wF7zLpQeAU2dM/vMuUUyZA=="/>
+    <POI MapID="1211" xpos="-52.4166" ypos="279.52" zpos="506.983" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="GSZ8n2uD/keIfr6crEqiMA=="/>
+    <POI MapID="1211" xpos="-41.4055" ypos="291.899" zpos="427.699" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="4ZbaKqxDSESCukKrDq0RPQ=="/>
+    <POI MapID="1211" xpos="-64.6158" ypos="337.779" zpos="573.425" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="YTBdujBt4k2A5fY+EAPWUA=="/>
+    <POI MapID="1211" xpos="-153.018" ypos="283.744" zpos="585.747" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="PtmH2gvVdUuZ0vY+MLELow=="/>
+    <POI MapID="1211" xpos="-160.445" ypos="284.457" zpos="504.68" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="TYEMs0pW3UWaL0lA/1VF4Q=="/>
+    <POI MapID="1211" xpos="-8.88036" ypos="242.152" zpos="254.008" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="22GoqOvF+0WzWGXbLqC5YQ=="/>
+    <POI MapID="1211" xpos="73.7673" ypos="311.905" zpos="443.367" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="mdcozdd5P0WrT7k7TWHApw=="/>
+    <POI MapID="1211" xpos="113.415" ypos="331.577" zpos="526.559" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="V8DEa6jyLEKiAPUPPUo9VA=="/>
+    <POI MapID="1211" xpos="-145.323" ypos="354.319" zpos="595.47" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="TmiX5s1cck29hdsvPgll+g=="/>
+    <POI MapID="1211" xpos="-151.256" ypos="295.806" zpos="455.989" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="UZgvsX2EbUmpnILTPo2CMQ=="/>
+    <POI MapID="1211" xpos="-119.968" ypos="308.773" zpos="374.093" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="gLK9eLGX+0W9hVPSBeHiRw=="/>
+    <POI MapID="1211" xpos="-68.4292" ypos="218.711" zpos="266.152" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="oy2rhd6yC0im/F1hH74H/Q=="/>
+  </POIs>
+</OverlayData>
