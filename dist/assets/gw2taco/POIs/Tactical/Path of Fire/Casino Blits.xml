@@ -1,0 +1,101 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
+      <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
+        <MarkerCategory name="Round 1" DisplayName="Round 1"/>
+        <MarkerCategory name="Round 2" DisplayName="Round 2"/>
+        <MarkerCategory name="Round 3" DisplayName="Round 3"/>
+        <MarkerCategory name="Boss" iconFile="Data/Boss.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="-861.067" ypos="9.11241" zpos="-200.566" type="tactical.path_of_fire.casino_blits.round_1" GUID="IVMYBVRu4EScV5Ev1WsZZA=="/>
+    <POI MapID="1210" xpos="-828.315" ypos="8.96163" zpos="-200.856" type="tactical.path_of_fire.casino_blits.round_1" GUID="ZohOq39xIEW8O4rMYf7T+A=="/>
+    <POI MapID="1210" xpos="-783.842" ypos="9.24222" zpos="-204.971" type="tactical.path_of_fire.casino_blits.round_1" GUID="Mz6LtwOr8UKJH0Ti4oAisg=="/>
+    <POI MapID="1210" xpos="-796.735" ypos="44.9513" zpos="-217.89" type="tactical.path_of_fire.casino_blits.round_1" GUID="oq0tt/Q/qEOPHMS1W9VuYQ=="/>
+    <POI MapID="1210" xpos="-729.099" ypos="50.5897" zpos="-217.648" type="tactical.path_of_fire.casino_blits.round_1" GUID="rk0wpww84EGxyvSPL/H11g=="/>
+    <POI MapID="1210" xpos="-692.337" ypos="47.2724" zpos="-263.069" type="tactical.path_of_fire.casino_blits.round_1" GUID="RR2zW4lsnk2qzQLyFjGTYw=="/>
+    <POI MapID="1210" xpos="-704.037" ypos="30.1507" zpos="-339.369" type="tactical.path_of_fire.casino_blits.round_1" GUID="rc+Mf5pud0etr5mZ1U/Dhw=="/>
+    <POI MapID="1210" xpos="-752.887" ypos="43.2806" zpos="-351.468" type="tactical.path_of_fire.casino_blits.round_1" GUID="1QLVf123KUmOZawBhBPO8A=="/>
+    <POI MapID="1210" xpos="-855.724" ypos="45.8797" zpos="-345.414" type="tactical.path_of_fire.casino_blits.round_1" GUID="t+Zff7L/XEq/vLodJ6+aaA=="/>
+    <POI MapID="1210" xpos="-877.619" ypos="85.5325" zpos="-286.591" type="tactical.path_of_fire.casino_blits.round_1" GUID="m0YVkxtIKU+hyw3yoSaLbg=="/>
+    <POI MapID="1210" xpos="-867.62" ypos="85.578" zpos="-276.366" type="tactical.path_of_fire.casino_blits.round_1" GUID="66cWKUhtSk2FOctIqkUnoQ=="/>
+    <POI MapID="1210" xpos="-877.124" ypos="85.578" zpos="-268.181" type="tactical.path_of_fire.casino_blits.round_1" GUID="6GsAh9jIkkG8hf2bAewGxQ=="/>
+    <POI MapID="1210" xpos="-887.151" ypos="85.578" zpos="-276.929" type="tactical.path_of_fire.casino_blits.round_1" GUID="x4wF3S3UuECnamcR0v2BMQ=="/>
+    <POI MapID="1210" xpos="-942.513" ypos="46.8058" zpos="-254.417" type="tactical.path_of_fire.casino_blits.round_1" GUID="3YOObxMRcEushxJzi6/bGA=="/>
+    <POI MapID="1210" xpos="-968.477" ypos="38.8216" zpos="-292.441" type="tactical.path_of_fire.casino_blits.round_1" GUID="2vM53Qnsw0GJhVDf+MMHMg=="/>
+    <POI MapID="1210" xpos="-983.514" ypos="20.5628" zpos="-297.786" type="tactical.path_of_fire.casino_blits.round_1" GUID="b5Zg/MyIkkixjBgs5ao1Ew=="/>
+    <POI MapID="1210" xpos="-1035.18" ypos="32.2582" zpos="-320.077" type="tactical.path_of_fire.casino_blits.round_1" GUID="p4TlEL7i0keFgwC4/Ra+lw=="/>
+    <POI MapID="1210" xpos="-1030.24" ypos="15.2421" zpos="-220.483" type="tactical.path_of_fire.casino_blits.round_1" GUID="JV64/6ITRUWa7dmHjAmFGQ=="/>
+    <POI MapID="1210" xpos="-1054.72" ypos="32.5031" zpos="-248.432" type="tactical.path_of_fire.casino_blits.round_1" GUID="QUFUKNO4V0Sq9rQ22X8ScQ=="/>
+    <POI MapID="1210" xpos="-1005.64" ypos="32.4185" zpos="-246.27" type="tactical.path_of_fire.casino_blits.round_1" GUID="6wtaONZ9K0izaZUYU3/yAA=="/>
+    <POI MapID="1210" xpos="-926.193" ypos="34.2834" zpos="-191.647" type="tactical.path_of_fire.casino_blits.round_1" GUID="ytO9862WQ0CCrDTw4MMijg=="/>
+    <POI MapID="1210" xpos="-937.754" ypos="8.70673" zpos="-207.078" type="tactical.path_of_fire.casino_blits.round_1" GUID="oRkq62WD+0K+Kgoe1kpScA=="/>
+    <POI MapID="1210" xpos="-835.742" ypos="62.047" zpos="-238.055" type="tactical.path_of_fire.casino_blits.round_1" GUID="wHAnsuVrt0q8feS1GSrJqg=="/>
+    <POI MapID="1210" xpos="-806.44" ypos="56.1565" zpos="-269.835" type="tactical.path_of_fire.casino_blits.round_1" GUID="gTkOKqxYjEeA4ckPCCfNYw=="/>
+    <POI MapID="1210" xpos="-755.057" ypos="56.2828" zpos="-236.884" type="tactical.path_of_fire.casino_blits.round_1" GUID="2OLfLNoDAE+gvq4f4x+mIA=="/>
+    <POI MapID="1210" xpos="-724.782" ypos="56.2828" zpos="-302.949" type="tactical.path_of_fire.casino_blits.round_1" GUID="PZzt8DlXoUKs+Ss35KluWQ=="/>
+    <POI MapID="1210" xpos="-691.756" ypos="43.4358" zpos="-318.175" type="tactical.path_of_fire.casino_blits.round_1" GUID="qiRpUGd0HUKGtdeK2zw36g=="/>
+    <POI MapID="1210" xpos="-756.496" ypos="19.6152" zpos="-299.64" type="tactical.path_of_fire.casino_blits.round_1" GUID="2xzzaaZ+k0uzkeDesyooUA=="/>
+    <POI MapID="1210" xpos="-786.809" ypos="8.76222" zpos="-177.53" type="tactical.path_of_fire.casino_blits.round_2" GUID="W0FG2eVadkemEsgnM0lkMQ=="/>
+    <POI MapID="1210" xpos="-790.172" ypos="18.6698" zpos="-169.977" type="tactical.path_of_fire.casino_blits.round_2" GUID="HxVP+PGnW0qcqVYR6Os8XQ=="/>
+    <POI MapID="1210" xpos="-779.052" ypos="8.72651" zpos="-147.779" type="tactical.path_of_fire.casino_blits.round_2" GUID="pFWTlgYy6U6CQwz1kgzuew=="/>
+    <POI MapID="1210" xpos="-795.526" ypos="8.70046" zpos="-121.14" type="tactical.path_of_fire.casino_blits.round_2" GUID="KnV1MsYnhEih0EYJEFyD2A=="/>
+    <POI MapID="1210" xpos="-792.97" ypos="8.79033" zpos="-37.9657" type="tactical.path_of_fire.casino_blits.round_2" GUID="7ZeXt3IT3kKx6rNOImbAMg=="/>
+    <POI MapID="1210" xpos="-807.652" ypos="17.0509" zpos="63.8328" type="tactical.path_of_fire.casino_blits.round_2" GUID="CcUGSD9uEkG4iHoSyhfNlQ=="/>
+    <POI MapID="1210" xpos="-855.797" ypos="62.4179" zpos="82.955" type="tactical.path_of_fire.casino_blits.round_2" GUID="+eqM0dGas0+WPQ9iaEikRw=="/>
+    <POI MapID="1210" xpos="-913.693" ypos="87.4586" zpos="35.5155" type="tactical.path_of_fire.casino_blits.round_2" GUID="nQc4qm1TyU+IoHg5Z6TlRg=="/>
+    <POI MapID="1210" xpos="-876.713" ypos="93.3946" zpos="-90.0729" type="tactical.path_of_fire.casino_blits.round_2" GUID="v8SzAq9Ft0u2c36Oeu21Xg=="/>
+    <POI MapID="1210" xpos="-864.407" ypos="93.3979" zpos="-100.553" type="tactical.path_of_fire.casino_blits.round_2" GUID="4mSMdxjQ/0+GEpsswX8+Mw=="/>
+    <POI MapID="1210" xpos="-822.217" ypos="53.931" zpos="-132.185" type="tactical.path_of_fire.casino_blits.round_2" GUID="qefyd4EtHkK7IjmNNjta5Q=="/>
+    <POI MapID="1210" xpos="-854.227" ypos="41.3869" zpos="-162.953" type="tactical.path_of_fire.casino_blits.round_2" GUID="KMnQRf6XUU6bvQytuGrR8w=="/>
+    <POI MapID="1210" xpos="-894.207" ypos="43.3433" zpos="-159.471" type="tactical.path_of_fire.casino_blits.round_2" GUID="onKRatdVl0K5HIts0YxalQ=="/>
+    <POI MapID="1210" xpos="-913.905" ypos="39.7119" zpos="-94.8383" type="tactical.path_of_fire.casino_blits.round_2" GUID="NKmScKyhLkSNWRrG8LpC8w=="/>
+    <POI MapID="1210" xpos="-916.301" ypos="41.1933" zpos="-105.844" type="tactical.path_of_fire.casino_blits.round_2" GUID="C0Mf6tGDKUCh5wvEceLtzA=="/>
+    <POI MapID="1210" xpos="-914.362" ypos="41.203" zpos="-85.7657" type="tactical.path_of_fire.casino_blits.round_2" GUID="E+GiDm2ekU+y3g3BAIQZMg=="/>
+    <POI MapID="1210" xpos="-979.018" ypos="35.3115" zpos="-39.0799" type="tactical.path_of_fire.casino_blits.round_2" GUID="6ADEi1rVCkq2xGUaIywvmQ=="/>
+    <POI MapID="1210" xpos="-973.872" ypos="36.6449" zpos="11.5796" type="tactical.path_of_fire.casino_blits.round_2" GUID="T0QlMMFSeUmGYLLCUeTEwQ=="/>
+    <POI MapID="1210" xpos="-974.231" ypos="36.0043" zpos="57.387" type="tactical.path_of_fire.casino_blits.round_2" GUID="xCHoi7kv7UipyUduNZ36WQ=="/>
+    <POI MapID="1210" xpos="-946.946" ypos="57.5361" zpos="38.4924" type="tactical.path_of_fire.casino_blits.round_2" GUID="M4fRYEHRo02w5LBqpa1ocA=="/>
+    <POI MapID="1210" xpos="-947.205" ypos="56.0458" zpos="30.1272" type="tactical.path_of_fire.casino_blits.round_2" GUID="dAOgUgDHFUqj417s06Zs6w=="/>
+    <POI MapID="1210" xpos="-858.865" ypos="74.4844" zpos="81.8405" type="tactical.path_of_fire.casino_blits.round_2" GUID="fEo10bG+bEywho8ZFlnjIg=="/>
+    <POI MapID="1210" xpos="-855.737" ypos="73.4348" zpos="83.7358" type="tactical.path_of_fire.casino_blits.round_2" GUID="h9f6Du1k4E6qXitdA/v5Dg=="/>
+    <POI MapID="1210" xpos="-832.096" ypos="42.7262" zpos="22.6466" type="tactical.path_of_fire.casino_blits.round_2" GUID="3fl1NllMC0+/ZnCrea+liQ=="/>
+    <POI MapID="1210" xpos="-827.128" ypos="58.0073" zpos="-64.5403" type="tactical.path_of_fire.casino_blits.round_2" GUID="0fd2MjfTWkS0VeDxZl3rHA=="/>
+    <POI MapID="1210" xpos="-832.251" ypos="44.1105" zpos="-94.6202" type="tactical.path_of_fire.casino_blits.round_2" GUID="FMA9myKYrkurh92oq0thpQ=="/>
+    <POI MapID="1210" xpos="-867.225" ypos="8.70411" zpos="-166.962" type="tactical.path_of_fire.casino_blits.round_2" GUID="+efK9rOUP0aOSf0+DfvOtg=="/>
+    <POI MapID="1210" xpos="-791.577" ypos="32.9191" zpos="-163.23" type="tactical.path_of_fire.casino_blits.round_2" GUID="EHvy/vECjUe7pV/5PTXpIA=="/>
+    <POI MapID="1210" xpos="-1020.87" ypos="1.46528" zpos="-97.3937" type="tactical.path_of_fire.casino_blits.round_3" GUID="WqQjlYTP40KtbEuJL6CFfA=="/>
+    <POI MapID="1210" xpos="-1056.59" ypos="1.37639" zpos="-98.6567" type="tactical.path_of_fire.casino_blits.round_3" GUID="VhdtFcRQgEy+VZiZc19wAA=="/>
+    <POI MapID="1210" xpos="-1090.93" ypos="1.37639" zpos="-94.5281" type="tactical.path_of_fire.casino_blits.round_3" GUID="KOgnBpXHgk24NFqvSf66Lw=="/>
+    <POI MapID="1210" xpos="-1119.31" ypos="1.37639" zpos="-93.1535" type="tactical.path_of_fire.casino_blits.round_3" GUID="l3QSzGespEKT7tLsn4gEiw=="/>
+    <POI MapID="1210" xpos="-1129.37" ypos="1.37639" zpos="-94.5963" type="tactical.path_of_fire.casino_blits.round_3" GUID="rLGjM5Ys1UGUc0PUBBChAQ=="/>
+    <POI MapID="1210" xpos="-1155" ypos="1.37639" zpos="-93.1417" type="tactical.path_of_fire.casino_blits.round_3" GUID="1UbN2LpZ5UuPXJPqV8xphg=="/>
+    <POI MapID="1210" xpos="-1128.46" ypos="2.65513" zpos="-45.5311" type="tactical.path_of_fire.casino_blits.round_3" GUID="2wFr6TBMVkqxe+Kqwpw06A=="/>
+    <POI MapID="1210" xpos="-1166.03" ypos="16.7104" zpos="-51.8917" type="tactical.path_of_fire.casino_blits.round_3" GUID="8Hkb6KcLY0yBUCxnsOUd2w=="/>
+    <POI MapID="1210" xpos="-1144.82" ypos="15.5202" zpos="-3.0711" type="tactical.path_of_fire.casino_blits.round_3" GUID="Uc4yRdKv4keaOObSpIVisg=="/>
+    <POI MapID="1210" xpos="-1146.92" ypos="3.16218" zpos="41.1987" type="tactical.path_of_fire.casino_blits.round_3" GUID="AAuFEOcrT06ZDwZSB4J+iw=="/>
+    <POI MapID="1210" xpos="-1140.65" ypos="36.7505" zpos="89.6866" type="tactical.path_of_fire.casino_blits.round_3" GUID="7V2wykCJxEuZQIg9M2gfdw=="/>
+    <POI MapID="1210" xpos="-1124.58" ypos="48.1815" zpos="161.381" type="tactical.path_of_fire.casino_blits.round_3" GUID="aw6EckeRJEy+BYUVmCn7rg=="/>
+    <POI MapID="1210" xpos="-1095.96" ypos="57.9889" zpos="151.684" type="tactical.path_of_fire.casino_blits.round_3" GUID="OyOG48YZH02Ils8xdXZdGQ=="/>
+    <POI MapID="1210" xpos="-1036.87" ypos="60.2347" zpos="191.996" type="tactical.path_of_fire.casino_blits.round_3" GUID="oBaGnVt2D0a4ABuX+79E2g=="/>
+    <POI MapID="1210" xpos="-1044.4" ypos="56.4135" zpos="219.98" type="tactical.path_of_fire.casino_blits.round_3" GUID="MVKAXFrnXEOxmIxvHcJF5A=="/>
+    <POI MapID="1210" xpos="-1073.8" ypos="68.6721" zpos="251.543" type="tactical.path_of_fire.casino_blits.round_3" GUID="RBEW4VT9JkmZVky+4VIgpQ=="/>
+    <POI MapID="1210" xpos="-995.444" ypos="46.6447" zpos="242.459" type="tactical.path_of_fire.casino_blits.round_3" GUID="9KOxWepI7U2lTTGsKQ1DLg=="/>
+    <POI MapID="1210" xpos="-990.101" ypos="51.2561" zpos="208.957" type="tactical.path_of_fire.casino_blits.round_3" GUID="jdWqO98QgEyFNtYBMamS/w=="/>
+    <POI MapID="1210" xpos="-924.541" ypos="60.7507" zpos="253.593" type="tactical.path_of_fire.casino_blits.round_3" GUID="quW+ucl9zkuX2aQP5ZKI6Q=="/>
+    <POI MapID="1210" xpos="-928.815" ypos="52.1477" zpos="202.831" type="tactical.path_of_fire.casino_blits.round_3" GUID="H7abCNtEqki1TDQPtaa5ag=="/>
+    <POI MapID="1210" xpos="-931.447" ypos="44.3069" zpos="164.145" type="tactical.path_of_fire.casino_blits.round_3" GUID="OneZa/46t0qub+QinVtb9A=="/>
+    <POI MapID="1210" xpos="-965.225" ypos="47.1456" zpos="164.556" type="tactical.path_of_fire.casino_blits.round_3" GUID="Pn5nzTKBvUmE0xWE7ta33g=="/>
+    <POI MapID="1210" xpos="-1028.23" ypos="55.2829" zpos="156.213" type="tactical.path_of_fire.casino_blits.round_3" GUID="Vu/KxIqA9kqJcRPp/IGTaw=="/>
+    <POI MapID="1210" xpos="-1041.87" ypos="57.7046" zpos="126.638" type="tactical.path_of_fire.casino_blits.round_3" GUID="ua/Q6sRYskW90cgmaAA/jg=="/>
+    <POI MapID="1210" xpos="-1042.14" ypos="22.6143" zpos="64.3607" type="tactical.path_of_fire.casino_blits.round_3" GUID="+FD+VrlWhkeCCtq1SGRrmg=="/>
+    <POI MapID="1210" xpos="-1056.32" ypos="22.7845" zpos="64.4014" type="tactical.path_of_fire.casino_blits.round_3" GUID="p6hyVd4V5EmRK2oTKHXT7Q=="/>
+    <POI MapID="1210" xpos="-1056.89" ypos="15.8433" zpos="-1.64114" type="tactical.path_of_fire.casino_blits.round_3" GUID="F7YaDWmNy0KjZejJyDVdVA=="/>
+    <POI MapID="1210" xpos="-1078.85" ypos="13.4182" zpos="-15.525" type="tactical.path_of_fire.casino_blits.round_3" GUID="awhq/R5UcUu5dtuKern1Cg=="/>
+    <POI MapID="1210" xpos="-1062.57" ypos="2.00358" zpos="-19.4987" type="tactical.path_of_fire.casino_blits.round_3" GUID="xIbPxvNAuESM2owX9FQNfA=="/>
+    <POI MapID="1210" xpos="-1053.12" ypos="0.498536" zpos="-73.4562" type="tactical.path_of_fire.casino_blits.round_3" GUID="42aioBWKE0i2kn4SZo9i/A=="/>
+    <POI MapID="1210" xpos="-685.61" ypos="1.07202" zpos="-98.2376" type="tactical.path_of_fire.casino_blits.boss" GUID="SdozI2i9CUuuM0j8n2XgzQ=="/>
+  </POIs>
+</OverlayData>
