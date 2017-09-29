@@ -491,6 +491,18 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
+								case 'the_desolation.acrid_springs_recovery':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Acrid Springs Recovery',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
 								default:
 									break POIS;
 								//break;
