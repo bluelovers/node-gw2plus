@@ -1,0 +1,17 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" DisplayName="Crystal Oasis">
+        <MarkerCategory name="Lost Lore of Crystal Oasis" DisplayName="Lost Lore of Crystal Oasis"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="255.956" ypos="60.5678" zpos="620.168" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="mYa2H6HqlU2b8D7UxG6O1Q=="/>
+    <POI MapID="1210" xpos="1205.58" ypos="372.936" zpos="392.209" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="cJUwBoSUvECnZZAHPXkZzQ=="/>
+    <POI MapID="1210" xpos="986.895" ypos="209.571" zpos="394.137" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="+vkGBJw6D0+g21KnqUVJuA=="/>
+    <POI MapID="1210" xpos="1242.32" ypos="170.487" zpos="-450.095" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="UF+e6vXoWEuaor62ve6bKw=="/>
+    <POI MapID="1210" xpos="-1226.43" ypos="3.47934" zpos="-570.796" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="e+23HLpGjkqgVLU5JhnqMA=="/>
+    <POI MapID="1210" xpos="-859.104" ypos="13.3235" zpos="18.0117" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="MPgKTyUeZUe2LXPedqd0hg=="/>
+  </POIs>
+</OverlayData>
