@@ -502,6 +502,31 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 				})
 			;
 
+			cat.find('MarkerCategory[data-class*="boss"]')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					let size;
+					if (_this.attr('data-class').match(/(?:^|\s)boss\-([\d\.]+)(?:$|\s)/))
+					{
+						size = RegExp.$1;
+
+						if (!_this.attr('iconFile'))
+						{
+							_this.attr('iconFile', 'Data/Boss.png');
+						}
+
+						if (!_this.attr('heightOffset') && _this.attr('heightOffset') !== '0')
+						{
+							_this.attr('heightOffset', 3);
+						}
+					}
+
+					//console.log(_this.attr('data-class'));
+				})
+			;
+
 			cat.find('OverlayData > MarkerCategory')
 				.each(function (i, elem)
 				{

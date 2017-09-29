@@ -280,5 +280,9 @@
 		<POI MapID="1248" xpos="617.002" ypos="99.3021" zpos="304.331" type="chest.permanent" GUID="mONsr9aQNka6RYuAn+Wudw=="/>
 		<POI MapID="1248" xpos="446.302" ypos="160.159" zpos="197.078" type="chest.mapspecific.keyrequired" GUID="Chc4FlL8aUaGR3ht5+D5jA=="/>
 		<POI MapID="1248" xpos="359.77" ypos="116.162" zpos="117.818" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="HVtOM3kKs0+KKPOXAh6JIA=="/>
+		<POI MapID="1210" xpos="-264.187" ypos="0.375501" zpos="-435.157" type="resourcenode.plant.orichalcum.lentils" GUID="4AV1irUGLkqOCCd/3m40wQ=="/>
+		<POI MapID="1210" xpos="353.352" ypos="34.8161" zpos="-131.34" type="resourcenode.plant.orichalcum.lentils" GUID="/0ADyfrkTEueUI527Um47A=="/>
+		<POI MapID="1210" xpos="392.075" ypos="34.7851" zpos="-129.547" type="chest.permanent" GUID="P/EU2CWDMEONPT3cWegREQ=="/>
+		<POI MapID="1210" xpos="666.478" ypos="57.0875" zpos="-136.792" type="chest.mapspecific.keyrequired" GUID="cVrQI2FhxE2TcCOFr3VmIw=="/>
 	</POIs>
 </OverlayData>
