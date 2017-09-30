@@ -22,6 +22,7 @@ import './gulp-task/gw2taco';
 import './gulp-task/gw2taco/runtime';
 import './gulp-task/gw2api';
 import './gulp-task/tree';
+import './gulp-task/pack';
 
 gulp.task('gw2taco:categorydata', ['category:cache'], async function ()
 {
@@ -781,7 +782,7 @@ addGulpTasks({
 		],
 
 		tasks: [
-			['tree:default'],
+			['tree:default', 'pack:default'],
 		],
 	},
 });

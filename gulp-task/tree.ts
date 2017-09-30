@@ -45,6 +45,14 @@ addGulpTasks({
 \`\`\`
 ${ts}
 \`\`\`
+
+### archive
+
+* [categorydata.xml](categorydata.xml)
+* [maptimer.xml](maptimer.xml)
+* [archive/GW2TacO_Data.zip](archive/GW2TacO_Data.zip)
+* [archive/GW2TacO_POIs.zip](archive/GW2TacO_POIs.zip)
+
 `);
 		}
 	}
