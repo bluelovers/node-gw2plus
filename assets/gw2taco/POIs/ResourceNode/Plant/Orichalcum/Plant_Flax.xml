@@ -155,5 +155,6 @@
     <POI MapID="1043" xpos="-241.405" ypos="263.783" zpos="-746.135" type="resourcenode.plant.orichalcum.flax" GUID="dsXtJaApQUm1vXzCNKgB0g=="/>
     <POI MapID="1226" xpos="894.353" ypos="110.8" zpos="1219.84" type="resourcenode.plant.orichalcum.flax" GUID="lVAcZYlDgE+S+KTOaiItpw=="/>
     <POI MapID="1228" xpos="-653.978" ypos="39.729" zpos="321.53" type="resourcenode.plant.orichalcum.flax" GUID="7IOgaKlH+U6kJM9FS3EEjw=="/>
+    <POI MapID="1211" xpos="-591.409" ypos="239.475" zpos="-160.376" type="resourcenode.plant.orichalcum.flax" GUID="j0J/BxIJkECAS9Jv3jRAHQ=="/>
   </POIs>
 </OverlayData>
