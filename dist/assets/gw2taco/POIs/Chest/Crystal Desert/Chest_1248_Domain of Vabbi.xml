@@ -80,5 +80,12 @@
     <POI MapID="1248" xpos="1349.85" ypos="90.0571" zpos="-38.2293" type="chest.mapspecific.keyrequired" GUID="8vWVSDoIrkKEBLt9ejvYbw=="/>
     <POI MapID="1248" xpos="-871.918" ypos="190.907" zpos="872.149" type="chest.permanent" GUID="q/h9krNulUyLx2vINNFjLw=="/>
     <POI MapID="1248" xpos="893.115" ypos="125.047" zpos="439.951" type="chest.permanent" GUID="1i1vkihhbkKjnG6d9b0gtw=="/>
+    <POI MapID="1248" xpos="597.199" ypos="68.0078" zpos="664.792" type="chest.permanent" GUID="XjiVPERsmUO2qYm9eI0abA=="/>
+    <POI MapID="1248" xpos="596.894" ypos="66.3117" zpos="659.516" type="chest.mapspecific.keyrequired" GUID="PoanBKOAikaJDVQgpLL53A=="/>
+    <POI MapID="1248" xpos="943.012" ypos="-0.602108" zpos="566.736" type="chest.meta" GUID="rx7JM4+VbU21CphQEZWzZA=="/>
+    <POI MapID="1248" xpos="663.995" ypos="55.8956" zpos="529.538" type="chest.mapspecific.keyrequired" GUID="8FUTfrYFREeS+fJs31YR7A=="/>
+    <POI MapID="1248" xpos="610.737" ypos="108.433" zpos="457.03" type="chest.mapspecific.keyrequired" GUID="Sm2VUEM/w0KMdq8RK8BFWw=="/>
+    <POI MapID="1248" xpos="617.002" ypos="99.3021" zpos="304.331" type="chest.permanent" GUID="mONsr9aQNka6RYuAn+Wudw=="/>
+    <POI MapID="1248" xpos="446.302" ypos="160.159" zpos="197.078" type="chest.mapspecific.keyrequired" GUID="Chc4FlL8aUaGR3ht5+D5jA=="/>
   </POIs>
 </OverlayData>
