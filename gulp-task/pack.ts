@@ -37,7 +37,7 @@ addGulpTasks({
 
 			callback()
 			{
-				return gulp.src(path.join(dist_root, 'assets/gw2taco', 'POIs', '*'))
+				return gulp.src(path.join(dist_root, 'assets/gw2taco', 'POIs', '**'))
 					.pipe(zip('GW2TacO_POIs.zip'))
 					.pipe(gulp.dest(path.join(dist_root, 'assets/gw2taco', 'archive')))
 					;
@@ -52,7 +52,7 @@ addGulpTasks({
 
 			callback()
 			{
-				return gulp.src(path.join(dist_root, 'assets/gw2taco', 'Data', '*'))
+				return gulp.src(path.join(dist_root, 'assets/gw2taco', 'Data', '**'))
 					.pipe(zip('GW2TacO_Data.zip'))
 					.pipe(gulp.dest(path.join(dist_root, 'assets/gw2taco', 'archive')))
 					;
