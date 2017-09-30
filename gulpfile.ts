@@ -15,9 +15,13 @@ import project_config, { project_root, dist_root, temp_root, gw2taco_path } from
 
 import gw2taco, { Category, Node, Poi } from './src/gw2taco';
 
+import addTasks from 'gulp-add-tasks2';
+const addGulpTasks = addTasks(gulp);
+
 import './gulp-task/gw2taco';
 import './gulp-task/gw2taco/runtime';
 import './gulp-task/gw2api';
+import './gulp-task/tree';
 
 gulp.task('gw2taco:categorydata', ['category:cache'], async function ()
 {
@@ -768,4 +772,16 @@ gulp.task('category:attr', ['category:undefined', 'gw2taco:build-poi:default'], 
 		})
 	;
 
+});
+
+addGulpTasks({
+	'default': {
+		deps: [
+			'category:attr',
+		],
+
+		tasks: [
+			['tree:default'],
+		],
+	},
 });
