@@ -2,12 +2,10 @@
 ## GW2TacO
 
 1. download [categorydata.xml](categorydata.xml), replace exists `GW2TacO/categorydata.xml`
-2. download image file [Data/](Data/) into `GW2TacO/Data`
-
-2. choose any of `*.xml` u wanna use, put it into `GW2TacO/POIs` folder
+2. download image file [Data/](Data/) into `GW2TacO/Data`, **not realy need but if u wanna looks with better icon**
+3. choose any of `*.xml` u wanna use, put it into `GW2TacO/POIs` folder
 
 ```
-categorydata.xml
 POIs
 ├── @SC_Category_Plus.xml
 ├── @SC_Temp.xml
