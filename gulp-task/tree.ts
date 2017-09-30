@@ -38,6 +38,15 @@ addGulpTasks({
 			await fs.outputFile(path.join(dist_root, 'assets/gw2taco', `README.md`), `
 ## GW2TacO
 
+### archive
+
+* [categorydata.xml](categorydata.xml)
+* [maptimer.xml](maptimer.xml)
+* [archive/GW2TacO_Data.zip](archive/GW2TacO_Data.zip)
+* [archive/GW2TacO_POIs.zip](archive/GW2TacO_POIs.zip)
+
+### desc
+
 1. download [categorydata.xml](categorydata.xml), replace exists \`GW2TacO/categorydata.xml\`
 2. download image file [Data/](Data/) into \`GW2TacO/Data\`, **not realy need but if u wanna looks with better icon**
 3. choose any of \`*.xml\` u wanna use, put it into \`GW2TacO/POIs\` folder
@@ -45,13 +54,6 @@ addGulpTasks({
 \`\`\`
 ${ts}
 \`\`\`
-
-### archive
-
-* [categorydata.xml](categorydata.xml)
-* [maptimer.xml](maptimer.xml)
-* [archive/GW2TacO_Data.zip](archive/GW2TacO_Data.zip)
-* [archive/GW2TacO_POIs.zip](archive/GW2TacO_POIs.zip)
 
 `);
 		}
