@@ -411,3 +411,11 @@ POIs
 ├── ZZZ_SC_ResourceNode.xml
 └── ZZZ_SC_undefined.xml
 ```
+
+### archive
+
+* [categorydata.xml](categorydata.xml)
+* [maptimer.xml](maptimer.xml)
+* [archive/GW2TacO_Data.zip](archive/GW2TacO_Data.zip)
+* [archive/GW2TacO_POIs.zip](archive/GW2TacO_POIs.zip)
+
