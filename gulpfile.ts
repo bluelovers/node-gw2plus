@@ -452,7 +452,7 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 
 					if (!_this.attr('fadeFar') && !_this.attr('fadeNear'))
 					{
-						if (_this.attr('data-class').match(/(?:^|\s)fade\-([\da-zA-Z\._\-]+)(?:$|\s)/))
+						if (_this.attr('data-class').match(/(?:^|\s)fade\-([\da-zA-Z0-9\._\-]+)(?:$|\s)/))
 						{
 							let size = RegExp.$1;
 
@@ -465,6 +465,10 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 								case '1':
 									attr.fadeFar = 16800;
 									attr.fadeNear = 8400;
+									break;
+								case 'max2':
+									attr.fadeFar = 25200 + 16800;
+									attr.fadeNear = 25200;
 									break;
 								case '2':
 								case 'max':
@@ -496,10 +500,6 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 								case '8':
 									attr.fadeFar = 5600;
 									attr.fadeNear = 1200;
-									break;
-								case 'max2':
-									attr.fadeFar = 25200 + 16800;
-									attr.fadeNear = 25200;
 									break;
 								case 'none':
 									attr.fadeFar = '';
