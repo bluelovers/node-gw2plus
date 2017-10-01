@@ -416,6 +416,7 @@ POIs
 │   └── Sand Lion.xml
 ├── ZZZ_SC_Chest.xml
 ├── ZZZ_SC_GuildMission.xml
+├── ZZZ_SC_Juvenile Pets.xml
 ├── ZZZ_SC_MapSpecific.xml
 ├── ZZZ_SC_ResourceNode.xml
 └── ZZZ_SC_undefined.xml
