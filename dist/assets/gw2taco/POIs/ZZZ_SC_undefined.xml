@@ -269,6 +269,12 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
+        <MarkerCategory name="Enemy of My Enemy" DisplayName="Enemy of My Enemy">
+          <MarkerCategory name="The Troopmarshal" DisplayName="The Troopmarshal">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -333,6 +339,12 @@
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
         <MarkerCategory name="Beast of War" DisplayName="Beast of War">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Enemy of My Enemy" DisplayName="Enemy of My Enemy">
+          <MarkerCategory name="2 The Troopmarshal" DisplayName="2 The Troopmarshal">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
         <MarkerCategory name="undefined"/>

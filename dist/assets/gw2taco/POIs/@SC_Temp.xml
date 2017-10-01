@@ -62,6 +62,19 @@
         <MarkerCategory name="Beast of War" DisplayName="Beast of War">
           <MarkerCategory name="Destroy Additional Pylons" DisplayName="Destroy Additional Pylons"/>
         </MarkerCategory>
+        <MarkerCategory name="Enemy of My Enemy" DisplayName="Enemy of My Enemy">
+          <MarkerCategory name="1">
+          </MarkerCategory>
+          <MarkerCategory name="2 The Troopmarshal" DisplayName="2 The Troopmarshal">
+            <MarkerCategory name="Explosives Expert" DisplayName="Explosives Expert"/>
+            <MarkerCategory name="Mummy Legion" DisplayName="Mummy Legion"/>
+            <MarkerCategory name="Master of Mummies" DisplayName="Master of Mummies"/>
+          </MarkerCategory>
+          <MarkerCategory name="3 The Beastmarshal" DisplayName="3 The Beastmarshal">
+          </MarkerCategory>
+          <MarkerCategory name="4">
+          </MarkerCategory>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis">
         <MarkerCategory name="Lost Lore of Crystal Oasis" DisplayName="Lost Lore of Crystal Oasis"/>

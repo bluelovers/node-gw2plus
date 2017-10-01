@@ -592,6 +592,46 @@ addGulpTasks({
 									}
 
 									break;
+								case '3.enemy_of_my_enemy.2_the_troopmarshal.mummy_legion':
+								case '3.enemy_of_my_enemy.2_the_troopmarshal.master_of_mummies':
+
+									pois_target_id = [
+										'LS',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Act 3',
+											'Enemy of My Enemy',
+											'The Troopmarshal',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									if (k == '3.enemy_of_my_enemy.2_the_troopmarshal.master_of_mummies')
+									{
+										type_new = type_new
+											.concat([
+												'Master of Mummies',
+											])
+										;
+									}
+									else if (k == '3.enemy_of_my_enemy.2_the_troopmarshal.mummy_legion')
+									{
+										type_new = type_new
+											.concat([
+												'Mummy Legion',
+											])
+										;
+									}
+									else
+									{
+										break POIS;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
