@@ -46,7 +46,9 @@
           <MarkerCategory name="Goddess of Secrets"/>
         </MarkerCategory>
         <MarkerCategory name="The Way Forward" data-allowsub="true">
-
+          <MarkerCategory name="Walk a Fine Line">
+            <MarkerCategory name="Point"/>
+          </MarkerCategory>
         </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="3" data-allowsub="true">
@@ -127,6 +129,12 @@
         <MarkerCategory name="Start"/>
         <MarkerCategory name="CheckPoint"/>
         <MarkerCategory name="End"/>
+      </MarkerCategory>
+
+      <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
+        <MarkerCategory name="Raise the Banners: Amnoon Independence"/>
+        <MarkerCategory name="Raise the Banners: Sunspear Support"/>
+        <MarkerCategory name="Raise the Banners: Salute to Palawa Joko"/>
       </MarkerCategory>
 
     </MarkerCategory>
