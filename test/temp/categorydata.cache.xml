@@ -477,6 +477,7 @@
       <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
       <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
       <MarkerCategory name="Cave" iconFile="Data/Other/Portal/Cave.png" data-iconFile="Data/Other/Portal/Cave.png"/>
+      <MarkerCategory name="Instance"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
@@ -522,7 +523,11 @@
           <MarkerCategory name="Seeker of Truth and Knowledge"/>
           <MarkerCategory name="Goddess of Secrets"/>
         </MarkerCategory>
-        <MarkerCategory name="The Way Forward" data-allowsub="true"/>
+        <MarkerCategory name="The Way Forward" data-allowsub="true">
+          <MarkerCategory name="Walk a Fine Line">
+            <MarkerCategory name="Point"/>
+          </MarkerCategory>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="3" data-allowsub="true">
         <MarkerCategory name="Beast of War">
@@ -587,6 +592,11 @@
         <MarkerCategory name="Start"/>
         <MarkerCategory name="CheckPoint"/>
         <MarkerCategory name="End"/>
+      </MarkerCategory>
+      <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
+        <MarkerCategory name="Raise the Banners Amnoon Independence" DisplayName="Raise the Banners: Amnoon Independence"/>
+        <MarkerCategory name="Raise the Banners Sunspear Support" DisplayName="Raise the Banners: Sunspear Support"/>
+        <MarkerCategory name="Raise the Banners Salute to Palawa Joko" DisplayName="Raise the Banners: Salute to Palawa Joko"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

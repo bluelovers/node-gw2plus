@@ -104,7 +104,10 @@ export function listToCat(ls: object, options: listToCatOptions | Function = {},
 
 			if (ls[b].parent_name)
 			{
-				let parent_name = ls[b].parent_name.toLowerCase();
+				let parent_name = Category.normalize2(ls[b].parent_name, {
+					lc: true,
+				});
+				//console.log(parent_name);
 				parent_name = ls[parent_name].name_id;
 
 				name_id = `${parent_name}.${ls[b].name}`;

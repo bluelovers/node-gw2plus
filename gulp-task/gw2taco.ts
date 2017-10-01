@@ -29,6 +29,7 @@ addGulpTasks({
 				':guildmission',
 				':chest',
 				':mapspecific',
+				':pet',
 			],
 		},
 
@@ -186,9 +187,19 @@ addGulpTasks({
 				await pack_poi('POIs/MapSpecific', path.join(dist_root, 'assets/gw2taco', `POIs/${project_config.RUNTIME_PREFIX_TEMP}MapSpecific.xml`))
 			},
 		},
+
+		'pet': {
+			deps: [
+				'category:cache',
+			],
+
+			async callback()
+			{
+				await pack_poi('POIs/Tactical/Juvenile Pets', path.join(dist_root, 'assets/gw2taco', `POIs/${project_config.RUNTIME_PREFIX_TEMP}Juvenile Pets.xml`))
+			},
+		},
 	},
 });
-
 
 async function pack_poi(glob, dist)
 {
@@ -206,21 +217,23 @@ async function pack_poi(glob, dist)
 	let pois = nodes.root();
 
 	let ls = await globby([
-	'**/*.xml',
-], options)
-	.then(async (ls) =>
-	{
-		for (let file of ls)
+			'**/*.xml',
+		], options)
+		.then(async (ls) =>
 		{
-			let cat = await Category.load(file);
-			cats = Object.assign(cats, cat.toList());
+			for (let file of ls)
+			{
+				let cat = await Category.load(file);
+				cats = Object.assign(cats, cat.toList());
 
-			let poi = await Poi.load(file);
+				let poi = await Poi.load(file);
 
-			pois.append(poi.filter());
-		}
-	})
-;
+				pois.append(poi.filter());
+			}
+		})
+	;
+
+	//console.log(cats);
 
 	nodes.find('OverlayData').prepend(cu.listToCat(cats, {
 		gw2taco: true,

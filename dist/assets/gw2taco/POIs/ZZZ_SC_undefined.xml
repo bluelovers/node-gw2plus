@@ -315,6 +315,9 @@
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
         <MarkerCategory name="The Way Forward" data-allowsub="true" DisplayName="The Way Forward">
+          <MarkerCategory name="Walk a Fine Line" DisplayName="Walk a Fine Line">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
         <MarkerCategory name="undefined"/>
@@ -359,6 +362,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Race">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>

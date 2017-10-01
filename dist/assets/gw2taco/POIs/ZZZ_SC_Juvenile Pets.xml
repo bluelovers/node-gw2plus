@@ -1,0 +1,16 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+        <MarkerCategory name="Cheetah"/>
+        <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
+        <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="1033.37" ypos="-0.0609184" zpos="-107.601" type="tactical.juvenile_pets.path_of_fire.cheetah" GUID="V+kd5otuQ0+3zbjMjk6X2g=="/>
+    <POI MapID="1211" xpos="-322.567" ypos="206.666" zpos="154.609" type="tactical.juvenile_pets.path_of_fire.fanged_iboga" GUID="+wCyQOpmjUiNDPmjpK9P3Q=="/>
+    <POI MapID="1210" xpos="-276.003" ypos="33.1166" zpos="380.828" type="tactical.juvenile_pets.path_of_fire.sand_lion" GUID="wAP4KCryf0GveBqXzEjPUA=="/>
+  </POIs>
+</OverlayData>

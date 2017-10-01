@@ -100,6 +100,7 @@
       <MarkerCategory name="Out"/>
       <MarkerCategory name="Gate"/>
       <MarkerCategory name="Cave"/>
+      <MarkerCategory name="Instance"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
