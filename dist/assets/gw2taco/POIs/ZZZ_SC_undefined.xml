@@ -329,6 +329,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="3" data-allowsub="true">
+        <MarkerCategory name="The Departing" DisplayName="The Departing">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="Beast of War" DisplayName="Beast of War">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
