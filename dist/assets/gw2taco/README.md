@@ -49,10 +49,12 @@ POIs
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ └── Shadows Provisions.xml
 │   ├─┬ Act 2
-│   │ └─┬ Facing the Truth
-│   │   ├── Goddess of Secrets.xml
-│   │   ├── Seeker of Truth and Knowledge.xml
-│   │   └── Wedge Symbol.xml
+│   │ ├─┬ Facing the Truth
+│   │ │ ├── Goddess of Secrets.xml
+│   │ │ ├── Seeker of Truth and Knowledge.xml
+│   │ │ └── Wedge Symbol.xml
+│   │ └─┬ The Way Forward
+│   │   └── Walk a Fine Line.xml
 │   ├── Casino Blits.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
@@ -163,10 +165,12 @@ POIs
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ └── Shadows Provisions.xml
 │   ├─┬ Act 2
-│   │ └─┬ Facing the Truth
-│   │   ├── Goddess of Secrets.xml
-│   │   ├── Seeker of Truth and Knowledge.xml
-│   │   └── Wedge Symbol.xml
+│   │ ├─┬ Facing the Truth
+│   │ │ ├── Goddess of Secrets.xml
+│   │ │ ├── Seeker of Truth and Knowledge.xml
+│   │ │ └── Wedge Symbol.xml
+│   │ └─┬ The Way Forward
+│   │   └── Walk a Fine Line.xml
 │   ├── Casino Blits.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
@@ -410,10 +414,12 @@ POIs
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ └── Shadows Provisions.xml
 │   ├─┬ Act 2
-│   │ └─┬ Facing the Truth
-│   │   ├── Goddess of Secrets.xml
-│   │   ├── Seeker of Truth and Knowledge.xml
-│   │   └── Wedge Symbol.xml
+│   │ ├─┬ Facing the Truth
+│   │ │ ├── Goddess of Secrets.xml
+│   │ │ ├── Seeker of Truth and Knowledge.xml
+│   │ │ └── Wedge Symbol.xml
+│   │ └─┬ The Way Forward
+│   │   └── Walk a Fine Line.xml
 │   ├── Casino Blits.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml

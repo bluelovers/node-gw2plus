@@ -564,6 +564,34 @@ addGulpTasks({
 									}
 
 									break;
+								case '2.the_way_forward.walk_a_fine_line':
+								case '2.the_way_forward.walk_a_fine_line.point':
+
+									pois_target_id = [
+										'LS',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Act 2',
+											'The Way Forward',
+											'Walk a Fine Line',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									if (k == '2.the_way_forward.walk_a_fine_line.point')
+									{
+										type_new = type_new
+											.concat([
+												'Point',
+											])
+										;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;

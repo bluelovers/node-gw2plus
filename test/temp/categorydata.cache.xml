@@ -454,13 +454,18 @@
         <MarkerCategory name="Not All Who Wander Are Lost"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
+    <MarkerCategory name="Path of Fire" data-allowsub="true">
       <MarkerCategory name="Act 1" data-allowsub="true"/>
-      <MarkerCategory name="Act 2" data-allowsub="true" DisplayName="Act 2">
-        <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth">
-          <MarkerCategory name="Seeker of Truth and Knowledge" data-class="fade-max2" DisplayName="Seeker of Truth and Knowledge" fadeFar="42000" fadeNear="25200"/>
+      <MarkerCategory name="Act 2" data-allowsub="true">
+        <MarkerCategory name="Facing the Truth">
           <MarkerCategory name="Goddess of Secrets"/>
+          <MarkerCategory name="Seeker of Truth and Knowledge" data-class="fade-max2" fadeFar="42000" fadeNear="25200"/>
           <MarkerCategory name="Wedge Symbol"/>
+        </MarkerCategory>
+        <MarkerCategory name="The Way Forward">
+          <MarkerCategory name="Walk a Fine Line">
+            <MarkerCategory name="Point"/>
+          </MarkerCategory>
         </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Act 3" data-allowsub="true"/>
