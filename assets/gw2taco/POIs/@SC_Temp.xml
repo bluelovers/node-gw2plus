@@ -63,6 +63,23 @@
         <MarkerCategory name="Beast of War">
           <MarkerCategory name="Destroy Additional Pylons"/>
         </MarkerCategory>
+
+        <MarkerCategory name="Enemy of My Enemy">
+          <MarkerCategory name="1">
+
+          </MarkerCategory>
+          <MarkerCategory name="2 The Troopmarshal">
+            <MarkerCategory name="Explosives Expert"/>
+            <MarkerCategory name="Mummy Legion"/>
+            <MarkerCategory name="Master of Mummies"/>
+          </MarkerCategory>
+          <MarkerCategory name="3 The Beastmarshal">
+
+          </MarkerCategory>
+          <MarkerCategory name="4">
+
+          </MarkerCategory>
+        </MarkerCategory>
       </MarkerCategory>
 
       <MarkerCategory name="Crystal Oasis">
