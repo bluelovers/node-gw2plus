@@ -20,6 +20,10 @@
             <MarkerCategory name="Master of Mummies" iconFile="Data/CheckPoint.png" DisplayName="Master of Mummies"/>
           </MarkerCategory>
         </MarkerCategory>
+        <MarkerCategory name="The Departing" DisplayName="The Departing">
+          <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
+          <MarkerCategory name="The Whole Story" DisplayName="The Whole Story"/>
+        </MarkerCategory>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
@@ -66,5 +70,42 @@
     <POI MapID="1255" xpos="-1327.38" ypos="69.6267" zpos="-190.362" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="iEuD7+Q+lUaN8uKiuD4DpQ=="/>
     <POI MapID="1255" xpos="-1347.64" ypos="123.564" zpos="-260.186" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.master_of_mummies" GUID="Sfi9RYjwc0qSl/xT38Zgxg=="/>
     <POI MapID="1255" xpos="-1235.93" ypos="135.418" zpos="-264.932" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="Am+xoqdMdEmVhChb/P0kXQ=="/>
+    <POI MapID="1245" xpos="410.471" ypos="124.779" zpos="-197.299" type="ls.path_of_fire.act_3.the_departing.checkpoint" GUID="jRuJl0GB/0WG1axN0l1TCg=="/>
+    <POI MapID="1245" xpos="270.74" ypos="128.251" zpos="-227.328" type="ls.path_of_fire.act_3.the_departing.checkpoint" GUID="lC2PtBU0wEmgaF5ojDzN7g=="/>
+    <POI MapID="1245" xpos="182.999" ypos="99.7043" zpos="-75.3963" type="ls.path_of_fire.act_3.the_departing.checkpoint" GUID="374rFf+FuEK6KMRssDUhPw=="/>
+    <POI MapID="1245" xpos="212.111" ypos="125.158" zpos="-177.302" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="sDHCAHW2IEaC0kgeC9COfg=="/>
+    <POI MapID="1245" xpos="294.287" ypos="127.766" zpos="-182.319" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="OOF7kNTJ2UOI+gVCPs7e0g=="/>
+    <POI MapID="1245" xpos="343.03" ypos="127.602" zpos="-189.361" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="u6nClDHayk+Ix1rta5qt1w=="/>
+    <POI MapID="1245" xpos="397.009" ypos="125.327" zpos="-171.624" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="icXGriPsp0CSYeNZGPio5w=="/>
+    <POI MapID="1245" xpos="426.367" ypos="125.831" zpos="-201.588" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="08dHgTe2SkixfTwJL+iWQw=="/>
+    <POI MapID="1245" xpos="415.487" ypos="131.629" zpos="-246.134" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="YF/RVSAvdkigyJoqx/bMkw=="/>
+    <POI MapID="1245" xpos="390.129" ypos="127.154" zpos="-259.407" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="8OLGd0Er9UOnC2kgBVRNtQ=="/>
+    <POI MapID="1245" xpos="359.127" ypos="126.838" zpos="-251.487" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="ceIo+x3rMEa4ymQ4accXPw=="/>
+    <POI MapID="1245" xpos="321.579" ypos="128.677" zpos="-272.775" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="bAWqP1P4aki5xVbHqtqeyg=="/>
+    <POI MapID="1245" xpos="280.053" ypos="128.047" zpos="-257.383" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="o8e1gkxiEUau/2Necj8Fog=="/>
+    <POI MapID="1245" xpos="245.042" ypos="128.842" zpos="-287.131" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="rHNz8Djc90SaTzYXJAemIw=="/>
+    <POI MapID="1245" xpos="245.907" ypos="129.036" zpos="-312.907" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="QRKC6Os0ck2FIAq7ds6pxg=="/>
+    <POI MapID="1245" xpos="273.551" ypos="126.803" zpos="-325.68" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="tqsMrTV75kmwdo/vKyVOjA=="/>
+    <POI MapID="1245" xpos="339.85" ypos="134.854" zpos="-332.348" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="W/WJwQ4UqEG6UudoHdjHyg=="/>
+    <POI MapID="1245" xpos="327.472" ypos="126.807" zpos="-388.521" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="EFNCNI0bLk2s50TP/Nlb1w=="/>
+    <POI MapID="1245" xpos="276.259" ypos="128.689" zpos="-389.668" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="gsdZ/1zQxk2K+wxuDn6vQw=="/>
+    <POI MapID="1245" xpos="237.535" ypos="128.64" zpos="-379.354" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="M2QAy0lQ/E6rVxkeMbsSnw=="/>
+    <POI MapID="1245" xpos="189.56" ypos="126.293" zpos="-360.518" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="uVQvpJKAJEu4OoT3BGKccg=="/>
+    <POI MapID="1245" xpos="154.14" ypos="129.17" zpos="-331.081" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="X5zbU37oOE+cgt3nUpCSuQ=="/>
+    <POI MapID="1245" xpos="137.783" ypos="129.136" zpos="-275.109" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="vZqPTYfT/0ySR6hHJivDQA=="/>
+    <POI MapID="1245" xpos="121.246" ypos="127.229" zpos="-250.07" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="A6bKGl8VBkaI9IU89yu2zw=="/>
+    <POI MapID="1245" xpos="101.075" ypos="130.797" zpos="-246.531" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="HiiGMatqO0ez32jFBdovMg=="/>
+    <POI MapID="1245" xpos="104.1" ypos="123.34" zpos="-199.829" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="niHAOGXsSkWUiAPd3ke91Q=="/>
+    <POI MapID="1245" xpos="93.3783" ypos="117.833" zpos="-148.588" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="Uwuuiz7tbEuadiisPzQIyA=="/>
+    <POI MapID="1245" xpos="99.6178" ypos="128.501" zpos="-122.556" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="fnRP3ZD2Qku7Rzw7spNyZw=="/>
+    <POI MapID="1245" xpos="117.682" ypos="135.092" zpos="-126.17" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="oYMPWKxaxEqqK0+X5tUwdQ=="/>
+    <POI MapID="1245" xpos="127.774" ypos="143.047" zpos="-110.166" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="PVSdTZQWxUaNae/nymcGCQ=="/>
+    <POI MapID="1245" xpos="126.536" ypos="148.121" zpos="-130.23" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="F0fAo6dN+E++Wf1M1BMaIQ=="/>
+    <POI MapID="1245" xpos="122.488" ypos="152.764" zpos="-105.995" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="QF0xhy9uqUCDW9sVwUPXFA=="/>
+    <POI MapID="1245" xpos="128.962" ypos="162.431" zpos="-116.097" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="KTYpxcaDekOkY+sOLduqHA=="/>
+    <POI MapID="1245" xpos="120.375" ypos="165.319" zpos="-113.247" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="M9qvb0wJKEi/tcflP8OA5g=="/>
+    <POI MapID="1245" xpos="293.09" ypos="125.816" zpos="-72.5387" type="ls.path_of_fire.act_3.the_departing.checkpoint" GUID="y4u41alyyESZQKQhzgDpcA=="/>
+    <POI MapID="1245" xpos="318.499" ypos="128.013" zpos="-52.3074" type="ls.path_of_fire.act_3.the_departing.checkpoint" GUID="FM43Xi6nSEa6UxKt4gxZIg=="/>
+    <POI MapID="1245" xpos="253.868" ypos="129.678" zpos="-160.049" type="ls.path_of_fire.act_3.the_departing.the_whole_story" GUID="/e7ro3K/FUeYKInj3LsAJw=="/>
   </POIs>
 </OverlayData>

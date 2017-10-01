@@ -475,6 +475,10 @@
             <MarkerCategory name="Master of Mummies" iconFile="Data/CheckPoint.png"/>
           </MarkerCategory>
         </MarkerCategory>
+        <MarkerCategory name="The Departing">
+          <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
+          <MarkerCategory name="The Whole Story"/>
+        </MarkerCategory>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
