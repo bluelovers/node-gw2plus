@@ -1,0 +1,52 @@
+<OverlayData>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
+      <MarkerCategory name="Act 2" data-allowsub="true" DisplayName="Act 2">
+        <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth">
+          <MarkerCategory name="Goddess of Secrets" DisplayName="Goddess of Secrets"/>
+          <MarkerCategory name="Seeker of Truth and Knowledge" data-class="fade-max2" fadeFar="42000" fadeNear="25200" DisplayName="Seeker of Truth and Knowledge"/>
+          <MarkerCategory name="Wedge Symbol" DisplayName="Wedge Symbol"/>
+        </MarkerCategory>
+        <MarkerCategory name="The Way Forward" DisplayName="The Way Forward">
+          <MarkerCategory name="Walk a Fine Line" DisplayName="Walk a Fine Line">
+            <MarkerCategory name="Point"/>
+          </MarkerCategory>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1230" xpos="694.009" ypos="0.206373" zpos="356.732" type="ls.path_of_fire.act_2.facing_the_truth.goddess_of_secrets" GUID="vVfWU0e5UUm1vqbdYVkLkw=="/>
+    <POI MapID="1230" xpos="649.295" ypos="13.4594" zpos="148.874" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="3k7GQC9dO0as/eEHVAtXgg=="/>
+    <POI MapID="1230" xpos="657.353" ypos="13.0126" zpos="166.939" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="9vY4qxOUqE+ZNO5BksWN5A=="/>
+    <POI MapID="1230" xpos="627.409" ypos="13.46" zpos="181.572" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="wCTHf2DRJE2p822cIfRpag=="/>
+    <POI MapID="1230" xpos="672.856" ypos="129.304" zpos="160.332" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="TJ+4PJg+oE+RR5i/Re/k4Q=="/>
+    <POI MapID="1230" xpos="667.242" ypos="16.3727" zpos="348.097" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="gjRjjPsgg0GepgktcYa/og=="/>
+    <POI MapID="1230" xpos="455.929" ypos="2.62155" zpos="-2.89895" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="51DhdaFUck6l1cbhBfK3Vg=="/>
+    <POI MapID="1230" xpos="409.425" ypos="2.62129" zpos="80.8921" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="bsnwO/Deg0eESfGRvnwAGg=="/>
+    <POI MapID="1230" xpos="721.173" ypos="141.714" zpos="230.869" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="A8J+WRVwfk2WbiNNP/jQyA=="/>
+    <POI MapID="1230" xpos="728.424" ypos="16.2393" zpos="404.032" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="NSy9YA+42km94xPwv1WADA=="/>
+    <POI MapID="1230" xpos="715.714" ypos="16.4476" zpos="412.12" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="8adtA9n5p0mbgrFUNZXXhA=="/>
+    <POI MapID="1230" xpos="718.31" ypos="16.3648" zpos="367.916" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="twiNI71yU0yy+FuddKnY4Q=="/>
+    <POI MapID="1230" xpos="678.453" ypos="16.3648" zpos="374.482" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="GkriOuryDUeqKCMLnZ+vig=="/>
+    <POI MapID="1230" xpos="691.686" ypos="17.5774" zpos="404.553" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="t1Im/xZGAE27qqC27VzBKw=="/>
+    <POI MapID="1230" xpos="697.454" ypos="16.4476" zpos="421.555" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="lkvZFq+cWkWitXUj+FPcXA=="/>
+    <POI MapID="1230" xpos="671.049" ypos="16.3648" zpos="419.24" type="ls.path_of_fire.act_2.facing_the_truth.seeker_of_truth_and_knowledge" GUID="DtsiqpSBrESLQk1mtIp5PQ=="/>
+    <POI MapID="1230" xpos="-768.423" ypos="55.7006" zpos="-215.084" type="ls.path_of_fire.act_2.facing_the_truth.wedge_symbol" GUID="rdBAP1FwW0WYGBIQCQ+JqQ=="/>
+    <POI MapID="1230" xpos="-682" ypos="2.90631" zpos="-301.862" type="ls.path_of_fire.act_2.facing_the_truth.wedge_symbol" GUID="0+XdpPxbukmSsB3ero7ePQ=="/>
+    <POI MapID="1230" xpos="-671.799" ypos="97.2519" zpos="-188.469" type="ls.path_of_fire.act_2.facing_the_truth.wedge_symbol" GUID="w/HBULSxyUCG8A4FRqrG1Q=="/>
+    <POI MapID="1221" xpos="-313.851" ypos="68.6376" zpos="-373.969" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="EGXWIK4t40iitJGCYB0XzA=="/>
+    <POI MapID="1221" xpos="-323.55" ypos="90.5741" zpos="-382.813" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="4+DgLXen6UazPLhJilotpg=="/>
+    <POI MapID="1221" xpos="-369.829" ypos="100.95" zpos="-394.938" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="MHXZpC0XQU2Q4romQW6nPQ=="/>
+    <POI MapID="1221" xpos="-313.624" ypos="147.575" zpos="-310.865" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="+QY6va0vAk+CjaVHv+BL0Q=="/>
+    <POI MapID="1221" xpos="-367.135" ypos="125.153" zpos="-392.133" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="2EdRNiVV7keX0G1mofaSjg=="/>
+    <POI MapID="1221" xpos="-313.767" ypos="127.554" zpos="-335.734" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="82K70kY7M0aO1Uyt9gpnDg=="/>
+    <POI MapID="1221" xpos="-308.786" ypos="152.515" zpos="-287.617" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="WryA1k7bfEyAVNzbPqOwuQ=="/>
+    <POI MapID="1221" xpos="-316.689" ypos="165.187" zpos="-316.04" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="Q/H8JiJTzkG/MvX17dgHyw=="/>
+    <POI MapID="1221" xpos="-352.202" ypos="177.899" zpos="-371.685" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="EnJROokxHEKIPAYrE4AABg=="/>
+    <POI MapID="1221" xpos="-384.63" ypos="181.197" zpos="-385.438" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="evFXm+ngl0WZC35+DNJm7Q=="/>
+    <POI MapID="1221" xpos="-439.382" ypos="191.814" zpos="-376.591" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="ZmnygUMP+UGAREt5jEbtKA=="/>
+    <POI MapID="1221" xpos="-454.168" ypos="209.915" zpos="-358.775" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="L0JUP8fMREegk+SKNShj8Q=="/>
+    <POI MapID="1221" xpos="-416.579" ypos="213.335" zpos="-312.525" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line" GUID="HZGTyAxqf0S/WEDKm9dpNg=="/>
+  </POIs>
+</OverlayData>
