@@ -308,5 +308,13 @@
     <POI MapID="1253" xpos="504.72" ypos="290.828" zpos="-31.3944" type="temp.path_of_fire.3.beast_of_war.destroy_additional_pylons" GUID="BJ/WzYGhf0GqDr4qvybN8g=="/>
     <POI MapID="1253" xpos="468.142" ypos="290.828" zpos="-36.5052" type="temp.path_of_fire.3.beast_of_war.destroy_additional_pylons" GUID="cakA9YnxwE62krunzTBIpw=="/>
     <POI MapID="1248" xpos="249.04" ypos="160.598" zpos="78.1724" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="s0gt5Dl7IkCb3xVDKwl56g=="/>
+    <POI MapID="1248" xpos="-700.625" ypos="109.477" zpos="-457.966" type="temp.path_of_fire.domain_of_vabbi.praise_joko_" GUID="yuUoh7+VNEGYWd/vVE/SSQ=="/>
+    <POI MapID="1248" xpos="-1311.29" ypos="320.337" zpos="-773.863" type="other.portal.cave" GUID="mhrPb2lRfkSovhuvb7CmdQ=="/>
+    <POI MapID="1248" xpos="-1458.74" ypos="316.044" zpos="-674.047" type="other.portal.in" GUID="SiVpIyBsskKLOFny8AVX6w=="/>
+    <POI MapID="1248" xpos="-1462.31" ypos="315.821" zpos="-617.135" type="other.portal.cave" GUID="pLV98VaYEEy9KKwGo9/p6Q=="/>
+    <POI MapID="1248" xpos="-1464.37" ypos="311.29" zpos="-714.51" type="other.portal.cave" GUID="d0e93tH9s0+YtxGZ14avVA=="/>
+    <POI MapID="1248" xpos="-1385.1" ypos="317.123" zpos="-888.109" GUID="z+jtvCSa/E200MXA9Ma7GQ=="/>
+    <POI MapID="1248" xpos="-1437.84" ypos="314.527" zpos="-885.401" GUID="dM98PTWjiU6fCg7MIcta9A=="/>
+    <POI MapID="1248" xpos="-1394.07" ypos="316.822" zpos="-646.185" type="other.portal.cave" GUID="JjyoWy8v5EmWdnlqhN0IXQ=="/>
   </POIs>
 </OverlayData>
