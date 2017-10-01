@@ -39,5 +39,6 @@
     <POI MapID="1228" xpos="754.262" ypos="100.461" zpos="661.466" type="resourcenode.plant.orichalcum.lentils" GUID="QSwiMnZEtEiUBc8pTVAvcw=="/>
     <POI MapID="1210" xpos="-183.474" ypos="0.665243" zpos="-241.951" type="resourcenode.plant.orichalcum.lentils" GUID="DC2d4ONOkE6/oCBFaza7tg=="/>
     <POI MapID="1210" xpos="-201.953" ypos="1.04575" zpos="-180.682" type="resourcenode.plant.orichalcum.lentils" GUID="06blIhspXkalrx8NxF7Vvg=="/>
+    <POI MapID="1228" xpos="1049.74" ypos="52.1189" zpos="449.397" type="resourcenode.plant.orichalcum.lentils" GUID="tfTkQtfHakGr1oMNuoUShw=="/>
   </POIs>
 </OverlayData>
