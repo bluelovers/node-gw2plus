@@ -404,6 +404,11 @@
         </MarkerCategory>
         <MarkerCategory name="On Wings and a Prayer"/>
       </MarkerCategory>
+      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png">
+        <MarkerCategory name="Sunspear Support"/>
+        <MarkerCategory name="Salute to Palawa Joko"/>
+        <MarkerCategory name="Amnoon Independence"/>
+      </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png">
         <MarkerCategory name="Acrid Springs Recovery"/>
         <MarkerCategory name="Lost Lore of the Desolation"/>
@@ -597,6 +602,7 @@
         <MarkerCategory name="Ghostly Trio">
           <MarkerCategory name="path"/>
         </MarkerCategory>
+        <MarkerCategory name="Forgotten Debris"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation">
         <MarkerCategory name="Lost Lore of the Desolation"/>

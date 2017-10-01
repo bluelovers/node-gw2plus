@@ -217,6 +217,9 @@
         </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>

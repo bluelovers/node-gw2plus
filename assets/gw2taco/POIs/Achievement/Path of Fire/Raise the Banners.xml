@@ -1,0 +1,18 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png">
+        <MarkerCategory name="Sunspear Support"/>
+        <MarkerCategory name="Salute to Palawa Joko"/>
+        <MarkerCategory name="Amnoon Independence"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="577.828" ypos="243.787" zpos="-198.045" type="achievement.path_of_fire.raise_the_banners.sunspear_support" GUID="YEiuLLkJLUGNEP3Utc/uEw=="/>
+    <POI MapID="1223" xpos="-841.797" ypos="8.73116" zpos="-83.8532" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="irvHmfALlE2RimdCk+GyXw=="/>
+    <POI MapID="1223" xpos="-860.112" ypos="8.7456" zpos="-102.949" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="tvWZkDqe7Ui8AypYDW9JCQ=="/>
+    <POI MapID="1210" xpos="1375.88" ypos="97.6833" zpos="-266.37" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="SkhekupGek2mGrsPeSLv7Q=="/>
+    <POI MapID="1248" xpos="1300.52" ypos="206.127" zpos="844.486" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="HpPfPl0AekeB1VSmPtYBBQ=="/>
+  </POIs>
+</OverlayData>

@@ -105,6 +105,7 @@
         <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
           <MarkerCategory name="path"/>
         </MarkerCategory>
+        <MarkerCategory name="Forgotten Debris" DisplayName="Forgotten Debris"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
         <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>

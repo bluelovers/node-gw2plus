@@ -27,6 +27,7 @@ POIs
 │   │ └── Lost Lore of Elon Riverlands.xml
 │   ├── Glorify the Golden Heart.xml
 │   ├── Open Skies.xml
+│   ├── Raise the Banners.xml
 │   ├─┬ The Desolation
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Lost Lore of the Desolation.xml
@@ -147,6 +148,7 @@ POIs
 │   │ └── Lost Lore of Elon Riverlands.xml
 │   ├── Glorify the Golden Heart.xml
 │   ├── Open Skies.xml
+│   ├── Raise the Banners.xml
 │   ├─┬ The Desolation
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Lost Lore of the Desolation.xml
@@ -404,6 +406,7 @@ POIs
 │   │ └── Lost Lore of Elon Riverlands.xml
 │   ├── Glorify the Golden Heart.xml
 │   ├── Open Skies.xml
+│   ├── Raise the Banners.xml
 │   ├─┬ The Desolation
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Lost Lore of the Desolation.xml
