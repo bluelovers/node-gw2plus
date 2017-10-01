@@ -260,6 +260,12 @@
         <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
+        <MarkerCategory name="The Way Forward" DisplayName="The Way Forward">
+          <MarkerCategory name="Walk a Fine Line" DisplayName="Walk a Fine Line">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
