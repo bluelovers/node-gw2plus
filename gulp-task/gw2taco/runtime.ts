@@ -632,6 +632,45 @@ addGulpTasks({
 									}
 
 									break;
+								case '3.the_departing':
+								case '3.the_departing.boss':
+								case '3.the_departing.joko':
+								case '3.the_departing.search_for_weapons':
+								case '3.the_departing.the_judge':
+								case '3.the_departing.name':
+
+									pois_target_id = [
+										'LS',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Act 3',
+											'The Departing',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									if (k == '3.the_departing')
+									{
+										type_new = type_new
+											.concat([
+												'The Whole Story',
+											])
+										;
+									}
+									else
+									{
+										type_new = type_new
+											.concat([
+												'CheckPoint',
+											])
+										;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
