@@ -13,6 +13,14 @@
           </MarkerCategory>
         </MarkerCategory>
       </MarkerCategory>
+      <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
+        <MarkerCategory name="Enemy of My Enemy" DisplayName="Enemy of My Enemy">
+          <MarkerCategory name="The Troopmarshal" DisplayName="The Troopmarshal">
+            <MarkerCategory name="Mummy Legion" DisplayName="Mummy Legion"/>
+            <MarkerCategory name="Master of Mummies" iconFile="Data/CheckPoint.png" DisplayName="Master of Mummies"/>
+          </MarkerCategory>
+        </MarkerCategory>
+      </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
@@ -48,5 +56,15 @@
     <POI MapID="1221" xpos="-439.382" ypos="191.814" zpos="-376.591" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="ZmnygUMP+UGAREt5jEbtKA=="/>
     <POI MapID="1221" xpos="-454.168" ypos="209.915" zpos="-358.775" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line.point" GUID="L0JUP8fMREegk+SKNShj8Q=="/>
     <POI MapID="1221" xpos="-416.579" ypos="213.335" zpos="-312.525" type="ls.path_of_fire.act_2.the_way_forward.walk_a_fine_line" GUID="HZGTyAxqf0S/WEDKm9dpNg=="/>
+    <POI MapID="1255" xpos="-1112.81" ypos="118.845" zpos="-209.64" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="5OGN8MKQskO+wCK2/xTbRw=="/>
+    <POI MapID="1255" xpos="-1296.97" ypos="69.6077" zpos="-237.435" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="Z9Vc4sRbtUKA7HK6A/qrcQ=="/>
+    <POI MapID="1255" xpos="-1292.46" ypos="69.6077" zpos="-204.859" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="wQUSQLUGiUaLWwkd0iwePA=="/>
+    <POI MapID="1255" xpos="-1412.55" ypos="107.729" zpos="-294.853" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="NhlXWnSOT0uw+4QoLQAXfw=="/>
+    <POI MapID="1255" xpos="-1390.1" ypos="127.175" zpos="-226.326" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="AV+zE7PgAUK2awdakXLbDQ=="/>
+    <POI MapID="1255" xpos="-1292.45" ypos="118.811" zpos="-347.169" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="kPgrl/s+sUSoXolZ1e0Pyw=="/>
+    <POI MapID="1255" xpos="-1307.51" ypos="69.6267" zpos="-197.715" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="8zJIPAq98E2axbEPTpPhBg=="/>
+    <POI MapID="1255" xpos="-1327.38" ypos="69.6267" zpos="-190.362" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="iEuD7+Q+lUaN8uKiuD4DpQ=="/>
+    <POI MapID="1255" xpos="-1347.64" ypos="123.564" zpos="-260.186" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.master_of_mummies" GUID="Sfi9RYjwc0qSl/xT38Zgxg=="/>
+    <POI MapID="1255" xpos="-1235.93" ypos="135.418" zpos="-264.932" type="ls.path_of_fire.act_3.enemy_of_my_enemy.the_troopmarshal.mummy_legion" GUID="Am+xoqdMdEmVhChb/P0kXQ=="/>
   </POIs>
 </OverlayData>
