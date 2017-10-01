@@ -468,7 +468,14 @@
           </MarkerCategory>
         </MarkerCategory>
       </MarkerCategory>
-      <MarkerCategory name="Act 3" data-allowsub="true"/>
+      <MarkerCategory name="Act 3" data-allowsub="true">
+        <MarkerCategory name="Enemy of My Enemy">
+          <MarkerCategory name="The Troopmarshal">
+            <MarkerCategory name="Mummy Legion"/>
+            <MarkerCategory name="Master of Mummies" iconFile="Data/CheckPoint.png"/>
+          </MarkerCategory>
+        </MarkerCategory>
+      </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400">
@@ -545,6 +552,16 @@
         </MarkerCategory>
         <MarkerCategory name="Beast of War">
           <MarkerCategory name="Destroy Additional Pylons"/>
+        </MarkerCategory>
+        <MarkerCategory name="Enemy of My Enemy">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2 The Troopmarshal">
+            <MarkerCategory name="Explosives Expert"/>
+            <MarkerCategory name="Mummy Legion"/>
+            <MarkerCategory name="Master of Mummies"/>
+          </MarkerCategory>
+          <MarkerCategory name="3 The Beastmarshal"/>
+          <MarkerCategory name="4"/>
         </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Crystal Oasis">
