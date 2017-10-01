@@ -30,6 +30,7 @@ addGulpTasks({
 				':chest',
 				':mapspecific',
 				':pet',
+				':pof:default',
 			],
 		},
 
@@ -195,8 +196,41 @@ addGulpTasks({
 
 			async callback()
 			{
-				await pack_poi('POIs/Tactical/Juvenile Pets', path.join(dist_root, 'assets/gw2taco', `POIs/${project_config.RUNTIME_PREFIX_TEMP}Juvenile Pets.xml`))
+				await pack_poi('POIs/Tactical/Juvenile Pets', path.join(dist_root, 'assets/gw2taco', `POIs/Optional`, `${project_config.RUNTIME_PREFIX_TEMP}Juvenile Pets.xml`))
 			},
+		},
+
+		'pof': {
+
+			'default': {
+				deps: [
+					':ap',
+					':story',
+				],
+			},
+
+			'ap': {
+				deps: [
+					'category:cache',
+				],
+
+				async callback()
+				{
+					await pack_poi('POIs/Achievement/Path of Fire', path.join(dist_root, 'assets/gw2taco', `POIs/Optional`, `${project_config.RUNTIME_PREFIX_TEMP}Path of Fire_Achievement.xml`))
+				},
+			},
+
+			'story': {
+				deps: [
+					'category:cache',
+				],
+
+				async callback()
+				{
+					await pack_poi('POIs/LS/Path of Fire', path.join(dist_root, 'assets/gw2taco', `POIs/Optional`, `${project_config.RUNTIME_PREFIX_TEMP}Path of Fire_Story.xml`))
+				},
+			},
+
 		},
 	},
 });
