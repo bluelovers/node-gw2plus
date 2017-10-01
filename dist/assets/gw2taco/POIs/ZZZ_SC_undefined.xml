@@ -211,7 +211,7 @@
         </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Open Skies" DisplayName="Open Skies">
+      <MarkerCategory name="Open Skies" data-class="fade-max" fadeFar="25200" fadeNear="16800" DisplayName="Open Skies">
         <MarkerCategory name="Sunspear Sanctuary" DisplayName="Sunspear Sanctuary">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
