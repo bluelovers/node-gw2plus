@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+        <MarkerCategory name="Jacaranda"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1248" xpos="-1237.72" ypos="239.837" zpos="-492.055" type="tactical.juvenile_pets.path_of_fire.jacaranda" GUID="jpRUTvyxD0OKlwx0E+C9sA=="/>
+  </POIs>
+</OverlayData>
