@@ -101,5 +101,6 @@
     <POI MapID="1210" xpos="-335.659" ypos="0.697655" zpos="-524.26" type="chest.permanent" GUID="gbI7Zz9cy0u7oM++KXIG0Q=="/>
     <POI MapID="1210" xpos="-337.366" ypos="1.64029" zpos="-531.223" type="chest.mapspecific.keyrequired" GUID="5QIhzCJmAkOfdryRpLNqLA=="/>
     <POI MapID="1210" xpos="-944.904" ypos="52.1932" zpos="228.332" type="chest.mapspecific.keyrequired" GUID="yIwwE5uBHkSXxgA5L8m1dw=="/>
+    <POI MapID="1210" xpos="733.006" ypos="136.377" zpos="349.611" type="chest.mapspecific.keyrequired" GUID="9PLRqjQO5ESXrsZXDGkPoA=="/>
   </POIs>
 </OverlayData>
