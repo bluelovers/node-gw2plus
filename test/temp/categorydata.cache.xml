@@ -393,14 +393,14 @@
         <MarkerCategory name="Lost Lore of Elon Riverlands"/>
       </MarkerCategory>
       <MarkerCategory name="Glorify the Golden Heart"/>
-      <MarkerCategory name="Open Skies">
+      <MarkerCategory name="Open Skies" data-class="fade-max" fadeFar="25200" fadeNear="16800">
         <MarkerCategory name="Sunspear Sanctuary">
           <MarkerCategory name="Domain of Vabbi"/>
           <MarkerCategory name="Crystal Oasis"/>
           <MarkerCategory name="Elon Riverlands"/>
           <MarkerCategory name="Desert Highlands"/>
           <MarkerCategory name="The Desolation"/>
-          <MarkerCategory name="Sunspear Wisdom"/>
+          <MarkerCategory name="Sunspear Wisdom" data-class="fade-max2" fadeFar="42000" fadeNear="25200"/>
         </MarkerCategory>
         <MarkerCategory name="On Wings and a Prayer"/>
       </MarkerCategory>
