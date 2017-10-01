@@ -3,7 +3,7 @@
     <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
       <MarkerCategory name="Act 2" data-allowsub="true" DisplayName="Act 2">
         <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth">
-          <MarkerCategory name="Seeker of Truth and Knowledge" data-class="fade-max" DisplayName="Seeker of Truth and Knowledge" fadeFar="25200" fadeNear="16800"/>
+          <MarkerCategory name="Seeker of Truth and Knowledge" data-class="fade-max2" DisplayName="Seeker of Truth and Knowledge" fadeFar="42000" fadeNear="25200"/>
         </MarkerCategory>
       </MarkerCategory>
     </MarkerCategory>

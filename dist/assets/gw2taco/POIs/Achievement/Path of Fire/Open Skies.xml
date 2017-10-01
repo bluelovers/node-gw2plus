@@ -8,7 +8,7 @@
           <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands"/>
           <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands"/>
           <MarkerCategory name="The Desolation" DisplayName="The Desolation"/>
-          <MarkerCategory name="Sunspear Wisdom" DisplayName="Sunspear Wisdom"/>
+          <MarkerCategory name="Sunspear Wisdom" DisplayName="Sunspear Wisdom" data-class="fade-max2"/>
         </MarkerCategory>
         <MarkerCategory name="On Wings and a Prayer" DisplayName="On Wings and a Prayer"/>
       </MarkerCategory>
