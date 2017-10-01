@@ -1,14 +1,14 @@
 <OverlayData>
   <MarkerCategory name="Achievement">
     <MarkerCategory name="Path of Fire">
-      <MarkerCategory name="Open Skies">
+      <MarkerCategory name="Open Skies" data-class="fade-max">
         <MarkerCategory name="Sunspear Sanctuary">
           <MarkerCategory name="Domain of Vabbi"/>
           <MarkerCategory name="Crystal Oasis"/>
           <MarkerCategory name="Elon Riverlands"/>
           <MarkerCategory name="Desert Highlands"/>
           <MarkerCategory name="The Desolation"/>
-          <MarkerCategory name="Sunspear Wisdom"/>
+          <MarkerCategory name="Sunspear Wisdom" data-class="fade-max2"/>
         </MarkerCategory>
         <MarkerCategory name="On Wings and a Prayer"/>
       </MarkerCategory>
