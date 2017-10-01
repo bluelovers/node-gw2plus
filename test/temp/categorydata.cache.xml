@@ -229,6 +229,7 @@
       <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true">
         <MarkerCategory name="Cheetah"/>
         <MarkerCategory name="Fanged Iboga"/>
+        <MarkerCategory name="Jacaranda"/>
         <MarkerCategory name="Sand Lion"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -612,6 +613,7 @@
       <MarkerCategory name="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster"/>
         <MarkerCategory name="Lost Lore of the Domain of Vabbi"/>
+        <MarkerCategory name="Praise Joko" DisplayName="Praise Joko!"/>
       </MarkerCategory>
       <MarkerCategory name="Griffon" DisplayName="Open Skies: Domain of Vabbi"/>
       <MarkerCategory name="Open Skies Sunspear Sanctuary" DisplayName="Open Skies: Sunspear Sanctuary">
