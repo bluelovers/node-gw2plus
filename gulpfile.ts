@@ -497,6 +497,14 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 									attr.fadeFar = 5600;
 									attr.fadeNear = 1200;
 									break;
+								case 'max2':
+									attr.fadeFar = 25200 + 16800;
+									attr.fadeNear = 25200;
+									break;
+								case 'none':
+									attr.fadeFar = '';
+									attr.fadeNear = '';
+									break;
 							}
 
 							cat.getStatic().attr(_this, attr);
