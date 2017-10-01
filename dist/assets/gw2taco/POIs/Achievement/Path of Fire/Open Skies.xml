@@ -1,14 +1,14 @@
 <OverlayData>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
-      <MarkerCategory name="Open Skies" DisplayName="Open Skies">
+      <MarkerCategory name="Open Skies" data-class="fade-max" fadeFar="25200" fadeNear="16800" DisplayName="Open Skies">
         <MarkerCategory name="Sunspear Sanctuary" DisplayName="Sunspear Sanctuary">
           <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi"/>
           <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis"/>
           <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands"/>
           <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands"/>
           <MarkerCategory name="The Desolation" DisplayName="The Desolation"/>
-          <MarkerCategory name="Sunspear Wisdom" DisplayName="Sunspear Wisdom" data-class="fade-max2"/>
+          <MarkerCategory name="Sunspear Wisdom" data-class="fade-max2" fadeFar="42000" fadeNear="25200" DisplayName="Sunspear Wisdom"/>
         </MarkerCategory>
         <MarkerCategory name="On Wings and a Prayer" DisplayName="On Wings and a Prayer"/>
       </MarkerCategory>
