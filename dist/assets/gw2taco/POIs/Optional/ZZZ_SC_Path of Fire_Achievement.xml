@@ -96,6 +96,7 @@
     <POI MapID="1211" xpos="-1294.38" ypos="434.532" zpos="313.497" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="Qtg7vggnvE+gQh7T8DZdMw=="/>
     <POI MapID="1248" xpos="1378.64" ypos="102.794" zpos="-595.586" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="FwBsSEiHSE6eDPsGbxt1ig=="/>
     <POI MapID="1248" xpos="-1233.85" ypos="120.401" zpos="346.815" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="bMMPZ54rcki0qRHM9w01pw=="/>
+    <POI MapID="1248" xpos="-1458.43" ypos="312.203" zpos="-686.926" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="tDYOO6gU0Eus1bYv4vf6aA=="/>
     <POI MapID="1228" xpos="14.8888" ypos="86.4498" zpos="739.21" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="GeSk4FBf+0uqMlTun16ZvA=="/>
     <POI MapID="1228" xpos="-232.726" ypos="103.771" zpos="728.788" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="PBgAYVfbkEKEJ3GbAvjODw=="/>
     <POI MapID="1228" xpos="-472.702" ypos="82.4926" zpos="707.412" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="APUH4PTB006mRloPxso0oQ=="/>
@@ -197,6 +198,8 @@
     <POI MapID="1223" xpos="-860.112" ypos="8.7456" zpos="-102.949" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="tvWZkDqe7Ui8AypYDW9JCQ=="/>
     <POI MapID="1210" xpos="1375.88" ypos="97.6833" zpos="-266.37" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="SkhekupGek2mGrsPeSLv7Q=="/>
     <POI MapID="1248" xpos="1300.52" ypos="206.127" zpos="844.486" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="HpPfPl0AekeB1VSmPtYBBQ=="/>
+    <POI MapID="1248" xpos="-1468.16" ypos="315.776" zpos="-481.238" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="u9oBvacEWEKDBSys++Kbig=="/>
+    <POI MapID="1210" xpos="218.02" ypos="92.2172" zpos="-69.934" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="sot4Xyfgyk+gKAhH/w2ccw=="/>
     <POI MapID="1226" xpos="-680.743" ypos="202.71" zpos="670.702" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="pfOJPX8Q3UCxN9oeRunoow=="/>
     <POI MapID="1226" xpos="-604.174" ypos="127.03" zpos="829.216" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="18xgCSMHykuyBl/5s3IlVQ=="/>
     <POI MapID="1226" xpos="-851.927" ypos="31.0216" zpos="1074.85" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="0ObI0W5Kn02CvDwl5pcpdw=="/>

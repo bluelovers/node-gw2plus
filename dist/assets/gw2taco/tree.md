@@ -46,6 +46,7 @@ POIs
 │   ├── Casino Blits.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
+│   ├── Jacaranda.xml
 │   └── Sand Lion.xml
 ├─┬ Chest
 │ ├─┬ Ascalon
@@ -167,6 +168,7 @@ POIs
 │   ├── Casino Blits.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
+│   ├── Jacaranda.xml
 │   └── Sand Lion.xml
 ├─┬ MapSpecific
 │ ├─┬ Guild Hall
@@ -391,6 +393,7 @@ POIs
 │ │   ├── Casino Blits.xml
 │ │   ├── Cheetah.xml
 │ │   ├── Fanged Iboga.xml
+│ │   ├── Jacaranda.xml
 │ │   └── Sand Lion.xml
 │ └─┬ Path of Fire
 │   ├─┬ Crystal Oasis
@@ -425,6 +428,7 @@ POIs
 │   ├── Casino Blits.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
+│   ├── Jacaranda.xml
 │   └── Sand Lion.xml
 ├── ZZZ_SC_Chest.xml
 ├── ZZZ_SC_GuildMission.xml

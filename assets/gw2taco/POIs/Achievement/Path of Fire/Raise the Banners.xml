@@ -14,5 +14,7 @@
     <POI MapID="1223" xpos="-860.112" ypos="8.7456" zpos="-102.949" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="tvWZkDqe7Ui8AypYDW9JCQ=="/>
     <POI MapID="1210" xpos="1375.88" ypos="97.6833" zpos="-266.37" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="SkhekupGek2mGrsPeSLv7Q=="/>
     <POI MapID="1248" xpos="1300.52" ypos="206.127" zpos="844.486" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="HpPfPl0AekeB1VSmPtYBBQ=="/>
+    <POI MapID="1248" xpos="-1468.16" ypos="315.776" zpos="-481.238" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="u9oBvacEWEKDBSys++Kbig=="/>
+    <POI MapID="1210" xpos="218.02" ypos="92.2172" zpos="-69.934" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="sot4Xyfgyk+gKAhH/w2ccw=="/>
   </POIs>
 </OverlayData>

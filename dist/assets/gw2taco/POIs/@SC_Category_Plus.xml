@@ -64,6 +64,7 @@
         <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
         <MarkerCategory name="Cheetah"/>
         <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
+        <MarkerCategory name="Jacaranda"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
