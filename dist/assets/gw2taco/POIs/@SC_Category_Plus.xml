@@ -100,6 +100,7 @@
       <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
       <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
       <MarkerCategory name="Cave" iconFile="Data/Other/Portal/Cave.png" data-iconFile="Data/Other/Portal/Cave.png"/>
+      <MarkerCategory name="Instance"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
