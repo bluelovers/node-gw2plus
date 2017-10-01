@@ -12,6 +12,8 @@
 
 ### desc
 
+if have issues or wanna share file [here](https://github.com/bluelovers/node-gw2plus/issues)
+
 1. download [categorydata.xml](categorydata.xml), replace exists `GW2TacO/categorydata.xml`
 2. download image file [Data/](Data/) into `GW2TacO/Data`, **not realy need but if u wanna looks with better icon**
 3. choose any of `*.xml` u wanna use, put it into `GW2TacO/POIs` folder, **don't put on subfolder**
