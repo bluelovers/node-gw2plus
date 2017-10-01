@@ -16,7 +16,7 @@
 2. download image file [Data/](Data/) into `GW2TacO/Data`, **not realy need but if u wanna looks with better icon**
 3. choose any of `*.xml` u wanna use, put it into `GW2TacO/POIs` folder, **don't put on subfolder**
 
-* `ZZZ_SC_` is lazy merge pack
+* `ZZZ_SC_*.xml` is lazy merge pack
 
 ```
 POIs
@@ -248,6 +248,10 @@ POIs
 │   ├── Currency_1195_Draconis Mons.xml
 │   ├── Currency_62_Cursed Shore.xml
 │   └── Currency_Petrified Wood.xml
+├─┬ Optional
+│ ├── ZZZ_SC_Juvenile Pets.xml
+│ ├── ZZZ_SC_Path of Fire_Achievement.xml
+│ └── ZZZ_SC_Path of Fire_Story.xml
 ├─┬ ResourceNode
 │ ├─┬ MapSpecific
 │ │ ├─┬ Ore
@@ -426,7 +430,6 @@ POIs
 │   └── Sand Lion.xml
 ├── ZZZ_SC_Chest.xml
 ├── ZZZ_SC_GuildMission.xml
-├── ZZZ_SC_Juvenile Pets.xml
 ├── ZZZ_SC_MapSpecific.xml
 ├── ZZZ_SC_ResourceNode.xml
 └── ZZZ_SC_undefined.xml

@@ -1,0 +1,214 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" DisplayName="Crystal Oasis">
+        <MarkerCategory name="Lost Lore of Crystal Oasis" DisplayName="Lost Lore of Crystal Oasis"/>
+      </MarkerCategory>
+      <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
+        <MarkerCategory name="Carrot Collector" DisplayName="Carrot Collector"/>
+        <MarkerCategory name="Hidden Carrot Hunt" DisplayName="Hidden Carrot Hunt"/>
+        <MarkerCategory name="Lost Lore of Desert Highlands" DisplayName="Lost Lore of Desert Highlands"/>
+      </MarkerCategory>
+      <MarkerCategory name="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" DisplayName="Domain of Vabbi">
+        <MarkerCategory name="Lost Lore of the Domain of Vabbi" DisplayName="Lost Lore of the Domain of Vabbi"/>
+      </MarkerCategory>
+      <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
+        <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
+          <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
+        </MarkerCategory>
+        <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
+      </MarkerCategory>
+      <MarkerCategory name="Glorify the Golden Heart" DisplayName="Glorify the Golden Heart"/>
+      <MarkerCategory name="Open Skies" data-class="fade-max" fadeFar="25200" fadeNear="16800" DisplayName="Open Skies">
+        <MarkerCategory name="Sunspear Sanctuary" DisplayName="Sunspear Sanctuary">
+          <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi"/>
+          <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis"/>
+          <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands"/>
+          <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands"/>
+          <MarkerCategory name="The Desolation" DisplayName="The Desolation"/>
+          <MarkerCategory name="Sunspear Wisdom" data-class="fade-max2" fadeFar="42000" fadeNear="25200" DisplayName="Sunspear Wisdom"/>
+        </MarkerCategory>
+        <MarkerCategory name="On Wings and a Prayer" DisplayName="On Wings and a Prayer"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="Acrid Springs Recovery" DisplayName="Acrid Springs Recovery"/>
+        <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
+        <MarkerCategory name="Shadows Provisions" DisplayName="Shadows Provisions"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="255.956" ypos="60.5678" zpos="620.168" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="mYa2H6HqlU2b8D7UxG6O1Q=="/>
+    <POI MapID="1210" xpos="1205.58" ypos="372.936" zpos="392.209" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="cJUwBoSUvECnZZAHPXkZzQ=="/>
+    <POI MapID="1210" xpos="986.895" ypos="209.571" zpos="394.137" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="+vkGBJw6D0+g21KnqUVJuA=="/>
+    <POI MapID="1210" xpos="1242.32" ypos="170.487" zpos="-450.095" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="UF+e6vXoWEuaor62ve6bKw=="/>
+    <POI MapID="1210" xpos="-1226.43" ypos="3.47934" zpos="-570.796" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="e+23HLpGjkqgVLU5JhnqMA=="/>
+    <POI MapID="1210" xpos="-859.104" ypos="13.3235" zpos="18.0117" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="MPgKTyUeZUe2LXPedqd0hg=="/>
+    <POI MapID="1211" xpos="-55.0221" ypos="265.357" zpos="402.867" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="+bJ/Eg0HAEKqEn6r4WuO6Q=="/>
+    <POI MapID="1211" xpos="-136.972" ypos="267.515" zpos="282.801" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="svX9v2T3mUWyaltE2b+AqQ=="/>
+    <POI MapID="1211" xpos="-254.794" ypos="297.107" zpos="292.423" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="xgXog3i0g06MnzgNlgT04Q=="/>
+    <POI MapID="1211" xpos="-235.711" ypos="310.827" zpos="429.288" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="UD1JKirt4EWQxirIxWmYzQ=="/>
+    <POI MapID="1211" xpos="-275.189" ypos="326.886" zpos="384.962" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="e7kWJ+xnBkCHN9rsuci3FA=="/>
+    <POI MapID="1211" xpos="-215.302" ypos="269.975" zpos="422.952" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="O+Bt15HXpE2BaxHndAHMcw=="/>
+    <POI MapID="1211" xpos="-226.292" ypos="260.722" zpos="443.794" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="8g0WbWJrA0i3ZAkh71nOww=="/>
+    <POI MapID="1211" xpos="-208.777" ypos="261.131" zpos="519.543" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="63quuu1A1UiWtgzNXyx+vA=="/>
+    <POI MapID="1211" xpos="-285.089" ypos="255.026" zpos="400.872" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="bjMwOJn0vk2hDGdl9KKD5g=="/>
+    <POI MapID="1211" xpos="-297.656" ypos="250.766" zpos="446.321" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="w9GkwPYF7Uq4qnwqLJCkKg=="/>
+    <POI MapID="1211" xpos="-307.703" ypos="238.128" zpos="383.669" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="Rs9q5u7JKUqD2rufA0CGvA=="/>
+    <POI MapID="1211" xpos="-273.126" ypos="225.974" zpos="336.943" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="XpmcGEzkKUK/BsyuM9FIsw=="/>
+    <POI MapID="1211" xpos="-258.708" ypos="213.142" zpos="191.251" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="LYDeQirEiU2+PlFOeIIgtQ=="/>
+    <POI MapID="1211" xpos="-230.902" ypos="226.997" zpos="255.27" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="9gDaun7ugkOrADNUc4lmPg=="/>
+    <POI MapID="1211" xpos="-221.364" ypos="234.025" zpos="296.89" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="SY4WRXDI40K4yFz+VI5bXg=="/>
+    <POI MapID="1211" xpos="-169.846" ypos="243.787" zpos="345.82" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="Itk3rT4/5ECEIo5Pb9Gklg=="/>
+    <POI MapID="1211" xpos="-160.988" ypos="242.081" zpos="308.776" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="b/2FlPC9xk66H94gkd3d9Q=="/>
+    <POI MapID="1211" xpos="-197.503" ypos="251.092" zpos="384.582" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="gzesmOyVXEygXh6epada8A=="/>
+    <POI MapID="1211" xpos="-159.098" ypos="249.14" zpos="390.28" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="4dm4skqZ+E2wrM3qQPUZ8g=="/>
+    <POI MapID="1211" xpos="-109.928" ypos="251.5" zpos="404.828" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="wF7zLpQeAU2dM/vMuUUyZA=="/>
+    <POI MapID="1211" xpos="-52.4166" ypos="279.52" zpos="506.983" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="GSZ8n2uD/keIfr6crEqiMA=="/>
+    <POI MapID="1211" xpos="-41.4055" ypos="291.899" zpos="427.699" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="4ZbaKqxDSESCukKrDq0RPQ=="/>
+    <POI MapID="1211" xpos="-64.6158" ypos="337.779" zpos="573.425" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="YTBdujBt4k2A5fY+EAPWUA=="/>
+    <POI MapID="1211" xpos="-153.018" ypos="283.744" zpos="585.747" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="PtmH2gvVdUuZ0vY+MLELow=="/>
+    <POI MapID="1211" xpos="-160.445" ypos="284.457" zpos="504.68" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="TYEMs0pW3UWaL0lA/1VF4Q=="/>
+    <POI MapID="1211" xpos="-8.88036" ypos="242.152" zpos="254.008" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="22GoqOvF+0WzWGXbLqC5YQ=="/>
+    <POI MapID="1211" xpos="73.7673" ypos="311.905" zpos="443.367" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="mdcozdd5P0WrT7k7TWHApw=="/>
+    <POI MapID="1211" xpos="113.415" ypos="331.577" zpos="526.559" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="V8DEa6jyLEKiAPUPPUo9VA=="/>
+    <POI MapID="1211" xpos="-145.323" ypos="354.319" zpos="595.47" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="TmiX5s1cck29hdsvPgll+g=="/>
+    <POI MapID="1211" xpos="-151.256" ypos="295.806" zpos="455.989" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="UZgvsX2EbUmpnILTPo2CMQ=="/>
+    <POI MapID="1211" xpos="-119.968" ypos="308.773" zpos="374.093" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="gLK9eLGX+0W9hVPSBeHiRw=="/>
+    <POI MapID="1211" xpos="-68.4292" ypos="218.711" zpos="266.152" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="oy2rhd6yC0im/F1hH74H/Q=="/>
+    <POI MapID="1211" xpos="-328.096" ypos="4.3237" zpos="-479.735" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="hx+YJZ6GyU2RwfV5Rh6xIA=="/>
+    <POI MapID="1211" xpos="-415.496" ypos="22.1198" zpos="-385.892" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="XHwZgmKZcE2Kpd7Fq/85Iw=="/>
+    <POI MapID="1211" xpos="-564.372" ypos="35.3552" zpos="-359.8" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="89NAZOnVK0W/PjsnyLgxxg=="/>
+    <POI MapID="1211" xpos="-689.406" ypos="36.507" zpos="-372.04" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="ry+kVukHr0Og3t+m/m487g=="/>
+    <POI MapID="1211" xpos="-807.08" ypos="3.21367" zpos="-534.464" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="OtoYsmayo0CYrD3QoGux7g=="/>
+    <POI MapID="1211" xpos="-627.449" ypos="3.06917" zpos="-616.969" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="pp7SDTyPXkG6VqvciR49gQ=="/>
+    <POI MapID="1211" xpos="-544.015" ypos="0.423359" zpos="-695.129" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="Ky79sTlXcEuTB6LecdJyOQ=="/>
+    <POI MapID="1211" xpos="-443.03" ypos="39.3766" zpos="-689.444" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="GRSUdqzrzE+nHvT2vWzTiA=="/>
+    <POI MapID="1211" xpos="-295.738" ypos="200.095" zpos="-218.399" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="vHNFD1awpkyAuq+XjyXCJA=="/>
+    <POI MapID="1211" xpos="-544.8" ypos="161.83" zpos="-175.784" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="7439J+dGPECpBf55qdhJFA=="/>
+    <POI MapID="1211" xpos="-407.963" ypos="86.4875" zpos="-180.991" type="achievement.path_of_fire.desert_highlands.hidden_carrot_hunt" GUID="WJrPJtzq5EiC2A76egGULQ=="/>
+    <POI MapID="1211" xpos="-484.505" ypos="278.928" zpos="-18.2637" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="V8LPa2TNRUK7GlKzrBrNZw=="/>
+    <POI MapID="1211" xpos="-1294.38" ypos="434.532" zpos="313.497" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="Qtg7vggnvE+gQh7T8DZdMw=="/>
+    <POI MapID="1248" xpos="1378.64" ypos="102.794" zpos="-595.586" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="FwBsSEiHSE6eDPsGbxt1ig=="/>
+    <POI MapID="1248" xpos="-1233.85" ypos="120.401" zpos="346.815" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="bMMPZ54rcki0qRHM9w01pw=="/>
+    <POI MapID="1228" xpos="14.8888" ypos="86.4498" zpos="739.21" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="GeSk4FBf+0uqMlTun16ZvA=="/>
+    <POI MapID="1228" xpos="-232.726" ypos="103.771" zpos="728.788" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="PBgAYVfbkEKEJ3GbAvjODw=="/>
+    <POI MapID="1228" xpos="-472.702" ypos="82.4926" zpos="707.412" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="APUH4PTB006mRloPxso0oQ=="/>
+    <POI MapID="1228" xpos="-621.672" ypos="72.6547" zpos="543.588" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="mpzYDLXgnUmG20GdPi52zQ=="/>
+    <POI MapID="1228" xpos="-661.022" ypos="39.4931" zpos="320.941" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="p9EoZuvsMUKj0TS0YxfiMQ=="/>
+    <POI MapID="1228" xpos="-535.588" ypos="5.76107" zpos="92.1753" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="TM9RhBwWskSacvOsZWSF2A=="/>
+    <POI MapID="1228" xpos="-535.051" ypos="3.36483" zpos="-190.859" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="d4inuU0+s0qJZIPqolWyPg=="/>
+    <POI MapID="1228" xpos="-565.636" ypos="-0.341801" zpos="-563.858" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="/Gb9qoGTP0+AYldT+SGtXg=="/>
+    <POI MapID="1228" xpos="-803.832" ypos="-0.325864" zpos="-652.112" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="daEG/oMbOU2rw6ycXsA5Bg=="/>
+    <POI MapID="1228" xpos="-908.675" ypos="8.79352" zpos="-844.429" type="achievement.path_of_fire.elon_riverlands.ghostly_trio" GUID="XNjGGI0oY0CcGwfhM5cD7w=="/>
+    <POI MapID="1228" xpos="275.423" ypos="96.2503" zpos="742.675" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="+xfkzlcBhECKXicfA/dMxQ=="/>
+    <POI MapID="1228" xpos="-1031.89" ypos="17.6007" zpos="-624.523" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="GxU0Wwc/8Ea9c6buj3//qQ=="/>
+    <POI MapID="1228" xpos="330.532" ypos="196.485" zpos="805.446" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="H6yj5vTcE0a5FeI52HwGSg=="/>
+    <POI MapID="1228" xpos="277.01" ypos="28.1145" zpos="-10.8934" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="0D+QCl65yUmPz8OtYa1dcg=="/>
+    <POI MapID="1228" xpos="-701.04" ypos="100.155" zpos="-205.515" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="4mTdDIu9jU6fJf2SARAuFg=="/>
+    <POI MapID="1228" xpos="625.203" ypos="10.9438" zpos="-942.51" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="8QAnRu994ki514E6xki+MA=="/>
+    <POI MapID="1228" xpos="205.73" ypos="85.9207" zpos="356.027" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="pZHmXG3pe0O38kmgsYtm2g=="/>
+    <POI MapID="1248" xpos="-963.311" ypos="113.507" zpos="945.673" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="cvFAPWd8J0qz3g/EKlTwug=="/>
+    <POI MapID="1248" xpos="-912.279" ypos="91.4292" zpos="915.704" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="HvtmngUmAkeGl7eB/qh1kg=="/>
+    <POI MapID="1248" xpos="-957.905" ypos="91.1862" zpos="892.266" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="G9TU2bv3ZEqQ4PRm27fBjA=="/>
+    <POI MapID="1248" xpos="-999.324" ypos="91.5231" zpos="917.395" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="pw1I1O7KxkieSwhWf8xDRw=="/>
+    <POI MapID="1248" xpos="-1021.11" ypos="91.4437" zpos="962.18" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="LFW+GvOTikSSN1ZWSAdCeg=="/>
+    <POI MapID="1248" xpos="1233.96" ypos="112.84" zpos="-88.9436" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="UO4TW88bmkaCgOoGwlh7hg=="/>
+    <POI MapID="1248" xpos="1373.08" ypos="90.2818" zpos="-112.43" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="vGfNq0bV7kGolcqETbF1fQ=="/>
+    <POI MapID="1248" xpos="1410.06" ypos="275.282" zpos="-805.71" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.domain_of_vabbi" GUID="bnm5NtMs40uM3FrFollucg=="/>
+    <POI MapID="1248" xpos="1286.81" ypos="281.702" zpos="-517.949" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.domain_of_vabbi" GUID="f/4yP3XQLUeX4+DpJXy2Aw=="/>
+    <POI MapID="1248" xpos="988.96" ypos="199.747" zpos="-550.073" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.domain_of_vabbi" GUID="AQAwDXWsvk2Gg7XdGFCY/w=="/>
+    <POI MapID="1248" xpos="1315.95" ypos="210.021" zpos="-128.663" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.domain_of_vabbi" GUID="bsBcyoxB7kGcVaojes9sZg=="/>
+    <POI MapID="1248" xpos="292.702" ypos="101.815" zpos="-611.447" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.domain_of_vabbi" GUID="LwHhpsz8skyT//lR4/gqig=="/>
+    <POI MapID="1248" xpos="1017.4" ypos="133.63" zpos="-808.08" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.domain_of_vabbi" GUID="xH2KLcttzEGcRSEN6S7fsg=="/>
+    <POI MapID="1210" xpos="-353.127" ypos="8.68093" zpos="-344.948" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.crystal_oasis" GUID="utOI+fgXg0yMgeQRmr3D/Q=="/>
+    <POI MapID="1210" xpos="1236.02" ypos="317.838" zpos="451.873" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.crystal_oasis" GUID="gsZdcZY6OU2DHLbzZbRJmw=="/>
+    <POI MapID="1210" xpos="561.503" ypos="278.454" zpos="378.861" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.crystal_oasis" GUID="ydz4ZG3CKE6yLLzG2EK14A=="/>
+    <POI MapID="1210" xpos="169.724" ypos="171.328" zpos="625.03" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.crystal_oasis" GUID="vyn/BA/l9k6w1JaKMKyN+w=="/>
+    <POI MapID="1210" xpos="744.289" ypos="159.749" zpos="-496.152" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.crystal_oasis" GUID="TZuO1SRZ+Uu9KQ0Yy8076w=="/>
+    <POI MapID="1210" xpos="558.588" ypos="172.563" zpos="342.54" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.crystal_oasis" GUID="l3w45hnZHkGwlfQTWhx5lA=="/>
+    <POI MapID="1210" xpos="707.736" ypos="124.094" zpos="111.334" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.crystal_oasis" GUID="dfModLloRUuJz6Bkmv8wDA=="/>
+    <POI MapID="1228" xpos="480.075" ypos="102.091" zpos="909.832" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="mrwHpahi4Umxvu8ey6t30g=="/>
+    <POI MapID="1228" xpos="382.273" ypos="45.0165" zpos="153.681" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="SPM1qwUpE0ygEUh3xpXqrw=="/>
+    <POI MapID="1228" xpos="-1029.2" ypos="16.1836" zpos="-617.604" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="g7maDMjiy0mcYU7gAReI6g=="/>
+    <POI MapID="1228" xpos="-387.571" ypos="93.5475" zpos="-281.179" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="7tPl+9ifSk+ZI23Ovowp6Q=="/>
+    <POI MapID="1228" xpos="-593.332" ypos="26.6779" zpos="-342.888" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="x7sXmcs2u0G4jncfe2HuKA=="/>
+    <POI MapID="1228" xpos="328.176" ypos="85.9468" zpos="-120.026" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="VcBKuqgHgUmb9h9254lP0w=="/>
+    <POI MapID="1211" xpos="540.986" ypos="148.192" zpos="-620.259" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.desert_highlands" GUID="Lyk+qn7XhUGzG1WwykpqsA=="/>
+    <POI MapID="1211" xpos="-598.072" ypos="340.108" zpos="123.459" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.desert_highlands" GUID="AkxQ+MoQW0mq37XJ1DH+0Q=="/>
+    <POI MapID="1211" xpos="-184.461" ypos="292.117" zpos="-129.041" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.desert_highlands" GUID="IMBmpmGbh0SJ/rRbNcDU1Q=="/>
+    <POI MapID="1211" xpos="-992.623" ypos="234.386" zpos="-349.628" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.desert_highlands" GUID="MfDo40Sq6ESmid8hnWwUPA=="/>
+    <POI MapID="1211" xpos="47.6136" ypos="115.316" zpos="-499.467" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.desert_highlands" GUID="1aOdFGGk3k+xI8kq9WchMA=="/>
+    <POI MapID="1211" xpos="35.5966" ypos="335.948" zpos="215.624" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.desert_highlands" GUID="3rA2L6bNSUWtXQ1Z9FX+1Q=="/>
+    <POI MapID="1211" xpos="131.961" ypos="250.98" zpos="-359.212" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.desert_highlands" GUID="onCqhrowVke64GjwZojNnA=="/>
+    <POI MapID="1226" xpos="205.486" ypos="7.45777" zpos="1329.62" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="xRawFEHD+EKSCIyhyYe1tA=="/>
+    <POI MapID="1226" xpos="897.101" ypos="253.163" zpos="-196.784" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="wWxyBUFt9U2YYE0s1nx/8g=="/>
+    <POI MapID="1226" xpos="227.156" ypos="420.055" zpos="-78.8407" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="3uZep4JxD0WmzSiM87EpCQ=="/>
+    <POI MapID="1226" xpos="-131.124" ypos="325.479" zpos="146.291" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="OR3lmt0hZ06N/NzJcmVVpg=="/>
+    <POI MapID="1226" xpos="4.01636" ypos="348.312" zpos="463.568" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="ugXZIMDUeEKZWQOLnRBQIg=="/>
+    <POI MapID="1226" xpos="330.194" ypos="391.746" zpos="181.06" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="zczkXKltg0m1BFkoDmREJw=="/>
+    <POI MapID="1226" xpos="-670.984" ypos="312.645" zpos="366" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="GaEgLYfKW0qpfR/EDzLWpw=="/>
+    <POI MapID="1226" xpos="-438.978" ypos="274.043" zpos="-29.878" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.the_desolation" GUID="ciXLrzG1bEeI49EtH9xCFg=="/>
+    <POI MapID="1228" xpos="-36.011" ypos="125.575" zpos="51.7317" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="XL+FhHN+7EK/ZlBoewFyLQ=="/>
+    <POI MapID="1228" xpos="-834.106" ypos="99.25" zpos="890.446" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.elon_riverlands" GUID="+RLeZfgonUKADZLcrmrDrw=="/>
+    <POI MapID="1248" xpos="1430.34" ypos="153.773" zpos="-678.696" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="c12LisXiMUWyOn2yxyK1+Q=="/>
+    <POI MapID="1248" xpos="1438.88" ypos="153.773" zpos="-675.433" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="LkqLUvoOrEuGmCOXzgYynA=="/>
+    <POI MapID="1248" xpos="1442.14" ypos="153.776" zpos="-666.875" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="xkvaI4kQHEOyBmBna1T9Uw=="/>
+    <POI MapID="1248" xpos="1438.88" ypos="153.774" zpos="-658.883" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="k4KyTB7kP06hCV/sME2OcQ=="/>
+    <POI MapID="1248" xpos="1430.39" ypos="153.775" zpos="-655.277" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="emzmtSiWlk+BSLNT2fD2dg=="/>
+    <POI MapID="1248" xpos="1422.2" ypos="153.773" zpos="-658.771" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="/+w0241zLU+CiJfNJIDQEg=="/>
+    <POI MapID="1248" xpos="1418.4" ypos="153.773" zpos="-667.53" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="m8Jis0a9mE+LGrHERJKrvw=="/>
+    <POI MapID="1248" xpos="1422.41" ypos="153.776" zpos="-675.524" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="t545DSFehk23nGOpqIa1Pw=="/>
+    <POI MapID="1248" xpos="1419.16" ypos="153.501" zpos="-653.216" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="7hdTE7l5GEevmFzkVGI0jQ=="/>
+    <POI MapID="1248" xpos="1435.18" ypos="153.516" zpos="-646.765" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="KD6aXmyuXE6GnX0wOzpM4g=="/>
+    <POI MapID="1248" xpos="1441.99" ypos="153.33" zpos="-649.778" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="V7+fSecuCUiesi8tQE3+BQ=="/>
+    <POI MapID="1248" xpos="1448.31" ypos="153.243" zpos="-678.614" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="OG18eWBhTEmaE32qnoNX1Q=="/>
+    <POI MapID="1248" xpos="1431.66" ypos="153.317" zpos="-687.083" type="achievement.path_of_fire.open_skies.sunspear_sanctuary" GUID="6pLc4PDAFUu49uipe1kX0w=="/>
+    <POI MapID="1248" xpos="1455.64" ypos="153.482" zpos="-667.021" type="achievement.path_of_fire.open_skies.on_wings_and_a_prayer" GUID="oDq+vl8PUkyyib2tnuiLug=="/>
+    <POI MapID="1211" xpos="1453.6" ypos="163.455" zpos="580.29" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="VN4cka1Uh0G+6nWZjRw0ng=="/>
+    <POI MapID="1256" xpos="604.069" ypos="2.27685" zpos="270.24" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="DH3lcMbF7kSiMm4UxBRBRg=="/>
+    <POI MapID="1256" xpos="561.453" ypos="141.715" zpos="243.529" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="tbDkzNIJDUGfD3/Ud91PVg=="/>
+    <POI MapID="1256" xpos="748.693" ypos="141.014" zpos="206.217" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="qNYegiTc20WW7gtAucblfA=="/>
+    <POI MapID="1256" xpos="827.408" ypos="2.95662" zpos="73.8613" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="sax+qi3ScUW623QR2X/1ww=="/>
+    <POI MapID="1256" xpos="736.522" ypos="2.55814" zpos="154.556" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="Ib88NShc7UagOugIEEcDHA=="/>
+    <POI MapID="1256" xpos="597.331" ypos="2.56232" zpos="101.691" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="H/0OUyWjXUOJRNumlLri3g=="/>
+    <POI MapID="1256" xpos="521.524" ypos="0.407684" zpos="152.624" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="WLeYb+sJxECMpx3PwvJzGg=="/>
+    <POI MapID="1256" xpos="506.891" ypos="4.47746" zpos="347.387" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="4bPQgn6tv0GRyFoXt+JMPw=="/>
+    <POI MapID="1256" xpos="610.104" ypos="2.47022" zpos="321.171" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="g9aRZGvOxk2ThNs1DxR0qg=="/>
+    <POI MapID="1256" xpos="834.72" ypos="4.47628" zpos="263.885" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="83g3QVbOGU+6mwOnZDwLGA=="/>
+    <POI MapID="1256" xpos="842.176" ypos="2.95655" zpos="119.361" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="iorC9aYVHkutzCyJ9/f+7w=="/>
+    <POI MapID="1256" xpos="721.509" ypos="4.47726" zpos="-41.8901" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="JsrhuT5x6Eyaq4GPCO/96g=="/>
+    <POI MapID="1256" xpos="682.667" ypos="3.6096" zpos="-81.6901" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="HL0Bbsm36kK7R8UC4d3LKA=="/>
+    <POI MapID="1256" xpos="457.793" ypos="2.62272" zpos="-3.86277" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="l8EZrbCnmUCa2LGpCPsdLA=="/>
+    <POI MapID="1256" xpos="433.034" ypos="4.47644" zpos="64.5271" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="pQn4PjTLAkubZI0cwTQkDg=="/>
+    <POI MapID="1256" xpos="425.463" ypos="2.95663" zpos="201.502" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="aciZcR5NO0ugQLZj3pdizA=="/>
+    <POI MapID="1256" xpos="752.478" ypos="141.115" zpos="140.512" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="87Lkoih/jk6VuP4++eSriw=="/>
+    <POI MapID="1256" xpos="416.655" ypos="147.841" zpos="194.969" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="wtAP8kk4oUSu/6S6XAcaRw=="/>
+    <POI MapID="1256" xpos="444.228" ypos="13.9982" zpos="331.743" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="QqPmh5MPi0yQLRa1P3lXFw=="/>
+    <POI MapID="1256" xpos="803.807" ypos="2.73977" zpos="364.797" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="gvnyTYlmdEOmYhgG7l+k+A=="/>
+    <POI MapID="1256" xpos="710.125" ypos="16.3648" zpos="337.32" type="achievement.path_of_fire.open_skies.sunspear_sanctuary.sunspear_wisdom" GUID="tLevhmC5OUKaSKhLEKLqoQ=="/>
+    <POI MapID="1226" xpos="-680.743" ypos="202.71" zpos="670.702" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="pfOJPX8Q3UCxN9oeRunoow=="/>
+    <POI MapID="1226" xpos="-604.174" ypos="127.03" zpos="829.216" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="18xgCSMHykuyBl/5s3IlVQ=="/>
+    <POI MapID="1226" xpos="-851.927" ypos="31.0216" zpos="1074.85" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="0ObI0W5Kn02CvDwl5pcpdw=="/>
+    <POI MapID="1226" xpos="-959.588" ypos="107.432" zpos="938.749" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="6rnUwJNfRUKfLrLkYMPiGg=="/>
+    <POI MapID="1226" xpos="-888.354" ypos="2.53037" zpos="1187" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="ZhRT6aF9IE6FQk9maSMbVA=="/>
+    <POI MapID="1226" xpos="-929.393" ypos="0.460588" zpos="1048.55" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="85yi79ufvEiekzvK+FEM5A=="/>
+    <POI MapID="1226" xpos="-983.422" ypos="1.89012" zpos="1209.55" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="AcchZ/s0Jk2Zw7mBxjf3bw=="/>
+    <POI MapID="1226" xpos="935.989" ypos="201.353" zpos="946.564" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="EAxfZG2VvkyNVuzJXTKLwQ=="/>
+    <POI MapID="1211" xpos="-701.328" ypos="194.25" zpos="-250.525" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="a0irWTqIbkmMO7riRieyew=="/>
+    <POI MapID="1211" xpos="468.203" ypos="288.928" zpos="589.64" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="TBe8uf4giEGFnKlLMZ3nYQ=="/>
+    <POI MapID="1226" xpos="773.957" ypos="294.429" zpos="-459.56" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="WXAeuNJqxEiF4BZxOEEAeQ=="/>
+    <POI MapID="1226" xpos="334.619" ypos="291.403" zpos="-956.602" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="EFOsyz2J50KdX3pqWTiIEg=="/>
+    <POI MapID="1226" xpos="-161.045" ypos="354.546" zpos="-1314.17" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="mdY+QQlQeUynsrR3MROpmg=="/>
+    <POI MapID="1226" xpos="21.2053" ypos="256.372" zpos="-99.2542" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="nqaCwWF+VEShveZAdI32Xg=="/>
+    <POI MapID="1226" xpos="550.732" ypos="264.642" zpos="446.173" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="V8+ZDEFbhUabFWQyPY0coA=="/>
+    <POI MapID="1226" xpos="-903.346" ypos="150.809" zpos="145.691" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="9qHz3O/YSkqiqDI1SwtcDg=="/>
+    <POI MapID="1226" xpos="-447.945" ypos="228.84" zpos="-1041.8" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="tCnJl3kLgUW0lIiaaEvH8Q=="/>
+    <POI MapID="1226" xpos="442.428" ypos="158.387" zpos="872.893" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="C/7ka7JZ80KNmLlgftEBPg=="/>
+    <POI MapID="1226" xpos="-610.99" ypos="341.714" zpos="-516.497" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="Y1BrTBNy6E6Ga3rCFiL3ng=="/>
+    <POI MapID="1226" xpos="-544.513" ypos="328.583" zpos="172.419" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="VSlsr8i1GUOKZGKDWunoPQ=="/>
+    <POI MapID="1226" xpos="284.215" ypos="294.038" zpos="-1151.38" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="9+UdC0twTUW5rrmEdsiEhw=="/>
+    <POI MapID="1226" xpos="627.859" ypos="8.85463" zpos="1419.79" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="1JcMChWKTEWJ/RfdK/iV5w=="/>
+    <POI MapID="1226" xpos="-544.226" ypos="328.649" zpos="171.819" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="txSb9nrpV0mJBZIA47WmWw=="/>
+  </POIs>
+</OverlayData>

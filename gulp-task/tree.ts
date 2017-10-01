@@ -53,7 +53,7 @@ addGulpTasks({
 2. download image file [Data/](Data/) into \`GW2TacO/Data\`, **not realy need but if u wanna looks with better icon**
 3. choose any of \`*.xml\` u wanna use, put it into \`GW2TacO/POIs\` folder, **don't put on subfolder**
 
-* \`ZZZ_SC_\` is lazy merge pack
+* \`ZZZ_SC_*.xml\` is lazy merge pack
 
 \`\`\`
 ${ts}

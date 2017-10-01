@@ -52,6 +52,14 @@
         </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="3" data-allowsub="true">
+        <MarkerCategory name="The Departing">
+          <MarkerCategory name="The Judge"/>
+          <MarkerCategory name="Joko"/>
+          <MarkerCategory name="Boss"/>
+          <MarkerCategory name="Name"/>
+          <MarkerCategory name="Search for Weapons"/>
+          <MarkerCategory name="The Whole Story"/>
+        </MarkerCategory>
         <MarkerCategory name="Beast of War">
           <MarkerCategory name="Destroy Additional Pylons"/>
         </MarkerCategory>
