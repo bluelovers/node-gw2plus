@@ -671,6 +671,52 @@ addGulpTasks({
 									}
 
 									break;
+								case 'back_item.raise_the_banners__salute_to_palawa_joko':
+								case 'back_item.raise_the_banners__amnoon_independence':
+								case 'back_item.raise_the_banners__sunspear_support':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Raise the Banners',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'back_item.raise_the_banners__salute_to_palawa_joko':
+
+											type_new = type_new
+												.concat([
+													'Salute to Palawa Joko',
+												])
+											;
+
+											break;
+										case 'back_item.raise_the_banners__amnoon_independence':
+
+											type_new = type_new
+												.concat([
+													'Amnoon Independence',
+												])
+											;
+
+											break;
+										case 'back_item.raise_the_banners__sunspear_support':
+
+											type_new = type_new
+												.concat([
+													'Sunspear Support',
+												])
+											;
+											break;
+
+										default:
+											break POIS;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
