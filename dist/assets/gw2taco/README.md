@@ -5,7 +5,7 @@
 
 ### archive
 
-* [categorydata.xml](categorydata.xml) - overwrite style
+* [categorydata.xml](categorydata.xml) - overwrite style ( icon , display range )
 * [maptimer.xml](maptimer.xml) - event timer
 * [archive/GW2TacO_Data.zip](archive/GW2TacO_Data.zip) - icon
 * [archive/GW2TacO_POIs.zip](archive/GW2TacO_POIs.zip) - poi
@@ -19,6 +19,11 @@
 * `ZZZ_SC_*.xml` is lazy Merged Package
 * [Merged Package](POIs/Optional/)
 * [Full File List](tree.md)
+
+#### dev markers
+
+* [POIs/ZZZ_SC_undefined.xml](ZZZ_SC_undefined.xml) - for make unknow markers
+* [POIs/ZZZ_SC_Temp.xml](ZZZ_SC_Temp.xml) - for make temp makers
 
 ## FAQ
 
