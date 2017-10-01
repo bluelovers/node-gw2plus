@@ -275,6 +275,9 @@
           </MarkerCategory>
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
+        <MarkerCategory name="The Departing" DisplayName="The Departing">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
