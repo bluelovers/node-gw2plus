@@ -326,5 +326,9 @@
 		<POI MapID="1210" xpos="172.302" ypos="80.147" zpos="-154.376" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="XJiifODp0kyBtmEsHPHENA=="/>
 		<POI MapID="1210" xpos="177.879" ypos="80.2912" zpos="-141.101" type="resourcenode.plant.orichalcum.flax" GUID="G3wJMPY/dU2pvZ3lxQNmtg=="/>
 		<POI MapID="1210" xpos="175.69" ypos="82.3931" zpos="-90.1751" type="resourcenode.wood.elder" GUID="mVUNo9m4uUyFLA4kYERy2w=="/>
+		<POI MapID="1210" xpos="-1177.23" ypos="21.8106" zpos="462.879" type="temp.path_of_fire.treasure" GUID="0dpwekUe90eEWBXfE/fAAA=="/>
+		<POI MapID="1210" xpos="-774.177" ypos="85.01" zpos="204.192" type="resourcenode.ore.normal.orichalcum" GUID="45L1dQj3QE25UeV6xndUww=="/>
+		<POI MapID="1210" xpos="649.198" ypos="39.6315" zpos="241.099" type="temp.path_of_fire.treasure" GUID="VYiTUFS9FkmpwczTr1tGIQ=="/>
+		<POI MapID="1248" xpos="125.874" ypos="105.8" zpos="-368.386" type="temp.path_of_fire.race.start" GUID="RMyL/KZ/w0a6scPP0/AWpg=="/>
 	</POIs>
 </OverlayData>
