@@ -78,12 +78,13 @@
         <MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs"/>
         <MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables"/>
       </MarkerCategory>
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
         <MarkerCategory name="Cactus"/>
         <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
         <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
         <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data/ResourceNode/Plant/Orichalcum/JunglePlants.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/JunglePlants.png" iconSize="0.35"/>
+        <MarkerCategory name="Lentils" iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" iconSize="0.35"/>
         <MarkerCategory name="Lotus"/>
         <MarkerCategory name="Mussels" iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" iconSize="0.35"/>
         <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35"/>
@@ -91,7 +92,6 @@
         <MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms"/>
         <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" iconSize="0.35"/>
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
-        <MarkerCategory name="Lentils" iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" iconSize="0.35"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
@@ -134,6 +134,7 @@
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+    <MarkerCategory name="Skritt" heightOffset="3" iconSize="1.5" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
   </MarkerCategory>
   <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="AStudyInGold" DisplayName="A Study in Gold" iconFile="Data/Auric_Basin.png" behavior="3"/>
@@ -170,30 +171,9 @@
       <MarkerCategory name="TribulationTrail" iconFile="Data/storyline_green.png" iconSize="0.3" alpha="0.9" heightOffset="0.7" fadeNear="2000" fadeFar="2200"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Timed">
-      <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
-    </MarkerCategory>
-    <MarkerCategory name="Raid">
-      <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
-      <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
-      <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
-      <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
-      <MarkerCategory name="Counter_1" DisplayName="Counter - 1" iconFile="Data/one.png"/>
-      <MarkerCategory name="Counter_2" DisplayName="Counter - 2" iconFile="Data/two.png"/>
-      <MarkerCategory name="Counter_3" DisplayName="Counter - 3" iconFile="Data/three.png"/>
-      <MarkerCategory name="Counter_4" DisplayName="Counter - 4" iconFile="Data/four.png"/>
-      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
-      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
-    </MarkerCategory>
-    <MarkerCategory name="WvW" minSize="16" maxSize="32">
-      <MarkerCategory name="Camp" DisplayName="Camp" iconFile="Data/camp.png"/>
-      <MarkerCategory name="Tower" DisplayName="Tower" iconFile="Data/tower.png"/>
-      <MarkerCategory name="Keep" DisplayName="Keep" iconFile="Data/keep.png"/>
-      <MarkerCategory name="Ruins" DisplayName="Ruins" iconFile="Data/ruins.png"/>
-      <MarkerCategory name="Generic" DisplayName="Generic" iconFile="Data/generic.png"/>
-      <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
-      <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Adventure">
+      <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
@@ -239,9 +219,6 @@
         <MarkerCategory name="Sand Lion"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Adventure">
-      <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
-    </MarkerCategory>
     <MarkerCategory name="Path of Fire">
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png">
         <MarkerCategory name="Round 1" iconFile="Data/1.png"/>
@@ -249,6 +226,30 @@
         <MarkerCategory name="Round 3" iconFile="Data/3.png"/>
         <MarkerCategory name="Boss" data-class="boss-1" iconFile="Data/Boss.png" heightOffset="3"/>
       </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
+      <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
+      <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
+      <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
+      <MarkerCategory name="Counter_1" DisplayName="Counter - 1" iconFile="Data/one.png"/>
+      <MarkerCategory name="Counter_2" DisplayName="Counter - 2" iconFile="Data/two.png"/>
+      <MarkerCategory name="Counter_3" DisplayName="Counter - 3" iconFile="Data/three.png"/>
+      <MarkerCategory name="Counter_4" DisplayName="Counter - 4" iconFile="Data/four.png"/>
+      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
+    </MarkerCategory>
+    <MarkerCategory name="Timed">
+      <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
+    </MarkerCategory>
+    <MarkerCategory name="WvW" minSize="16" maxSize="32">
+      <MarkerCategory name="Camp" DisplayName="Camp" iconFile="Data/camp.png"/>
+      <MarkerCategory name="Tower" DisplayName="Tower" iconFile="Data/tower.png"/>
+      <MarkerCategory name="Keep" DisplayName="Keep" iconFile="Data/keep.png"/>
+      <MarkerCategory name="Ruins" DisplayName="Ruins" iconFile="Data/ruins.png"/>
+      <MarkerCategory name="Generic" DisplayName="Generic" iconFile="Data/generic.png"/>
+      <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
+      <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200">
