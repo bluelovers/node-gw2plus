@@ -78,7 +78,7 @@
         <MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs"/>
         <MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables"/>
       </MarkerCategory>
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
         <MarkerCategory name="Cactus"/>
         <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
@@ -109,7 +109,7 @@
   </MarkerCategory>
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400">
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Timed">
       <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
     </MarkerCategory>
