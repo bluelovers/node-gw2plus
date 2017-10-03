@@ -98,6 +98,7 @@ POIs
 │ │ ├── Chest_28_Wayfarer Foothills.xml
 │ │ ├── Chest_29_Timberline Falls.xml
 │ │ └── Chest_30_Frostgorge Sound.xml
+│ ├── Skritt.xml
 │ ├─┬ Tarnished Coast
 │ │ ├── Chest_34_Caledon Forest.xml
 │ │ ├── Chest_35_Metrica Province.xml
