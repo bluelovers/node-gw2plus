@@ -48,11 +48,17 @@
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3"/>
   </MarkerCategory>
   <MarkerCategory name="Tactical">
-		<MarkerCategory name="GuildMission">
+		<MarkerCategory name="GuildMission" data-sort="true">
 			<MarkerCategory name="Trek" heightOffset="4"/>
-      <MarkerCategory name="Puzzle"/>
+      <MarkerCategory name="Puzzle">
+        <MarkerCategory name="Portal"/>
+      </MarkerCategory>
       <MarkerCategory name="Race" data-allowsub="true">
         <MarkerCategory name="Trap"/>
+      </MarkerCategory>
+      <MarkerCategory name="Challenge">
+        <MarkerCategory name="Portal"/>
+        <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
       </MarkerCategory>
 		</MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3">

@@ -47,5 +47,7 @@
     <POI MapID="1175" xpos="-769.456" ypos="2.71667" zpos="-387.919" type="resourcenode.plant.mithril.passiflora" GUID="L8jsJftr5E6EaEm+9FpcJg=="/>
     <POI MapID="1175" xpos="-569.391" ypos="14.6086" zpos="-684.06" type="resourcenode.plant.mithril.passiflora" GUID="uva4NHUl8EWcnjEEzDDCcg=="/>
     <POI MapID="1175" xpos="-691.651" ypos="21.0434" zpos="-626.377" type="resourcenode.plant.mithril.passiflora" GUID="w4Yku+PbKk+Mg4TSvPx+Tw=="/>
+    <POI MapID="873" xpos="393.994" ypos="54.4715" zpos="-142.576" type="resourcenode.plant.mithril.passiflora" GUID="fPjXoSj11keg5GRl7ewBFg=="/>
+    <POI MapID="873" xpos="439.15" ypos="51.7265" zpos="-136.907" type="resourcenode.plant.mithril.passiflora" GUID="r6m3TM2U90WmI33XpUYRQQ=="/>
   </POIs>
 </OverlayData>

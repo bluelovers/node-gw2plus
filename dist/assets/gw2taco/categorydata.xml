@@ -134,7 +134,7 @@
       <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
       <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
     </MarkerCategory>
-    <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
+    <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>
     </MarkerCategory>
   </MarkerCategory>

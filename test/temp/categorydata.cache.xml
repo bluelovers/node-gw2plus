@@ -195,7 +195,7 @@
       <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
       <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
     </MarkerCategory>
-    <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
+    <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
         <MarkerCategory name="2mult" DisplayName="2Mult"/>
         <MarkerCategory name="BigMayana" DisplayName="Big Mayana" iconFile="Data/Bounty_bw.png" color="ff80ff80"/>
@@ -217,11 +217,17 @@
         <MarkerCategory name="trilliamidwell" DisplayName="Trillia Midwell"/>
         <MarkerCategory name="Yanonka" iconFile="Data/Bounty_bw.png" color="ff80ff80"/>
       </MarkerCategory>
-      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
-      <MarkerCategory name="Puzzle"/>
+      <MarkerCategory name="Challenge" iconFile="Data/Tactical/GuildMission/Challenge.png" data-iconFile="Data/Tactical/GuildMission/Challenge.png">
+        <MarkerCategory name="Portal"/>
+        <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
+      </MarkerCategory>
+      <MarkerCategory name="Puzzle">
+        <MarkerCategory name="Portal"/>
+      </MarkerCategory>
       <MarkerCategory name="Race" data-allowsub="true">
         <MarkerCategory name="Trap"/>
       </MarkerCategory>
+      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png">
       <MarkerCategory name="Core" data-sort="true" data-allowsub="true"/>
