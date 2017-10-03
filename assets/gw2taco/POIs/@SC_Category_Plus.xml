@@ -9,7 +9,7 @@
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Plant" data-class="iconsize-0.35">
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="Lentils"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -46,8 +46,9 @@
       <MarkerCategory name="Strongbox"/>
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3"/>
+    <MarkerCategory name="Skritt" heightOffset="3" iconSize="1.5"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical">
+  <MarkerCategory name="Tactical" data-sort="true">
 		<MarkerCategory name="GuildMission" data-sort="true">
 			<MarkerCategory name="Trek" heightOffset="4"/>
       <MarkerCategory name="Puzzle">
