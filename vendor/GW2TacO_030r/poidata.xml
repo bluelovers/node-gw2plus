@@ -330,5 +330,8 @@
 		<POI MapID="1210" xpos="-774.177" ypos="85.01" zpos="204.192" type="resourcenode.ore.normal.orichalcum" GUID="45L1dQj3QE25UeV6xndUww=="/>
 		<POI MapID="1210" xpos="649.198" ypos="39.6315" zpos="241.099" type="temp.path_of_fire.treasure" GUID="VYiTUFS9FkmpwczTr1tGIQ=="/>
 		<POI MapID="1248" xpos="125.874" ypos="105.8" zpos="-368.386" type="temp.path_of_fire.race.start" GUID="RMyL/KZ/w0a6scPP0/AWpg=="/>
+		<POI MapID="1188" xpos="370.579" ypos="33.7204" zpos="61.9307" GUID="U038uHZdykmbwhWH2RE6oQ=="/>
+		<POI MapID="873" xpos="393.994" ypos="54.4715" zpos="-142.576" type="resourcenode.plant.mithril.passiflora" GUID="fPjXoSj11keg5GRl7ewBFg=="/>
+		<POI MapID="873" xpos="439.15" ypos="51.7265" zpos="-136.907" type="resourcenode.plant.mithril.passiflora" GUID="r6m3TM2U90WmI33XpUYRQQ=="/>
 	</POIs>
 </OverlayData>
