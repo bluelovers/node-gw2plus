@@ -50,6 +50,7 @@ addGulpTasks({
 				'resourcenode.mapspecific.synthesizer',
 				'resourcenode.mapspecific.plant.toxic_seedling',
 				'ls.ls3.flashpoint.lessons_learned',
+				'chest.skritt',
 			];
 
 			let types2 = {
@@ -84,7 +85,16 @@ addGulpTasks({
 
 				let type = _this.attr('type');
 
-				if (type && !type.match(/undefined/))
+				if (typeof type == 'undefined' || type == '')
+				{
+					type = 'undefined';
+				}
+				type = type.toString();
+
+				const IS_UNDEFINED = !!type.match(/undefined/);
+				const IS_TEMP = !!type.match(/^temp\./);
+
+				if (type && !IS_UNDEFINED)
 				{
 					let elem = _this.clone();
 
