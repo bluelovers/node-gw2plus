@@ -28,7 +28,7 @@
       <MarkerCategory name="Mithril">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -80,14 +80,8 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Timed">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="Raid">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="WvW" minSize="16" maxSize="32">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Adventure">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
@@ -117,13 +111,19 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Adventure">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
     <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Timed">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="WvW" minSize="16" maxSize="32">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>

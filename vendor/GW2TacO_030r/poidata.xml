@@ -335,5 +335,8 @@
     <POI MapID="1131" xpos="-400.884" ypos="1.72817" zpos="-983.975" type="tactical.guildmission.challenge" GUID="fQGaavOPjUm2ilI5qzQn4A=="/>
     <POI MapID="1131" xpos="-307.061" ypos="14.9807" zpos="-1022.74" type="tactical.guildmission.challenge.checkpoint" GUID="rFo8UkuUZ06RQr0KWmNj2w=="/>
     <POI MapID="20" xpos="-315.981" ypos="14.9729" zpos="-1017.6" type="tactical.guildmission.challenge.portal" GUID="FvAY9GSn4EyZlQ9ldhubfw=="/>
+    <POI MapID="1248" xpos="-1278.3" ypos="93.0353" zpos="-29.8655" type="other.portal.cave" GUID="H9weQWRPZEShGWfVsFVkRw=="/>
+    <POI MapID="1248" xpos="-1313" ypos="61.4002" zpos="-102.037" type="other.portal.cave" GUID="WoxuK8YT6E2F+6kvF0OdWQ=="/>
+    <POI MapID="1248" xpos="-1379.54" ypos="109.127" zpos="819.394" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="WIGvHGmSKkWfDA7C2Ip1ZA=="/>
   </POIs>
 </OverlayData>

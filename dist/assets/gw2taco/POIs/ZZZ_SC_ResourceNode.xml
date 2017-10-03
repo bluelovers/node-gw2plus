@@ -67,7 +67,7 @@
         <MarkerCategory name="Passiflora"/>
         <MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables"/>
       </MarkerCategory>
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
         <MarkerCategory name="Cactus"/>
         <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
@@ -2082,6 +2082,7 @@
     <POI MapID="1228" xpos="-653.978" ypos="39.729" zpos="321.53" type="resourcenode.plant.orichalcum.flax" GUID="7IOgaKlH+U6kJM9FS3EEjw=="/>
     <POI MapID="1211" xpos="-591.409" ypos="239.475" zpos="-160.376" type="resourcenode.plant.orichalcum.flax" GUID="j0J/BxIJkECAS9Jv3jRAHQ=="/>
     <POI MapID="1210" xpos="177.879" ypos="80.2912" zpos="-141.101" type="resourcenode.plant.orichalcum.flax" GUID="G3wJMPY/dU2pvZ3lxQNmtg=="/>
+    <POI MapID="1248" xpos="-145.82" ypos="124.296" zpos="-254.89" type="resourcenode.plant.orichalcum.flax" GUID="1rBi2yVuEEiVTkmPk0PcYw=="/>
     <POI MapID="62" xpos="-109.765" ypos="6.76475" zpos="356.627" type="resourcenode.plant.orichalcum.ghostpepper" GUID="D83uvl6Yr0G8d5q2SoUNAw=="/>
     <POI MapID="62" xpos="-72.4047" ypos="9.82258" zpos="131.47" type="resourcenode.plant.orichalcum.ghostpepper" GUID="BOeWelhAm0qKU4HDDX4tmw=="/>
     <POI MapID="62" xpos="85.2145" ypos="25.0237" zpos="365.692" type="resourcenode.plant.orichalcum.ghostpepper" GUID="yymbhi50rEG4UmAywURdSw=="/>

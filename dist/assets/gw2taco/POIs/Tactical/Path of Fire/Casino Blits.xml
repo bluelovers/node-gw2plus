@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
         <MarkerCategory name="Round 1" iconFile="Data/1.png" DisplayName="Round 1"/>

@@ -98,5 +98,6 @@
     <POI MapID="1248" xpos="130.46" ypos="82.4284" zpos="638.291" type="chest.mapspecific.keyrequired" GUID="3aC+K9/iRk+gMnkdnEo/tg=="/>
     <POI MapID="1248" xpos="-948.528" ypos="272.704" zpos="-337.29" type="chest.mapspecific.keyrequired" GUID="IEJJ0DLV30CTVqbocGe8Nw=="/>
     <POI MapID="1248" xpos="-1336.81" ypos="322.003" zpos="-645.116" type="chest.permanent" GUID="RAupMSHlBECSWds4jeHfWQ=="/>
+    <POI MapID="1248" xpos="-1271.59" ypos="93.7859" zpos="-26.3517" type="chest.mapspecific.keyrequired" GUID="8MtWH9w4jkWJece2W1I/4w=="/>
   </POIs>
 </OverlayData>

@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png">
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -157,5 +157,6 @@
     <POI MapID="1228" xpos="-653.978" ypos="39.729" zpos="321.53" type="resourcenode.plant.orichalcum.flax" GUID="7IOgaKlH+U6kJM9FS3EEjw=="/>
     <POI MapID="1211" xpos="-591.409" ypos="239.475" zpos="-160.376" type="resourcenode.plant.orichalcum.flax" GUID="j0J/BxIJkECAS9Jv3jRAHQ=="/>
     <POI MapID="1210" xpos="177.879" ypos="80.2912" zpos="-141.101" type="resourcenode.plant.orichalcum.flax" GUID="G3wJMPY/dU2pvZ3lxQNmtg=="/>
+    <POI MapID="1248" xpos="-145.82" ypos="124.296" zpos="-254.89" type="resourcenode.plant.orichalcum.flax" GUID="1rBi2yVuEEiVTkmPk0PcYw=="/>
   </POIs>
 </OverlayData>
