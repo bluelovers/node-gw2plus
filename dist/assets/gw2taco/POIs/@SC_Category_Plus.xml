@@ -9,7 +9,7 @@
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Plant" data-class="iconsize-0.35" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png">
-      <MarkerCategory name="Orichalcum">
+      <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="Lentils" iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" iconSize="0.35"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -46,8 +46,9 @@
       <MarkerCategory name="Strongbox"/>
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+    <MarkerCategory name="Skritt" heightOffset="3" iconSize="1.5" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" data-sort="true" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="GuildMission" data-sort="true" DisplayName="Guild Missions">
       <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
       <MarkerCategory name="Puzzle">
