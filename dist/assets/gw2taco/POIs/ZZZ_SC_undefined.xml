@@ -90,8 +90,14 @@
     <MarkerCategory name="WvW" minSize="16" maxSize="32">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
+    <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Challenge" iconFile="Data/Tactical/GuildMission/Challenge.png" data-iconFile="Data/Tactical/GuildMission/Challenge.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Puzzle">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Race" data-allowsub="true">
