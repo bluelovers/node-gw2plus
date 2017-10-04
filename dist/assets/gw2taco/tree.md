@@ -104,6 +104,9 @@ POIs
 │ │ ├── Chest_35_Metrica Province.xml
 │ │ ├── Chest_53_Sparkfly Fen.xml
 │ │ └── Chest_67_Twilight Arbor.xml
+│ ├─┬ Treasure
+│ │ ├── Chest_Treasure_1210_Crystal Oasis.xml
+│ │ └── Chest_Treasure_1211_Desert Highlands.xml
 │ └─┬ World vs.World
 │   └── Chest_38_Eternal Battlegrounds.xml
 ├── DivingGoggles.xml
