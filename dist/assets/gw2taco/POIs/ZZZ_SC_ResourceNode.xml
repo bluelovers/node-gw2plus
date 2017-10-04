@@ -4,7 +4,7 @@
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" heightOffset="2">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant" heightOffset="1.6">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
         <MarkerCategory name="Toxic Seedling" data-class="size-0.35" iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" data-iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" iconSize="0.35" DisplayName="Toxic Seedling"/>
       </MarkerCategory>
@@ -41,7 +41,7 @@
         <MarkerCategory name="Rich" data-class="size-1" iconSize="1"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" heightOffset="2" data-iconFile="Data/Plant.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
       <MarkerCategory name="Copper">
         <MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush"/>
         <MarkerCategory name="Carrots"/>
