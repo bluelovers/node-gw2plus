@@ -1,13 +1,14 @@
 <OverlayData>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" heightOffset="2" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Permanent"/>
-    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
       <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="VerdantBrink" DisplayName="Verdant Brink" iconFile="data/airshippart.png"/>
+      <MarkerCategory name="Treasure"/>
     </MarkerCategory>
-    <MarkerCategory name="Skritt" heightOffset="3" iconSize="1.5" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
+    <MarkerCategory name="Skritt" heightOffset="3" iconSize="2.5" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
   </MarkerCategory>
   <POIs>
     <POI MapID="19" xpos="1212.46" ypos="45.9487" zpos="602.448" type="chest.permanent" GUID="9SEnzyn5/0Gb3M0ZZvDZGQ=="/>
@@ -117,6 +118,12 @@
     <POI MapID="1210" xpos="-944.904" ypos="52.1932" zpos="228.332" type="chest.mapspecific.keyrequired" GUID="yIwwE5uBHkSXxgA5L8m1dw=="/>
     <POI MapID="1210" xpos="733.006" ypos="136.377" zpos="349.611" type="chest.mapspecific.keyrequired" GUID="9PLRqjQO5ESXrsZXDGkPoA=="/>
     <POI MapID="1210" xpos="218.003" ypos="92.1703" zpos="-69.8523" type="chest.permanent" GUID="ybINjAYGcUScDbbnyk7Z9w=="/>
+    <POI MapID="1210" xpos="1160.99" ypos="103.546" zpos="50.6098" type="chest.permanent" GUID="ZoxPGg/s20arDyvzZYaIjw=="/>
+    <POI MapID="1210" xpos="1308.28" ypos="172.216" zpos="-314.889" type="chest.permanent" GUID="+F7R6XGui0CrFQJePgt1Tw=="/>
+    <POI MapID="1210" xpos="1463.41" ypos="163.148" zpos="-462.162" type="chest.permanent" GUID="5YdemDVwNEC/sDgb+V/+8A=="/>
+    <POI MapID="1210" xpos="1365.27" ypos="161.002" zpos="-492.713" type="chest.permanent" GUID="D1WTgAZIjU2YKt3ksfffqA=="/>
+    <POI MapID="1210" xpos="1170.33" ypos="106.561" zpos="160.047" type="chest.permanent" GUID="mS8aBC91C02KIWxk1VBcLw=="/>
+    <POI MapID="1210" xpos="1255.63" ypos="81.3765" zpos="-11.9112" type="chest.mapspecific.keyrequired" GUID="I/XJC3khFUGZ8v+jQkjTwQ=="/>
     <POI MapID="1211" xpos="432.347" ypos="135.637" zpos="-365.378" type="chest.permanent" GUID="v2jWr1/7v0KzlTZhtz/YUw=="/>
     <POI MapID="1211" xpos="-192.022" ypos="245.125" zpos="367.688" type="chest.mapspecific.keyrequired" GUID="dEkOZ2UYsE+rsTBYcRdx/Q=="/>
     <POI MapID="1211" xpos="-207.231" ypos="283.598" zpos="586.816" type="chest.mapspecific.keyrequired" GUID="lk1ZqZDTS0CJxy+caIxSJg=="/>
@@ -431,6 +438,8 @@
     <POI MapID="1248" xpos="-948.528" ypos="272.704" zpos="-337.29" type="chest.mapspecific.keyrequired" GUID="IEJJ0DLV30CTVqbocGe8Nw=="/>
     <POI MapID="1248" xpos="-1336.81" ypos="322.003" zpos="-645.116" type="chest.permanent" GUID="RAupMSHlBECSWds4jeHfWQ=="/>
     <POI MapID="1248" xpos="-1271.59" ypos="93.7859" zpos="-26.3517" type="chest.mapspecific.keyrequired" GUID="8MtWH9w4jkWJece2W1I/4w=="/>
+    <POI MapID="1248" xpos="-69.297" ypos="87.9837" zpos="-446.255" type="chest.mapspecific.keyrequired" GUID="6/2LE8adq0ieC/UVCruFSA=="/>
+    <POI MapID="1248" xpos="514.707" ypos="177.552" zpos="-16.185" type="chest.mapspecific.keyrequired" GUID="ILYPA80bUkixpimMuV8wMw=="/>
     <POI MapID="1041" xpos="-276.443" ypos="18.4954" zpos="574.145" type="chest.permanent" GUID="gUNCzusm5kmfRZNyyDSa3Q=="/>
     <POI MapID="1043" xpos="449.849" ypos="313.927" zpos="6.34684" type="chest.permanent" GUID="fgGVR9QMv0CtWeD97mpL9g=="/>
     <POI MapID="1043" xpos="-577" ypos="271.537" zpos="-433.638" type="chest.permanent" GUID="nQLqZwReiEG7eg93nCphCQ=="/>
@@ -691,6 +700,13 @@
     <POI MapID="67" xpos="-373.476" ypos="5.74111" zpos="100.206" type="chest.permanent" GUID="LFWVWwLV8UyD8ZnyspuJ3Q=="/>
     <POI MapID="67" xpos="-321.092" ypos="0.166171" zpos="-36.4762" type="chest.permanent" GUID="OAYNVxtteUeezuTXyf8BpQ=="/>
     <POI MapID="67" xpos="-361.084" ypos="15.8927" zpos="-193.163" type="chest.permanent" GUID="ZkXyWGlqS0WDqZh9V48tbQ=="/>
+    <POI MapID="1210" xpos="-1177.23" ypos="21.8106" zpos="462.879" type="chest.mapspecific.treasure" GUID="0dpwekUe90eEWBXfE/fAAA=="/>
+    <POI MapID="1210" xpos="649.198" ypos="39.6315" zpos="241.099" type="chest.mapspecific.treasure" GUID="VYiTUFS9FkmpwczTr1tGIQ=="/>
+    <POI MapID="1211" xpos="-255.366" ypos="246.838" zpos="362.262" type="chest.mapspecific.treasure" GUID="lVSSdPAf6UCzbymMANqZiA=="/>
+    <POI MapID="1211" xpos="1123.39" ypos="209.627" zpos="-179.761" type="chest.mapspecific.treasure" GUID="2UbmFfHT+0q8Fpe6YdfHug=="/>
+    <POI MapID="1211" xpos="-646.607" ypos="373.692" zpos="520.993" type="chest.mapspecific.treasure" GUID="cvvg8URBZUmZfpyArMw/EQ=="/>
+    <POI MapID="1211" xpos="-361.358" ypos="222.4" zpos="348.131" type="chest.mapspecific.treasure" GUID="rg0OtfFf5EyQl+WKDGgpLQ=="/>
+    <POI MapID="1211" xpos="-928.431" ypos="463.98" zpos="139.135" type="chest.mapspecific.treasure" GUID="J7inKvq/w0mlDtSu5mwEpg=="/>
     <POI MapID="38" xpos="558.322" ypos="30.0796" zpos="-336.567" type="chest.meta" GUID="g9oKlJ1u5U+lAFYHH2Vihw=="/>
     <POI MapID="38" xpos="-547.736" ypos="29.7289" zpos="463.543" type="chest.meta" GUID="WGaH4F5zUEaCD0aaR2unuQ=="/>
   </POIs>

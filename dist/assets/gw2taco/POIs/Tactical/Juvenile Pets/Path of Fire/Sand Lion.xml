@@ -8,5 +8,6 @@
   </MarkerCategory>
   <POIs>
     <POI MapID="1210" xpos="-276.003" ypos="33.1166" zpos="380.828" type="tactical.juvenile_pets.path_of_fire.sand_lion" GUID="wAP4KCryf0GveBqXzEjPUA=="/>
+    <POI MapID="1210" xpos="75.9275" ypos="20.5585" zpos="11.3321" type="tactical.juvenile_pets.path_of_fire.sand_lion" GUID="xqu9C4LqL0CHBFbUflYGSQ=="/>
   </POIs>
 </OverlayData>

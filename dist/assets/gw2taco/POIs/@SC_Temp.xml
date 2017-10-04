@@ -129,6 +129,7 @@
       <MarkerCategory name="Specialization Collections" DisplayName="Specialization Collections">
         <MarkerCategory name="Expurgation"/>
         <MarkerCategory name="The Cutting Edge" DisplayName="The Cutting Edge"/>
+        <MarkerCategory name="Wishing Well" DisplayName="Wishing Well"/>
       </MarkerCategory>
       <MarkerCategory name="Glorify the Golden Heart" DisplayName="Glorify the Golden Heart"/>
       <MarkerCategory name="Treasure"/>
@@ -136,6 +137,12 @@
         <MarkerCategory name="Start"/>
         <MarkerCategory name="CheckPoint"/>
         <MarkerCategory name="End"/>
+      </MarkerCategory>
+      <MarkerCategory name="Bounty">
+        <MarkerCategory name="Legendary">
+        </MarkerCategory>
+        <MarkerCategory name="Champion">
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
         <MarkerCategory name="Raise the Banners: Amnoon Independence" DisplayName="Raise the Banners: Amnoon Independence"/>

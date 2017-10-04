@@ -1,10 +1,10 @@
 <OverlayData>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" heightOffset="2" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
-    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
   </MarkerCategory>
   <POIs>
     <POI MapID="1210" xpos="5.57802" ypos="3.7393" zpos="-163.255" type="chest.mapspecific.keyrequired" GUID="rbyIH+i0IEadgWG8lcgWjA=="/>
@@ -103,5 +103,11 @@
     <POI MapID="1210" xpos="-944.904" ypos="52.1932" zpos="228.332" type="chest.mapspecific.keyrequired" GUID="yIwwE5uBHkSXxgA5L8m1dw=="/>
     <POI MapID="1210" xpos="733.006" ypos="136.377" zpos="349.611" type="chest.mapspecific.keyrequired" GUID="9PLRqjQO5ESXrsZXDGkPoA=="/>
     <POI MapID="1210" xpos="218.003" ypos="92.1703" zpos="-69.8523" type="chest.permanent" GUID="ybINjAYGcUScDbbnyk7Z9w=="/>
+    <POI MapID="1210" xpos="1160.99" ypos="103.546" zpos="50.6098" type="chest.permanent" GUID="ZoxPGg/s20arDyvzZYaIjw=="/>
+    <POI MapID="1210" xpos="1308.28" ypos="172.216" zpos="-314.889" type="chest.permanent" GUID="+F7R6XGui0CrFQJePgt1Tw=="/>
+    <POI MapID="1210" xpos="1463.41" ypos="163.148" zpos="-462.162" type="chest.permanent" GUID="5YdemDVwNEC/sDgb+V/+8A=="/>
+    <POI MapID="1210" xpos="1365.27" ypos="161.002" zpos="-492.713" type="chest.permanent" GUID="D1WTgAZIjU2YKt3ksfffqA=="/>
+    <POI MapID="1210" xpos="1170.33" ypos="106.561" zpos="160.047" type="chest.permanent" GUID="mS8aBC91C02KIWxk1VBcLw=="/>
+    <POI MapID="1210" xpos="1255.63" ypos="81.3765" zpos="-11.9112" type="chest.mapspecific.keyrequired" GUID="I/XJC3khFUGZ8v+jQkjTwQ=="/>
   </POIs>
 </OverlayData>

@@ -1,10 +1,10 @@
 <OverlayData>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" heightOffset="2" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
-    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
   </MarkerCategory>
   <POIs>
     <POI MapID="1248" xpos="-1015.02" ypos="110.76" zpos="119.339" type="chest.mapspecific.keyrequired" GUID="ACxeTmqQXkGOe2EaZbjY2w=="/>
@@ -99,5 +99,7 @@
     <POI MapID="1248" xpos="-948.528" ypos="272.704" zpos="-337.29" type="chest.mapspecific.keyrequired" GUID="IEJJ0DLV30CTVqbocGe8Nw=="/>
     <POI MapID="1248" xpos="-1336.81" ypos="322.003" zpos="-645.116" type="chest.permanent" GUID="RAupMSHlBECSWds4jeHfWQ=="/>
     <POI MapID="1248" xpos="-1271.59" ypos="93.7859" zpos="-26.3517" type="chest.mapspecific.keyrequired" GUID="8MtWH9w4jkWJece2W1I/4w=="/>
+    <POI MapID="1248" xpos="-69.297" ypos="87.9837" zpos="-446.255" type="chest.mapspecific.keyrequired" GUID="6/2LE8adq0ieC/UVCruFSA=="/>
+    <POI MapID="1248" xpos="514.707" ypos="177.552" zpos="-16.185" type="chest.mapspecific.keyrequired" GUID="ILYPA80bUkixpimMuV8wMw=="/>
   </POIs>
 </OverlayData>

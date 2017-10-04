@@ -177,7 +177,6 @@
     <POI MapID="1248" xpos="1316.2" ypos="93.673" zpos="-779.568" type="other.portal" GUID="7NQih9RwBkyTROOsceevNw=="/>
     <POI MapID="1248" xpos="1321.76" ypos="91.343" zpos="-634.806" type="other.portal" GUID="6q7F3u9ZvUGQzOXRp7HmRw=="/>
     <POI MapID="1248" xpos="1280.22" ypos="54.3172" zpos="-572.963" type="other.portal" GUID="lRGq41KZWUSgmJ4pEnrFAg=="/>
-    <POI MapID="1210" xpos="1388.86" ypos="189.822" zpos="-262.266" type="resourcenode.other.quartzcrystal" GUID="fIwikLV8GE+xdYvfZY0YsQ=="/>
     <POI MapID="1210" xpos="-1249.13" ypos="-32.9902" zpos="-212.662" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="eWONSSjqMU208ran0TMe5Q=="/>
     <POI MapID="1210" xpos="-1092.17" ypos="38.6974" zpos="468.95" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="ZzO68tNhYUKDLDbyr3ufBw=="/>
     <POI MapID="1210" xpos="-850.679" ypos="13.7484" zpos="303.776" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="y4f5zS3Dnkar0DBdJG8E5w=="/>
@@ -233,7 +232,6 @@
     <POI MapID="1248" xpos="1329.96" ypos="112.782" zpos="-257.866" type="other.portal.in" GUID="j5FelCXE+0iTwV7iQyoRvQ=="/>
     <POI MapID="1248" xpos="1355.01" ypos="124.236" zpos="-120.527" type="other.portal.out" GUID="YIYUECMYM0iQshaPAmMEJQ=="/>
     <POI MapID="1248" xpos="1380.44" ypos="122.995" zpos="-101.4" type="other.portal.in" GUID="7cKb6ofdLUufnHcGJIgPnQ=="/>
-    <POI MapID="1211" xpos="-255.366" ypos="246.838" zpos="362.262" type="temp.path_of_fire.treasure" GUID="lVSSdPAf6UCzbymMANqZiA=="/>
     <POI MapID="1211" xpos="-786.569" ypos="4.29157" zpos="-528.927" type="temp.mapspecific.undefined" GUID="eUmdUeOy9ky+jd+3TeSoDA=="/>
     <POI MapID="1248" xpos="-877.66" ypos="141.576" zpos="855.761" type="other.portal.cave" GUID="FXINn4b7x0mYNKdKA6hOBQ=="/>
     <POI MapID="1228" xpos="260.412" ypos="-33.7654" zpos="35.1208" type="other.portal.cave" GUID="wm3BuNHcYEWOc/ShdlYBpw=="/>
@@ -317,9 +315,6 @@
     <POI MapID="1248" xpos="-1437.84" ypos="314.527" zpos="-885.401" GUID="dM98PTWjiU6fCg7MIcta9A=="/>
     <POI MapID="1248" xpos="-1394.07" ypos="316.822" zpos="-646.185" type="other.portal.cave" GUID="JjyoWy8v5EmWdnlqhN0IXQ=="/>
     <POI MapID="1210" xpos="172.302" ypos="80.147" zpos="-154.376" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="XJiifODp0kyBtmEsHPHENA=="/>
-    <POI MapID="1210" xpos="-1177.23" ypos="21.8106" zpos="462.879" type="temp.path_of_fire.treasure" GUID="0dpwekUe90eEWBXfE/fAAA=="/>
-    <POI MapID="1210" xpos="649.198" ypos="39.6315" zpos="241.099" type="temp.path_of_fire.treasure" GUID="VYiTUFS9FkmpwczTr1tGIQ=="/>
-    <POI MapID="1248" xpos="125.874" ypos="105.8" zpos="-368.386" type="temp.path_of_fire.race.start" GUID="RMyL/KZ/w0a6scPP0/AWpg=="/>
     <POI MapID="1188" xpos="370.579" ypos="33.7204" zpos="61.9307" GUID="U038uHZdykmbwhWH2RE6oQ=="/>
     <POI MapID="1105" xpos="-1186.89" ypos="2.18115" zpos="-298.452" type="other.portal.gate" GUID="5SM9762P7UmGbYNMXGMMSw=="/>
     <POI MapID="1105" xpos="-1104.22" ypos="9.73959" zpos="-552.634" type="other.portal.gate" GUID="2atYb6wRwkOXBEKXgJRAuw=="/>
@@ -338,5 +333,25 @@
     <POI MapID="1248" xpos="-1278.3" ypos="93.0353" zpos="-29.8655" type="other.portal.cave" GUID="H9weQWRPZEShGWfVsFVkRw=="/>
     <POI MapID="1248" xpos="-1313" ypos="61.4002" zpos="-102.037" type="other.portal.cave" GUID="WoxuK8YT6E2F+6kvF0OdWQ=="/>
     <POI MapID="1248" xpos="-1379.54" ypos="109.127" zpos="819.394" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="WIGvHGmSKkWfDA7C2Ip1ZA=="/>
+    <POI MapID="1211" xpos="-640.065" ypos="370.914" zpos="506.515" GUID="C2lBB8HlxEWAA1l5YiV9tg=="/>
+    <POI MapID="1210" xpos="1042.76" ypos="103.495" zpos="-334.573" type="temp.path_of_fire.bounty.champion" GUID="8LLkUI9oGEKPvDY23zWbug=="/>
+    <POI MapID="1210" xpos="1176.91" ypos="145.655" zpos="-112.411" type="temp.path_of_fire.bounty.champion" GUID="3okXbeiWq0mOrxycja5wGw=="/>
+    <POI MapID="1210" xpos="1456.8" ypos="194.685" zpos="354.489" type="temp.path_of_fire.bounty.champion" GUID="jcRaHZf00k2KcjaFDJtyag=="/>
+    <POI MapID="1210" xpos="1405.86" ypos="178.631" zpos="534.025" type="temp.path_of_fire.bounty.champion" GUID="qGDIU41kdU+fDnRtc2M7Vg=="/>
+    <POI MapID="1210" xpos="1219.39" ypos="189.221" zpos="436.475" type="temp.path_of_fire.bounty.legendary" GUID="DDr+5lveAUq8DWSTjrh+Hg=="/>
+    <POI MapID="1210" xpos="681.602" ypos="27.4446" zpos="153.837" type="temp.path_of_fire.bounty.legendary" GUID="uuaM1qskSUOiIii8lKgnOg=="/>
+    <POI MapID="1210" xpos="905.947" ypos="163.947" zpos="-63.918" type="temp.path_of_fire.bounty.champion" GUID="+FhTXtnTAEmVLaqKekPKoA=="/>
+    <POI MapID="1210" xpos="254.262" ypos="25.5295" zpos="-181.802" type="temp.path_of_fire.bounty.champion" GUID="BqBHAfOF+022Z86LN0goKw=="/>
+    <POI MapID="1210" xpos="457.534" ypos="113.72" zpos="674.211" type="temp.path_of_fire.bounty.champion" GUID="HumDfk6dYE2vPtQU+66Hwg=="/>
+    <POI MapID="1210" xpos="497.513" ypos="25.5107" zpos="-324.705" type="temp.path_of_fire.bounty.champion" GUID="Bsn35zVpSkq3kh5pByyiZQ=="/>
+    <POI MapID="1210" xpos="1181.93" ypos="44.2262" zpos="-241.406" type="temp.path_of_fire.bounty.champion" GUID="Ms/BPMmT/kmgRFf3jktOQA=="/>
+    <POI MapID="1210" xpos="1452.76" ypos="165.746" zpos="-420.743" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="Q29rgWajl0mcXZwF1llVDg=="/>
+    <POI MapID="1248" xpos="78.38" ypos="106.067" zpos="-382.398" type="temp.path_of_fire.race.start" GUID="SirkdNnxKUynjEhy1kCkpA=="/>
+    <POI MapID="1248" xpos="111.569" ypos="107.662" zpos="-285.02" type="temp.path_of_fire.race.end" GUID="eb/hE+Udtk65gUTAYZkymg=="/>
+    <POI MapID="1248" xpos="-51.3599" ypos="119.854" zpos="-282.105" type="temp.path_of_fire.bounty.champion" GUID="lfr20sRJy0aLqOBj3BzHng=="/>
+    <POI MapID="1248" xpos="269.104" ypos="56.7815" zpos="-795.245" type="temp.path_of_fire.bounty.champion" GUID="pqKl+mTr9060m3F1C/S1Fg=="/>
+    <POI MapID="1248" xpos="495.591" ypos="177.675" zpos="-23.2267" type="temp.path_of_fire.bounty.legendary" GUID="EDnDngzkZkSA9uOKYLI45w=="/>
+    <POI MapID="1248" xpos="-757.77" ypos="109.184" zpos="500.495" type="temp.path_of_fire.domain_of_vabbi.praise_joko_" GUID="PwBz2ATNXUy9Khoz0OVTBA=="/>
+    <POI MapID="1248" xpos="-543.699" ypos="9.91368" zpos="496.318" type="temp.path_of_fire.specialization_collections.wishing_well" GUID="84n6qlo5X0SL+PnbAn38QQ=="/>
   </POIs>
 </OverlayData>

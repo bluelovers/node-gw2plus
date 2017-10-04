@@ -4,7 +4,7 @@
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" heightOffset="2">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
         <MarkerCategory name="Toxic Seedling" data-class="size-0.35" iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" data-iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" iconSize="0.35" DisplayName="Toxic Seedling"/>
       </MarkerCategory>
@@ -37,9 +37,11 @@
       <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200" DisplayName="Candy Corn"/>
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
+        <MarkerCategory name="Rich" data-class="size-1" iconSize="1"/>
+      </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" heightOffset="2" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Copper">
         <MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush"/>
         <MarkerCategory name="Carrots"/>
@@ -1237,6 +1239,7 @@
     <POI MapID="1210" xpos="-708.276" ypos="22.1142" zpos="-662.469" type="resourcenode.ore.normal.orichalcum" GUID="fw/h7vYwWEGGESnRCkSjXA=="/>
     <POI MapID="1210" xpos="-490.784" ypos="37.573" zpos="415.393" type="resourcenode.ore.normal.orichalcum" GUID="1kBr2G+41U60Q/V1oLhAfA=="/>
     <POI MapID="1210" xpos="-774.177" ypos="85.01" zpos="204.192" type="resourcenode.ore.normal.orichalcum" GUID="45L1dQj3QE25UeV6xndUww=="/>
+    <POI MapID="1210" xpos="-864.952" ypos="94.6884" zpos="-102.857" type="resourcenode.ore.normal.orichalcum" GUID="qQ+aWkQsD06dREQAOs0NqQ=="/>
     <POI MapID="22" xpos="-425.951" ypos="87.7113" zpos="647.63" type="resourcenode.ore.normal.platinum" GUID="gYslMSDn1EiNU3PsbUhg3w=="/>
     <POI MapID="73" xpos="446.539" ypos="-7.21967" zpos="209.904" type="resourcenode.ore.normal.platinum" GUID="qWa04eBXjECNp80BjoFgEQ=="/>
     <POI MapID="73" xpos="426.632" ypos="-8.19152" zpos="279.408" type="resourcenode.ore.normal.platinum" GUID="+P2FCKmQAEeQ0Mnwae5SHQ=="/>
@@ -1722,6 +1725,8 @@
     <POI MapID="988" xpos="293.974" ypos="80.2761" zpos="-456.145" type="resourcenode.other.quartzcrystal" GUID="8jI+B+UoTUmEhd9mVb8S8Q=="/>
     <POI MapID="248" xpos="233.956" ypos="75.3303" zpos="180.717" type="resourcenode.other.quartzcrystal" GUID="CQlMYO4hQ0qEbvKF7riO8A=="/>
     <POI MapID="375" xpos="114.949" ypos="342.179" zpos="-310.933" type="resourcenode.other.quartzcrystal" GUID="9ZEbZTUHtkaB2ArKArho9Q=="/>
+    <POI MapID="1210" xpos="1179.7" ypos="102.942" zpos="80.7561" type="resourcenode.other.quartzcrystal" GUID="p4VwQhUoAkC+bS9HOsAHmQ=="/>
+    <POI MapID="1210" xpos="1389.14" ypos="189.943" zpos="-261.534" type="resourcenode.other.quartzcrystal.rich" GUID="k6g8mAN8SE+KMKH8YxE7Qg=="/>
     <POI MapID="968" xpos="34.3289" ypos="151.344" zpos="562.548" type="resourcenode.plant.copper.blueberrybush" GUID="9AmdDkWU0UeyJejODa9YZQ=="/>
     <POI MapID="73" xpos="628.015" ypos="4.44431" zpos="-551.112" type="resourcenode.plant.copper.carrots" GUID="fd7P67cKNEKwMXckhgsdVA=="/>
     <POI MapID="73" xpos="515.104" ypos="22.6817" zpos="-628.023" type="resourcenode.plant.copper.carrots" GUID="Vnhqn8ey5EuStbFYVD43wg=="/>
@@ -2683,6 +2688,7 @@
     <POI MapID="1211" xpos="472.926" ypos="183.348" zpos="155.501" type="resourcenode.wood.ancient" GUID="lRyqlUFKYUCfemzdf3GHLw=="/>
     <POI MapID="1211" xpos="46.0288" ypos="311.57" zpos="432.004" type="resourcenode.wood.ancient" GUID="W4Tbzc57lkec4R3kjtntNQ=="/>
     <POI MapID="1210" xpos="935.54" ypos="13.9903" zpos="-156.818" type="resourcenode.wood.ancient" GUID="WJVvndXRTkGI3xXkkeuejw=="/>
+    <POI MapID="1248" xpos="541.398" ypos="169.706" zpos="-292.854" type="resourcenode.wood.ancient" GUID="n81h7mvrJUOWemmTDafdwg=="/>
     <POI MapID="51" xpos="-3.82638" ypos="1.33817" zpos="-305.523" type="resourcenode.wood.elder" GUID="hIH0tUo/J0+c1aHKLFM57g=="/>
     <POI MapID="51" xpos="-226.56" ypos="2.59815" zpos="-432.218" type="resourcenode.wood.elder" GUID="ylPRf3UJ7U61E/kHa3wmCw=="/>
     <POI MapID="51" xpos="-342.846" ypos="22.3632" zpos="-631.568" type="resourcenode.wood.elder" GUID="ofYz44oVpEiAMGhJ4kXioQ=="/>

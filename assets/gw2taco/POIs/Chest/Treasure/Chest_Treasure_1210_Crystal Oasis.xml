@@ -1,0 +1,11 @@
+<OverlayData>
+  <MarkerCategory name="Chest">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Treasure"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="-1177.23" ypos="21.8106" zpos="462.879" type="chest.mapspecific.treasure" GUID="0dpwekUe90eEWBXfE/fAAA=="/>
+    <POI MapID="1210" xpos="649.198" ypos="39.6315" zpos="241.099" type="chest.mapspecific.treasure" GUID="VYiTUFS9FkmpwczTr1tGIQ=="/>
+  </POIs>
+</OverlayData>
