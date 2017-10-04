@@ -146,6 +146,7 @@
       <MarkerCategory name="Specialization Collections">
         <MarkerCategory name="Expurgation"/>
         <MarkerCategory name="The Cutting Edge"/>
+        <MarkerCategory name="Wishing Well"/>
       </MarkerCategory>
 
       <MarkerCategory name="Glorify the Golden Heart"/>
@@ -156,6 +157,15 @@
         <MarkerCategory name="Start"/>
         <MarkerCategory name="CheckPoint"/>
         <MarkerCategory name="End"/>
+      </MarkerCategory>
+
+      <MarkerCategory name="Bounty">
+        <MarkerCategory name="Legendary">
+
+        </MarkerCategory>
+        <MarkerCategory name="Champion">
+
+        </MarkerCategory>
       </MarkerCategory>
 
       <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
