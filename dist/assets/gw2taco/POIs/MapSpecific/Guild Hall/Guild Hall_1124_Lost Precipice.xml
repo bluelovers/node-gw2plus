@@ -7,7 +7,7 @@
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Ore Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Ore Synthesizer"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" heightOffset="2">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant" heightOffset="1.6">
         <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Herb Synthesizer"/>
         <MarkerCategory name="Berry Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Berry Synthesizer"/>
         <MarkerCategory name="Vegetable Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Vegetable Synthesizer"/>
