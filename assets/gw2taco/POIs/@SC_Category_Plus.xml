@@ -8,7 +8,7 @@
         <MarkerCategory name="Orichalcum" data-class="fade-max" behavior="0"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Plant" data-class="iconsize-0.35" heightOffset="2">
+    <MarkerCategory name="Plant" data-class="iconsize-0.35 poi-plant">
       <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="Lentils"/>
       </MarkerCategory>
@@ -23,7 +23,7 @@
         <MarkerCategory name="Ore Synthesizer" data-class="fade-synthesizer"/>
         <MarkerCategory name="Lump of Aurillium"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" heightOffset="2">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant">
         <MarkerCategory name="Currency"/>
         <MarkerCategory name="Berry Synthesizer" data-class="fade-synthesizer"/>
         <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer"/>
@@ -42,7 +42,7 @@
       <MarkerCategory name="Watchwork Sprocket"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" data-class="fade-1" heightOffset="2">
+  <MarkerCategory name="Chest" data-class="fade-1 poi-chest">
     <MarkerCategory name="MapSpecific" data-allowsub="true" data-class="fade-7">
       <MarkerCategory name="KeyRequired"/>
       <MarkerCategory name="Strongbox"/>
