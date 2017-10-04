@@ -1,0 +1,11 @@
+<OverlayData>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" heightOffset="2" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
+      <MarkerCategory name="Treasure"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="-1177.23" ypos="21.8106" zpos="462.879" type="chest.mapspecific.treasure" GUID="0dpwekUe90eEWBXfE/fAAA=="/>
+    <POI MapID="1210" xpos="649.198" ypos="39.6315" zpos="241.099" type="chest.mapspecific.treasure" GUID="VYiTUFS9FkmpwczTr1tGIQ=="/>
+  </POIs>
+</OverlayData>
