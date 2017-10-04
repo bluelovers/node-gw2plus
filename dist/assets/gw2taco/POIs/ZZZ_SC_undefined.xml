@@ -12,7 +12,7 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" data-iconFile="Data/Plant.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35" heightOffset="2" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Copper">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
@@ -40,17 +40,20 @@
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" heightOffset="2">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1" heightOffset="2" data-iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -395,6 +398,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Race">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Bounty">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
