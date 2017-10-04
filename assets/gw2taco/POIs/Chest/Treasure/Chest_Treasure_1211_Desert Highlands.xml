@@ -10,5 +10,7 @@
     <POI MapID="1211" xpos="-646.607" ypos="373.692" zpos="520.993" type="chest.mapspecific.treasure" GUID="cvvg8URBZUmZfpyArMw/EQ=="/>
     <POI MapID="1211" xpos="-361.358" ypos="222.4" zpos="348.131" type="chest.mapspecific.treasure" GUID="rg0OtfFf5EyQl+WKDGgpLQ=="/>
     <POI MapID="1211" xpos="-928.431" ypos="463.98" zpos="139.135" type="chest.mapspecific.treasure" GUID="J7inKvq/w0mlDtSu5mwEpg=="/>
+    <POI MapID="1211" xpos="-1387.65" ypos="438.027" zpos="105.361" type="chest.mapspecific.treasure" GUID="ZVeYhcXnyE+pAaZyC7w/Pw=="/>
+    <POI MapID="1211" xpos="1189.98" ypos="155.9" zpos="-559.891" type="chest.mapspecific.treasure" GUID="bssAeJLr50i/0zGG4VGIQQ=="/>
   </POIs>
 </OverlayData>
