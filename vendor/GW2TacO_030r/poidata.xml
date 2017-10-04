@@ -353,5 +353,7 @@
     <POI MapID="1248" xpos="495.591" ypos="177.675" zpos="-23.2267" type="temp.path_of_fire.bounty.legendary" GUID="EDnDngzkZkSA9uOKYLI45w=="/>
     <POI MapID="1248" xpos="-757.77" ypos="109.184" zpos="500.495" type="temp.path_of_fire.domain_of_vabbi.praise_joko_" GUID="PwBz2ATNXUy9Khoz0OVTBA=="/>
     <POI MapID="1248" xpos="-543.699" ypos="9.91368" zpos="496.318" type="temp.path_of_fire.specialization_collections.wishing_well" GUID="84n6qlo5X0SL+PnbAn38QQ=="/>
+    <POI MapID="1248" xpos="266.22" ypos="92.6672" zpos="-659.899" type="other.portal.cave" GUID="H7tn3WvcEkilx/oakm8ICQ=="/>
+    <POI MapID="1248" xpos="346.599" ypos="93.2505" zpos="-543.224" type="other.portal.cave" GUID="+Ojuqfm4lk6idF5shfuWEw=="/>
   </POIs>
 </OverlayData>

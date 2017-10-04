@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
-      <MarkerCategory name="Treasure"/>
+      <MarkerCategory name="Treasure" data-class="fade-max size-0.5" iconFile="Data/Chest/MapSpecific/Treasure.png" data-iconFile="Data/Chest/MapSpecific/Treasure.png" iconSize="0.5" fadeFar="25200" fadeNear="16800"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
@@ -10,5 +10,7 @@
     <POI MapID="1211" xpos="-646.607" ypos="373.692" zpos="520.993" type="chest.mapspecific.treasure" GUID="cvvg8URBZUmZfpyArMw/EQ=="/>
     <POI MapID="1211" xpos="-361.358" ypos="222.4" zpos="348.131" type="chest.mapspecific.treasure" GUID="rg0OtfFf5EyQl+WKDGgpLQ=="/>
     <POI MapID="1211" xpos="-928.431" ypos="463.98" zpos="139.135" type="chest.mapspecific.treasure" GUID="J7inKvq/w0mlDtSu5mwEpg=="/>
+    <POI MapID="1211" xpos="-1387.65" ypos="438.027" zpos="105.361" type="chest.mapspecific.treasure" GUID="ZVeYhcXnyE+pAaZyC7w/Pw=="/>
+    <POI MapID="1211" xpos="1189.98" ypos="155.9" zpos="-559.891" type="chest.mapspecific.treasure" GUID="bssAeJLr50i/0zGG4VGIQQ=="/>
   </POIs>
 </OverlayData>

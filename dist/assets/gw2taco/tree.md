@@ -106,7 +106,8 @@ POIs
 │ │ └── Chest_67_Twilight Arbor.xml
 │ ├─┬ Treasure
 │ │ ├── Chest_Treasure_1210_Crystal Oasis.xml
-│ │ └── Chest_Treasure_1211_Desert Highlands.xml
+│ │ ├── Chest_Treasure_1211_Desert Highlands.xml
+│ │ └── Chest_Treasure_1248_Domain of Vabbi.xml
 │ └─┬ World vs.World
 │   └── Chest_38_Eternal Battlegrounds.xml
 ├── DivingGoggles.xml
@@ -244,9 +245,9 @@ POIs
 │   ├── Wood_Hard.xml
 │   ├── Wood_Seasoned.xml
 │   ├── Wood_Soft.xml
+│   ├── Currency_1175_Ember Bay.xml
 │   ├── Currency_1195_Draconis Mons.xml
-│   ├── Currency_62_Cursed Shore.xml
-│   └── Currency_Petrified Wood.xml
+│   └── Currency_62_Cursed Shore.xml
 ├─┬ Optional
 │ ├── ZZZ_SC_Juvenile Pets.xml
 │ ├── ZZZ_SC_Path of Fire_Achievement.xml
@@ -316,9 +317,9 @@ POIs
 │ │   ├── Wood_Hard.xml
 │ │   ├── Wood_Seasoned.xml
 │ │   ├── Wood_Soft.xml
+│ │   ├── Currency_1175_Ember Bay.xml
 │ │   ├── Currency_1195_Draconis Mons.xml
-│ │   ├── Currency_62_Cursed Shore.xml
-│ │   └── Currency_Petrified Wood.xml
+│ │   └── Currency_62_Cursed Shore.xml
 │ ├─┬ Ore
 │ │ ├─┬ Normal
 │ │ │ ├── Ore_Copper.xml
@@ -386,9 +387,9 @@ POIs
 │   ├── Wood_Hard.xml
 │   ├── Wood_Seasoned.xml
 │   ├── Wood_Soft.xml
+│   ├── Currency_1175_Ember Bay.xml
 │   ├── Currency_1195_Draconis Mons.xml
-│   ├── Currency_62_Cursed Shore.xml
-│   └── Currency_Petrified Wood.xml
+│   └── Currency_62_Cursed Shore.xml
 ├─┬ Tactical
 │ ├─┬ GuildMission
 │ │ └── Trek.xml
