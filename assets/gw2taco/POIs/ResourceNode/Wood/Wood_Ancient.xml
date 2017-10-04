@@ -213,5 +213,6 @@
     <POI MapID="1211" xpos="472.926" ypos="183.348" zpos="155.501" type="resourcenode.wood.ancient" GUID="lRyqlUFKYUCfemzdf3GHLw=="/>
     <POI MapID="1211" xpos="46.0288" ypos="311.57" zpos="432.004" type="resourcenode.wood.ancient" GUID="W4Tbzc57lkec4R3kjtntNQ=="/>
     <POI MapID="1210" xpos="935.54" ypos="13.9903" zpos="-156.818" type="resourcenode.wood.ancient" GUID="WJVvndXRTkGI3xXkkeuejw=="/>
+    <POI MapID="1248" xpos="541.398" ypos="169.706" zpos="-292.854" type="resourcenode.wood.ancient" GUID="n81h7mvrJUOWemmTDafdwg=="/>
   </POIs>
 </OverlayData>
