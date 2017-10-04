@@ -157,6 +157,23 @@ addGulpTasks({
 						{
 							pois_target_id = cats[type].name_id.split('.');
 						}
+						else if (type.match(/^(?:resourcenode\.other\.quartzcrystal)(?:\.(rich))?$/i))
+						{
+							pois_target_id = [
+								'ResourceNode',
+								'Other',
+								'QuartzCrystal',
+							];
+
+							type_new = pois_target_id.slice(0);
+
+							let k = RegExp.$1;
+
+							if (k == 'rich')
+							{
+								type_new.push('Rich');
+							}
+						}
 						else if (cats[type] && type.match(/^(?:resourcenode\.wood)\.(.+)$/i))
 						{
 							pois_target_id = cats[type].name_id.split('.');
@@ -721,10 +738,34 @@ addGulpTasks({
 												])
 											;
 											break;
-
 										default:
 											break POIS;
 									}
+
+									break;
+								case 'treasure':
+
+									pois_target_id = [
+										'Chest',
+										'Treasure',
+									];
+
+									type_new = [
+										'Chest',
+										'MapSpecific',
+										'Treasure',
+									];
+
+									let map_id = elem.attr('MapID');
+
+									if (_cache_[map_id])
+									{
+										//pois_target_id.push(_cache_[map_id].region_name);
+
+										map_id += '_' + _cache_[map_id].name;
+									}
+
+									pois_target_id[pois_target_id.length] = 'Chest_Treasure' + '_' + map_id;
 
 									break;
 								default:
@@ -953,6 +994,8 @@ addGulpTasks({
 				let name = pois_target_id;
 
 				let pois_target = get_pois_new(pois_target_id, pois_new);
+
+				console.log(pois_target.file);
 
 				//await fs.outputFile(path.join(temp_root, `temp/${name}.poi.xml`), pois_target.poi.dump());
 				//await fs.outputFile(path.join(temp_root, `temp/${name}.cat.xml`), pois_target.cat.dump());
