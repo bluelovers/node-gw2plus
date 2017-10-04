@@ -402,6 +402,53 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 				fadeNear: 8400,
 			});
 
+			interface IMarkerCategory
+			{
+				iconFile?: string;
+				iconSize?: string;
+
+				alpha?: 1.0|number;
+
+				behavior?: 0|1|2|3|4|5|6|7;
+
+				fadeNear?: -1|number;
+				fadeFar?: -1|number;
+
+				heightOffset?: 1.5|number;
+
+				resetLength?: number;
+				resetOffset?: number;
+
+				DisplayName?: string;
+			}
+
+			let _class_fn = function (_this, _class: string, _attr: IMarkerCategory): any|IMarkerCategory
+			{
+				switch (_class)
+				{
+					case 'poi-default':
+
+						_attr.heightOffset = 1.5;
+
+						break;
+					case 'poi-plant':
+
+						_attr.heightOffset = 1.6;
+
+						break;
+					case 'poi-chest':
+
+						_attr.heightOffset = 1.6;
+
+						break;
+
+					default:
+						break;
+				}
+
+				return _attr;
+			};
+
 			cat.find('MarkerCategory[data-class*="iconsize"]')
 				.each(function (i, elem)
 				{
@@ -442,6 +489,36 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 					}
 
 					//console.log(_this.attr('data-class'));
+				})
+			;
+
+			cat.find('MarkerCategory[data-class]')
+				.each(function (i, elem)
+				{
+					let _this = cat.$(elem);
+
+					let _class_a = _this.attr('data-class');
+
+					if (typeof _class_a == 'undefined')
+					{
+						return;
+					}
+
+					_class_a = _class_a.toString().split(' ');
+
+					let _attr = {} as IMarkerCategory;
+
+					for (let _class of _class_a)
+					{
+						let ret = _class_fn(_this, _class, _attr);
+
+						if (ret)
+						{
+							_attr = ret;
+						}
+					}
+
+					cat.getStatic().attr(_this, _attr);
 				})
 			;
 
