@@ -783,6 +783,9 @@ addGulpTasks({
 
 							let k = RegExp.$1;
 
+							let no_region_name = false;
+							let chest_prefix = '';
+
 							switch (k)
 							{
 								case 'mapspecific.ember bay':
@@ -822,6 +825,23 @@ addGulpTasks({
 									type_new = cats[type] ? cats[type].name_id : type;
 
 									break;
+								case 'mapspecific.treasure':
+
+									pois_target_id = [
+										'Chest',
+										'Treasure',
+									];
+
+									type_new = [
+										'Chest',
+										'MapSpecific',
+										'Treasure',
+									];
+
+									no_region_name = true;
+									chest_prefix = 'Treasure_';
+
+									break;
 								default:
 									break POIS;
 								//break;
@@ -831,12 +851,15 @@ addGulpTasks({
 
 							if (_cache_[map_id])
 							{
-								pois_target_id.push(_cache_[map_id].region_name);
+								if (!no_region_name)
+								{
+									pois_target_id.push(_cache_[map_id].region_name);
+								}
 
 								map_id += '_' + _cache_[map_id].name;
 							}
 
-							pois_target_id[pois_target_id.length] = 'Chest' + '_' + map_id;
+							pois_target_id[pois_target_id.length] = `Chest_${chest_prefix}` + map_id;
 						}
 						else if (type.match(/^(?:resourcenode\.mapspecific|resourcenode.wood|resourcenode.ore.normal)\.(.+)$/i))
 						{
