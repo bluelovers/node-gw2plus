@@ -46,9 +46,11 @@
     <MarkerCategory name="MapSpecific" data-allowsub="true" data-class="fade-7" DisplayName="Map Specific" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
       <MarkerCategory name="Strongbox"/>
+      <MarkerCategory name="Treasure" data-class="fade-max size-0.5" iconFile="Data/Chest/MapSpecific/Treasure.png" data-iconFile="Data/Chest/MapSpecific/Treasure.png" iconSize="0.5" fadeFar="25200" fadeNear="16800"/>
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
     <MarkerCategory name="Skritt" heightOffset="3" iconSize="2.5" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
+    <MarkerCategory name="Achievement" iconFile="Data/Chest/Achievement.png" data-iconFile="Data/Chest/Achievement.png"/>
   </MarkerCategory>
   <MarkerCategory name="Tactical" data-sort="true" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="GuildMission" data-sort="true" DisplayName="Guild Missions">
