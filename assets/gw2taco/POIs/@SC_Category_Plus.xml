@@ -34,7 +34,7 @@
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
       <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0">
-        <MarkerCategory name="Rich" data-class="size-1"/>
+        <MarkerCategory name="Rich" data-class="size-1 fade-max2"/>
       </MarkerCategory>
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5"/>
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5"/>
@@ -49,7 +49,7 @@
       <MarkerCategory name="Treasure" data-class="fade-max size-0.5"/>
     </MarkerCategory>
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5"/>
-    <MarkerCategory name="Skritt" heightOffset="3" iconSize="2.5"/>
+    <MarkerCategory name="Skritt" heightOffset="3"/>
     <MarkerCategory name="Achievement"/>
   </MarkerCategory>
   <MarkerCategory name="Tactical" data-sort="true">
