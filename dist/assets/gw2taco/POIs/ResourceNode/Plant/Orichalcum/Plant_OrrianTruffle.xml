@@ -30,5 +30,6 @@
     <POI MapID="1203" xpos="-653.212" ypos="66.2512" zpos="-52.3165" type="resourcenode.plant.orichalcum.orriantruffle" GUID="CkOUhG5XU0e0scr9aFDoqA=="/>
     <POI MapID="1203" xpos="-621.915" ypos="72.071" zpos="-1.14889" type="resourcenode.plant.orichalcum.orriantruffle" GUID="eXfMLY2/00Scs7jtIAjO5g=="/>
     <POI MapID="1203" xpos="-298.319" ypos="65.0579" zpos="88.0498" type="resourcenode.plant.orichalcum.orriantruffle" GUID="gDLQ4T5hb0iGuz+GT6NuTg=="/>
+    <POI MapID="62" xpos="20.7431" ypos="27.042" zpos="889.747" type="resourcenode.plant.orichalcum.orriantruffle" GUID="5aAZ/jnJtESy/TaF757nJw=="/>
   </POIs>
 </OverlayData>
