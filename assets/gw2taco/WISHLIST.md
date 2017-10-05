@@ -1,7 +1,7 @@
 ## GW2TacO
 
 1. reload all data option
-2. option for don't auto-focus on gw2 window at gw2taco start
+2. option for don't auto-focus on gw2 window at gw2taco start[^1]
 
 ### category
 
@@ -16,7 +16,7 @@
 ### locationaltimers.xml
 
 1. manual control pause/start option
-2. color / font-size[^1]
+2. color / font-size
 
 ### maptimer.xml
 
@@ -26,7 +26,8 @@
 
 #### debug text
 
-1. option for don't align-center debug text, or make number has same length, let they without keep try align-center
+1. option for don't align-center debug text, or make number has fixed length, let they without keep try align-center
 
+## footnote
 
-[^1]: Here is the footnote.
+[^1]: cos some stupid kd/mouse driver will fail detect when doing this, like Logitech
