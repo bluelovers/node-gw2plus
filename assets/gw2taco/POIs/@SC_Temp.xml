@@ -175,5 +175,8 @@
       </MarkerCategory>
 
     </MarkerCategory>
+
+    <MarkerCategory name="Pact Supply Network Agent"/>
+
   </MarkerCategory>
 </OverlayData>
