@@ -61,6 +61,12 @@ addGulpTasks({
 					'Aurora',
 					'Aurora II: Empowering',
 				],
+
+				'temp.pact_supply_network_agent': [
+					'Other',
+					'Vendor',
+					'Pact Supply Network Agent',
+				],
 			};
 
 			const map_home = [
