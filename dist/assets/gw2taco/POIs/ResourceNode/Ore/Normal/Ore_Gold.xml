@@ -54,5 +54,7 @@
     <POI MapID="25" xpos="110.322" ypos="5.08656" zpos="-761.81" type="resourcenode.ore.normal.gold" GUID="Ty8BeJ2sBUOg37oqb4qmJA=="/>
     <POI MapID="73" xpos="170.924" ypos="-30.2273" zpos="44.2677" type="resourcenode.ore.normal.gold" GUID="hFuCMTbP/kmLXUK4m7YPEA=="/>
     <POI MapID="26" xpos="601.885" ypos="76.7042" zpos="-593.597" type="resourcenode.ore.normal.gold" GUID="BuA85lMhX0u0Sb22txP39g=="/>
+    <POI MapID="20" xpos="-14.5054" ypos="15.8512" zpos="-1093.33" type="resourcenode.ore.normal.gold" GUID="/o0rn2AWSEyzfpsUbK18aQ=="/>
+    <POI MapID="20" xpos="-528.43" ypos="39.089" zpos="452.685" type="resourcenode.ore.normal.gold" GUID="/MhEOdGy60qHm2IMZgFnZQ=="/>
   </POIs>
 </OverlayData>
