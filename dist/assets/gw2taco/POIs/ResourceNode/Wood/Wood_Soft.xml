@@ -158,5 +158,8 @@
     <POI MapID="24" xpos="-1036.04" ypos="26.5627" zpos="-203.258" type="resourcenode.wood.soft" GUID="gWFDXs00QkuG8ajyo24vVQ=="/>
     <POI MapID="54" xpos="169.342" ypos="69.5133" zpos="661.741" type="resourcenode.wood.soft" GUID="HBE51unmgESzFLoHXqjPAg=="/>
     <POI MapID="21" xpos="-564.794" ypos="17.5865" zpos="-81.8404" type="resourcenode.wood.soft" GUID="77ZbUqBhA0KDKlO3NTPOxQ=="/>
+    <POI MapID="17" xpos="569.617" ypos="14.9925" zpos="-770.757" type="resourcenode.wood.soft" GUID="ojQaO0HhTk2wmAx2o6iOfw=="/>
+    <POI MapID="31" xpos="-759.215" ypos="33.6282" zpos="-321.531" type="resourcenode.wood.soft" GUID="2no/+mz9pU6nIiZNlsTotQ=="/>
+    <POI MapID="31" xpos="-663.04" ypos="46.1975" zpos="-468.723" type="resourcenode.wood.soft" GUID="vjFoDuUBJEKlD3T/GoIt7A=="/>
   </POIs>
 </OverlayData>
