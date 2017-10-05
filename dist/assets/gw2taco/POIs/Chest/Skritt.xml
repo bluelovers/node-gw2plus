@@ -1,11 +1,12 @@
 <OverlayData>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Skritt" heightOffset="3" iconSize="2.5" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
+    <MarkerCategory name="Skritt" heightOffset="3" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
   </MarkerCategory>
   <POIs>
     <POI MapID="1210" xpos="48.4748" ypos="53.9948" zpos="485.178" type="chest.skritt" GUID="fbam7xkFREa2XuOZ7rcxRQ=="/>
     <POI MapID="1210" xpos="317.279" ypos="51.2364" zpos="-43.5148" type="chest.skritt" GUID="F2YxMcZDQUiSvLo8OARG0A=="/>
     <POI MapID="1210" xpos="-1041.19" ypos="59.0671" zpos="191.868" type="chest.skritt" GUID="GFD48e+zj0uwV7/AEEK+jA=="/>
     <POI MapID="1210" xpos="1217.3" ypos="192.703" zpos="487.833" type="chest.skritt" GUID="st503qGrpE22ISxZ9Wgqyg=="/>
+    <POI MapID="1211" xpos="-786.569" ypos="4.29157" zpos="-528.927" type="chest.skritt" GUID="eUmdUeOy9ky+jd+3TeSoDA=="/>
   </POIs>
 </OverlayData>

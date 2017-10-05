@@ -9,5 +9,8 @@
   <POIs>
     <POI MapID="1210" xpos="-1461.83" ypos="-3.52229" zpos="635.156" type="resourcenode.plant.iron.clam" GUID="Fxu85bpCVkylWIotpWK2XA=="/>
     <POI MapID="1210" xpos="-1295.15" ypos="-21.9102" zpos="220.414" type="resourcenode.plant.iron.clam" GUID="gEZhjbBOeUSjWzMCF6YorA=="/>
+    <POI MapID="24" xpos="-36.1803" ypos="-40.1793" zpos="-12.3105" type="resourcenode.plant.iron.clam" GUID="i8bwdhCwpU2lEA2i6dgouw=="/>
+    <POI MapID="24" xpos="-93.7439" ypos="-31.2669" zpos="-9.18239" type="resourcenode.plant.iron.clam" GUID="q7O0lJTqrEquEbiAykdwCQ=="/>
+    <POI MapID="24" xpos="-85.4719" ypos="-34.3729" zpos="-40.7462" type="resourcenode.plant.iron.clam" GUID="flwhkR6ctki8sifcO4vlQA=="/>
   </POIs>
 </OverlayData>

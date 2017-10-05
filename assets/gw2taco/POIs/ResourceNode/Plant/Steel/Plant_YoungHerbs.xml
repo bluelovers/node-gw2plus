@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="YoungHerbs"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="17" xpos="434.841" ypos="18.7503" zpos="-694.323" type="resourcenode.plant.steel.youngherbs" GUID="ow8y8ceTp0yLGia4W/5u2A=="/>
+  </POIs>
+</OverlayData>

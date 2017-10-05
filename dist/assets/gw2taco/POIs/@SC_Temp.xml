@@ -150,5 +150,6 @@
         <MarkerCategory name="Raise the Banners: Salute to Palawa Joko" DisplayName="Raise the Banners: Salute to Palawa Joko"/>
       </MarkerCategory>
     </MarkerCategory>
+    <MarkerCategory name="Pact Supply Network Agent" DisplayName="Pact Supply Network Agent"/>
   </MarkerCategory>
 </OverlayData>
