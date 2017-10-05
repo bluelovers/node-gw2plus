@@ -106,6 +106,8 @@
       <MarkerCategory name="Merchant"/>
       <MarkerCategory name="Ectoplasm"/>
       <MarkerCategory name="Karma"/>
+      <MarkerCategory name="Event"/>
+      <MarkerCategory name="Achievement"/>
     </MarkerCategory>
     <MarkerCategory name="Portal">
       <MarkerCategory name="In"/>
