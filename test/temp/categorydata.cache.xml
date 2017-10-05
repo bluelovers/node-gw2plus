@@ -501,10 +501,12 @@
   </MarkerCategory>
   <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">
+      <MarkerCategory name="Achievement"/>
       <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
+      <MarkerCategory name="Event"/>
       <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
       <MarkerCategory name="Merchant"/>
-      <MarkerCategory name="Pact Supply Network Agent"/>
+      <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png"/>
     </MarkerCategory>
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
