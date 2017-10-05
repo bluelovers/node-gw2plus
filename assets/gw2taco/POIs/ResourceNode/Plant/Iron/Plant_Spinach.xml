@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="Spinach"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="24" xpos="-39.8686" ypos="39.9873" zpos="585.923" type="resourcenode.plant.iron.spinach" GUID="6Wb60cHOaESXXLVoYd5qGw=="/>
+    <POI MapID="24" xpos="-40.8575" ypos="41.8972" zpos="598.132" type="resourcenode.plant.iron.spinach" GUID="pz/J7HBG10+PDMonRUoVsQ=="/>
+    <POI MapID="24" xpos="-44.5406" ypos="42.7922" zpos="605.816" type="resourcenode.plant.iron.spinach" GUID="svgXC7+uUkOjgXpL4iri4Q=="/>
+    <POI MapID="24" xpos="-43.8357" ypos="40.2906" zpos="570.791" type="resourcenode.plant.iron.spinach" GUID="taACWzRehUCpt5M+tsJQyQ=="/>
+    <POI MapID="24" xpos="-48.5252" ypos="39.8641" zpos="571.053" type="resourcenode.plant.iron.spinach" GUID="rXZtXLNHdUmcXXI5A9aA2A=="/>
+    <POI MapID="24" xpos="-45.8518" ypos="38.7036" zpos="559.965" type="resourcenode.plant.iron.spinach" GUID="04P2znz1GUuBhWZ2K1D04g=="/>
+    <POI MapID="24" xpos="-57.7591" ypos="38.8325" zpos="567.949" type="resourcenode.plant.iron.spinach" GUID="ETFaeJO3BUGsc9yW1k/NlQ=="/>
+    <POI MapID="24" xpos="-70.8039" ypos="38.7861" zpos="576.577" type="resourcenode.plant.iron.spinach" GUID="+Hh5izgA0UeubkTi+xqICw=="/>
+  </POIs>
+</OverlayData>
