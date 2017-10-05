@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="Other">
+    <MarkerCategory name="Vendor">
+      <MarkerCategory name="Pact Supply Network Agent"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="988" xpos="293.247" ypos="13.8508" zpos="-207.949" type="other.vendor.pact_supply_network_agent" GUID="FEUCYh43JE+R9/STR+pDYw=="/>
+    <POI MapID="53" xpos="172.844" ypos="5.16719" zpos="567.877" type="other.vendor.pact_supply_network_agent" GUID="3QrrNlf4AUKYXhVCTwGPGQ=="/>
+    <POI MapID="62" xpos="92.268" ypos="32.1371" zpos="921.433" type="other.vendor.pact_supply_network_agent" GUID="sOqIdAl2YUudtZchHu8Lyg=="/>
+    <POI MapID="17" xpos="635.003" ypos="24.965" zpos="-735.606" type="other.vendor.pact_supply_network_agent" GUID="VuUouT4kX0SkfSkx3XvE0A=="/>
+    <POI MapID="31" xpos="-565.491" ypos="60.3614" zpos="-433.025" type="other.vendor.pact_supply_network_agent" GUID="WyksPP+LJU+XdQBQFuOS1A=="/>
+    <POI MapID="20" xpos="84.3513" ypos="3.92498" zpos="-1091.14" type="other.vendor.pact_supply_network_agent" GUID="6JzhSH+cB0WzOUjhztf+Uw=="/>
+  </POIs>
+</OverlayData>
