@@ -106,6 +106,8 @@
       <MarkerCategory name="Merchant"/>
       <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
       <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
+      <MarkerCategory name="Event"/>
+      <MarkerCategory name="Achievement"/>
     </MarkerCategory>
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
