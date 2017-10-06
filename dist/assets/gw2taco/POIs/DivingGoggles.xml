@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Start"/>
     <MarkerCategory name="Guilde">
       <MarkerCategory name="End" iconFile="Data/DivingGoggles/Guilde.End.png" data-iconFile="Data/DivingGoggles/Guilde.End.png"/>
