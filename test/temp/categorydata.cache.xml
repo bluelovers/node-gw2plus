@@ -399,6 +399,9 @@
         <MarkerCategory name="Lost Lore of the Domain of Vabbi"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png">
+        <MarkerCategory name="Flameseeker Prophecies">
+          <MarkerCategory name="Forgotten Light"/>
+        </MarkerCategory>
         <MarkerCategory name="Ghostly Trio">
           <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
         </MarkerCategory>
@@ -422,6 +425,7 @@
         <MarkerCategory name="Amnoon Independence"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png">
+        <MarkerCategory name="A Soaring Stench"/>
         <MarkerCategory name="Acrid Springs Recovery"/>
         <MarkerCategory name="Lost Lore of the Desolation"/>
         <MarkerCategory name="Shadows Provisions"/>
