@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Legendary Weapons" iconFile="Data/Achievement/Legendary_Weapons.png" data-iconFile="Data/Achievement/Legendary_Weapons.png" DisplayName="Legendary Weapons">
       <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary Weapons/Nevermore.png">
         <MarkerCategory name="Nevermore IV" DisplayName="Nevermore IV"/>

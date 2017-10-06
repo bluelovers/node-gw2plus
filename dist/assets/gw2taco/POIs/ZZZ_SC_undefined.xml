@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -53,13 +53,13 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="RisingFlames" DisplayName="Rising Flames" fadeFar="16800" fadeNear="8400">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -68,7 +68,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -83,7 +83,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Adventure">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -131,7 +131,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200">
+  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200" maxSize="256">
     <MarkerCategory name="bearlope" DisplayName="Bear Lope">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -152,13 +152,13 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Guilde">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Guide">
       <MarkerCategory name="Ascalon">
         <MarkerCategory name="undefined"/>
@@ -191,7 +191,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Legendary Trinkets" iconFile="Data/Achievement/Legendary_Trinkets.png" data-iconFile="Data/Achievement/Legendary_Trinkets.png" DisplayName="Legendary Trinkets">
       <MarkerCategory name="Aurora">
         <MarkerCategory name="undefined"/>
@@ -254,7 +254,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
       <MarkerCategory name="A Crack in the Ice" iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png" data-iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png" DisplayName="A Crack in the Ice">
         <MarkerCategory name="undefined"/>
@@ -314,7 +314,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -323,7 +323,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true" maxSize="256">
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Druid Stone" DisplayName="Druid Stone">
         <MarkerCategory name="undefined"/>
@@ -437,5 +437,5 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
+  <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100" maxSize="256"/>
 </OverlayData>

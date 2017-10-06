@@ -1,5 +1,5 @@
 <OverlayData fadeFar="16800" fadeNear="8400">
-  <MarkerCategory name="ResourceNode" data-class="fade-1" behavior="1" DisplayName="Resource Nodes" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" data-class="fade-1" behavior="1" DisplayName="Resource Nodes" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
       <MarkerCategory name="Ancient" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" fadeFar="25200" fadeNear="16800"/>
     </MarkerCategory>
@@ -42,7 +42,7 @@
       <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" DisplayName="Watchwork Sprocket"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" data-class="fade-1 poi-chest" iconFile="Data/Chest.png" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Chest" data-class="fade-1 poi-chest" iconFile="Data/Chest.png" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="MapSpecific" data-allowsub="true" data-class="fade-7" DisplayName="Map Specific" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
       <MarkerCategory name="Strongbox"/>
@@ -52,7 +52,7 @@
     <MarkerCategory name="Skritt" heightOffset="3" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
     <MarkerCategory name="Achievement" iconFile="Data/Chest/Achievement.png" data-iconFile="Data/Chest/Achievement.png"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" data-sort="true" DisplayName="Tactical" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" data-sort="true" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="GuildMission" data-sort="true" DisplayName="Guild Missions">
       <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
       <MarkerCategory name="Puzzle">
@@ -67,21 +67,21 @@
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200"/>
-  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200" maxSize="256"/>
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Start"/>
     <MarkerCategory name="Guilde">
       <MarkerCategory name="End" iconFile="Data/DivingGoggles/Guilde.End.png" data-iconFile="Data/DivingGoggles/Guilde.End.png"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point" iconFile="Data/jumpingpuzzle/CheckPoint.png" data-iconFile="Data/jumpingpuzzle/CheckPoint.png"/>
     <MarkerCategory name="Portal"/>
     <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
   </MarkerCategory>
-  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400"/>
-  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256"/>
+  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true"/>
     <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
       <MarkerCategory name="Act 1" data-allowsub="true" DisplayName="Act 1"/>
@@ -89,7 +89,7 @@
       <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">
       <MarkerCategory name="Merchant"/>
       <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
@@ -106,5 +106,5 @@
       <MarkerCategory name="Instance"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
+  <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100" maxSize="256"/>
 </OverlayData>

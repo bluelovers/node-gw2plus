@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true">
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true" maxSize="256">
     <MarkerCategory name="Letters from E" DisplayName="Letters from E"/>
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Burnin’ Down the House" DisplayName="Burnin’ Down the House"/>

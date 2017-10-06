@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
       <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200" DisplayName="Candy Corn"/>
     </MarkerCategory>

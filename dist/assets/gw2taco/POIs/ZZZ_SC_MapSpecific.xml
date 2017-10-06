@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
       <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant" heightOffset="1.6">
         <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Herb Synthesizer"/>
@@ -53,7 +53,7 @@
       <MarkerCategory name="Green"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
       <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="AuricBasin" DisplayName="Auric Basin"/>
