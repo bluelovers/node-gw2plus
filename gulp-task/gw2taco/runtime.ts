@@ -808,6 +808,18 @@ addGulpTasks({
 									}
 
 									break;
+								case 'the_desolation.the_throne_of_bones':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'The Throne of Bones',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
 								default:
 									break POIS;
 								//break;
