@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Boss" iconFile="Data/Boss.png">
-      <MarkerCategory name="Treasure Mushroom" DisplayName="Treasure Mushroom"/>
+      <MarkerCategory name="Treasure Mushroom" iconFile="Data/Tactical/Boss/Treasure Mushroom.png" data-iconFile="Data/Tactical/Boss/Treasure Mushroom.png" DisplayName="Treasure Mushroom"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>

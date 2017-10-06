@@ -180,7 +180,7 @@
       <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
     </MarkerCategory>
     <MarkerCategory name="Boss" iconFile="Data/Boss.png">
-      <MarkerCategory name="Treasure Mushroom"/>
+      <MarkerCategory name="Treasure Mushroom" iconFile="Data/Tactical/Boss/Treasure Mushroom.png" data-iconFile="Data/Tactical/Boss/Treasure Mushroom.png"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
