@@ -13,5 +13,6 @@
     <POI MapID="375" xpos="114.949" ypos="342.179" zpos="-310.933" type="resourcenode.other.quartzcrystal" GUID="9ZEbZTUHtkaB2ArKArho9Q=="/>
     <POI MapID="1210" xpos="1179.7" ypos="102.942" zpos="80.7561" type="resourcenode.other.quartzcrystal" GUID="p4VwQhUoAkC+bS9HOsAHmQ=="/>
     <POI MapID="1210" xpos="1389.14" ypos="189.943" zpos="-261.534" type="resourcenode.other.quartzcrystal.rich" GUID="k6g8mAN8SE+KMKH8YxE7Qg=="/>
+    <POI MapID="988" xpos="-320.386" ypos="123.683" zpos="-428.898" type="resourcenode.other.quartzcrystal" GUID="A7kNnLeTC061SF1ms0TdTA=="/>
   </POIs>
 </OverlayData>
