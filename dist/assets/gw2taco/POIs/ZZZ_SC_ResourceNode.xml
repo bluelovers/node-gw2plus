@@ -1703,6 +1703,7 @@
     <POI MapID="1210" xpos="1241.42" ypos="211.425" zpos="374.24" type="resourcenode.ore.rich.mithril" GUID="P6yTzTOgQEi8NufBbmRWRg=="/>
     <POI MapID="1211" xpos="-973.338" ypos="537.483" zpos="38.5283" type="resourcenode.ore.rich.mithril" GUID="bhEHxkICGUmj+OnJ1Xtx5g=="/>
     <POI MapID="1248" xpos="1190.09" ypos="78.8609" zpos="937.859" type="resourcenode.ore.rich.orichalcum" GUID="wB7+YQdf+Uiq5GZV58lPpg=="/>
+    <POI MapID="1226" xpos="1062.91" ypos="53.3334" zpos="1435.58" type="resourcenode.ore.rich.orichalcum" GUID="beY5qaX1fk+uqMPTGh0Y7A=="/>
     <POI MapID="866" xpos="174.654" ypos="176.461" zpos="127.077" type="resourcenode.other.candy_corn" GUID="6ors6s6cZ0WkOpPReyx15g=="/>
     <POI MapID="866" xpos="34.6023" ypos="179.994" zpos="182.876" type="resourcenode.other.candy_corn" GUID="1DPzq+N17kebx9uC87beGQ=="/>
     <POI MapID="866" xpos="-49.7982" ypos="177.496" zpos="114.134" type="resourcenode.other.candy_corn" GUID="Y/ohIaXfDEC+M43gC9r08g=="/>
@@ -2445,6 +2446,7 @@
     <POI MapID="1211" xpos="-627.451" ypos="-0.552772" zpos="-616.918" type="resourcenode.plant.orichalcum.mussels" GUID="BZoW21owNU6lK3aWJ6PL7w=="/>
     <POI MapID="1210" xpos="-430.43" ypos="-0.643467" zpos="92.0126" type="resourcenode.plant.orichalcum.mussels" GUID="nHeuHhAH/Uu0xLNDv7yrsQ=="/>
     <POI MapID="1210" xpos="1358.29" ypos="-0.669078" zpos="-82.3488" type="resourcenode.plant.orichalcum.mussels" GUID="aTeLn/a3CUe3zU4agzJGjw=="/>
+    <POI MapID="1226" xpos="565.488" ypos="-17.2594" zpos="1411.99" type="resourcenode.plant.orichalcum.mussels" GUID="Px6yjfDDpkm6S+3jvQ50/A=="/>
     <POI MapID="62" xpos="-107.422" ypos="8.30651" zpos="670.82" type="resourcenode.plant.orichalcum.omnomberries" GUID="wZ0WXNndIUGv+ztnEzLYZA=="/>
     <POI MapID="62" xpos="-35.9082" ypos="20.1275" zpos="85.0301" type="resourcenode.plant.orichalcum.omnomberries" GUID="XgiS6O2qAEi50jzwwZuGRA=="/>
     <POI MapID="62" xpos="-299.168" ypos="51.0741" zpos="-823.124" type="resourcenode.plant.orichalcum.omnomberries" GUID="9f4cL9CiR0aFHB/8JGqsXQ=="/>
@@ -2739,6 +2741,7 @@
     <POI MapID="1226" xpos="-902.372" ypos="310.096" zpos="-567.943" type="resourcenode.wood.ancient" GUID="Fa7FdzcYCEW3vvO7yZGPBw=="/>
     <POI MapID="1210" xpos="1251.19" ypos="51.5931" zpos="-459.841" type="resourcenode.wood.ancient" GUID="mZ+j7L0fHEK+YSoMK/fbtQ=="/>
     <POI MapID="988" xpos="-195.254" ypos="23.9868" zpos="-32.9754" type="resourcenode.wood.ancient" GUID="zTF1zLdFxkWZRxZ5D53BLQ=="/>
+    <POI MapID="1226" xpos="-22.4183" ypos="273.213" zpos="364.763" type="resourcenode.wood.ancient" GUID="V4NrjbioyUOerUfy6H0w5w=="/>
     <POI MapID="51" xpos="-3.82638" ypos="1.33817" zpos="-305.523" type="resourcenode.wood.elder" GUID="hIH0tUo/J0+c1aHKLFM57g=="/>
     <POI MapID="51" xpos="-226.56" ypos="2.59815" zpos="-432.218" type="resourcenode.wood.elder" GUID="ylPRf3UJ7U61E/kHa3wmCw=="/>
     <POI MapID="51" xpos="-342.846" ypos="22.3632" zpos="-631.568" type="resourcenode.wood.elder" GUID="ofYz44oVpEiAMGhJ4kXioQ=="/>
@@ -3390,6 +3393,8 @@
     <POI MapID="1226" xpos="809.112" ypos="296.283" zpos="-490.904" type="resourcenode.wood.elder" GUID="0iodRH7Mg0y6rI0bQLG1hQ=="/>
     <POI MapID="1226" xpos="774.756" ypos="277.999" zpos="-232.087" type="resourcenode.wood.elder" GUID="G1HnnIM3ekeiHRnkFUk6Ng=="/>
     <POI MapID="1228" xpos="-870.073" ypos="98.4339" zpos="684.122" type="resourcenode.wood.elder" GUID="DXbsMHxhX0mBgOpMMuJmag=="/>
+    <POI MapID="1226" xpos="-31.0103" ypos="271.265" zpos="281.861" type="resourcenode.wood.elder" GUID="crxzMGqjlUCaejpQvCiJqQ=="/>
+    <POI MapID="1226" xpos="405.315" ypos="263.609" zpos="-305.473" type="resourcenode.wood.elder" GUID="OK3hvKw6IE6liT9078htoQ=="/>
     <POI MapID="15" xpos="-200.718" ypos="2.25961" zpos="82.0036" type="resourcenode.wood.green" GUID="A7K3s5D8kUWzpAmWVWobNA=="/>
     <POI MapID="15" xpos="-107.916" ypos="1.13397" zpos="-18.7636" type="resourcenode.wood.green" GUID="AaFdz06YrESzyWuqbefhyg=="/>
     <POI MapID="15" xpos="-69.8346" ypos="2.28858" zpos="5.11662" type="resourcenode.wood.green" GUID="Mf84LcpjT0qFOI8nIrDUFg=="/>
