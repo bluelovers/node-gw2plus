@@ -627,6 +627,11 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 						_this.attr('fadeFar', cat.root().attr('fadeFar'));
 						_this.attr('fadeNear', cat.root().attr('fadeNear'));
 					}
+
+					if (!_this.attr('maxSize'))
+					{
+						_this.attr('maxSize', 256);
+					}
 				})
 			;
 
