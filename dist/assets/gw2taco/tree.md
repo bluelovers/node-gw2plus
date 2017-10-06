@@ -18,6 +18,7 @@ POIs
 │   │ └── Lost Lore of Crystal Oasis.xml
 │   ├─┬ Desert Highlands
 │   │ ├── Carrot Collector.xml
+│   │ ├── Dwarven Ruins.xml
 │   │ ├── Hidden Carrot Hunt.xml
 │   │ └── Lost Lore of Desert Highlands.xml
 │   ├─┬ Domain of Vabbi
@@ -149,6 +150,7 @@ POIs
 │   │ └── Lost Lore of Crystal Oasis.xml
 │   ├─┬ Desert Highlands
 │   │ ├── Carrot Collector.xml
+│   │ ├── Dwarven Ruins.xml
 │   │ ├── Hidden Carrot Hunt.xml
 │   │ └── Lost Lore of Desert Highlands.xml
 │   ├─┬ Domain of Vabbi
@@ -425,6 +427,7 @@ POIs
 │   │ └── Lost Lore of Crystal Oasis.xml
 │   ├─┬ Desert Highlands
 │   │ ├── Carrot Collector.xml
+│   │ ├── Dwarven Ruins.xml
 │   │ ├── Hidden Carrot Hunt.xml
 │   │ └── Lost Lore of Desert Highlands.xml
 │   ├─┬ Domain of Vabbi
