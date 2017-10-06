@@ -1,0 +1,80 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Elon Riverlands">
+        <MarkerCategory name="Flameseeker Prophecies">
+          <MarkerCategory name="Forgotten Light"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="380.612" ypos="89.5985" zpos="776.363" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="OiKgnqlmLUqBPlmrUbgk6Q=="/>
+    <POI MapID="1228" xpos="423.831" ypos="97.8049" zpos="790.653" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="7F87e1AW7EKmyUcI+dcpwA=="/>
+    <POI MapID="1228" xpos="446.156" ypos="103.275" zpos="752.118" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="YCdiEz1mLE6YQT/TldixEQ=="/>
+    <POI MapID="1228" xpos="404.713" ypos="94.0697" zpos="766.032" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="c2HQ7SsimEGdq43MDuTy2g=="/>
+    <POI MapID="1228" xpos="406.31" ypos="83.1981" zpos="719.225" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="yr/L1scZ0kiT0N6M8VL3YA=="/>
+    <POI MapID="1228" xpos="472.794" ypos="99.0679" zpos="737.231" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="FqjCuvgUgk67nsmu7OIBBw=="/>
+    <POI MapID="1228" xpos="399.884" ypos="94.9749" zpos="714.244" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="AgfGJCdQI0i/QZtO7/qmuA=="/>
+    <POI MapID="1228" xpos="428.294" ypos="99.2372" zpos="692.717" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="YxhNFdhs0Ua8+O6esv9Zwg=="/>
+    <POI MapID="1228" xpos="475.173" ypos="99.0673" zpos="744.566" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="+wDFoGoRfEKGyKB3jdExLA=="/>
+    <POI MapID="1228" xpos="460.57" ypos="101.161" zpos="761.318" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="doKtwf0dJEy0Vj+eu+j7Sw=="/>
+    <POI MapID="1228" xpos="406.606" ypos="84.4188" zpos="760.211" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="lOFFI52VL0CvFluV4Q/b8w=="/>
+    <POI MapID="1228" xpos="459.338" ypos="100.244" zpos="719.026" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="g9M2A6p7w0ikQf7J78syeQ=="/>
+    <POI MapID="1228" xpos="423.077" ypos="97.2192" zpos="691.752" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="81JfHvNYWUSIwrWV9ZhZCA=="/>
+    <POI MapID="1228" xpos="422.78" ypos="85.1984" zpos="761.957" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="CR5zbp+Sm06wY6tlV5pA5Q=="/>
+    <POI MapID="1228" xpos="357.309" ypos="91.639" zpos="748.609" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="ETb82gCs/EqrQqRJOmLvgw=="/>
+    <POI MapID="1228" xpos="394.829" ypos="95.0417" zpos="760.076" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="awM2OIdDsUykkyiop3rMnw=="/>
+    <POI MapID="1228" xpos="438.594" ypos="101.263" zpos="760.119" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="BSOceIDHuU+NOPMsp1h+EA=="/>
+    <POI MapID="1228" xpos="381.592" ypos="89.2885" zpos="702.421" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="uOWU5bBP+0SXCI1zUI/8yA=="/>
+    <POI MapID="1228" xpos="354.923" ypos="94.8327" zpos="750.808" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="Vu7VVYdnGU69keXwAGrRQA=="/>
+    <POI MapID="1228" xpos="414.722" ypos="98.3523" zpos="767.811" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="184+aH8wtEGq1zGtbLkI+w=="/>
+    <POI MapID="1228" xpos="439.74" ypos="93.5707" zpos="749.961" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="6rZxwnyHxE6edIR3VVhzFQ=="/>
+    <POI MapID="1228" xpos="438.96" ypos="93.3384" zpos="731.398" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="7wtQZRhiX06nzQcLeqh6qA=="/>
+    <POI MapID="1228" xpos="351.52" ypos="84.0463" zpos="745.352" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="cMmHXayEEUujLd1LGyCl3A=="/>
+    <POI MapID="1228" xpos="382.931" ypos="84.175" zpos="730.405" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="VbOw//VYK0+8vxQyCUq4EQ=="/>
+    <POI MapID="1228" xpos="390.204" ypos="90.6267" zpos="754.811" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="jDeT+XoLj0+fW/Ci/XiVcA=="/>
+    <POI MapID="1228" xpos="359.547" ypos="104.479" zpos="752.077" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="DaEqdJ8WTUiFWO2S4T7xmw=="/>
+    <POI MapID="1228" xpos="321.921" ypos="90.193" zpos="729.787" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="8xl88VxuU0CythO3MrWVzQ=="/>
+    <POI MapID="1228" xpos="400.752" ypos="166.758" zpos="686.694" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="zG0CzSi8e0qBya9PeTwyHw=="/>
+    <POI MapID="1228" xpos="369.769" ypos="172.053" zpos="705.251" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="/o8MsY5fCU6nN3WSngbi7w=="/>
+    <POI MapID="1228" xpos="350.407" ypos="180.705" zpos="690.078" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="KDvCHK+fuUmFIARh4qRo8w=="/>
+    <POI MapID="1228" xpos="326.907" ypos="85.4987" zpos="734.587" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="ykj32PhjWkqo2mF6Ri24qQ=="/>
+    <POI MapID="1228" xpos="314.451" ypos="92.9096" zpos="747.584" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="GmkdsAinK0Gn4kr0l5RQZg=="/>
+    <POI MapID="1228" xpos="348.661" ypos="87.9879" zpos="748.165" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="fqwTZctjRUKOLg3twfPvew=="/>
+    <POI MapID="1228" xpos="385.237" ypos="87.3547" zpos="747.46" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="Fqa37jlQB0GlTJrZODxHtA=="/>
+    <POI MapID="1228" xpos="293.01" ypos="105.245" zpos="731.691" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="7I1nampZoUaKAWZFKilUTg=="/>
+    <POI MapID="1228" xpos="322.261" ypos="86.7968" zpos="744.934" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="MFJObxISmkm7/d3dWZExaA=="/>
+    <POI MapID="1228" xpos="326.262" ypos="89.3206" zpos="749.924" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="QKovix7DwEymqHzm20mBcg=="/>
+    <POI MapID="1228" xpos="302.377" ypos="94.3847" zpos="735.104" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="gBvfSkofxEmVYTZKNxOL1w=="/>
+    <POI MapID="1228" xpos="306.177" ypos="95.4886" zpos="749.878" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="m9GhnLDI3k6skMhlLI1nqg=="/>
+    <POI MapID="1228" xpos="360.628" ypos="86.9982" zpos="729.935" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="FPsBkrW38UO48edOHPtqNA=="/>
+    <POI MapID="1228" xpos="363.213" ypos="146.689" zpos="758.455" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="E/LVIASh4k+/Y0UpanZ3tA=="/>
+    <POI MapID="1228" xpos="451.928" ypos="147.815" zpos="697.376" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="5Uj+HbKtcU6OkSqM2/AFWQ=="/>
+    <POI MapID="1228" xpos="458.748" ypos="187.188" zpos="679.108" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="ndUp+ib7mkWsRoiGzjovZg=="/>
+    <POI MapID="1228" xpos="440.238" ypos="159.943" zpos="691.11" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="HveN5NuV8EeoVbtpDxeOMg=="/>
+    <POI MapID="1228" xpos="428.875" ypos="130.153" zpos="762.205" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="QO8cOB1bfk6UVXQ9dIXIlg=="/>
+    <POI MapID="1228" xpos="443.376" ypos="98.9687" zpos="739.441" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="zlXedq54TE+4vtUYmKS5oQ=="/>
+    <POI MapID="1228" xpos="350.555" ypos="180.35" zpos="722.996" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="4nbLXeY0FUOnrhJsIpLgrA=="/>
+    <POI MapID="1228" xpos="426.978" ypos="168.097" zpos="663.827" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="6FfKYSP/Ok+qOxQY85Y8Vw=="/>
+    <POI MapID="1228" xpos="365.042" ypos="194.069" zpos="784.076" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="ub5fFIUZOUKiD6lSxuSQQA=="/>
+    <POI MapID="1228" xpos="466.343" ypos="152.093" zpos="739.269" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="JS6wDFC6hUKScqiKjNFtNA=="/>
+    <POI MapID="1228" xpos="321.592" ypos="145.608" zpos="762.126" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="CN5uWEUV/EyFkpg5ToWJBQ=="/>
+    <POI MapID="1228" xpos="353.103" ypos="197.615" zpos="803.501" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="Y6qaIvVabkut1CAX5BDFvQ=="/>
+    <POI MapID="1228" xpos="381.835" ypos="203.606" zpos="806.212" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="/zYkIjNMv0eUvnvMuFDWJw=="/>
+    <POI MapID="1228" xpos="380.083" ypos="162.39" zpos="701.038" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="JYDRwSzSD0uj86MQT/SS2w=="/>
+    <POI MapID="1228" xpos="329.494" ypos="155.029" zpos="702.246" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="gWjvsGlywECuN8Ono8kJuQ=="/>
+    <POI MapID="1228" xpos="453.991" ypos="204.476" zpos="782.082" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="Ts8huurMe0quG8UXlpLbbw=="/>
+    <POI MapID="1228" xpos="455.155" ypos="185.265" zpos="702.65" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="1aYaGlFE+U+gXLMo7qQafw=="/>
+    <POI MapID="1228" xpos="425.289" ypos="163.943" zpos="687.019" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="eNoO13+hlE62J+hQpzCjhQ=="/>
+    <POI MapID="1228" xpos="408.629" ypos="233.583" zpos="810.118" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="o6G5dZEjdUi59c7t3mOaTg=="/>
+    <POI MapID="1228" xpos="463.669" ypos="204.48" zpos="770.502" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="iQ168tBKVEuyXzsSRdL/Nw=="/>
+    <POI MapID="1228" xpos="468.291" ypos="187.525" zpos="713.147" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="1yt2M+tNVUysDteu2hLXng=="/>
+    <POI MapID="1228" xpos="449.263" ypos="214.269" zpos="796.022" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="D4GY7W7d40Gj2ft0h9LBSA=="/>
+    <POI MapID="1228" xpos="386.416" ypos="249.493" zpos="702.104" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="OLnTQTX/0EGxaKedcdkTLw=="/>
+    <POI MapID="1228" xpos="473.721" ypos="246.196" zpos="741.971" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="6bE6A2V6oE21VO28g+uN6A=="/>
+    <POI MapID="1228" xpos="423.027" ypos="203.64" zpos="797.426" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="C65ynrMD7Ua1OPOv+hIqpQ=="/>
+    <POI MapID="1228" xpos="367.85" ypos="182.277" zpos="769.648" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="1sXqpjnyIEiJwZU5hsyGyw=="/>
+    <POI MapID="1228" xpos="431.849" ypos="164.949" zpos="620.217" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="0MxcJaMPEUaybBhAaOOrYg=="/>
+  </POIs>
+</OverlayData>

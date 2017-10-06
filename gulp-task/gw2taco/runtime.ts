@@ -774,6 +774,40 @@ addGulpTasks({
 									pois_target_id[pois_target_id.length] = 'Chest_Treasure' + '_' + map_id;
 
 									break;
+								case 'the_desolation.a_soaring_stench':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'A Soaring Stench',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'elon_riverlands.flameseeker_prophecies':
+								case 'elon_riverlands.flameseeker_prophecies.forgotten_light':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Elon Riverlands',
+											'Flameseeker Prophecies',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									if (k == 'elon_riverlands.flameseeker_prophecies.forgotten_light')
+									{
+										type_new = type_new
+											.concat([
+												'Forgotten Light',
+											])
+										;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
