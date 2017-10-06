@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Boss" iconFile="Data/Boss.png">
+      <MarkerCategory name="Treasure Mushroom" DisplayName="Treasure Mushroom"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1195" xpos="-151.894" ypos="361.788" zpos="59.2813" type="tactical.boss.treasure_mushroom" GUID="+UjOyUGq8kq4XrXv0nLNjQ=="/>
+    <POI MapID="1043" xpos="395.092" ypos="243.048" zpos="-211.762" type="tactical.boss.treasure_mushroom" GUID="mmsn6HoBaUydAUS82M1y3g=="/>
+    <POI MapID="1041" xpos="594.151" ypos="46.9408" zpos="-74.6865" type="tactical.boss.treasure_mushroom" GUID="A2fWFTFkF0OKOuNxZ5i4jw=="/>
+  </POIs>
+</OverlayData>

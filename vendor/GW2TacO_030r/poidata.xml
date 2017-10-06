@@ -43,7 +43,6 @@
     <POI MapID="1195" xpos="175.997" ypos="419.35" zpos="-35.1473" type="temp.flashpoint.rock_collector" GUID="nQDP2GXj8EmnVxCp/HGUCw=="/>
     <POI MapID="1195" xpos="-10.7771" ypos="249.722" zpos="213.204" type="chest.mapspecific.undefined" GUID="npImjfOLJ0e/3zS9XHNPWA=="/>
     <POI MapID="1185" xpos="-246.43" ypos="0.178404" zpos="-384.17" type="temp.letters_from_e" GUID="+NQCkZTviEWC5hC3k3vUkw=="/>
-    <POI MapID="1195" xpos="-151.894" ypos="361.788" zpos="59.2813" type="temp.mapspecific.treasure_mushroom" GUID="+UjOyUGq8kq4XrXv0nLNjQ=="/>
     <POI MapID="1195" xpos="163.987" ypos="219.92" zpos="159.393" type="temp.mapspecific.champion" GUID="RuWmjrwBNUeZ1ebiFqzS2w=="/>
     <POI MapID="1195" xpos="-106.143" ypos="260.185" zpos="204.187" type="temp.mapspecific.champion" GUID="Hh7wcW17zkWUYm6aq3QF1A=="/>
     <POI MapID="1195" xpos="184.019" ypos="183.245" zpos="-924.158" type="chest.mapspecific.undefined" GUID="1ZdLwR96i0ySKqH4WInQRg=="/>
@@ -57,8 +56,6 @@
     <POI MapID="1195" xpos="-443.672" ypos="447.139" zpos="-397.746" type="chest.mapspecific.undefined" GUID="j2iKb3nd0UikAwR28DNnEA=="/>
     <POI MapID="1195" xpos="-448.654" ypos="449.516" zpos="-287.205" type="temp.flashpoint.rock_collector" GUID="Z28K7hybBEmwEJS5Gqdd2A=="/>
     <POI MapID="1195" xpos="-289.505" ypos="461.436" zpos="-386.193" type="temp.flashpoint.rock_collector" GUID="Bo+M+IYfG0+Xo2YfJpHvgg=="/>
-    <POI MapID="1043" xpos="395.092" ypos="243.048" zpos="-211.762" type="temp.mapspecific.treasure_mushroom" GUID="mmsn6HoBaUydAUS82M1y3g=="/>
-    <POI MapID="1041" xpos="594.151" ypos="46.9408" zpos="-74.6865" type="temp.mapspecific.treasure_mushroom" GUID="A2fWFTFkF0OKOuNxZ5i4jw=="/>
     <POI MapID="1052" xpos="410.278" ypos="437.721" zpos="175.749" type="temp.side_stories.bloodstone_sightings" GUID="HlOTkTsvpkqkSYKS9BGwtg=="/>
     <POI MapID="24" xpos="-930.545" ypos="12.681" zpos="-295.958" type="temp.mapspecific.undefined" GUID="IBp210xZmUm4saVXNb67Qw=="/>
     <POI MapID="1099" xpos="515.038" ypos="61.9967" zpos="-387.718" type="tactical.wvw.undefined" GUID="y3DyBgSXaEuKA68bqtBoWQ=="/>
@@ -202,7 +199,6 @@
     <POI MapID="1210" xpos="-937.571" ypos="46.638" zpos="362.953" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="tf3XRin+Bk+l4KLpy7ElfQ=="/>
     <POI MapID="1248" xpos="359.77" ypos="116.162" zpos="117.818" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="HVtOM3kKs0+KKPOXAh6JIA=="/>
     <POI MapID="1211" xpos="432.748" ypos="135.641" zpos="-365.149" type="temp.path_of_fire.desert_highlands.dwarven_remnants" GUID="0XWjYs1H8UCQnkUxLtDA8w=="/>
-    <POI MapID="1228" xpos="753.225" ypos="150.406" zpos="955.065" type="temp.path_of_fire.crystal_oasis.priory_historian_elisa" GUID="okl19+rz9k+Aq+exA/j9KQ=="/>
     <POI MapID="1210" xpos="482.837" ypos="69.9656" zpos="15.113" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="CL8+B7+K0EKXuLosvRfMew=="/>
     <POI MapID="1210" xpos="-911.914" ypos="17.3844" zpos="-317.962" type="other.portal.instance" GUID="dCvsLObw/kiF/5kB+snYjg=="/>
     <POI MapID="1228" xpos="-732.386" ypos="50.5382" zpos="472.94" type="other.portal.cave" GUID="fjG8pzCCHkCU1BRat6MNBA=="/>
@@ -312,9 +308,7 @@
     <POI MapID="1211" xpos="-1352.73" ypos="317.991" zpos="195.326" type="other.portal" GUID="XFeUWRbWSU+nkObbJtmJ4Q=="/>
     <POI MapID="1211" xpos="-1203.35" ypos="340.704" zpos="264.013" type="temp.path_of_fire.desert_highlands.riddle_me_this" GUID="HjJfhD53Pky3qVvhYJK0uQ=="/>
     <POI MapID="28" xpos="344.074" ypos="134.563" zpos="1023.83" type="other.portal.instance" GUID="VX+srNpIOEC1sMuE2pInKA=="/>
-    <POI MapID="1226" xpos="-246.031" ypos="308.272" zpos="726.102" type="temp.path_of_fire.crystal_oasis.priory_historian_elisa" GUID="2qR7zyUxZU2JGfdrIslgSQ=="/>
     <POI MapID="1226" xpos="108.694" ypos="269.451" zpos="493.8" type="temp.path_of_fire.the_desolation.jackal_reconnaissance" GUID="gH7IXw0GxUC3VBfwlbsAhw=="/>
-    <POI MapID="1226" xpos="285.376" ypos="437.057" zpos="-184.285" type="temp.path_of_fire.always_time_for_taimi" GUID="JqkPLpuOnUqXAY23g5FqGg=="/>
     <POI MapID="1226" xpos="802.078" ypos="251.277" zpos="-683.112" type="other.portal.gate" GUID="kyYbJt+cS0iaHMTPeXSSgw=="/>
     <POI MapID="1226" xpos="807.982" ypos="249.473" zpos="-695.841" type="other.portal.out" GUID="YGT9PQoM3EGRvIRaKP+yDQ=="/>
     <POI MapID="1226" xpos="1009.51" ypos="55.858" zpos="1455.83" type="other.portal" GUID="uAIBvW3ufEahahfEHFVx8g=="/>

@@ -87,6 +87,9 @@
     <MarkerCategory name="Adventure">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Boss" iconFile="Data/Boss.png">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
         <MarkerCategory name="undefined"/>
@@ -205,6 +208,9 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Crystal Desert" iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" DisplayName="Crystal Desert">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" DisplayName="Crystal Oasis">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>

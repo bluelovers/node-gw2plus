@@ -67,6 +67,12 @@ addGulpTasks({
 					'Vendor',
 					'Pact Supply Network Agent',
 				],
+
+				'temp.mapspecific.treasure_mushroom': [
+					'Tactical',
+					'Boss',
+					'Treasure Mushroom',
+				],
 			};
 
 			const map_home = [
@@ -1078,6 +1084,30 @@ addGulpTasks({
 										.concat([
 											'The Desolation',
 											'Dance Till You Drop',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'always_time_for_taimi':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Crystal Desert',
+											'Always Time for Taimi',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'crystal_oasis.priory_historian_elisa':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Crystal Desert',
+											'Priory Historian Elisa',
 										])
 									;
 

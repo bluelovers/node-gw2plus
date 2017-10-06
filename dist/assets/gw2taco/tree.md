@@ -14,6 +14,14 @@ POIs
 │ │   ├── Nevermore III.xml
 │ │   └── Nevermore IV.xml
 │ └─┬ Path of Fire
+│   ├─┬ Crystal Desert
+│   │ ├── Chest_1210_Crystal Oasis.xml
+│   │ ├── Chest_1211_Desert Highlands.xml
+│   │ ├── Chest_1226_The Desolation.xml
+│   │ ├── Chest_1228_Elon Riverlands.xml
+│   │ ├── Chest_1248_Domain of Vabbi.xml
+│   │ ├── Always Time for Taimi.xml
+│   │ └── Priory Historian Elisa.xml
 │   ├─┬ Crystal Oasis
 │   │ └── Lost Lore of Crystal Oasis.xml
 │   ├─┬ Desert Highlands
@@ -67,7 +75,9 @@ POIs
 │ │ ├── Chest_1211_Desert Highlands.xml
 │ │ ├── Chest_1226_The Desolation.xml
 │ │ ├── Chest_1228_Elon Riverlands.xml
-│ │ └── Chest_1248_Domain of Vabbi.xml
+│ │ ├── Chest_1248_Domain of Vabbi.xml
+│ │ ├── Always Time for Taimi.xml
+│ │ └── Priory Historian Elisa.xml
 │ ├─┬ Heart of Maguuma
 │ │ ├── Chest_1041_Dragons Stand.xml
 │ │ ├── Chest_1043_Auric Basin.xml
@@ -150,6 +160,14 @@ POIs
 │ │   ├── Cin Business.xml
 │ │   └── Not All Who Wander Are Lost.xml
 │ └─┬ Path of Fire
+│   ├─┬ Crystal Desert
+│   │ ├── Chest_1210_Crystal Oasis.xml
+│   │ ├── Chest_1211_Desert Highlands.xml
+│   │ ├── Chest_1226_The Desolation.xml
+│   │ ├── Chest_1228_Elon Riverlands.xml
+│   │ ├── Chest_1248_Domain of Vabbi.xml
+│   │ ├── Always Time for Taimi.xml
+│   │ └── Priory Historian Elisa.xml
 │   ├─┬ Crystal Oasis
 │   │ └── Lost Lore of Crystal Oasis.xml
 │   ├─┬ Desert Highlands
@@ -421,6 +439,8 @@ POIs
 │   ├── Currency_1195_Draconis Mons.xml
 │   └── Currency_62_Cursed Shore.xml
 ├─┬ Tactical
+│ ├─┬ Boss
+│ │ └── Treasure Mushroom.xml
 │ ├─┬ GuildMission
 │ │ └── Trek.xml
 │ ├─┬ Juvenile Pets
@@ -434,6 +454,14 @@ POIs
 │ │   └── Sand Lion.xml
 │ ├── Juvenile Pets.xml
 │ └─┬ Path of Fire
+│   ├─┬ Crystal Desert
+│   │ ├── Chest_1210_Crystal Oasis.xml
+│   │ ├── Chest_1211_Desert Highlands.xml
+│   │ ├── Chest_1226_The Desolation.xml
+│   │ ├── Chest_1228_Elon Riverlands.xml
+│   │ ├── Chest_1248_Domain of Vabbi.xml
+│   │ ├── Always Time for Taimi.xml
+│   │ └── Priory Historian Elisa.xml
 │   ├─┬ Crystal Oasis
 │   │ └── Lost Lore of Crystal Oasis.xml
 │   ├─┬ Desert Highlands

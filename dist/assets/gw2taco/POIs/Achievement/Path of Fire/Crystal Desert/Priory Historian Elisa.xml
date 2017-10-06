@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Crystal Desert" iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" DisplayName="Crystal Desert">
+        <MarkerCategory name="Priory Historian Elisa" DisplayName="Priory Historian Elisa"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="753.225" ypos="150.406" zpos="955.065" type="achievement.path_of_fire.crystal_desert.priory_historian_elisa" GUID="okl19+rz9k+Aq+exA/j9KQ=="/>
+    <POI MapID="1226" xpos="-246.031" ypos="308.272" zpos="726.102" type="achievement.path_of_fire.crystal_desert.priory_historian_elisa" GUID="2qR7zyUxZU2JGfdrIslgSQ=="/>
+  </POIs>
+</OverlayData>
