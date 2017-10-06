@@ -111,10 +111,13 @@
         <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
         <MarkerCategory name="Acrid Springs Recovery" DisplayName="Acrid Springs Recovery"/>
         <MarkerCategory name="Shadows Provisions" DisplayName="Shadows Provisions"/>
-        <MarkerCategory name="Shadow Sprinter" DisplayName="Shadow Sprinter"/>
+        <MarkerCategory name="Shadow Sprinter" DisplayName="Shadow Sprinter">
+          <MarkerCategory name="point"/>
+        </MarkerCategory>
         <MarkerCategory name="Joko's Hidden Chamber" DisplayName="Joko's Hidden Chamber"/>
         <MarkerCategory name="A Family’s Sacrifice" DisplayName="A Family’s Sacrifice"/>
         <MarkerCategory name="A Soaring Stench" DisplayName="A Soaring Stench"/>
+        <MarkerCategory name="The Throne of Bones" DisplayName="The Throne of Bones"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>
