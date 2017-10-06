@@ -209,6 +209,18 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
+        <MarkerCategory name="Dwarven Ruins" DisplayName="Dwarven Ruins">
+          <MarkerCategory name="The Curious Bowl" DisplayName="The Curious Bowl">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="Rune Locked Doors" DisplayName="Rune Locked Doors">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="Dwarven Forge" data-sort="true" DisplayName="Dwarven Forge">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" DisplayName="Domain of Vabbi">
@@ -377,6 +389,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands">
+        <MarkerCategory name="Rune_Locked Doors" DisplayName="Rune-Locked Doors">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
