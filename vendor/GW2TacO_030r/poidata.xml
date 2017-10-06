@@ -293,5 +293,10 @@
     <POI MapID="24" xpos="-386.451" ypos="-20.4481" zpos="-364.47" type="other.portal.cave" GUID="eYXneuj3cU+Z2gbAFnY3Ww=="/>
     <POI MapID="1226" xpos="-432.564" ypos="199.201" zpos="699.602" type="other.portal.cave" GUID="6F3tgGtBbUW7zpecDj1i2w=="/>
     <POI MapID="1226" xpos="-742.314" ypos="47.464" zpos="998.52" type="temp.lore" GUID="nInIC7MQXkaYxqhblbnmVw=="/>
+    <POI MapID="1226" xpos="644.348" ypos="264.176" zpos="-910.955" type="temp.path_of_fire.the_desolation.shadow_sprinter" GUID="HW6PDoP1y0S1EAXALdz7wg=="/>
+    <POI MapID="1226" xpos="609.923" ypos="256.348" zpos="-972.465" type="temp.path_of_fire.the_desolation.shadow_sprinter.point" GUID="qYzMcS7giEGsyJknZSw73w=="/>
+    <POI MapID="1226" xpos="1045.17" ypos="336.082" zpos="-223.967" type="other.portal.cave" GUID="DmnX5rGiPkKEm5r93FcA+g=="/>
+    <POI MapID="1228" xpos="-414.075" ypos="4.44885" zpos="166.592" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="Jq4pkyBa4kuCZBdP8Us10Q=="/>
+    <POI MapID="1228" xpos="1010.98" ypos="83.7391" zpos="959.024" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="n+O/sW5FHE+c1gCaicnbDw=="/>
   </POIs>
 </OverlayData>

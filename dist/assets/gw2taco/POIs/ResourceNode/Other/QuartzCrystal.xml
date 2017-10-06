@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
         <MarkerCategory name="Rich" data-class="size-1 fade-max2" iconSize="1" fadeFar="42000" fadeNear="25200"/>
       </MarkerCategory>
     </MarkerCategory>
