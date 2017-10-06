@@ -46,7 +46,7 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -389,6 +389,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
+        <MarkerCategory name="Shadow Sprinter" DisplayName="Shadow Sprinter">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
