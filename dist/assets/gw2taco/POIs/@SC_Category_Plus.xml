@@ -68,6 +68,7 @@
     </MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
       <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="Pink Moa" DisplayName="Pink Moa"/>
       </MarkerCategory>
       <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
       </MarkerCategory>
