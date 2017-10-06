@@ -653,5 +653,8 @@
     <POI MapID="1210" xpos="175.69" ypos="82.3931" zpos="-90.1751" type="resourcenode.wood.elder" GUID="mVUNo9m4uUyFLA4kYERy2w=="/>
     <POI MapID="1043" xpos="410.659" ypos="288.528" zpos="164.63" type="resourcenode.wood.elder" GUID="bI1+K/Dhi0Kje6w8oIB1RA=="/>
     <POI MapID="1043" xpos="-38.5675" ypos="319.169" zpos="470.838" type="resourcenode.wood.elder" GUID="H0gYYHdl40WWCtz0zp1FjA=="/>
+    <POI MapID="1226" xpos="809.112" ypos="296.283" zpos="-490.904" type="resourcenode.wood.elder" GUID="0iodRH7Mg0y6rI0bQLG1hQ=="/>
+    <POI MapID="1226" xpos="774.756" ypos="277.999" zpos="-232.087" type="resourcenode.wood.elder" GUID="G1HnnIM3ekeiHRnkFUk6Ng=="/>
+    <POI MapID="1228" xpos="-870.073" ypos="98.4339" zpos="684.122" type="resourcenode.wood.elder" GUID="DXbsMHxhX0mBgOpMMuJmag=="/>
   </POIs>
 </OverlayData>
