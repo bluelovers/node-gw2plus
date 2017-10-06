@@ -49,7 +49,7 @@
         </MarkerCategory>
         <MarkerCategory name="On Wings and a Prayer" DisplayName="On Wings and a Prayer"/>
       </MarkerCategory>
-      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png">
+      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png" data-sort="true">
         <MarkerCategory name="Sunspear Support" DisplayName="Sunspear Support"/>
         <MarkerCategory name="Salute to Palawa Joko" DisplayName="Salute to Palawa Joko"/>
         <MarkerCategory name="Amnoon Independence" DisplayName="Amnoon Independence"/>

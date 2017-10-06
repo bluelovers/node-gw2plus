@@ -68,6 +68,7 @@
 		</MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3">
       <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="Pink Moa"/>
       </MarkerCategory>
       <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true">
       </MarkerCategory>

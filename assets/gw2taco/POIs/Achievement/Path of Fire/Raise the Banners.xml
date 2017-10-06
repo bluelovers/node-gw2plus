@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Achievement">
     <MarkerCategory name="Path of Fire">
-      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png">
+      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png" data-sort="true">
         <MarkerCategory name="Sunspear Support"/>
         <MarkerCategory name="Salute to Palawa Joko"/>
         <MarkerCategory name="Amnoon Independence"/>

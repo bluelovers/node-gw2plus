@@ -214,7 +214,9 @@
       <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png">
-      <MarkerCategory name="Core" data-sort="true" data-allowsub="true"/>
+      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="Pink Moa"/>
+      </MarkerCategory>
       <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true"/>
       <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true">
         <MarkerCategory name="Cheetah"/>
@@ -435,10 +437,10 @@
         </MarkerCategory>
         <MarkerCategory name="On Wings and a Prayer"/>
       </MarkerCategory>
-      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png">
-        <MarkerCategory name="Sunspear Support"/>
-        <MarkerCategory name="Salute to Palawa Joko"/>
+      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png" data-sort="true">
         <MarkerCategory name="Amnoon Independence"/>
+        <MarkerCategory name="Salute to Palawa Joko"/>
+        <MarkerCategory name="Sunspear Support"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png">
         <MarkerCategory name="A Soaring Stench"/>

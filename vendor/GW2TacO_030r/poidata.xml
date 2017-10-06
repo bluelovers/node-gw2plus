@@ -312,5 +312,6 @@
     <POI MapID="1211" xpos="-1322.79" ypos="1.12949" zpos="153.124" type="other.portal" GUID="o9WNwqv0AkSxWX0D7qU/9g=="/>
     <POI MapID="1211" xpos="-1352.73" ypos="317.991" zpos="195.326" type="other.portal" GUID="XFeUWRbWSU+nkObbJtmJ4Q=="/>
     <POI MapID="1211" xpos="-1203.35" ypos="340.704" zpos="264.013" type="temp.path_of_fire.desert_highlands.riddle_me_this" GUID="HjJfhD53Pky3qVvhYJK0uQ=="/>
+    <POI MapID="28" xpos="344.074" ypos="134.563" zpos="1023.83" type="other.portal.instance" GUID="VX+srNpIOEC1sMuE2pInKA=="/>
   </POIs>
 </OverlayData>
