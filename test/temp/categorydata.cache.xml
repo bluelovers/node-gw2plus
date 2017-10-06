@@ -400,7 +400,7 @@
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png">
         <MarkerCategory name="Flameseeker Prophecies">
-          <MarkerCategory name="Forgotten Light"/>
+          <MarkerCategory name="Forgotten Light" iconFile="Data/Point.png"/>
         </MarkerCategory>
         <MarkerCategory name="Ghostly Trio">
           <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>

@@ -14,7 +14,7 @@
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
         <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies">
-          <MarkerCategory name="Forgotten Light" DisplayName="Forgotten Light"/>
+          <MarkerCategory name="Forgotten Light" iconFile="Data/Point.png" DisplayName="Forgotten Light"/>
         </MarkerCategory>
         <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
           <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
