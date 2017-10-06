@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
+          <MarkerCategory name="Statue of Dwayna" DisplayName="Statue of Dwayna"/>
+          <MarkerCategory name="Statue of Melandru" DisplayName="Statue of Melandru"/>
+          <MarkerCategory name="Statue of Lyssa" DisplayName="Statue of Lyssa"/>
+          <MarkerCategory name="Statue of Grenth" DisplayName="Statue of Grenth"/>
+          <MarkerCategory name="Statue of Balthazar" DisplayName="Statue of Balthazar"/>
+          <MarkerCategory name="Statue of Kormir" DisplayName="Statue of Kormir"/>
+          <MarkerCategory name="Statue of Abaddon" DisplayName="Statue of Abaddon"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="19.7468" ypos="273.992" zpos="202.212" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_grenth" GUID="9xCOKj2qM0alrfwikK0Vyw=="/>
+    <POI MapID="1226" xpos="-57.5948" ypos="265.11" zpos="9.47855" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_balthazar" GUID="r80JixCmPkaQuTyoRhxbWg=="/>
+    <POI MapID="1226" xpos="733.917" ypos="23.3775" zpos="1520.04" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_kormir" GUID="tTaXNsbi70euQKmaEdA/NA=="/>
+    <POI MapID="1226" xpos="1050.99" ypos="53.6706" zpos="1450.97" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_abaddon" GUID="xdcwG7143Uy8ilmoykRcVQ=="/>
+  </POIs>
+</OverlayData>
