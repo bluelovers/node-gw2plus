@@ -34,6 +34,7 @@ POIs
 │   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
+│   │ ├── Dance Till You Drop.xml
 │   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ ├── Path of the Gods.xml
@@ -169,6 +170,7 @@ POIs
 │   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
+│   │ ├── Dance Till You Drop.xml
 │   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ ├── Path of the Gods.xml
@@ -452,6 +454,7 @@ POIs
 │   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
+│   │ ├── Dance Till You Drop.xml
 │   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ ├── Path of the Gods.xml
