@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="Pink Moa" DisplayName="Pink Moa"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="39" xpos="-402.933" ypos="43.7957" zpos="576.446" type="tactical.juvenile_pets.core.pink_moa" GUID="9zwjzaYFxkyAlAyhQhJO/Q=="/>
+  </POIs>
+</OverlayData>
