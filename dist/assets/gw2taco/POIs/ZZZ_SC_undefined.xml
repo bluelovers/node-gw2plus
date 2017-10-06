@@ -245,6 +245,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -405,6 +408,9 @@
       </MarkerCategory>
       <MarkerCategory name="The Desolation" DisplayName="The Desolation">
         <MarkerCategory name="Shadow Sprinter" DisplayName="Shadow Sprinter">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
         <MarkerCategory name="undefined"/>
