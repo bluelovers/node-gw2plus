@@ -1,0 +1,80 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
+        <MarkerCategory name="Dwarven Ruins" DisplayName="Dwarven Ruins">
+          <MarkerCategory name="The Curious Bowl" DisplayName="The Curious Bowl">
+            <MarkerCategory name="Breaking the Bank" DisplayName="Breaking the Bank"/>
+          </MarkerCategory>
+          <MarkerCategory name="Rune Locked Doors" DisplayName="Rune Locked Doors">
+            <MarkerCategory name="Runestone" iconFile="Data/Point.png"/>
+            <MarkerCategory name="Portal" iconFile="Data/Other/Portal/In.png"/>
+          </MarkerCategory>
+          <MarkerCategory name="Dwarven Forge" data-sort="true" DisplayName="Dwarven Forge">
+            <MarkerCategory name="Stonespite Cleaver" DisplayName="Stonespite Cleaver"/>
+            <MarkerCategory name="Staff of the Lost" DisplayName="Staff of the Lost"/>
+            <MarkerCategory name="Gate of Good Byes" DisplayName="Gate of Good Byes"/>
+            <MarkerCategory name="Final Sting" DisplayName="Final Sting"/>
+            <MarkerCategory name="Might of the Vindictive" DisplayName="Might of the Vindictive"/>
+          </MarkerCategory>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="-1123.87" ypos="324.373" zpos="215.947" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="WpSJ+pMtwkKSVI9ldg+FpQ=="/>
+    <POI MapID="1211" xpos="-1095.06" ypos="325.412" zpos="209.78" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="EC0gXJc6ZEG8sCC2RvXblw=="/>
+    <POI MapID="1211" xpos="-1093.31" ypos="325.411" zpos="217.508" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="oGTnZ+7dY06NttW3Okxiqw=="/>
+    <POI MapID="1211" xpos="-1151.44" ypos="324.243" zpos="226.448" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl" GUID="ig3J1StGKEOpE9IR1WXLAg=="/>
+    <POI MapID="1211" xpos="-1121.51" ypos="324.4" zpos="226.555" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="wwwEZ2+5y0qWb/5a9WIkPg=="/>
+    <POI MapID="1211" xpos="-1064.71" ypos="324.33" zpos="208.896" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="RpJj5X7g6UqOJahgkPO6sg=="/>
+    <POI MapID="1211" xpos="-1062.59" ypos="324.355" zpos="218.734" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="XuVnKmVGmUKTDwd/Y9BnLw=="/>
+    <POI MapID="1211" xpos="-1034.36" ypos="325.652" zpos="206.081" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="E1uMSBEAt0SZeEjute3dfQ=="/>
+    <POI MapID="1211" xpos="-1138.91" ypos="340.422" zpos="157.29" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="aVyGnVBQIEWzGHjU4JEKGw=="/>
+    <POI MapID="1211" xpos="-1222.33" ypos="340.023" zpos="125.234" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.portal" GUID="FBeIRihgCUKC5J9Y1LxZYw=="/>
+    <POI MapID="1211" xpos="-1185.62" ypos="355.952" zpos="77.9364" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.stonespite_cleaver" GUID="2VgXU6z39EiIO8WDvnTqGA=="/>
+    <POI MapID="1211" xpos="-1149.64" ypos="355.462" zpos="81.0698" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="mstgvAHHcEaP9QAvYq63oA=="/>
+    <POI MapID="1211" xpos="-1147.51" ypos="355.375" zpos="63.6141" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.stonespite_cleaver" GUID="4QUmj8741EKgMZiSf972aw=="/>
+    <POI MapID="1211" xpos="-1134.94" ypos="318.827" zpos="56.8028" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.stonespite_cleaver" GUID="1VfxceDReEKoJP4jnFCeRw=="/>
+    <POI MapID="1211" xpos="-1184.61" ypos="329.567" zpos="73.7116" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.stonespite_cleaver" GUID="w905f+6CtUS4p5ibzJ8xLg=="/>
+    <POI MapID="1211" xpos="-1219.47" ypos="321.048" zpos="61.7347" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.stonespite_cleaver" GUID="h84G+5Rs+UOf60p8yFyAcA=="/>
+    <POI MapID="1211" xpos="-1224.77" ypos="321.08" zpos="69.0328" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="xctjuQd4eEeeTFbiZ4u/rQ=="/>
+    <POI MapID="1211" xpos="-1224.63" ypos="310.712" zpos="77.5038" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.staff_of_the_lost" GUID="97ISp0wTMEiLzHCpH0ZkVw=="/>
+    <POI MapID="1211" xpos="-1245.33" ypos="278.717" zpos="122.919" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="NldXY+mHL0K+vOwWBHz4sA=="/>
+    <POI MapID="1211" xpos="-1245.85" ypos="278.634" zpos="126.741" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="g2Mv0BHiK0uoJ240eGWNuA=="/>
+    <POI MapID="1211" xpos="-1241.88" ypos="278.78" zpos="124.902" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.portal" GUID="t4ENI/gbuUKA162DyUdEoA=="/>
+    <POI MapID="1211" xpos="-1224.05" ypos="339.759" zpos="127.762" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="e18kdUZPxEiWzxxypu8xkg=="/>
+    <POI MapID="1211" xpos="-1100.89" ypos="254.13" zpos="107.371" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.gate_of_good_byes" GUID="es9FjT0tJEG3n2JA4CrWLg=="/>
+    <POI MapID="1211" xpos="-1037.9" ypos="254.13" zpos="141.984" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.gate_of_good_byes" GUID="e5Br2FWJnk2g5IbcF8zdlw=="/>
+    <POI MapID="1211" xpos="-1048.93" ypos="242.436" zpos="111.463" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="bjNId2Esfk2Z5gI5Y4uNvQ=="/>
+    <POI MapID="1211" xpos="-1096.22" ypos="212.16" zpos="119.853" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.gate_of_good_byes" GUID="X+8+zOP0KU6UHjvz3uXwGQ=="/>
+    <POI MapID="1211" xpos="-1050.74" ypos="212.01" zpos="153.782" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.gate_of_good_byes" GUID="Xv1UdJa+hEKdPjRdwZbBug=="/>
+    <POI MapID="1211" xpos="-1081.1" ypos="210.454" zpos="144.835" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.staff_of_the_lost" GUID="4hmIF91oakyzO9hatTWy6w=="/>
+    <POI MapID="1211" xpos="-1077.25" ypos="214.09" zpos="159.884" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="1v5KeaLhUU2wCCxZTgxnyw=="/>
+    <POI MapID="1211" xpos="-1156.86" ypos="239.041" zpos="155.358" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="aTFAJsfPKkCMXr4Expeqjw=="/>
+    <POI MapID="1211" xpos="-1278.12" ypos="284.417" zpos="202.068" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="XMCsbas5H0Cg+Q49Y2Z6hA=="/>
+    <POI MapID="1211" xpos="-1280.84" ypos="284.445" zpos="200.933" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="OS8jXc9VOE+OaC94mJu6eQ=="/>
+    <POI MapID="1211" xpos="-1284.02" ypos="284.433" zpos="202.122" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="ZVJt+DiMMEWu3PLZBKtSmg=="/>
+    <POI MapID="1211" xpos="-1280.93" ypos="284.713" zpos="204.785" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.portal" GUID="TW1iVXB0N0+9Uzddi+b7ZA=="/>
+    <POI MapID="1211" xpos="-1274.85" ypos="294.909" zpos="245.192" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.staff_of_the_lost" GUID="u8Th9TWiIUamWlemF7zz5w=="/>
+    <POI MapID="1211" xpos="-1179.67" ypos="235.179" zpos="334.261" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="I0n75Mxzak60yVw0ZBJqlg=="/>
+    <POI MapID="1211" xpos="-1161.59" ypos="237.927" zpos="405.87" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.final_sting" GUID="Ir5zKqz/X0unUZio7H7HuQ=="/>
+    <POI MapID="1211" xpos="-1293.03" ypos="223.686" zpos="386.576" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="wTUZXyNEYEyocsuCNKCymQ=="/>
+    <POI MapID="1211" xpos="-1209.2" ypos="271.626" zpos="407.791" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.final_sting" GUID="+tHDtEqZEUOHgo8KOZkUDg=="/>
+    <POI MapID="1211" xpos="-1293.38" ypos="267.568" zpos="423.121" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.final_sting" GUID="vYGwerPM1k24Lsm94SRS9g=="/>
+    <POI MapID="1211" xpos="-1283.91" ypos="253.958" zpos="345.213" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="u18HvcSXnkOcfwQEMWuzxw=="/>
+    <POI MapID="1211" xpos="-1287.65" ypos="279.03" zpos="355.608" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.final_sting" GUID="9g7ecPsl8UupA+9ufVSmOA=="/>
+    <POI MapID="1211" xpos="-1202.11" ypos="252.309" zpos="368.17" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.runestone" GUID="+ak5ajWgKEyuKxGM6eVC/g=="/>
+    <POI MapID="1211" xpos="-1335.35" ypos="299.576" zpos="201.906" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="cnlZ5I9kYke9EU+aEPduDA=="/>
+    <POI MapID="1211" xpos="-1333.57" ypos="299.477" zpos="203.757" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="YrGDcqGjQkqOCKEFlAbRlA=="/>
+    <POI MapID="1211" xpos="-1333.45" ypos="299.46" zpos="205.932" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="LETwJvjd10i5pAV5a3Ybjw=="/>
+    <POI MapID="1211" xpos="-1335.54" ypos="299.567" zpos="208.012" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors" GUID="Aj1xroWKIUW/iB5hSyFR/A=="/>
+    <POI MapID="1211" xpos="-1337.51" ypos="299.899" zpos="205.025" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.rune_locked_doors.portal" GUID="jGmcThnAMECwqAnRNXu77A=="/>
+    <POI MapID="1211" xpos="-1408" ypos="296.302" zpos="189.061" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.staff_of_the_lost" GUID="5dNf2ygK7E69tFroW/inTA=="/>
+    <POI MapID="1211" xpos="-1461.74" ypos="4.37972" zpos="76.3619" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.might_of_the_vindictive" GUID="Y1NOiaVttkqWyQwjHeYibQ=="/>
+    <POI MapID="1211" xpos="-1336.23" ypos="36.5169" zpos="73.5418" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.might_of_the_vindictive" GUID="Kw9OUs/YIkiR6845X+lmQg=="/>
+    <POI MapID="1211" xpos="-1277.2" ypos="27.5357" zpos="103.601" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.might_of_the_vindictive" GUID="SPDEAGY8zkCf/zRXI8P3xw=="/>
+    <POI MapID="1211" xpos="-1372.15" ypos="49.6107" zpos="276.72" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge.might_of_the_vindictive" GUID="Vv6KQtlV5EOsY2nvU62IfA=="/>
+    <POI MapID="1211" xpos="-1199.71" ypos="341.525" zpos="267.02" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.dwarven_forge" GUID="lzZiZxp5KECLyE7bqdGaRQ=="/>
+  </POIs>
+</OverlayData>

@@ -34,7 +34,7 @@
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
       <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal">
-        <MarkerCategory name="Rich" data-class="size-1 fade-max2"/>aaaaaaaa
+        <MarkerCategory name="Rich" data-class="size-1 fade-max2"/>
       </MarkerCategory>
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5"/>
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5"/>

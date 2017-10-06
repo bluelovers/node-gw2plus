@@ -95,6 +95,20 @@
         <MarkerCategory name="Dwarven Remnants" DisplayName="Dwarven Remnants"/>
         <MarkerCategory name="Carrot Collector" DisplayName="Carrot Collector"/>
         <MarkerCategory name="Hidden Carrot Hunt" DisplayName="Hidden Carrot Hunt"/>
+        <MarkerCategory name="The Curious Bowl" DisplayName="The Curious Bowl"/>
+        <MarkerCategory name="Breaking the Bank" DisplayName="Breaking the Bank"/>
+        <MarkerCategory name="Rune-Locked Doors" DisplayName="Rune-Locked Doors">
+          <MarkerCategory name="Portal"/>
+          <MarkerCategory name="Runestone"/>
+          <MarkerCategory name="Runestone Put" DisplayName="Runestone Put"/>
+        </MarkerCategory>
+        <MarkerCategory name="Dwarven Forge" DisplayName="Dwarven Forge"/>
+        <MarkerCategory name="Stonespite Cleaver" DisplayName="Stonespite Cleaver"/>
+        <MarkerCategory name="Staff of the Lost" DisplayName="Staff of the Lost"/>
+        <MarkerCategory name="Gate of Good-Byes" DisplayName="Gate of Good-Byes"/>
+        <MarkerCategory name="Final Sting" DisplayName="Final Sting"/>
+        <MarkerCategory name="Might of the Vindictive" DisplayName="Might of the Vindictive"/>
+        <MarkerCategory name="Riddle Me This" DisplayName="Riddle Me This"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands" DisplayName="Lost Lore of Elon Riverlands"/>
@@ -118,6 +132,7 @@
         <MarkerCategory name="A Family’s Sacrifice" DisplayName="A Family’s Sacrifice"/>
         <MarkerCategory name="A Soaring Stench" DisplayName="A Soaring Stench"/>
         <MarkerCategory name="The Throne of Bones" DisplayName="The Throne of Bones"/>
+        <MarkerCategory name="Cleansing Tormented Remnants" DisplayName="Cleansing Tormented Remnants"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>

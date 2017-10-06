@@ -9,5 +9,6 @@
   <POIs>
     <POI MapID="1211" xpos="-484.505" ypos="278.928" zpos="-18.2637" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="V8LPa2TNRUK7GlKzrBrNZw=="/>
     <POI MapID="1211" xpos="-1294.38" ypos="434.532" zpos="313.497" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="Qtg7vggnvE+gQh7T8DZdMw=="/>
+    <POI MapID="1211" xpos="-1239.44" ypos="277.569" zpos="157.191" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="dRAD8XyPiEGoCqs6dNu3aw=="/>
   </POIs>
 </OverlayData>

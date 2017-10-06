@@ -820,6 +820,146 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
+								case 'desert_highlands.breaking_the_bank':
+								case 'desert_highlands.the_curious_bowl':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Desert Highlands',
+											'Dwarven Ruins',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									type_new.push('The Curious Bowl');
+
+									if (k == 'desert_highlands.breaking_the_bank')
+									{
+										type_new = type_new
+											.concat([
+												'Breaking the Bank',
+											])
+										;
+									}
+
+									break;
+								case 'desert_highlands.rune_locked_doors.runestone':
+								case 'desert_highlands.rune_locked_doors.portal':
+								case 'desert_highlands.stonespite_cleaver':
+								case 'desert_highlands.rune_locked_doors':
+								case 'desert_highlands.rune_locked_doors.runestone_put':
+								case 'desert_highlands.staff_of_the_lost':
+								case 'desert_highlands.gate_of_good_byes':
+								case 'desert_highlands.final_sting':
+								case 'desert_highlands.might_of_the_vindictive':
+								case 'desert_highlands.dwarven_forge':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Desert Highlands',
+											'Dwarven Ruins',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'desert_highlands.rune_locked_doors.runestone':
+										case 'desert_highlands.rune_locked_doors':
+
+											type_new = type_new
+												.concat([
+													'Rune-Locked Doors',
+													'Runestone',
+												])
+											;
+
+											break;
+										case 'desert_highlands.rune_locked_doors.portal':
+
+											type_new = type_new
+												.concat([
+													'Rune-Locked Doors',
+													'Portal',
+												])
+											;
+
+											break;
+										case 'desert_highlands.stonespite_cleaver':
+
+											type_new = type_new
+												.concat([
+													'Dwarven Forge',
+													'Stonespite Cleaver',
+												])
+											;
+
+											break;
+										case 'desert_highlands.staff_of_the_lost':
+
+											type_new = type_new
+												.concat([
+													'Dwarven Forge',
+													'Staff of the Lost',
+												])
+											;
+
+											break;
+										case 'desert_highlands.rune_locked_doors.runestone_put':
+
+											type_new = type_new
+												.concat([
+													'Rune-Locked Doors',
+												])
+											;
+
+											break;
+										case 'desert_highlands.gate_of_good_byes':
+
+											type_new = type_new
+												.concat([
+													'Dwarven Forge',
+													'Gate of Good-Byes',
+												])
+											;
+
+											break;
+										case 'desert_highlands.final_sting':
+
+											type_new = type_new
+												.concat([
+													'Dwarven Forge',
+													'Final Sting',
+												])
+											;
+
+											break;
+										case 'desert_highlands.might_of_the_vindictive':
+
+											type_new = type_new
+												.concat([
+													'Dwarven Forge',
+													'Might of the Vindictive',
+												])
+											;
+
+											break;
+										case 'desert_highlands.dwarven_forge':
+
+											type_new = type_new
+												.concat([
+													'Dwarven Forge',
+												])
+											;
+
+											break;
+										default:
+											break POIS;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
