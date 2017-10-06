@@ -133,6 +133,16 @@
         <MarkerCategory name="A Soaring Stench" DisplayName="A Soaring Stench"/>
         <MarkerCategory name="The Throne of Bones" DisplayName="The Throne of Bones"/>
         <MarkerCategory name="Cleansing Tormented Remnants" DisplayName="Cleansing Tormented Remnants"/>
+        <MarkerCategory name="Jackal Reconnaissance" DisplayName="Jackal Reconnaissance"/>
+        <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
+          <MarkerCategory name="Statue of Dwayna" DisplayName="Statue of Dwayna"/>
+          <MarkerCategory name="Statue of Melandru" DisplayName="Statue of Melandru"/>
+          <MarkerCategory name="Statue of Lyssa" DisplayName="Statue of Lyssa"/>
+          <MarkerCategory name="Statue of Grenth" DisplayName="Statue of Grenth"/>
+          <MarkerCategory name="Statue of Balthazar" DisplayName="Statue of Balthazar"/>
+          <MarkerCategory name="Statue of Kormir" DisplayName="Statue of Kormir"/>
+          <MarkerCategory name="Statue of Abaddon" DisplayName="Statue of Abaddon"/>
+        </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>
@@ -171,6 +181,7 @@
         <MarkerCategory name="Raise the Banners: Sunspear Support" DisplayName="Raise the Banners: Sunspear Support"/>
         <MarkerCategory name="Raise the Banners: Salute to Palawa Joko" DisplayName="Raise the Banners: Salute to Palawa Joko"/>
       </MarkerCategory>
+      <MarkerCategory name="Always Time for Taimi" DisplayName="Always Time for Taimi"/>
     </MarkerCategory>
     <MarkerCategory name="Pact Supply Network Agent" DisplayName="Pact Supply Network Agent"/>
     <MarkerCategory name="Lore"/>

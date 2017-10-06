@@ -149,6 +149,17 @@
         <MarkerCategory name="A Soaring Stench"/>
         <MarkerCategory name="The Throne of Bones"/>
         <MarkerCategory name="Cleansing Tormented Remnants"/>
+
+        <MarkerCategory name="Jackal Reconnaissance"/>
+        <MarkerCategory name="Path of the Gods">
+          <MarkerCategory name="Statue of Dwayna"/>
+          <MarkerCategory name="Statue of Melandru"/>
+          <MarkerCategory name="Statue of Lyssa"/>
+          <MarkerCategory name="Statue of Grenth"/>
+          <MarkerCategory name="Statue of Balthazar"/>
+          <MarkerCategory name="Statue of Kormir"/>
+          <MarkerCategory name="Statue of Abaddon"/>
+        </MarkerCategory>
       </MarkerCategory>
 
       <MarkerCategory name="Domain of Vabbi">
@@ -198,6 +209,8 @@
         <MarkerCategory name="Raise the Banners: Sunspear Support"/>
         <MarkerCategory name="Raise the Banners: Salute to Palawa Joko"/>
       </MarkerCategory>
+
+      <MarkerCategory name="Always Time for Taimi"/>
 
     </MarkerCategory>
 

@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="A Familys Sacrifice" DisplayName="A Familys Sacrifice"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="-742.314" ypos="47.464" zpos="998.52" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="nInIC7MQXkaYxqhblbnmVw=="/>
+    <POI MapID="1226" xpos="872.666" ypos="210.927" zpos="-862.247" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="aQhGRu+jJEWBK7vs2m+CEQ=="/>
+    <POI MapID="1228" xpos="327.338" ypos="5.16716" zpos="-226.233" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="6niTLqaqDUGBM9SgcFa5Vg=="/>
+  </POIs>
+</OverlayData>

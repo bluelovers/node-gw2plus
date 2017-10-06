@@ -130,5 +130,6 @@
     <POI MapID="1211" xpos="-627.451" ypos="-0.552772" zpos="-616.918" type="resourcenode.plant.orichalcum.mussels" GUID="BZoW21owNU6lK3aWJ6PL7w=="/>
     <POI MapID="1210" xpos="-430.43" ypos="-0.643467" zpos="92.0126" type="resourcenode.plant.orichalcum.mussels" GUID="nHeuHhAH/Uu0xLNDv7yrsQ=="/>
     <POI MapID="1210" xpos="1358.29" ypos="-0.669078" zpos="-82.3488" type="resourcenode.plant.orichalcum.mussels" GUID="aTeLn/a3CUe3zU4agzJGjw=="/>
+    <POI MapID="1226" xpos="565.488" ypos="-17.2594" zpos="1411.99" type="resourcenode.plant.orichalcum.mussels" GUID="Px6yjfDDpkm6S+3jvQ50/A=="/>
   </POIs>
 </OverlayData>

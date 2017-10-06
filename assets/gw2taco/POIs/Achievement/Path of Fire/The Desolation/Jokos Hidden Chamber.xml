@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="Jokos Hidden Chamber"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="847.211" ypos="211.855" zpos="-834.721" type="achievement.path_of_fire.the_desolation.jokos_hidden_chamber" GUID="qM/b48VtUEq1pEYUbeWe8A=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="A Familys Sacrifice"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="-742.314" ypos="47.464" zpos="998.52" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="nInIC7MQXkaYxqhblbnmVw=="/>
+    <POI MapID="1226" xpos="872.666" ypos="210.927" zpos="-862.247" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="aQhGRu+jJEWBK7vs2m+CEQ=="/>
+    <POI MapID="1228" xpos="327.338" ypos="5.16716" zpos="-226.233" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="6niTLqaqDUGBM9SgcFa5Vg=="/>
+  </POIs>
+</OverlayData>
