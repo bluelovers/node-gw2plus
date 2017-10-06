@@ -143,6 +143,7 @@
           <MarkerCategory name="Statue of Kormir" DisplayName="Statue of Kormir"/>
           <MarkerCategory name="Statue of Abaddon" DisplayName="Statue of Abaddon"/>
         </MarkerCategory>
+        <MarkerCategory name="Dance Till You Drop" DisplayName="Dance Till You Drop"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>
