@@ -31,9 +31,12 @@ POIs
 │   ├── Open Skies.xml
 │   ├── Raise the Banners.xml
 │   ├─┬ The Desolation
+│   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
+│   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
+│   │ ├── Path of the Gods.xml
 │   │ ├── Shadows Provisions.xml
 │   │ └── The Throne of Bones.xml
 │   ├─┬ Act 2
@@ -163,9 +166,12 @@ POIs
 │   ├── Open Skies.xml
 │   ├── Raise the Banners.xml
 │   ├─┬ The Desolation
+│   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
+│   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
+│   │ ├── Path of the Gods.xml
 │   │ ├── Shadows Provisions.xml
 │   │ └── The Throne of Bones.xml
 │   ├─┬ Act 2
@@ -443,9 +449,12 @@ POIs
 │   ├── Open Skies.xml
 │   ├── Raise the Banners.xml
 │   ├─┬ The Desolation
+│   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
+│   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
+│   │ ├── Path of the Gods.xml
 │   │ ├── Shadows Provisions.xml
 │   │ └── The Throne of Bones.xml
 │   ├─┬ Act 2
