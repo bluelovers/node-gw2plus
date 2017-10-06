@@ -960,6 +960,118 @@ addGulpTasks({
 									}
 
 									break;
+								case 'the_desolation.a_family___s_sacrifice':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'A Family\'s Sacrifice',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'the_desolation.joko_s_hidden_chamber':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Joko\'s Hidden Chamber',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'the_desolation.path_of_the_gods.statue_of_dwayna':
+								case 'the_desolation.path_of_the_gods.statue_of_melandru':
+								case 'the_desolation.path_of_the_gods.statue_of_lyssa':
+								case 'the_desolation.path_of_the_gods.statue_of_grenth':
+								case 'the_desolation.path_of_the_gods.statue_of_balthazar':
+								case 'the_desolation.path_of_the_gods.statue_of_kormir':
+								case 'the_desolation.path_of_the_gods.statue_of_abaddon':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Path of the Gods',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'the_desolation.path_of_the_gods.statue_of_dwayna':
+
+											type_new = type_new
+												.concat([
+													'Statue of Dwayna',
+												])
+											;
+
+											break;
+										case 'the_desolation.path_of_the_gods.statue_of_melandru':
+
+											type_new = type_new
+												.concat([
+													'Statue of Melandru',
+												])
+											;
+
+											break;
+										case 'the_desolation.path_of_the_gods.statue_of_lyssa':
+
+											type_new = type_new
+												.concat([
+													'Statue of Lyssa',
+												])
+											;
+
+											break;
+										case 'the_desolation.path_of_the_gods.statue_of_grenth':
+
+											type_new = type_new
+												.concat([
+													'Statue of Grenth',
+												])
+											;
+
+											break;
+										case 'the_desolation.path_of_the_gods.statue_of_balthazar':
+
+											type_new = type_new
+												.concat([
+													'Statue of Balthazar',
+												])
+											;
+
+											break;
+										case 'the_desolation.path_of_the_gods.statue_of_kormir':
+
+											type_new = type_new
+												.concat([
+													'Statue of Kormir',
+												])
+											;
+
+											break;
+										case 'the_desolation.path_of_the_gods.statue_of_abaddon':
+
+											type_new = type_new
+												.concat([
+													'Statue of Abaddon',
+												])
+											;
+
+											break;
+										default:
+											break POIS;
+
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
