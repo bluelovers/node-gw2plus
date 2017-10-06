@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
