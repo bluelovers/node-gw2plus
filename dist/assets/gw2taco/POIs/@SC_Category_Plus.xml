@@ -66,19 +66,6 @@
         <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
-      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
-        <MarkerCategory name="Pink Moa" DisplayName="Pink Moa"/>
-      </MarkerCategory>
-      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
-      </MarkerCategory>
-      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
-        <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
-        <MarkerCategory name="Cheetah"/>
-        <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
-        <MarkerCategory name="Jacaranda"/>
-      </MarkerCategory>
-    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200"/>
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400">

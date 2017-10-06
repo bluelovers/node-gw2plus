@@ -424,6 +424,7 @@ POIs
 │ │   ├── Fanged Iboga.xml
 │ │   ├── Jacaranda.xml
 │ │   └── Sand Lion.xml
+│ ├── Juvenile Pets.xml
 │ └─┬ Path of Fire
 │   ├─┬ Crystal Oasis
 │   │ └── Lost Lore of Crystal Oasis.xml
