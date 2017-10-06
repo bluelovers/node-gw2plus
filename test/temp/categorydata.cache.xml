@@ -446,6 +446,7 @@
         <MarkerCategory name="A Familys Sacrifice"/>
         <MarkerCategory name="A Soaring Stench"/>
         <MarkerCategory name="Acrid Springs Recovery"/>
+        <MarkerCategory name="Dance Till You Drop"/>
         <MarkerCategory name="Jokos Hidden Chamber"/>
         <MarkerCategory name="Lost Lore of the Desolation"/>
         <MarkerCategory name="Path of the Gods">
@@ -690,6 +691,7 @@
           <MarkerCategory name="Statue of Kormir"/>
           <MarkerCategory name="Statue of Abaddon"/>
         </MarkerCategory>
+        <MarkerCategory name="Dance Till You Drop"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster"/>
