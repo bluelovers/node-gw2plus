@@ -179,6 +179,9 @@
     <MarkerCategory name="Adventure">
       <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
     </MarkerCategory>
+    <MarkerCategory name="Boss" iconFile="Data/Boss.png">
+      <MarkerCategory name="Treasure Mushroom"/>
+    </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0">
         <MarkerCategory name="2mult" DisplayName="2Mult"/>
@@ -389,6 +392,10 @@
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png">
+      <MarkerCategory name="Crystal Desert" iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png">
+        <MarkerCategory name="Always Time for Taimi"/>
+        <MarkerCategory name="Priory Historian Elisa"/>
+      </MarkerCategory>
       <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png">
         <MarkerCategory name="Lost Lore of Crystal Oasis"/>
       </MarkerCategory>
