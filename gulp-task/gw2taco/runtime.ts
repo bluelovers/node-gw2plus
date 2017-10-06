@@ -1072,6 +1072,18 @@ addGulpTasks({
 									}
 
 									break;
+								case 'the_desolation.dance_till_you_drop':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Dance Till You Drop',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
 								default:
 									break POIS;
 								//break;
