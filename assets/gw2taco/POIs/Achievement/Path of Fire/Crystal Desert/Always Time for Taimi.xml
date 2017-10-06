@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Crystal Desert">
+        <MarkerCategory name="Always Time for Taimi"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="285.376" ypos="437.057" zpos="-184.285" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="JqkPLpuOnUqXAY23g5FqGg=="/>
+  </POIs>
+</OverlayData>
