@@ -41,5 +41,7 @@
     <POI MapID="1210" xpos="-201.953" ypos="1.04575" zpos="-180.682" type="resourcenode.plant.orichalcum.lentils" GUID="06blIhspXkalrx8NxF7Vvg=="/>
     <POI MapID="1228" xpos="1049.74" ypos="52.1189" zpos="449.397" type="resourcenode.plant.orichalcum.lentils" GUID="tfTkQtfHakGr1oMNuoUShw=="/>
     <POI MapID="1226" xpos="582.136" ypos="253.122" zpos="-939.101" type="resourcenode.plant.orichalcum.lentils" GUID="S0TPK2ZYyEm9WZDSlqZu6Q=="/>
+    <POI MapID="1226" xpos="-578.472" ypos="233.259" zpos="-604.083" type="resourcenode.plant.orichalcum.lentils" GUID="K75P2UFS2Ua1lnaTsA07Ew=="/>
+    <POI MapID="1226" xpos="-887.826" ypos="288.3" zpos="-537.024" type="resourcenode.plant.orichalcum.lentils" GUID="HbUJvfFHQUGaAE8y7sj+Qw=="/>
   </POIs>
 </OverlayData>

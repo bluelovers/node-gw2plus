@@ -124,6 +124,10 @@
         <MarkerCategory name="Lost Lore of the Desolation"/>
         <MarkerCategory name="Acrid Springs Recovery"/>
         <MarkerCategory name="Shadows Provisions"/>
+        <MarkerCategory name="Shadow Sprinter"/>
+        <MarkerCategory name="Joko's Hidden Chamber"/>
+        <MarkerCategory name="A Family’s Sacrifice"/>
+        <MarkerCategory name="A Soaring Stench"/>
       </MarkerCategory>
 
       <MarkerCategory name="Domain of Vabbi">
@@ -177,6 +181,8 @@
     </MarkerCategory>
 
     <MarkerCategory name="Pact Supply Network Agent"/>
+
+    <MarkerCategory name="Lore"/>
 
   </MarkerCategory>
 </OverlayData>

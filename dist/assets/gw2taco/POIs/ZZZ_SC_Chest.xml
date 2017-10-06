@@ -279,6 +279,18 @@
     <POI MapID="1226" xpos="-225.448" ypos="301.759" zpos="140.207" type="chest.permanent" GUID="5diF4aMFVk27Z+xT25uDwQ=="/>
     <POI MapID="1226" xpos="-154.511" ypos="326.213" zpos="150.147" type="chest.permanent" GUID="cQoFDFoNUkKTFRUcAtnGKQ=="/>
     <POI MapID="1226" xpos="793.688" ypos="255.097" zpos="-42.4177" type="chest.mapspecific.keyrequired" GUID="+oCAWkcVCkGyhn3KdZpIhQ=="/>
+    <POI MapID="1226" xpos="-887.089" ypos="186.549" zpos="554.372" type="chest.permanent" GUID="J5/3gL7aUEWf1qqxpRY+lQ=="/>
+    <POI MapID="1226" xpos="-601.397" ypos="33.945" zpos="1149.8" type="chest.mapspecific.keyrequired" GUID="UFV1mqKnyUuoJgODgJV63g=="/>
+    <POI MapID="1226" xpos="-809.991" ypos="1.13977" zpos="1053.17" type="chest.permanent" GUID="p8erkuTuRkWy2U3efd0nKA=="/>
+    <POI MapID="1226" xpos="-423.667" ypos="256.922" zpos="-896.779" type="chest.mapspecific.keyrequired" GUID="6K6+r77Y8USrWpuysrjOWw=="/>
+    <POI MapID="1226" xpos="-794.215" ypos="267.329" zpos="-594.688" type="chest.permanent" GUID="FlWJlWOgvkqPUEUBTpG1lw=="/>
+    <POI MapID="1226" xpos="-900.722" ypos="294.584" zpos="-455.745" type="chest.permanent" GUID="KFdjOFW5okiCPhzAzXfY8g=="/>
+    <POI MapID="1226" xpos="25.8534" ypos="304.141" zpos="-688.337" type="chest.mapspecific.keyrequired" GUID="sJAXxbTVD0O1xO/zrUlxjw=="/>
+    <POI MapID="1226" xpos="-187.876" ypos="309.277" zpos="-349.71" type="chest.mapspecific.keyrequired" GUID="s8QwzEesU0iz2CBkVn2RQA=="/>
+    <POI MapID="1226" xpos="966.02" ypos="326.76" zpos="-392.567" type="chest.permanent" GUID="2mkxddfSzk2rChWK/ll6/Q=="/>
+    <POI MapID="1226" xpos="787.212" ypos="278.809" zpos="-691.17" type="chest.permanent" GUID="NmAteUO9gUOp8xKIeTjHvw=="/>
+    <POI MapID="1226" xpos="1001.33" ypos="300.672" zpos="-1310.78" type="chest.permanent" GUID="GbhPWo96ukmSk2IS0RLXKA=="/>
+    <POI MapID="1226" xpos="-939.464" ypos="269.172" zpos="276.28" type="chest.permanent" GUID="zdfWhvrmJUuAhAh6es84Dw=="/>
     <POI MapID="1228" xpos="-1080.13" ypos="5.84156" zpos="311.576" type="chest.permanent" GUID="pkZsJpH0pUuEcNEpF/XjCQ=="/>
     <POI MapID="1228" xpos="1075.36" ypos="0.485945" zpos="122.03" type="chest.permanent" GUID="9w6qnHHP5UWjQkh2vu1OMA=="/>
     <POI MapID="1228" xpos="495.692" ypos="64.2138" zpos="768.73" type="chest.permanent" GUID="sqY/g9CWH0C8QlmuNMOGSA=="/>
@@ -694,6 +706,7 @@
     <POI MapID="1210" xpos="-1041.19" ypos="59.0671" zpos="191.868" type="chest.skritt" GUID="GFD48e+zj0uwV7/AEEK+jA=="/>
     <POI MapID="1210" xpos="1217.3" ypos="192.703" zpos="487.833" type="chest.skritt" GUID="st503qGrpE22ISxZ9Wgqyg=="/>
     <POI MapID="1211" xpos="-786.569" ypos="4.29157" zpos="-528.927" type="chest.skritt" GUID="eUmdUeOy9ky+jd+3TeSoDA=="/>
+    <POI MapID="1226" xpos="-870.246" ypos="2.02353" zpos="864.348" type="chest.skritt" GUID="JYW0+Th6PU6Dz7TWVTXyuA=="/>
     <POI MapID="34" xpos="-520.555" ypos="4.38949" zpos="666.819" type="chest.permanent" GUID="gOd3pjO4Tk6bciSGz+YpAg=="/>
     <POI MapID="35" xpos="-336.2" ypos="97.4157" zpos="689.873" type="chest.meta" GUID="RcHnketaZEqjufVdyUslqA=="/>
     <POI MapID="53" xpos="-237.626" ypos="36.9076" zpos="-432.696" type="chest.permanent" GUID="WUyiMzVLPk6ZJFwnQAVY2g=="/>
@@ -715,6 +728,7 @@
     <POI MapID="1211" xpos="-928.431" ypos="463.98" zpos="139.135" type="chest.mapspecific.treasure" GUID="J7inKvq/w0mlDtSu5mwEpg=="/>
     <POI MapID="1211" xpos="-1387.65" ypos="438.027" zpos="105.361" type="chest.mapspecific.treasure" GUID="ZVeYhcXnyE+pAaZyC7w/Pw=="/>
     <POI MapID="1211" xpos="1189.98" ypos="155.9" zpos="-559.891" type="chest.mapspecific.treasure" GUID="bssAeJLr50i/0zGG4VGIQQ=="/>
+    <POI MapID="1226" xpos="-685.181" ypos="84.6804" zpos="887.393" type="chest.mapspecific.treasure" GUID="5jEjnO6Nfk6pJ6eXTbrEaw=="/>
     <POI MapID="1248" xpos="-197.894" ypos="101.837" zpos="-151.039" type="chest.mapspecific.treasure" GUID="aLNBCdz+8066S7O4QnKFFQ=="/>
     <POI MapID="1248" xpos="-596.382" ypos="138.813" zpos="94.647" type="chest.mapspecific.treasure" GUID="St1nsH6dU0GpToSWv9zCZQ=="/>
     <POI MapID="38" xpos="558.322" ypos="30.0796" zpos="-336.567" type="chest.meta" GUID="g9oKlJ1u5U+lAFYHH2Vihw=="/>
