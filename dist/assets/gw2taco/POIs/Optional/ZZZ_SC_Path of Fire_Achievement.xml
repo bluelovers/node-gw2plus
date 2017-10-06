@@ -55,9 +55,20 @@
         <MarkerCategory name="Amnoon Independence" DisplayName="Amnoon Independence"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="A Familys Sacrifice" DisplayName="A Familys Sacrifice"/>
         <MarkerCategory name="A Soaring Stench" DisplayName="A Soaring Stench"/>
         <MarkerCategory name="Acrid Springs Recovery" DisplayName="Acrid Springs Recovery"/>
+        <MarkerCategory name="Jokos Hidden Chamber" DisplayName="Jokos Hidden Chamber"/>
         <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
+        <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
+          <MarkerCategory name="Statue of Dwayna" DisplayName="Statue of Dwayna"/>
+          <MarkerCategory name="Statue of Melandru" DisplayName="Statue of Melandru"/>
+          <MarkerCategory name="Statue of Lyssa" DisplayName="Statue of Lyssa"/>
+          <MarkerCategory name="Statue of Grenth" DisplayName="Statue of Grenth"/>
+          <MarkerCategory name="Statue of Balthazar" DisplayName="Statue of Balthazar"/>
+          <MarkerCategory name="Statue of Kormir" DisplayName="Statue of Kormir"/>
+          <MarkerCategory name="Statue of Abaddon" DisplayName="Statue of Abaddon"/>
+        </MarkerCategory>
         <MarkerCategory name="Shadows Provisions" DisplayName="Shadows Provisions"/>
         <MarkerCategory name="The Throne of Bones" DisplayName="The Throne of Bones"/>
       </MarkerCategory>
@@ -344,6 +355,9 @@
     <POI MapID="1248" xpos="1300.52" ypos="206.127" zpos="844.486" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="HpPfPl0AekeB1VSmPtYBBQ=="/>
     <POI MapID="1248" xpos="-1468.16" ypos="315.776" zpos="-481.238" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="u9oBvacEWEKDBSys++Kbig=="/>
     <POI MapID="1210" xpos="218.02" ypos="92.2172" zpos="-69.934" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="sot4Xyfgyk+gKAhH/w2ccw=="/>
+    <POI MapID="1226" xpos="-742.314" ypos="47.464" zpos="998.52" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="nInIC7MQXkaYxqhblbnmVw=="/>
+    <POI MapID="1226" xpos="872.666" ypos="210.927" zpos="-862.247" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="aQhGRu+jJEWBK7vs2m+CEQ=="/>
+    <POI MapID="1228" xpos="327.338" ypos="5.16716" zpos="-226.233" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="6niTLqaqDUGBM9SgcFa5Vg=="/>
     <POI MapID="1226" xpos="-939.403" ypos="269.18" zpos="276.286" type="achievement.path_of_fire.the_desolation.a_soaring_stench" GUID="BFt9iFq9/kaH+LC2y5tedg=="/>
     <POI MapID="1226" xpos="-680.743" ypos="202.71" zpos="670.702" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="pfOJPX8Q3UCxN9oeRunoow=="/>
     <POI MapID="1226" xpos="-604.174" ypos="127.03" zpos="829.216" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="18xgCSMHykuyBl/5s3IlVQ=="/>
@@ -358,6 +372,7 @@
     <POI MapID="1226" xpos="-724.644" ypos="81.1503" zpos="656.725" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="R3bYCCA800eT1/HyLzGlWQ=="/>
     <POI MapID="1226" xpos="-829.476" ypos="21.7531" zpos="780.666" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="L99Zb3QP0kSYSyfWJEz6Fg=="/>
     <POI MapID="1226" xpos="-720.204" ypos="78.0301" zpos="891.922" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="yj9wQZNv9UmgZW5A4HxrXg=="/>
+    <POI MapID="1226" xpos="847.211" ypos="211.855" zpos="-834.721" type="achievement.path_of_fire.the_desolation.jokos_hidden_chamber" GUID="qM/b48VtUEq1pEYUbeWe8A=="/>
     <POI MapID="1226" xpos="935.989" ypos="201.353" zpos="946.564" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="EAxfZG2VvkyNVuzJXTKLwQ=="/>
     <POI MapID="1211" xpos="-701.328" ypos="194.25" zpos="-250.525" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="a0irWTqIbkmMO7riRieyew=="/>
     <POI MapID="1211" xpos="468.203" ypos="288.928" zpos="589.64" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="TBe8uf4giEGFnKlLMZ3nYQ=="/>
@@ -365,6 +380,10 @@
     <POI MapID="1226" xpos="334.619" ypos="291.403" zpos="-956.602" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="EFOsyz2J50KdX3pqWTiIEg=="/>
     <POI MapID="1226" xpos="-500.796" ypos="83.1122" zpos="762.428" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="1+3irVuG00qA8QGqUgCyGg=="/>
     <POI MapID="1226" xpos="-928.07" ypos="86.7223" zpos="793.657" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="W8lzzdac2Eqlq7Xubr2LgA=="/>
+    <POI MapID="1226" xpos="19.7468" ypos="273.992" zpos="202.212" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_grenth" GUID="9xCOKj2qM0alrfwikK0Vyw=="/>
+    <POI MapID="1226" xpos="-57.5948" ypos="265.11" zpos="9.47855" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_balthazar" GUID="r80JixCmPkaQuTyoRhxbWg=="/>
+    <POI MapID="1226" xpos="733.917" ypos="23.3775" zpos="1520.04" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_kormir" GUID="tTaXNsbi70euQKmaEdA/NA=="/>
+    <POI MapID="1226" xpos="1050.99" ypos="53.6706" zpos="1450.97" type="achievement.path_of_fire.the_desolation.path_of_the_gods.statue_of_abaddon" GUID="xdcwG7143Uy8ilmoykRcVQ=="/>
     <POI MapID="1226" xpos="-161.045" ypos="354.546" zpos="-1314.17" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="mdY+QQlQeUynsrR3MROpmg=="/>
     <POI MapID="1226" xpos="21.2053" ypos="256.372" zpos="-99.2542" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="nqaCwWF+VEShveZAdI32Xg=="/>
     <POI MapID="1226" xpos="550.732" ypos="264.642" zpos="446.173" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="V8+ZDEFbhUabFWQyPY0coA=="/>
@@ -382,6 +401,9 @@
     <POI MapID="1226" xpos="-893.521" ypos="289.368" zpos="-663.446" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="9sum3m7+6UWTC4aRdplXZA=="/>
     <POI MapID="1226" xpos="-74.0118" ypos="266.749" zpos="-570.406" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="FW2GoYeuf0mYCjgqtHkyjw=="/>
     <POI MapID="1226" xpos="1050.27" ypos="304.247" zpos="-281.213" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="xLlSFZDQ1UagImKoEjEzjg=="/>
+    <POI MapID="1226" xpos="176.452" ypos="272.25" zpos="452.866" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="npCe6zbIbU2s2ctm5fUPhQ=="/>
+    <POI MapID="1226" xpos="628.145" ypos="8.86291" zpos="1420.35" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="50TTghFKuUOYipfT088ffQ=="/>
+    <POI MapID="1226" xpos="947.275" ypos="199.757" zpos="1106.26" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="RfhTapiAf06Bc8GCmjSuvw=="/>
     <POI MapID="1226" xpos="311.686" ypos="279.019" zpos="-1359.35" type="achievement.path_of_fire.the_desolation.the_throne_of_bones" GUID="rGztZdzeHkGZTaqDqNIArw=="/>
   </POIs>
 </OverlayData>
