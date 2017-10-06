@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="The Throne of Bones"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="311.686" ypos="279.019" zpos="-1359.35" type="achievement.path_of_fire.the_desolation.the_throne_of_bones" GUID="rGztZdzeHkGZTaqDqNIArw=="/>
+  </POIs>
+</OverlayData>
