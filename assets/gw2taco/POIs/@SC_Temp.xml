@@ -124,10 +124,13 @@
         <MarkerCategory name="Lost Lore of the Desolation"/>
         <MarkerCategory name="Acrid Springs Recovery"/>
         <MarkerCategory name="Shadows Provisions"/>
-        <MarkerCategory name="Shadow Sprinter"/>
+        <MarkerCategory name="Shadow Sprinter">
+          <MarkerCategory name="point"/>
+        </MarkerCategory>
         <MarkerCategory name="Joko's Hidden Chamber"/>
         <MarkerCategory name="A Family’s Sacrifice"/>
         <MarkerCategory name="A Soaring Stench"/>
+        <MarkerCategory name="The Throne of Bones"/>
       </MarkerCategory>
 
       <MarkerCategory name="Domain of Vabbi">
