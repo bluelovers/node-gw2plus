@@ -392,6 +392,22 @@
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png">
         <MarkerCategory name="Carrot Collector"/>
+        <MarkerCategory name="Dwarven Ruins">
+          <MarkerCategory name="The Curious Bowl">
+            <MarkerCategory name="Breaking the Bank"/>
+          </MarkerCategory>
+          <MarkerCategory name="Rune Locked Doors">
+            <MarkerCategory name="Runestone" iconFile="Data/Point.png"/>
+            <MarkerCategory name="Portal" iconFile="Data/Other/Portal/In.png"/>
+          </MarkerCategory>
+          <MarkerCategory name="Dwarven Forge" data-sort="true">
+            <MarkerCategory name="Final Sting"/>
+            <MarkerCategory name="Gate of Good Byes"/>
+            <MarkerCategory name="Might of the Vindictive"/>
+            <MarkerCategory name="Staff of the Lost"/>
+            <MarkerCategory name="Stonespite Cleaver"/>
+          </MarkerCategory>
+        </MarkerCategory>
         <MarkerCategory name="Hidden Carrot Hunt"/>
         <MarkerCategory name="Lost Lore of Desert Highlands"/>
       </MarkerCategory>
@@ -613,6 +629,20 @@
         <MarkerCategory name="Dwarven Remnants"/>
         <MarkerCategory name="Carrot Collector"/>
         <MarkerCategory name="Hidden Carrot Hunt"/>
+        <MarkerCategory name="The Curious Bowl"/>
+        <MarkerCategory name="Breaking the Bank"/>
+        <MarkerCategory name="Rune Locked Doors" DisplayName="Rune-Locked Doors">
+          <MarkerCategory name="Portal"/>
+          <MarkerCategory name="Runestone"/>
+          <MarkerCategory name="Runestone Put"/>
+        </MarkerCategory>
+        <MarkerCategory name="Dwarven Forge"/>
+        <MarkerCategory name="Stonespite Cleaver"/>
+        <MarkerCategory name="Staff of the Lost"/>
+        <MarkerCategory name="Gate of Good Byes" DisplayName="Gate of Good-Byes"/>
+        <MarkerCategory name="Final Sting"/>
+        <MarkerCategory name="Might of the Vindictive"/>
+        <MarkerCategory name="Riddle Me This"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands">
         <MarkerCategory name="Lost Lore of Elon Riverlands"/>
@@ -636,6 +666,7 @@
         <MarkerCategory name="A Familys Sacrifice" DisplayName="A Family’s Sacrifice"/>
         <MarkerCategory name="A Soaring Stench"/>
         <MarkerCategory name="The Throne of Bones"/>
+        <MarkerCategory name="Cleansing Tormented Remnants"/>
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi">
         <MarkerCategory name="Scourge Buster"/>
