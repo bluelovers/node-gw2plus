@@ -12,5 +12,7 @@
     <POI MapID="1211" xpos="468.203" ypos="288.928" zpos="589.64" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="TBe8uf4giEGFnKlLMZ3nYQ=="/>
     <POI MapID="1226" xpos="773.957" ypos="294.429" zpos="-459.56" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="WXAeuNJqxEiF4BZxOEEAeQ=="/>
     <POI MapID="1226" xpos="334.619" ypos="291.403" zpos="-956.602" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="EFOsyz2J50KdX3pqWTiIEg=="/>
+    <POI MapID="1226" xpos="-500.796" ypos="83.1122" zpos="762.428" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="1+3irVuG00qA8QGqUgCyGg=="/>
+    <POI MapID="1226" xpos="-928.07" ypos="86.7223" zpos="793.657" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="W8lzzdac2Eqlq7Xubr2LgA=="/>
   </POIs>
 </OverlayData>
