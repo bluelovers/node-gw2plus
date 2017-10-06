@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400">
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="CheckPoint" DisplayName="Check Point" iconFile="Data/jumpingpuzzle/CheckPoint.png" data-iconFile="Data/jumpingpuzzle/CheckPoint.png"/>
     <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
     <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
