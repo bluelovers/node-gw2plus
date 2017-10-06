@@ -58,6 +58,7 @@
         <MarkerCategory name="A Familys Sacrifice" DisplayName="A Familys Sacrifice"/>
         <MarkerCategory name="A Soaring Stench" DisplayName="A Soaring Stench"/>
         <MarkerCategory name="Acrid Springs Recovery" DisplayName="Acrid Springs Recovery"/>
+        <MarkerCategory name="Dance Till You Drop" DisplayName="Dance Till You Drop"/>
         <MarkerCategory name="Jokos Hidden Chamber" DisplayName="Jokos Hidden Chamber"/>
         <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
         <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
@@ -372,6 +373,7 @@
     <POI MapID="1226" xpos="-724.644" ypos="81.1503" zpos="656.725" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="R3bYCCA800eT1/HyLzGlWQ=="/>
     <POI MapID="1226" xpos="-829.476" ypos="21.7531" zpos="780.666" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="L99Zb3QP0kSYSyfWJEz6Fg=="/>
     <POI MapID="1226" xpos="-720.204" ypos="78.0301" zpos="891.922" type="achievement.path_of_fire.the_desolation.acrid_springs_recovery" GUID="yj9wQZNv9UmgZW5A4HxrXg=="/>
+    <POI MapID="1226" xpos="1050.99" ypos="53.6706" zpos="1450.97" type="achievement.path_of_fire.the_desolation.dance_till_you_drop" GUID="xdcwG7143Uy8ilmoykRcVQ=="/>
     <POI MapID="1226" xpos="847.211" ypos="211.855" zpos="-834.721" type="achievement.path_of_fire.the_desolation.jokos_hidden_chamber" GUID="qM/b48VtUEq1pEYUbeWe8A=="/>
     <POI MapID="1226" xpos="935.989" ypos="201.353" zpos="946.564" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="EAxfZG2VvkyNVuzJXTKLwQ=="/>
     <POI MapID="1211" xpos="-701.328" ypos="194.25" zpos="-250.525" type="achievement.path_of_fire.the_desolation.lost_lore_of_the_desolation" GUID="a0irWTqIbkmMO7riRieyew=="/>
