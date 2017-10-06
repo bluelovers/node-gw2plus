@@ -292,7 +292,6 @@
     <POI MapID="24" xpos="-121.222" ypos="-24.4369" zpos="-129.611" type="other.portal.cave" GUID="V2fETKJTvk6Kv6AF/j6Ycw=="/>
     <POI MapID="24" xpos="-386.451" ypos="-20.4481" zpos="-364.47" type="other.portal.cave" GUID="eYXneuj3cU+Z2gbAFnY3Ww=="/>
     <POI MapID="1226" xpos="-432.564" ypos="199.201" zpos="699.602" type="other.portal.cave" GUID="6F3tgGtBbUW7zpecDj1i2w=="/>
-    <POI MapID="1226" xpos="-742.314" ypos="47.464" zpos="998.52" type="temp.lore" GUID="nInIC7MQXkaYxqhblbnmVw=="/>
     <POI MapID="1226" xpos="644.348" ypos="264.176" zpos="-910.955" type="temp.path_of_fire.the_desolation.shadow_sprinter" GUID="HW6PDoP1y0S1EAXALdz7wg=="/>
     <POI MapID="1226" xpos="609.923" ypos="256.348" zpos="-972.465" type="temp.path_of_fire.the_desolation.shadow_sprinter.point" GUID="qYzMcS7giEGsyJknZSw73w=="/>
     <POI MapID="1226" xpos="1045.17" ypos="336.082" zpos="-223.967" type="other.portal.cave" GUID="DmnX5rGiPkKEm5r93FcA+g=="/>
@@ -313,5 +312,12 @@
     <POI MapID="1211" xpos="-1352.73" ypos="317.991" zpos="195.326" type="other.portal" GUID="XFeUWRbWSU+nkObbJtmJ4Q=="/>
     <POI MapID="1211" xpos="-1203.35" ypos="340.704" zpos="264.013" type="temp.path_of_fire.desert_highlands.riddle_me_this" GUID="HjJfhD53Pky3qVvhYJK0uQ=="/>
     <POI MapID="28" xpos="344.074" ypos="134.563" zpos="1023.83" type="other.portal.instance" GUID="VX+srNpIOEC1sMuE2pInKA=="/>
+    <POI MapID="1226" xpos="-246.031" ypos="308.272" zpos="726.102" type="temp.path_of_fire.crystal_oasis.priory_historian_elisa" GUID="2qR7zyUxZU2JGfdrIslgSQ=="/>
+    <POI MapID="1226" xpos="108.694" ypos="269.451" zpos="493.8" type="temp.path_of_fire.the_desolation.jackal_reconnaissance" GUID="gH7IXw0GxUC3VBfwlbsAhw=="/>
+    <POI MapID="1226" xpos="285.376" ypos="437.057" zpos="-184.285" type="temp.path_of_fire.always_time_for_taimi" GUID="JqkPLpuOnUqXAY23g5FqGg=="/>
+    <POI MapID="1226" xpos="802.078" ypos="251.277" zpos="-683.112" type="other.portal.gate" GUID="kyYbJt+cS0iaHMTPeXSSgw=="/>
+    <POI MapID="1226" xpos="807.982" ypos="249.473" zpos="-695.841" type="other.portal.out" GUID="YGT9PQoM3EGRvIRaKP+yDQ=="/>
+    <POI MapID="1226" xpos="1009.51" ypos="55.858" zpos="1455.83" type="other.portal" GUID="uAIBvW3ufEahahfEHFVx8g=="/>
+    <POI MapID="1226" xpos="1014.79" ypos="20.4512" zpos="1425.8" type="other.portal" GUID="SBdcPTAQj0mmSrFLEgHCtA=="/>
   </POIs>
 </OverlayData>
