@@ -33,7 +33,8 @@ POIs
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Lost Lore of the Desolation.xml
-│   │ └── Shadows Provisions.xml
+│   │ ├── Shadows Provisions.xml
+│   │ └── The Throne of Bones.xml
 │   ├─┬ Act 2
 │   │ ├─┬ Facing the Truth
 │   │ │ ├── Goddess of Secrets.xml
@@ -163,7 +164,8 @@ POIs
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Lost Lore of the Desolation.xml
-│   │ └── Shadows Provisions.xml
+│   │ ├── Shadows Provisions.xml
+│   │ └── The Throne of Bones.xml
 │   ├─┬ Act 2
 │   │ ├─┬ Facing the Truth
 │   │ │ ├── Goddess of Secrets.xml
@@ -438,7 +440,8 @@ POIs
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Lost Lore of the Desolation.xml
-│   │ └── Shadows Provisions.xml
+│   │ ├── Shadows Provisions.xml
+│   │ └── The Throne of Bones.xml
 │   ├─┬ Act 2
 │   │ ├─┬ Facing the Truth
 │   │ │ ├── Goddess of Secrets.xml
