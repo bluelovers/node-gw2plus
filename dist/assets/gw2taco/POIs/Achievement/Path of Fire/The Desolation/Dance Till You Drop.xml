@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
+        <MarkerCategory name="Dance Till You Drop" DisplayName="Dance Till You Drop"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="1050.99" ypos="53.6706" zpos="1450.97" type="achievement.path_of_fire.the_desolation.dance_till_you_drop" GUID="xdcwG7143Uy8ilmoykRcVQ=="/>
+  </POIs>
+</OverlayData>
