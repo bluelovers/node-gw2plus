@@ -43,6 +43,7 @@
         <MarkerCategory name="Acrid Springs Recovery" DisplayName="Acrid Springs Recovery"/>
         <MarkerCategory name="Lost Lore of the Desolation" DisplayName="Lost Lore of the Desolation"/>
         <MarkerCategory name="Shadows Provisions" DisplayName="Shadows Provisions"/>
+        <MarkerCategory name="The Throne of Bones" DisplayName="The Throne of Bones"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
@@ -184,6 +185,7 @@
     <POI MapID="1228" xpos="277.01" ypos="28.1145" zpos="-10.8934" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="0D+QCl65yUmPz8OtYa1dcg=="/>
     <POI MapID="1228" xpos="-701.04" ypos="100.155" zpos="-205.515" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="4mTdDIu9jU6fJf2SARAuFg=="/>
     <POI MapID="1228" xpos="625.203" ypos="10.9438" zpos="-942.51" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="8QAnRu994ki514E6xki+MA=="/>
+    <POI MapID="1228" xpos="-443.64" ypos="27.2161" zpos="-91.9265" type="achievement.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="YpSNCDBgUEildr5hBq8Cgg=="/>
     <POI MapID="1228" xpos="205.73" ypos="85.9207" zpos="356.027" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="pZHmXG3pe0O38kmgsYtm2g=="/>
     <POI MapID="1248" xpos="-963.311" ypos="113.507" zpos="945.673" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="cvFAPWd8J0qz3g/EKlTwug=="/>
     <POI MapID="1248" xpos="-912.279" ypos="91.4292" zpos="915.704" type="achievement.path_of_fire.glorify_the_golden_heart" GUID="HvtmngUmAkeGl7eB/qh1kg=="/>
@@ -309,5 +311,6 @@
     <POI MapID="1226" xpos="-893.521" ypos="289.368" zpos="-663.446" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="9sum3m7+6UWTC4aRdplXZA=="/>
     <POI MapID="1226" xpos="-74.0118" ypos="266.749" zpos="-570.406" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="FW2GoYeuf0mYCjgqtHkyjw=="/>
     <POI MapID="1226" xpos="1050.27" ypos="304.247" zpos="-281.213" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="xLlSFZDQ1UagImKoEjEzjg=="/>
+    <POI MapID="1226" xpos="311.686" ypos="279.019" zpos="-1359.35" type="achievement.path_of_fire.the_desolation.the_throne_of_bones" GUID="rGztZdzeHkGZTaqDqNIArw=="/>
   </POIs>
 </OverlayData>
