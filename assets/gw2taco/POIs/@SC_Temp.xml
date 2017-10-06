@@ -105,6 +105,23 @@
         <MarkerCategory name="Dwarven Remnants"/>
         <MarkerCategory name="Carrot Collector"/>
         <MarkerCategory name="Hidden Carrot Hunt"/>
+        <MarkerCategory name="The Curious Bowl"/>
+        <MarkerCategory name="Breaking the Bank"/>
+        <MarkerCategory name="Rune-Locked Doors">
+          <MarkerCategory name="Portal"/>
+          <MarkerCategory name="Runestone"/>
+          <MarkerCategory name="Runestone Put"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="Dwarven Forge"/>
+
+        <MarkerCategory name="Stonespite Cleaver"/>
+        <MarkerCategory name="Staff of the Lost"/>
+        <MarkerCategory name="Gate of Good-Byes"/>
+        <MarkerCategory name="Final Sting"/>
+        <MarkerCategory name="Might of the Vindictive"/>
+
+        <MarkerCategory name="Riddle Me This"/>
       </MarkerCategory>
 
 
@@ -131,6 +148,7 @@
         <MarkerCategory name="A Family’s Sacrifice"/>
         <MarkerCategory name="A Soaring Stench"/>
         <MarkerCategory name="The Throne of Bones"/>
+        <MarkerCategory name="Cleansing Tormented Remnants"/>
       </MarkerCategory>
 
       <MarkerCategory name="Domain of Vabbi">
