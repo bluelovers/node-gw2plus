@@ -215,6 +215,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
+        <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
