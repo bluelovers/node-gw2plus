@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="Jackal Reconnaissance"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="108.694" ypos="269.451" zpos="493.8" type="achievement.path_of_fire.the_desolation.jackal_reconnaissance" GUID="gH7IXw0GxUC3VBfwlbsAhw=="/>
+    <POI MapID="1226" xpos="183.248" ypos="7.85591" zpos="1338.68" type="achievement.path_of_fire.the_desolation.jackal_reconnaissance" GUID="Co51dWK3z0aDZWe5B21riw=="/>
+  </POIs>
+</OverlayData>
