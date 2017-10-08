@@ -354,6 +354,7 @@ enum m_translate {
 	/* common: skills2 */
 	LANG_COMMON_SKILLS2_NOINCOMINGDMG = 630,
 	LANG_COMMON_SKILLS2_SHIELD,
+	LANG_COMMON_SKILLS2_HITSANY,
 
 	/* end */
 	LANG_END
@@ -404,7 +405,7 @@ enum m_translate {
 	lang[m_translate.LANG_COMMON_SKILLS_CANCELS] = "cancels";
 	lang[m_translate.LANG_COMMON_SKILLS_WASTED] = "time wasted";
 	lang[m_translate.LANG_COMMON_SKILLS_HITSCOMPRESS] = "hits (cmprs)";
-	lang[m_translate.LANG_COMMON_SKILLS_HITSTOTAL] = "hits (total)";
+	lang[m_translate.LANG_COMMON_SKILLS_HITSTOTAL] = "hits (dmg)";
 	lang[m_translate.LANG_COMMON_SKILLS_NINETY] = "over 90";
 	lang[m_translate.LANG_COMMON_SKILLS_FIFTY] = "under 50";
 	lang[m_translate.LANG_COMMON_SKILLS_MOVING] = "moving";
@@ -426,6 +427,7 @@ enum m_translate {
 	/* common: skills 2 */
 	lang[m_translate.LANG_COMMON_SKILLS2_NOINCOMINGDMG] = "NO INCOMING DAMAGE";
 	lang[m_translate.LANG_COMMON_SKILLS2_SHIELD] = "shielded";
+	lang[m_translate.LANG_COMMON_SKILLS2_HITSANY] = "hits (all)";
 
 	/* common: custom skills */
 	lang[m_translate.LANG_COMMON_CSK_DODGE] = "Dodge";
