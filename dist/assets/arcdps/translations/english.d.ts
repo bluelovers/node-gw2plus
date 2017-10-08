@@ -313,7 +313,8 @@ declare enum m_translate {
     LANG_COMMON_CSK_SHIELD = 621,
     LANG_COMMON_SKILLS2_NOINCOMINGDMG = 630,
     LANG_COMMON_SKILLS2_SHIELD = 631,
-    LANG_END = 632,
+    LANG_COMMON_SKILLS2_HITSANY = 632,
+    LANG_END = 633,
 }
 export { m_translate };
 declare let lang: {};
