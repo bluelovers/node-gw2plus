@@ -354,6 +354,7 @@ enum m_translate {
 	/* common: skills2 */
 	LANG_COMMON_SKILLS2_NOINCOMINGDMG = 630,
 	LANG_COMMON_SKILLS2_SHIELD,
+	LANG_COMMON_SKILLS2_HITSANY,
 
 	/* end */
 	LANG_END

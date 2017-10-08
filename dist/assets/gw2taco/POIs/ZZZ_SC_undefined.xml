@@ -441,6 +441,12 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="Bastion of the Penitent" DisplayName="Bastion of the Penitent">
+      <MarkerCategory name="Voice of the Deceased" DisplayName="Voice of the Deceased">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100" maxSize="256"/>

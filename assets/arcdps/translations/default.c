@@ -38,7 +38,7 @@
 	lang[LANG_COMMON_SKILLS_CANCELS] = "cancels";
 	lang[LANG_COMMON_SKILLS_WASTED] = "time wasted";
 	lang[LANG_COMMON_SKILLS_HITSCOMPRESS] = "hits (cmprs)";
-	lang[LANG_COMMON_SKILLS_HITSTOTAL] = "hits (total)";
+	lang[LANG_COMMON_SKILLS_HITSTOTAL] = "hits (dmg)";
 	lang[LANG_COMMON_SKILLS_NINETY] = "over 90";
 	lang[LANG_COMMON_SKILLS_FIFTY] = "under 50";
 	lang[LANG_COMMON_SKILLS_MOVING] = "moving";
@@ -60,6 +60,7 @@
 	/* common: skills 2 */
 	lang[LANG_COMMON_SKILLS2_NOINCOMINGDMG] = "NO INCOMING DAMAGE";
 	lang[LANG_COMMON_SKILLS2_SHIELD] = "shielded";
+	lang[LANG_COMMON_SKILLS2_HITSANY] = "hits (all)";
 
 	/* common: custom skills */
 	lang[LANG_COMMON_CSK_DODGE] = "Dodge";

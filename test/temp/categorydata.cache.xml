@@ -454,6 +454,7 @@
         <MarkerCategory name="A Soaring Stench"/>
         <MarkerCategory name="Acrid Springs Recovery"/>
         <MarkerCategory name="Dance Till You Drop"/>
+        <MarkerCategory name="Jackal Reconnaissance"/>
         <MarkerCategory name="Jokos Hidden Chamber"/>
         <MarkerCategory name="Lost Lore of the Desolation"/>
         <MarkerCategory name="Path of the Gods">
@@ -739,6 +740,22 @@
     </MarkerCategory>
     <MarkerCategory name="Pact Supply Network Agent"/>
     <MarkerCategory name="Lore"/>
+    <MarkerCategory name="Bastion of the Penitent">
+      <MarkerCategory name="Voice of the Deceased">
+        <MarkerCategory name="1"/>
+        <MarkerCategory name="2"/>
+        <MarkerCategory name="3"/>
+        <MarkerCategory name="4"/>
+        <MarkerCategory name="5"/>
+        <MarkerCategory name="6"/>
+        <MarkerCategory name="7"/>
+        <MarkerCategory name="8"/>
+        <MarkerCategory name="9"/>
+        <MarkerCategory name="10"/>
+        <MarkerCategory name="11"/>
+        <MarkerCategory name="12"/>
+      </MarkerCategory>
+    </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100" maxSize="256"/>
 </OverlayData>
