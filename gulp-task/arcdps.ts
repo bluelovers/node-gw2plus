@@ -212,6 +212,11 @@ const _gulp_ = {
 				':ttf',
 			],
 
+			tasks: [
+				// @BUG try skip need do :cht 2time when :c is update
+				':cht',
+			],
+
 			callback()
 			{
 				return gulp.src([
