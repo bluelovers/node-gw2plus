@@ -348,5 +348,7 @@
 		<POI MapID="1226" xpos="-1031.44" ypos="268.994" zpos="-724.644" type="temp.path_of_fire.the_desolation.path_of_the_gods.statue_of_melandru" GUID="8MdSL57u9UmYp03vnry1ww=="/>
 		<POI MapID="1226" xpos="-1029.53" ypos="274.189" zpos="-749.167" type="resourcenode.wood.elder" GUID="cj8y2M7seka8pfdjj3bq2g=="/>
 		<POI MapID="1226" xpos="-1002.35" ypos="288.654" zpos="-487.347" type="temp.path_of_fire.the_desolation.shadow_sprinter.undefined" GUID="Ikq1rBOe9EGaPptV+MVW3g=="/>
+		<POI MapID="1210" xpos="-870.527" ypos="87.0933" zpos="-278.029" type="resourcenode.ore.normal.orichalcum" GUID="c2C441+FjEeqXpnyFhdF4Q=="/>
+		<POI MapID="1210" xpos="-1008.63" ypos="16.3738" zpos="-242.85" type="resourcenode.ore.normal.orichalcum" GUID="Wfgj3NXW/0ariIIp8SRoVw=="/>
 	</POIs>
 </OverlayData>
