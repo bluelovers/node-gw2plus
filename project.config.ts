@@ -9,6 +9,7 @@ export const project_root = path.join(__dirname);
 export const dist_root = path.join(project_root, 'dist');
 export const temp_root = path.join(project_root, 'test/temp');
 
+export const vendor_root = path.join(project_root, 'vendor');
 export const gw2taco_path = path.join(project_root, 'vendor/GW2TacO_030r');
 
 export default module.exports;
