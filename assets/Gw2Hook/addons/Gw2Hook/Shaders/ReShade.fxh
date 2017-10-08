@@ -24,11 +24,9 @@ namespace ReShade
 	// Global textures and samplers
 	texture BackBufferTex : COLOR;
 	texture DepthBufferTex : DEPTH;
-	texture LightBufferTex : LIGHT;
 
 	sampler BackBuffer { Texture = BackBufferTex; };
 	sampler DepthBuffer { Texture = DepthBufferTex; };
-	sampler LightBuffer { Texture = LightBufferTex; };
 
 	// Helper functions
 	float GetLinearizedDepth(float2 texcoord)
