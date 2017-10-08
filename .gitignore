@@ -16,3 +16,9 @@
 *.d.ts
 *.bak
 
+/test/*.js
+/gulp-task/*.js
+
+/gulpfile.js
+/project.config.js
+*.stackdump
