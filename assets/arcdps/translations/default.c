@@ -201,7 +201,13 @@
 	lang[LANG_PAN_SUMMARY_STRIPPEDIN] = "strip in";
 	lang[LANG_PAN_SUMMARY_DOWNTIME] = "down time";
 	lang[LANG_PAN_SUMMARY_CANCELCOUNT] = "cancel count";
-	lang[LANG_PAN_SUMMARY_SHIELD] = "shield rate";
+	lang[LANG_PAN_SUMMARY_SHIELDPCT] = "shield pct";
+	lang[LANG_PAN_SUMMARY_SHIELDEFF] = "shield eff";
+	lang[LANG_PAN_SUMMARY_BLOCKS] = "blocks";
+	lang[LANG_PAN_SUMMARY_ABSORBS] = "absorbs";
+	lang[LANG_PAN_SUMMARY_CLEANSEDSELF] = "cleanse self";
+	lang[LANG_PAN_SUMMARY_DURATION] = "duration";
+	lang[LANG_PAN_SUMMARY_INTENSITY] = "intensity";
 
 	/* panels: logger */
 	lang[LANG_PAN_LOGGER_HEADER] = "LOGGER";
