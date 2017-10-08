@@ -1114,6 +1114,18 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
+								case 'the_desolation.jackal_reconnaissance':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Jackal Reconnaissance',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
 								default:
 									break POIS;
 								//break;
