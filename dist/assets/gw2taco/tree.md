@@ -43,6 +43,7 @@ POIs
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Dance Till You Drop.xml
+│   │ ├── Jackal Reconnaissance.xml
 │   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ ├── Path of the Gods.xml
@@ -189,6 +190,7 @@ POIs
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Dance Till You Drop.xml
+│   │ ├── Jackal Reconnaissance.xml
 │   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ ├── Path of the Gods.xml
@@ -483,6 +485,7 @@ POIs
 │   │ ├── A Soaring Stench.xml
 │   │ ├── Acrid Springs Recovery.xml
 │   │ ├── Dance Till You Drop.xml
+│   │ ├── Jackal Reconnaissance.xml
 │   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ ├── Path of the Gods.xml
