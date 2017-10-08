@@ -173,11 +173,11 @@
     <Event Name="Spawn" Length="20" Color="80c0392b"/>
     <Event Name="Next: Timberline Falls" Length="100" Color="80e74c3c"/>
   </Map>
-  <Map Name="Crystal Oasis: Casino Blitz" Length="60" Start="5" id="cb">
+  <Map Name="Crystal Oasis: Casino Blitz" Length="120" Start="5" id="cb">
     <Event Name="1" Length="5" Color="80ffd7d7"/>
     <Event Name="2" Length="5" Color="80ffd7d7"/>
     <Event Name="3" Length="5" Color="80ffd7d7"/>
     <Event Name="Boss" Length="5" Color="80ff9999"/>
-    <Event Name="" Length="40" Color=""/>
+    <Event Name="" Length="100" Color=""/>
   </Map>
 </GW2MapTimer>
