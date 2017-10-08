@@ -28,7 +28,7 @@ uniform float DOF_BLURRADIUS <
 	ui_type = "drag";
 	ui_min = 2.0; ui_max = 100.0;
 	ui_tooltip = "Maximal blur radius in pixels.";
-> = 15.0;
+> = 5.0;
 
 // MATSO DOF Settings
 
