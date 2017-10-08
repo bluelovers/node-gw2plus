@@ -196,7 +196,13 @@ enum m_translate {
 	LANG_PAN_SUMMARY_STRIPPEDIN,
 	LANG_PAN_SUMMARY_DOWNTIME,
 	LANG_PAN_SUMMARY_CANCELCOUNT,
-	LANG_PAN_SUMMARY_SHIELD,
+	LANG_PAN_SUMMARY_SHIELDPCT,
+	LANG_PAN_SUMMARY_SHIELDEFF,
+	LANG_PAN_SUMMARY_BLOCKS,
+	LANG_PAN_SUMMARY_ABSORBS,
+	LANG_PAN_SUMMARY_CLEANSEDSELF,
+	LANG_PAN_SUMMARY_DURATION,
+	LANG_PAN_SUMMARY_INTENSITY,
 
 	/* panels: logger */
 	LANG_PAN_LOGGER_HEADER = 390,
@@ -568,7 +574,13 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_SUMMARY_STRIPPEDIN] = "strip in";
 	lang[m_translate.LANG_PAN_SUMMARY_DOWNTIME] = "down time";
 	lang[m_translate.LANG_PAN_SUMMARY_CANCELCOUNT] = "cancel count";
-	lang[m_translate.LANG_PAN_SUMMARY_SHIELD] = "shield rate";
+	lang[m_translate.LANG_PAN_SUMMARY_SHIELDPCT] = "shield pct";
+	lang[m_translate.LANG_PAN_SUMMARY_SHIELDEFF] = "shield eff";
+	lang[m_translate.LANG_PAN_SUMMARY_BLOCKS] = "blocks";
+	lang[m_translate.LANG_PAN_SUMMARY_ABSORBS] = "absorbs";
+	lang[m_translate.LANG_PAN_SUMMARY_CLEANSEDSELF] = "cleanse self";
+	lang[m_translate.LANG_PAN_SUMMARY_DURATION] = "duration";
+	lang[m_translate.LANG_PAN_SUMMARY_INTENSITY] = "intensity";
 
 	/* panels: logger */
 	lang[m_translate.LANG_PAN_LOGGER_HEADER] = "LOGGER";
