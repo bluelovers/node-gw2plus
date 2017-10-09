@@ -61,6 +61,7 @@ POIs
 │   │ │ └── The Troopmarshal.xml
 │   │ └── The Departing.xml
 │   ├── Casino Blits.xml
+│   ├── Serpents Ire.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
 │   ├── Jacaranda.xml
@@ -208,6 +209,7 @@ POIs
 │   │ │ └── The Troopmarshal.xml
 │   │ └── The Departing.xml
 │   ├── Casino Blits.xml
+│   ├── Serpents Ire.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
 │   ├── Jacaranda.xml
@@ -235,6 +237,7 @@ POIs
 │ │ ├─┬ Copper
 │ │ │ ├── Plant_BlueberryBush.xml
 │ │ │ ├── Plant_Carrots.xml
+│ │ │ ├── Plant_Lettuce.xml
 │ │ │ ├── Plant_Onions.xml
 │ │ │ └── Plant_Potato.xml
 │ │ ├─┬ Darksteel
@@ -270,6 +273,7 @@ POIs
 │ │ │ ├── Plant_Seaweed.xml
 │ │ │ └── Plant_SnowTruffle.xml
 │ │ ├─┬ Steel
+│ │ │ ├── Plant_Cabbage.xml
 │ │ │ ├── Plant_Grapes.xml
 │ │ │ ├── Plant_YoungHerbs.xml
 │ │ │ └── Plant_Zucchini.xml
@@ -316,6 +320,7 @@ POIs
 │ │ │ ├─┬ Copper
 │ │ │ │ ├── Plant_BlueberryBush.xml
 │ │ │ │ ├── Plant_Carrots.xml
+│ │ │ │ ├── Plant_Lettuce.xml
 │ │ │ │ ├── Plant_Onions.xml
 │ │ │ │ └── Plant_Potato.xml
 │ │ │ ├─┬ Darksteel
@@ -351,6 +356,7 @@ POIs
 │ │ │ │ ├── Plant_Seaweed.xml
 │ │ │ │ └── Plant_SnowTruffle.xml
 │ │ │ ├─┬ Steel
+│ │ │ │ ├── Plant_Cabbage.xml
 │ │ │ │ ├── Plant_Grapes.xml
 │ │ │ │ ├── Plant_YoungHerbs.xml
 │ │ │ │ └── Plant_Zucchini.xml
@@ -389,6 +395,7 @@ POIs
 │ │ ├─┬ Copper
 │ │ │ ├── Plant_BlueberryBush.xml
 │ │ │ ├── Plant_Carrots.xml
+│ │ │ ├── Plant_Lettuce.xml
 │ │ │ ├── Plant_Onions.xml
 │ │ │ └── Plant_Potato.xml
 │ │ ├─┬ Darksteel
@@ -424,6 +431,7 @@ POIs
 │ │ │ ├── Plant_Seaweed.xml
 │ │ │ └── Plant_SnowTruffle.xml
 │ │ ├─┬ Steel
+│ │ │ ├── Plant_Cabbage.xml
 │ │ │ ├── Plant_Grapes.xml
 │ │ │ ├── Plant_YoungHerbs.xml
 │ │ │ └── Plant_Zucchini.xml
@@ -450,6 +458,7 @@ POIs
 │ │ │ └── Pink Moa.xml
 │ │ └─┬ Path of Fire
 │ │   ├── Casino Blits.xml
+│ │   ├── Serpents Ire.xml
 │ │   ├── Cheetah.xml
 │ │   ├── Fanged Iboga.xml
 │ │   ├── Jacaranda.xml
@@ -503,6 +512,7 @@ POIs
 │   │ │ └── The Troopmarshal.xml
 │   │ └── The Departing.xml
 │   ├── Casino Blits.xml
+│   ├── Serpents Ire.xml
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
 │   ├── Jacaranda.xml
