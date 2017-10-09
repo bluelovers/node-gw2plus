@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+      <MarkerCategory name="Copper">
+        <MarkerCategory name="Lettuce"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="988" xpos="-517.83" ypos="8.51516" zpos="-1.96213" type="resourcenode.plant.copper.lettuce" GUID="IwgejWIp002sugEZF+AFGg=="/>
+    <POI MapID="988" xpos="-518.176" ypos="8.90657" zpos="-9.14039" type="resourcenode.plant.copper.lettuce" GUID="2FkeNxNxsU+gKcGm0lpbIw=="/>
+  </POIs>
+</OverlayData>
