@@ -5,7 +5,7 @@
         <MarkerCategory name="Round 1" iconFile="Data/1.png" DisplayName="Round 1"/>
         <MarkerCategory name="Round 2" iconFile="Data/2.png" DisplayName="Round 2"/>
         <MarkerCategory name="Round 3" iconFile="Data/3.png" DisplayName="Round 3"/>
-        <MarkerCategory name="Boss" data-class="boss-1" iconFile="Data/Boss.png" heightOffset="3"/>
+        <MarkerCategory name="Boss" data-class="boss-1 fade-6" fadeFar="5600" fadeNear="4800" iconFile="Data/Boss.png" heightOffset="3"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
