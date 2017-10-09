@@ -45,6 +45,7 @@
       <MarkerCategory name="Copper">
         <MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush"/>
         <MarkerCategory name="Carrots"/>
+        <MarkerCategory name="Lettuce"/>
         <MarkerCategory name="Onions"/>
         <MarkerCategory name="Potato" iconFile="Data/ResourceNode/Plant/Copper/Potato.png" data-iconFile="Data/ResourceNode/Plant/Copper/Potato.png" iconSize="0.35"/>
       </MarkerCategory>
@@ -85,6 +86,7 @@
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
       </MarkerCategory>
       <MarkerCategory name="Steel">
+        <MarkerCategory name="Cabbage"/>
         <MarkerCategory name="Grapes"/>
         <MarkerCategory name="YoungHerbs" DisplayName="Young Herbs"/>
         <MarkerCategory name="Zucchini"/>
@@ -1083,6 +1085,7 @@
     <POI MapID="1248" xpos="1448.36" ypos="151.881" zpos="-606.048" type="resourcenode.ore.normal.mithril" GUID="7WiMz0pNz0eobGqL7bSoXw=="/>
     <POI MapID="1226" xpos="-849.936" ypos="17.9761" zpos="846.963" type="resourcenode.ore.normal.mithril" GUID="q/kmpYRrTkmYW175g7E7wQ=="/>
     <POI MapID="1211" xpos="-1209.08" ypos="336.374" zpos="154.245" type="resourcenode.ore.normal.mithril" GUID="bqG3c9UNdEeu3XWHbrbRSw=="/>
+    <POI MapID="1226" xpos="-644.911" ypos="-11.8353" zpos="1335.17" type="resourcenode.ore.normal.mithril" GUID="dn8OBSoJvU6ywYNFF2zIyw=="/>
     <POI MapID="1043" xpos="446.093" ypos="298.806" zpos="117.341" type="resourcenode.ore.normal.orichalcum" GUID="b/J28JaejEGBLQowwZkcGQ=="/>
     <POI MapID="62" xpos="196.023" ypos="45.7115" zpos="1064.02" type="resourcenode.ore.normal.orichalcum" GUID="3cy+eF9EPEWuzmkcY9uKPg=="/>
     <POI MapID="62" xpos="95.9446" ypos="29.5551" zpos="13.944" type="resourcenode.ore.normal.orichalcum" GUID="O2TTl/ihT0aDPN8xKGeNrQ=="/>
@@ -1260,6 +1263,11 @@
     <POI MapID="1226" xpos="961.45" ypos="308.391" zpos="-650.833" type="resourcenode.ore.normal.orichalcum" GUID="X1BZjOAOb0eMnswXO6IzFw=="/>
     <POI MapID="1226" xpos="566.08" ypos="247.808" zpos="-1280.06" type="resourcenode.ore.normal.orichalcum" GUID="weH8g6yJx0ijeATdb7AzcQ=="/>
     <POI MapID="1210" xpos="963.534" ypos="21.0451" zpos="-122.618" type="resourcenode.ore.normal.orichalcum" GUID="h+7C1qOug0mvBWldmMHLjA=="/>
+    <POI MapID="1226" xpos="-580.556" ypos="5.02629" zpos="1190.99" type="resourcenode.ore.normal.orichalcum" GUID="UAbC996Zf0iVR0DMcQKICQ=="/>
+    <POI MapID="1226" xpos="-91.9195" ypos="308.293" zpos="487.707" type="resourcenode.ore.normal.orichalcum" GUID="XpDystK+WECZ8skUzFiSqA=="/>
+    <POI MapID="1226" xpos="-183.593" ypos="257.798" zpos="-66.3637" type="resourcenode.ore.normal.orichalcum" GUID="bCZgqtydcEKHdrFRsFJyvA=="/>
+    <POI MapID="1210" xpos="-870.527" ypos="87.0933" zpos="-278.029" type="resourcenode.ore.normal.orichalcum" GUID="c2C441+FjEeqXpnyFhdF4Q=="/>
+    <POI MapID="1210" xpos="-1008.63" ypos="16.3738" zpos="-242.85" type="resourcenode.ore.normal.orichalcum" GUID="Wfgj3NXW/0ariIIp8SRoVw=="/>
     <POI MapID="22" xpos="-425.951" ypos="87.7113" zpos="647.63" type="resourcenode.ore.normal.platinum" GUID="gYslMSDn1EiNU3PsbUhg3w=="/>
     <POI MapID="73" xpos="446.539" ypos="-7.21967" zpos="209.904" type="resourcenode.ore.normal.platinum" GUID="qWa04eBXjECNp80BjoFgEQ=="/>
     <POI MapID="73" xpos="426.632" ypos="-8.19152" zpos="279.408" type="resourcenode.ore.normal.platinum" GUID="+P2FCKmQAEeQ0Mnwae5SHQ=="/>
@@ -1760,6 +1768,12 @@
     <POI MapID="1226" xpos="472.721" ypos="17.4477" zpos="1483.81" type="resourcenode.plant.copper.carrots" GUID="4C8p4LofBU667FTiLtHNXw=="/>
     <POI MapID="1226" xpos="468.932" ypos="17.4477" zpos="1488.87" type="resourcenode.plant.copper.carrots" GUID="OgCdcf8ai06y8NYKipNNKw=="/>
     <POI MapID="1226" xpos="482.325" ypos="17.4704" zpos="1485.2" type="resourcenode.plant.copper.carrots" GUID="B2lAZmfCoEa5vK/+jIVmVw=="/>
+    <POI MapID="988" xpos="-523.056" ypos="8.50569" zpos="-1.53121" type="resourcenode.plant.copper.carrots" GUID="4bgYZlaNCUmbqiHr4cgHeA=="/>
+    <POI MapID="988" xpos="-522.812" ypos="8.9529" zpos="-8.55508" type="resourcenode.plant.copper.carrots" GUID="2Bg9TFCwfUKkftjYUmeeFA=="/>
+    <POI MapID="988" xpos="-523.27" ypos="9.25256" zpos="-17.3091" type="resourcenode.plant.copper.carrots" GUID="1AnP0gvvoE6sdEa+p3HBPw=="/>
+    <POI MapID="988" xpos="-523.287" ypos="9.55299" zpos="-26.3581" type="resourcenode.plant.copper.carrots" GUID="Q03DLIwsoUa77ii3mBi2tg=="/>
+    <POI MapID="988" xpos="-517.83" ypos="8.51516" zpos="-1.96213" type="resourcenode.plant.copper.lettuce" GUID="IwgejWIp002sugEZF+AFGg=="/>
+    <POI MapID="988" xpos="-518.176" ypos="8.90657" zpos="-9.14039" type="resourcenode.plant.copper.lettuce" GUID="2FkeNxNxsU+gKcGm0lpbIw=="/>
     <POI MapID="17" xpos="782.723" ypos="19.5965" zpos="-604.123" type="resourcenode.plant.copper.onions" GUID="ccLRneePJUeZwFV2K9NEQg=="/>
     <POI MapID="23" xpos="-907.993" ypos="94.2019" zpos="500.532" type="resourcenode.plant.copper.onions" GUID="FcplC+pbn0aEb8yYOAJJ7Q=="/>
     <POI MapID="23" xpos="-225.435" ypos="10.3272" zpos="-387.817" type="resourcenode.plant.copper.onions" GUID="SnUd16jO0kCf26SuxJSJEA=="/>
@@ -1971,6 +1985,10 @@
     <POI MapID="1015" xpos="-161.822" ypos="418.855" zpos="-31.7052" type="resourcenode.plant.orichalcum.cactus" GUID="fBJFO9H/f0ek07VkHb3TdQ=="/>
     <POI MapID="1015" xpos="-147.734" ypos="418.344" zpos="38.3454" type="resourcenode.plant.orichalcum.cactus" GUID="yZ+aidyqWU62RSIYvwawRA=="/>
     <POI MapID="1015" xpos="-340.712" ypos="436.706" zpos="-56.4924" type="resourcenode.plant.orichalcum.cactus" GUID="M9dh5AxrGU6wfNAo58yrkQ=="/>
+    <POI MapID="988" xpos="-510.051" ypos="10.8955" zpos="-25.7021" type="resourcenode.plant.orichalcum.cactus" GUID="TM1D6u0uSUWDCFgI3o+Q7w=="/>
+    <POI MapID="988" xpos="-510.228" ypos="10.6231" zpos="-17.0446" type="resourcenode.plant.orichalcum.cactus" GUID="Z0hZR5XLk06dxyZwMIQ8dg=="/>
+    <POI MapID="988" xpos="-510.276" ypos="9.72416" zpos="-8.6927" type="resourcenode.plant.orichalcum.cactus" GUID="m00A0+fpKUCKJWSj3P6AtA=="/>
+    <POI MapID="988" xpos="-510.599" ypos="9.29776" zpos="-0.927309" type="resourcenode.plant.orichalcum.cactus" GUID="gyd6YMESxUOAsdNn0j4CDA=="/>
     <POI MapID="1043" xpos="426.777" ypos="273.666" zpos="88.2746" type="resourcenode.plant.orichalcum.flax" GUID="za93gLPvLEqx22tXl/blPA=="/>
     <POI MapID="1043" xpos="407.438" ypos="274.746" zpos="118.677" type="resourcenode.plant.orichalcum.flax" GUID="qcPRbNXyL0uhZNejRXAoAQ=="/>
     <POI MapID="1043" xpos="300.809" ypos="268.464" zpos="-514.77" type="resourcenode.plant.orichalcum.flax" GUID="wfwadkgzFE6zZUKCEuzvxg=="/>
@@ -2447,6 +2465,7 @@
     <POI MapID="1210" xpos="-430.43" ypos="-0.643467" zpos="92.0126" type="resourcenode.plant.orichalcum.mussels" GUID="nHeuHhAH/Uu0xLNDv7yrsQ=="/>
     <POI MapID="1210" xpos="1358.29" ypos="-0.669078" zpos="-82.3488" type="resourcenode.plant.orichalcum.mussels" GUID="aTeLn/a3CUe3zU4agzJGjw=="/>
     <POI MapID="1226" xpos="565.488" ypos="-17.2594" zpos="1411.99" type="resourcenode.plant.orichalcum.mussels" GUID="Px6yjfDDpkm6S+3jvQ50/A=="/>
+    <POI MapID="1226" xpos="-468.025" ypos="-14.7973" zpos="1333.73" type="resourcenode.plant.orichalcum.mussels" GUID="qmirf7v4PE6jr8oNv74p0Q=="/>
     <POI MapID="62" xpos="-107.422" ypos="8.30651" zpos="670.82" type="resourcenode.plant.orichalcum.omnomberries" GUID="wZ0WXNndIUGv+ztnEzLYZA=="/>
     <POI MapID="62" xpos="-35.9082" ypos="20.1275" zpos="85.0301" type="resourcenode.plant.orichalcum.omnomberries" GUID="XgiS6O2qAEi50jzwwZuGRA=="/>
     <POI MapID="62" xpos="-299.168" ypos="51.0741" zpos="-823.124" type="resourcenode.plant.orichalcum.omnomberries" GUID="9f4cL9CiR0aFHB/8JGqsXQ=="/>
@@ -2511,6 +2530,8 @@
     <POI MapID="30" xpos="-23.2341" ypos="16.922" zpos="-358.098" type="resourcenode.plant.orichalcum.snowtruffle" GUID="FCZLtEl9PUa9HbQs3S++sg=="/>
     <POI MapID="30" xpos="469.922" ypos="23.856" zpos="215.887" type="resourcenode.plant.orichalcum.snowtruffle" GUID="9W5zWakt3kqMptXH4QYvzQ=="/>
     <POI MapID="62" xpos="408.005" ypos="41.5183" zpos="418.677" type="resourcenode.plant.orichalcum.snowtruffle" GUID="pQkRvqziKkyyBvQZin2ccA=="/>
+    <POI MapID="988" xpos="-513.43" ypos="8.06111" zpos="-1.80207" type="resourcenode.plant.steel.cabbage" GUID="7MY4reEQMUazFrWlvy7rTw=="/>
+    <POI MapID="988" xpos="-512.856" ypos="9.41421" zpos="-17.2246" type="resourcenode.plant.steel.cabbage" GUID="xkkj2n0lMkm+lCdktJEfhQ=="/>
     <POI MapID="27" xpos="-431.153" ypos="28.0175" zpos="-1046.65" type="resourcenode.plant.steel.grapes" GUID="gQ1Mym+z2km50h3xnFMgXw=="/>
     <POI MapID="27" xpos="-434.787" ypos="30.9837" zpos="-1025.4" type="resourcenode.plant.steel.grapes" GUID="yPTcsaf94E+rXaCqcngvXg=="/>
     <POI MapID="27" xpos="-463.596" ypos="35.4396" zpos="-1009.1" type="resourcenode.plant.steel.grapes" GUID="++1mwekWHkehpkzOnGiwDQ=="/>
@@ -2742,6 +2763,8 @@
     <POI MapID="1210" xpos="1251.19" ypos="51.5931" zpos="-459.841" type="resourcenode.wood.ancient" GUID="mZ+j7L0fHEK+YSoMK/fbtQ=="/>
     <POI MapID="988" xpos="-195.254" ypos="23.9868" zpos="-32.9754" type="resourcenode.wood.ancient" GUID="zTF1zLdFxkWZRxZ5D53BLQ=="/>
     <POI MapID="1226" xpos="-22.4183" ypos="273.213" zpos="364.763" type="resourcenode.wood.ancient" GUID="V4NrjbioyUOerUfy6H0w5w=="/>
+    <POI MapID="1226" xpos="291.406" ypos="244.683" zpos="481.418" type="resourcenode.wood.ancient" GUID="QaDx8S5qgUutdCmXkOwWuw=="/>
+    <POI MapID="988" xpos="-424.828" ypos="70.584" zpos="-184.337" type="resourcenode.wood.ancient" GUID="RTmi2Syg6UK28jlYN4fYmg=="/>
     <POI MapID="51" xpos="-3.82638" ypos="1.33817" zpos="-305.523" type="resourcenode.wood.elder" GUID="hIH0tUo/J0+c1aHKLFM57g=="/>
     <POI MapID="51" xpos="-226.56" ypos="2.59815" zpos="-432.218" type="resourcenode.wood.elder" GUID="ylPRf3UJ7U61E/kHa3wmCw=="/>
     <POI MapID="51" xpos="-342.846" ypos="22.3632" zpos="-631.568" type="resourcenode.wood.elder" GUID="ofYz44oVpEiAMGhJ4kXioQ=="/>
@@ -3395,6 +3418,9 @@
     <POI MapID="1228" xpos="-870.073" ypos="98.4339" zpos="684.122" type="resourcenode.wood.elder" GUID="DXbsMHxhX0mBgOpMMuJmag=="/>
     <POI MapID="1226" xpos="-31.0103" ypos="271.265" zpos="281.861" type="resourcenode.wood.elder" GUID="crxzMGqjlUCaejpQvCiJqQ=="/>
     <POI MapID="1226" xpos="405.315" ypos="263.609" zpos="-305.473" type="resourcenode.wood.elder" GUID="OK3hvKw6IE6liT9078htoQ=="/>
+    <POI MapID="1226" xpos="-133.404" ypos="53.3466" zpos="1042.62" type="resourcenode.wood.elder" GUID="RFAtbgYYR0q6AIHWkKeiDg=="/>
+    <POI MapID="1226" xpos="-1029.53" ypos="274.189" zpos="-749.167" type="resourcenode.wood.elder" GUID="cj8y2M7seka8pfdjj3bq2g=="/>
+    <POI MapID="1248" xpos="520.158" ypos="153.376" zpos="827.495" type="resourcenode.wood.elder" GUID="NZVQxWRF302Re7ZPPEjzLQ=="/>
     <POI MapID="15" xpos="-200.718" ypos="2.25961" zpos="82.0036" type="resourcenode.wood.green" GUID="A7K3s5D8kUWzpAmWVWobNA=="/>
     <POI MapID="15" xpos="-107.916" ypos="1.13397" zpos="-18.7636" type="resourcenode.wood.green" GUID="AaFdz06YrESzyWuqbefhyg=="/>
     <POI MapID="15" xpos="-69.8346" ypos="2.28858" zpos="5.11662" type="resourcenode.wood.green" GUID="Mf84LcpjT0qFOI8nIrDUFg=="/>
