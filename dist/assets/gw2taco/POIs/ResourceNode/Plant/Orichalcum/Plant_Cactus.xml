@@ -28,5 +28,9 @@
     <POI MapID="1015" xpos="-161.822" ypos="418.855" zpos="-31.7052" type="resourcenode.plant.orichalcum.cactus" GUID="fBJFO9H/f0ek07VkHb3TdQ=="/>
     <POI MapID="1015" xpos="-147.734" ypos="418.344" zpos="38.3454" type="resourcenode.plant.orichalcum.cactus" GUID="yZ+aidyqWU62RSIYvwawRA=="/>
     <POI MapID="1015" xpos="-340.712" ypos="436.706" zpos="-56.4924" type="resourcenode.plant.orichalcum.cactus" GUID="M9dh5AxrGU6wfNAo58yrkQ=="/>
+    <POI MapID="988" xpos="-510.051" ypos="10.8955" zpos="-25.7021" type="resourcenode.plant.orichalcum.cactus" GUID="TM1D6u0uSUWDCFgI3o+Q7w=="/>
+    <POI MapID="988" xpos="-510.228" ypos="10.6231" zpos="-17.0446" type="resourcenode.plant.orichalcum.cactus" GUID="Z0hZR5XLk06dxyZwMIQ8dg=="/>
+    <POI MapID="988" xpos="-510.276" ypos="9.72416" zpos="-8.6927" type="resourcenode.plant.orichalcum.cactus" GUID="m00A0+fpKUCKJWSj3P6AtA=="/>
+    <POI MapID="988" xpos="-510.599" ypos="9.29776" zpos="-0.927309" type="resourcenode.plant.orichalcum.cactus" GUID="gyd6YMESxUOAsdNn0j4CDA=="/>
   </POIs>
 </OverlayData>
