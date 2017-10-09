@@ -233,7 +233,7 @@
         <MarkerCategory name="Round 1" iconFile="Data/1.png"/>
         <MarkerCategory name="Round 2" iconFile="Data/2.png"/>
         <MarkerCategory name="Round 3" iconFile="Data/3.png"/>
-        <MarkerCategory name="Boss" data-class="boss-1" iconFile="Data/Boss.png" heightOffset="3"/>
+        <MarkerCategory name="Boss" data-class="boss-1 fade-6" fadeFar="5600" fadeNear="4800" iconFile="Data/Boss.png" heightOffset="3"/>
       </MarkerCategory>
       <MarkerCategory name="Serpents Ire" iconFile="Data/Boss.png">
         <MarkerCategory name="Zealot" data-class="fade-max2" fadeFar="42000" fadeNear="25200"/>
