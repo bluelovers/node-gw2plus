@@ -214,6 +214,12 @@
 
       <MarkerCategory name="Always Time for Taimi"/>
 
+      <MarkerCategory name="Serpents' Ire">
+        <MarkerCategory name="Defeat the Branded Forgotten zealot"/>
+        <MarkerCategory name="Defeat the Branded Forgotten zealots before the Branded crystal detonates"/>
+        <MarkerCategory name="Defeat Ysshi Hessani and Pek Rakt Grag"/>
+      </MarkerCategory>
+
     </MarkerCategory>
 
     <MarkerCategory name="Pact Supply Network Agent"/>

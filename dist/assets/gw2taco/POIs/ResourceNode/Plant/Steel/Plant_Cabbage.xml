@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="Cabbage"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="988" xpos="-513.43" ypos="8.06111" zpos="-1.80207" type="resourcenode.plant.steel.cabbage" GUID="7MY4reEQMUazFrWlvy7rTw=="/>
+    <POI MapID="988" xpos="-512.856" ypos="9.41421" zpos="-17.2246" type="resourcenode.plant.steel.cabbage" GUID="xkkj2n0lMkm+lCdktJEfhQ=="/>
+  </POIs>
+</OverlayData>

@@ -235,6 +235,11 @@
         <MarkerCategory name="Round 3" iconFile="Data/3.png"/>
         <MarkerCategory name="Boss" data-class="boss-1" iconFile="Data/Boss.png" heightOffset="3"/>
       </MarkerCategory>
+      <MarkerCategory name="Serpents Ire" iconFile="Data/Boss.png">
+        <MarkerCategory name="Zealot" data-class="fade-max2" fadeFar="42000" fadeNear="25200"/>
+        <MarkerCategory name="Detonates" data-class="fade-max" fadeFar="25200" fadeNear="16800"/>
+        <MarkerCategory name="Boss"/>
+      </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Raid">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
@@ -737,6 +742,11 @@
         <MarkerCategory name="Raise the Banners Salute to Palawa Joko" DisplayName="Raise the Banners: Salute to Palawa Joko"/>
       </MarkerCategory>
       <MarkerCategory name="Always Time for Taimi"/>
+      <MarkerCategory name="Serpents Ire" DisplayName="Serpents' Ire">
+        <MarkerCategory name="Defeat the Branded Forgotten zealot"/>
+        <MarkerCategory name="Defeat the Branded Forgotten zealots before the Branded crystal detonates"/>
+        <MarkerCategory name="Defeat Ysshi Hessani and Pek Rakt Grag"/>
+      </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Pact Supply Network Agent"/>
     <MarkerCategory name="Lore"/>

@@ -121,6 +121,9 @@
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="Serpents Ire" iconFile="Data/Boss.png" DisplayName="Serpents Ire">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Raid">
@@ -437,6 +440,9 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Serpents_ Ire" DisplayName="Serpents_ Ire">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
