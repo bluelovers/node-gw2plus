@@ -180,4 +180,8 @@
     <Event Name="Boss" Length="5" Color="80ff9999"/>
     <Event Name="" Length="100" Color=""/>
   </Map>
+  <Map Name="Serpents' Ire" Length="90" Start="60">
+    <Event Name="Serpents' Ire" Length="30" Color="80ffd7d7"/>
+    <Event Name="" Length="60" Color=""/>
+  </Map>
 </GW2MapTimer>
