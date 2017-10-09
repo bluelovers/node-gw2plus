@@ -1126,6 +1126,57 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
+								case 'serpents__ire.defeat_the_branded_forgotten_zealot':
+								case 'serpents__ire.defeat_the_branded_forgotten_zealots_before_the_branded_crystal_detonates':
+								case 'serpents__ire.defeat_ysshi_hessani_and_pek_rakt_grag':
+
+									pois_target_id = [
+										'Tactical',
+										'Path of Fire',
+									];
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Serpents\' Ire',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'serpents__ire.defeat_the_branded_forgotten_zealot':
+
+											type_new = type_new
+												.concat([
+													'Zealot',
+												])
+											;
+
+											break;
+										case 'serpents__ire.defeat_the_branded_forgotten_zealots_before_the_branded_crystal_detonates':
+
+											type_new = type_new
+												.concat([
+													'Detonates',
+												])
+											;
+
+											break;
+										case 'serpents__ire.defeat_ysshi_hessani_and_pek_rakt_grag':
+
+											type_new = type_new
+												.concat([
+													'Boss',
+												])
+											;
+
+											break;
+										default:
+											break POIS;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
