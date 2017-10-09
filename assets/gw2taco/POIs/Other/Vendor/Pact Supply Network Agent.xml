@@ -17,5 +17,11 @@
     <POI MapID="873" xpos="622.211" ypos="13.5209" zpos="-403.706" type="other.vendor.pact_supply_network_agent" GUID="h6X89NHv60ydNtho4v9gTQ=="/>
     <POI MapID="28" xpos="213.651" ypos="92.8226" zpos="965.371" type="other.vendor.pact_supply_network_agent" GUID="vo/jv1Z4yEe+dcyn5J/RAw=="/>
     <POI MapID="21" xpos="-584.929" ypos="60.6074" zpos="-454.803" type="other.vendor.pact_supply_network_agent" GUID="j31QIQlN6US90CUIEQatPA=="/>
+    <POI MapID="988" xpos="-529.515" ypos="10.0556" zpos="-16.8995" type="other.vendor.pact_supply_network_agent" GUID="DsF7NgdSfkOl06eKYosaUg=="/>
+    <POI MapID="34" xpos="-22.7053" ypos="5.12538" zpos="4.19905" type="other.vendor.pact_supply_network_agent" GUID="Png5Z5tZi0eQ8nrUqELF4g=="/>
+    <POI MapID="51" xpos="517.956" ypos="35.3751" zpos="59.2227" type="other.vendor.pact_supply_network_agent" GUID="onFfpMv2iUC5LSkfyTd4ow=="/>
+    <POI MapID="73" xpos="479.404" ypos="19.3656" zpos="128.518" type="other.vendor.pact_supply_network_agent" GUID="LTSPdY6PP0OMiwSdOkEwyw=="/>
+    <POI MapID="30" xpos="-570.783" ypos="33.3906" zpos="-217.342" type="other.vendor.pact_supply_network_agent" GUID="48bZkNc+w0WG7vs5dJtYNg=="/>
+    <POI MapID="22" xpos="-435.816" ypos="80.0141" zpos="785.56" type="other.vendor.pact_supply_network_agent" GUID="R6tVwU0LbkCtJOhpOh1Drg=="/>
   </POIs>
 </OverlayData>
