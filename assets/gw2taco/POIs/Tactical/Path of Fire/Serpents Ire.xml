@@ -1,0 +1,22 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Serpents Ire" iconFile="Data/Boss.png">
+        <MarkerCategory name="Zealot" data-class="fade-max2"/>
+        <MarkerCategory name="Detonates" data-class="fade-max"/>
+        <MarkerCategory name="Boss"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1248" xpos="934.968" ypos="78.9295" zpos="745.291" type="tactical.path_of_fire.serpents_ire.zealot" GUID="YeLNkX1+rkuLTSvGJFclwQ=="/>
+    <POI MapID="1248" xpos="1138.91" ypos="75.6708" zpos="311.857" type="tactical.path_of_fire.serpents_ire.zealot" GUID="N9h6EziD0kqDv1jRzuy6Zg=="/>
+    <POI MapID="1248" xpos="838.822" ypos="46.1657" zpos="79.8897" type="tactical.path_of_fire.serpents_ire.zealot" GUID="nYbGWBjRq0+S5cOy2+nxOg=="/>
+    <POI MapID="1248" xpos="845.334" ypos="8.00636" zpos="602.359" type="tactical.path_of_fire.serpents_ire.detonates" GUID="/IPPCFFgc0Sp/YOj7T7fhQ=="/>
+    <POI MapID="1248" xpos="938.979" ypos="13.7676" zpos="620.94" type="tactical.path_of_fire.serpents_ire.detonates" GUID="Ez332FR+hEaMAC4/xWNX2g=="/>
+    <POI MapID="1248" xpos="1024.69" ypos="8.03476" zpos="612.362" type="tactical.path_of_fire.serpents_ire.detonates" GUID="TBxSrtGGbU6V5YWLNub+bQ=="/>
+    <POI MapID="1248" xpos="998.64" ypos="8.00636" zpos="436.109" type="tactical.path_of_fire.serpents_ire.detonates" GUID="9/RDYgkqwkO8CpyJ29ifFA=="/>
+    <POI MapID="1248" xpos="874.624" ypos="8.71037" zpos="438.6" type="tactical.path_of_fire.serpents_ire.detonates" GUID="0XD3IYE700OZ2DcR9twglw=="/>
+    <POI MapID="1248" xpos="933.967" ypos="5.29063" zpos="579.78" type="tactical.path_of_fire.serpents_ire.boss" GUID="XzjKZhwFeU62hRd4pnEzDw=="/>
+  </POIs>
+</OverlayData>
