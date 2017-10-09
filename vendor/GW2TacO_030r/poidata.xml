@@ -339,5 +339,6 @@
     <POI MapID="22" xpos="102.321" ypos="34.8587" zpos="745.236" type="other.portal.cave" GUID="aULND3BeV0eRO2PSwOOomQ=="/>
     <POI MapID="22" xpos="248.033" ypos="47.181" zpos="701.85" type="other.portal.cave" GUID="ySu7LqeQ8UC6wmafwnpM0Q=="/>
     <POI MapID="22" xpos="-231.313" ypos="24.9267" zpos="-234.756" type="other.portal.cave" GUID="L75aBZ29dkSKdXazNbWXyQ=="/>
+    <POI MapID="1211" xpos="207.895" ypos="182.935" zpos="-618.678" type="temp.path_of_fire.desert_highlands.dwarven_remnants" GUID="zoBsalAw802kbBPuKbqyTg=="/>
   </POIs>
 </OverlayData>
