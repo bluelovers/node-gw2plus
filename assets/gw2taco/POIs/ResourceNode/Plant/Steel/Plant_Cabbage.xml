@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="Cabbage"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="988" xpos="-513.43" ypos="8.06111" zpos="-1.80207" type="resourcenode.plant.steel.cabbage" GUID="7MY4reEQMUazFrWlvy7rTw=="/>
+    <POI MapID="988" xpos="-512.856" ypos="9.41421" zpos="-17.2246" type="resourcenode.plant.steel.cabbage" GUID="xkkj2n0lMkm+lCdktJEfhQ=="/>
+  </POIs>
+</OverlayData>
