@@ -16,5 +16,9 @@
     <POI MapID="1226" xpos="472.721" ypos="17.4477" zpos="1483.81" type="resourcenode.plant.copper.carrots" GUID="4C8p4LofBU667FTiLtHNXw=="/>
     <POI MapID="1226" xpos="468.932" ypos="17.4477" zpos="1488.87" type="resourcenode.plant.copper.carrots" GUID="OgCdcf8ai06y8NYKipNNKw=="/>
     <POI MapID="1226" xpos="482.325" ypos="17.4704" zpos="1485.2" type="resourcenode.plant.copper.carrots" GUID="B2lAZmfCoEa5vK/+jIVmVw=="/>
+    <POI MapID="988" xpos="-523.056" ypos="8.50569" zpos="-1.53121" type="resourcenode.plant.copper.carrots" GUID="4bgYZlaNCUmbqiHr4cgHeA=="/>
+    <POI MapID="988" xpos="-522.812" ypos="8.9529" zpos="-8.55508" type="resourcenode.plant.copper.carrots" GUID="2Bg9TFCwfUKkftjYUmeeFA=="/>
+    <POI MapID="988" xpos="-523.27" ypos="9.25256" zpos="-17.3091" type="resourcenode.plant.copper.carrots" GUID="1AnP0gvvoE6sdEa+p3HBPw=="/>
+    <POI MapID="988" xpos="-523.287" ypos="9.55299" zpos="-26.3581" type="resourcenode.plant.copper.carrots" GUID="Q03DLIwsoUa77ii3mBi2tg=="/>
   </POIs>
 </OverlayData>
