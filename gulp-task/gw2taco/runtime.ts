@@ -73,6 +73,12 @@ addGulpTasks({
 					'Boss',
 					'Treasure Mushroom',
 				],
+
+				'temp.the_silverwastes.go_for_the_gold': [
+					'Achievement',
+					'The Silverwastes',
+					'Go for the Gold',
+				],
 			};
 
 			const map_home = [
