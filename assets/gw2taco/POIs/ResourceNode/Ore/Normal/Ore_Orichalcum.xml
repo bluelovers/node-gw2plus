@@ -189,5 +189,6 @@
     <POI MapID="1226" xpos="-183.593" ypos="257.798" zpos="-66.3637" type="resourcenode.ore.normal.orichalcum" GUID="bCZgqtydcEKHdrFRsFJyvA=="/>
     <POI MapID="1210" xpos="-870.527" ypos="87.0933" zpos="-278.029" type="resourcenode.ore.normal.orichalcum" GUID="c2C441+FjEeqXpnyFhdF4Q=="/>
     <POI MapID="1210" xpos="-1008.63" ypos="16.3738" zpos="-242.85" type="resourcenode.ore.normal.orichalcum" GUID="Wfgj3NXW/0ariIIp8SRoVw=="/>
+    <POI MapID="1210" xpos="-1275.49" ypos="2.64809" zpos="-52.4476" type="resourcenode.ore.normal.orichalcum" GUID="mnyjKkGcQ0iM4LaKSsNoDg=="/>
   </POIs>
 </OverlayData>
