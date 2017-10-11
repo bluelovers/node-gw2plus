@@ -261,6 +261,9 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="The Silverwastes" iconFile="Data/Achievement/The_Silverwastes.png" data-iconFile="Data/Achievement/The_Silverwastes.png" DisplayName="The Silverwastes">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
@@ -451,6 +454,9 @@
       <MarkerCategory name="Voice of the Deceased" DisplayName="Voice of the Deceased">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="The Silverwastes" DisplayName="The Silverwastes">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
