@@ -23,5 +23,16 @@
     <POI MapID="73" xpos="479.404" ypos="19.3656" zpos="128.518" type="other.vendor.pact_supply_network_agent" GUID="LTSPdY6PP0OMiwSdOkEwyw=="/>
     <POI MapID="30" xpos="-570.783" ypos="33.3906" zpos="-217.342" type="other.vendor.pact_supply_network_agent" GUID="48bZkNc+w0WG7vs5dJtYNg=="/>
     <POI MapID="22" xpos="-435.816" ypos="80.0141" zpos="785.56" type="other.vendor.pact_supply_network_agent" GUID="R6tVwU0LbkCtJOhpOh1Drg=="/>
+    <POI MapID="34" xpos="-159.438" ypos="24.7657" zpos="750.292" type="other.vendor.pact_supply_network_agent" GUID="A9OkppL/RE6hkzPWh5NJ3g=="/>
+    <POI MapID="988" xpos="106.411" ypos="41.6339" zpos="-216.699" type="other.vendor.pact_supply_network_agent" GUID="86RCuSAcEUC/d5hoHGUQ3Q=="/>
+    <POI MapID="51" xpos="-544.766" ypos="38.2522" zpos="-147.663" type="other.vendor.pact_supply_network_agent" GUID="6t/gcmGgNE65p6pXPbsqsA=="/>
+    <POI MapID="73" xpos="411.425" ypos="30.1632" zpos="870.593" type="other.vendor.pact_supply_network_agent" GUID="08Ja+px8bEWB6ryCBCfZ2g=="/>
+    <POI MapID="30" xpos="107.795" ypos="78.5" zpos="-312.954" type="other.vendor.pact_supply_network_agent" GUID="KL9tErucTEyN9tEx/2Dq9A=="/>
+    <POI MapID="1015" xpos="498.681" ypos="415.033" zpos="-329.411" type="other.vendor.pact_supply_network_agent" GUID="UeyFBD8gB0mgc6QL+tpsTg=="/>
+    <POI MapID="35" xpos="327.402" ypos="12.6866" zpos="-65.3948" type="other.vendor.pact_supply_network_agent" GUID="6pAMVs70TUeuNss3A14b2A=="/>
+    <POI MapID="65" xpos="1020.9" ypos="9.03376" zpos="118.261" type="other.vendor.pact_supply_network_agent" GUID="Su7xwIaCekOSvUqEtjXc9A=="/>
+    <POI MapID="23" xpos="1189.16" ypos="50.0771" zpos="-271.168" type="other.vendor.pact_supply_network_agent" GUID="RsFGgoxif0uMPDQxWVwKWw=="/>
+    <POI MapID="26" xpos="-334.867" ypos="66.7174" zpos="764.181" type="other.vendor.pact_supply_network_agent" GUID="/fV7UrzfvkiC1zAxeSv54w=="/>
+    <POI MapID="19" xpos="-243.325" ypos="34.5451" zpos="85.3532" type="other.vendor.pact_supply_network_agent" GUID="SaWit3u2nEmR3p/EYJkCrw=="/>
   </POIs>
 </OverlayData>

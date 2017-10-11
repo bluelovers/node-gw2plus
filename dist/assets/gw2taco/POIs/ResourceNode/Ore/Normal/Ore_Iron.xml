@@ -318,5 +318,9 @@
     <POI MapID="23" xpos="-925.079" ypos="15.3596" zpos="52.9043" type="resourcenode.ore.normal.iron" GUID="btrn/p6PH0ayaGoBSaQb+w=="/>
     <POI MapID="20" xpos="-36.1162" ypos="34.8274" zpos="-1047.29" type="resourcenode.ore.normal.iron" GUID="s55x/GqS5EuzLLxswB2WBQ=="/>
     <POI MapID="24" xpos="-431.406" ypos="-29.7968" zpos="-440.432" type="resourcenode.ore.normal.iron" GUID="9RRYrzCftkaYs4wqVi3pIg=="/>
+    <POI MapID="23" xpos="968.251" ypos="50.2472" zpos="179.293" type="resourcenode.ore.normal.iron" GUID="Fzh6qsWuo0iy4ilgoodfcA=="/>
+    <POI MapID="23" xpos="716.763" ypos="90.8731" zpos="-228.803" type="resourcenode.ore.normal.iron" GUID="JxwCH7bLM0So3wqFqUBWLg=="/>
+    <POI MapID="23" xpos="724.661" ypos="88.0536" zpos="-383.93" type="resourcenode.ore.normal.iron" GUID="zCMRuv+ZkEGiRR91ZS0Osw=="/>
+    <POI MapID="26" xpos="-212.237" ypos="78.5084" zpos="766.852" type="resourcenode.ore.normal.iron" GUID="v3ZlCNBXcEqpQLRC9+hfvw=="/>
   </POIs>
 </OverlayData>

@@ -207,5 +207,8 @@
         <MarkerCategory name="12"/>
       </MarkerCategory>
     </MarkerCategory>
+    <MarkerCategory name="The Silverwastes" DisplayName="The Silverwastes">
+      <MarkerCategory name="Go for the Gold" DisplayName="Go for the Gold"/>
+    </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
