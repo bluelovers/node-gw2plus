@@ -12,5 +12,7 @@
     <POI MapID="24" xpos="-36.1803" ypos="-40.1793" zpos="-12.3105" type="resourcenode.plant.iron.clam" GUID="i8bwdhCwpU2lEA2i6dgouw=="/>
     <POI MapID="24" xpos="-93.7439" ypos="-31.2669" zpos="-9.18239" type="resourcenode.plant.iron.clam" GUID="q7O0lJTqrEquEbiAykdwCQ=="/>
     <POI MapID="24" xpos="-85.4719" ypos="-34.3729" zpos="-40.7462" type="resourcenode.plant.iron.clam" GUID="flwhkR6ctki8sifcO4vlQA=="/>
+    <POI MapID="1210" xpos="-1268.33" ypos="-33.3063" zpos="-184.436" type="resourcenode.plant.iron.clam" GUID="6lvbPb/Wc0iY4JNvSObS/w=="/>
+    <POI MapID="1210" xpos="-1220.81" ypos="-5.67817" zpos="63.7905" type="resourcenode.plant.iron.clam" GUID="YLihRB9MiE6975efZeuwzQ=="/>
   </POIs>
 </OverlayData>
