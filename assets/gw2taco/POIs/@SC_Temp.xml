@@ -243,5 +243,9 @@
       </MarkerCategory>
     </MarkerCategory>
 
+    <MarkerCategory name="The Silverwastes">
+      <MarkerCategory name="Go for the Gold"/>
+    </MarkerCategory>
+
   </MarkerCategory>
 </OverlayData>
