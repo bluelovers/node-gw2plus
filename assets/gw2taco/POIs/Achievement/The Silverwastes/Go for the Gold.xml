@@ -1,0 +1,10 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="The Silverwastes">
+      <MarkerCategory name="Go for the Gold"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1015" xpos="492.934" ypos="442.504" zpos="-348.352" type="achievement.the_silverwastes.go_for_the_gold" GUID="/u19ZfKdAUynqnNv5fFvKQ=="/>
+  </POIs>
+</OverlayData>
