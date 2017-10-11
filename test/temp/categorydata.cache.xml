@@ -398,7 +398,7 @@
     </MarkerCategory>
     <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png">
       <MarkerCategory name="Crystal Desert" iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png">
-        <MarkerCategory name="Always Time for Taimi"/>
+        <MarkerCategory name="Always Time for Taimi" iconFile="Data/Achievement/Path of Fire/Crystal Desert/Always Time for Taimi.png" data-iconFile="Data/Achievement/Path of Fire/Crystal Desert/Always Time for Taimi.png"/>
         <MarkerCategory name="Priory Historian Elisa"/>
       </MarkerCategory>
       <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png">
@@ -474,6 +474,9 @@
         <MarkerCategory name="Shadows Provisions"/>
         <MarkerCategory name="The Throne of Bones"/>
       </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="The Silverwastes" iconFile="Data/Achievement/The_Silverwastes.png" data-iconFile="Data/Achievement/The_Silverwastes.png">
+      <MarkerCategory name="Go for the Gold"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
@@ -765,6 +768,9 @@
         <MarkerCategory name="11"/>
         <MarkerCategory name="12"/>
       </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="The Silverwastes">
+      <MarkerCategory name="Go for the Gold"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100" maxSize="256"/>
