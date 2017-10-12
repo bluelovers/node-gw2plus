@@ -188,6 +188,13 @@
         <MarkerCategory name="Defeat the Branded Forgotten zealots before the Branded crystal detonates" DisplayName="Defeat the Branded Forgotten zealots before the Branded crystal detonates"/>
         <MarkerCategory name="Defeat Ysshi Hessani and Pek Rakt Grag" DisplayName="Defeat Ysshi Hessani and Pek Rakt Grag"/>
       </MarkerCategory>
+      <MarkerCategory name="The Collection of Tribute" DisplayName="The Collection of Tribute">
+        <MarkerCategory name="Ancient Surveyor's Tools" DisplayName="Ancient Surveyor's Tools"/>
+        <MarkerCategory name="Bunch of Rare Grapes" DisplayName="Bunch of Rare Grapes"/>
+        <MarkerCategory name="Late-Blooming Elon Lily" DisplayName="Late-Blooming Elon Lily"/>
+        <MarkerCategory name="Tamarisk Reed" DisplayName="Tamarisk Reed"/>
+        <MarkerCategory name="Chunk of Granite" DisplayName="Chunk of Granite"/>
+      </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Pact Supply Network Agent" DisplayName="Pact Supply Network Agent"/>
     <MarkerCategory name="Lore"/>
