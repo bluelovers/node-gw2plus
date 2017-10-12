@@ -320,6 +320,21 @@ enum m_translate {
 	LANG_PAN_OPTIONS_RS_EMBEDEXTRA,
 	LANG_PAN_OPTIONS_LOGGING,
 	LANG_PAN_OPTIONS_SM_HIDEZEROBUFFS,
+	LANG_PAN_OPTIONS_RS_HIDEOBLACH,
+	LANG_PAN_OPTIONS_RS_HIDEOBLQUEST,
+
+	/* panels: consume */
+	LANG_PAN_CONSUME_HEADER = 550,
+	LANG_PAN_CONSUME_NONE,
+
+	/* panels: waypoint */
+	LANG_PAN_WAYPOINT_HEADER = 560,
+	LANG_PAN_WAYPOINT_EBG,
+	LANG_PAN_WAYPOINT_RBL,
+	LANG_PAN_WAYPOINT_BBL,
+	LANG_PAN_WAYPOINT_GBL,
+	LANG_PAN_WAYPOINT_NONE,
+	LANG_PAN_WAYPOINT_DISABLED,
 
 	/* panels: templates */
 	LANG_PAN_TEMPLATES_HEADER = 570,
@@ -358,23 +373,25 @@ enum m_translate {
 	LANG_COMMON_CSK_SHIELD,
 
 	/* common: skills2 */
-	LANG_COMMON_SKILLS2_NOINCOMINGDMG = 630,
+	LANG_COMMON_SKILLS2_NOEVENTS = 630,
 	LANG_COMMON_SKILLS2_SHIELD,
 	LANG_COMMON_SKILLS2_HITSANY,
+	LANG_COMMON_SKILLS2_DMGPHYS,
+	LANG_COMMON_SKILLS2_DMGBUFF,
+
+	/* common: assorted */
+	LANG_COMMON_AS_SUCCESS = 660,
+	LANG_COMMON_AS_FAIL,
 
 	/* end */
 	LANG_END
 };
-
 							
 							export { m_translate };
 							
 							let lang = {};
 							
-								/* core */
-	lang[m_translate.LANG_CORE] = "core";
-
-	/* common: professions */
+								/* common: professions */
 	lang[m_translate.LANG_COMMON_PROF_GUARDIAN] = "Gdn";
 	lang[m_translate.LANG_COMMON_PROF_DRAGONHUNTER] = "Dgh";
 	lang[m_translate.LANG_COMMON_PROF_WARRIOR] = "War";
@@ -431,9 +448,11 @@ enum m_translate {
 	lang[m_translate.LANG_COMMON_SKILLS_NOTARGETS] = "NO TARGETS LOGGED";
 
 	/* common: skills 2 */
-	lang[m_translate.LANG_COMMON_SKILLS2_NOINCOMINGDMG] = "NO INCOMING DAMAGE";
+	lang[m_translate.LANG_COMMON_SKILLS2_NOEVENTS] = "NO EVENTS";
 	lang[m_translate.LANG_COMMON_SKILLS2_SHIELD] = "shielded";
 	lang[m_translate.LANG_COMMON_SKILLS2_HITSANY] = "hits (all)";
+	lang[m_translate.LANG_COMMON_SKILLS2_DMGPHYS] = "dmg (phys)";
+	lang[m_translate.LANG_COMMON_SKILLS2_DMGBUFF] = "dmg (buff)";
 
 	/* common: custom skills */
 	lang[m_translate.LANG_COMMON_CSK_DODGE] = "Dodge";
@@ -697,27 +716,4 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_OPTIONS_BS_NOTOTALS] = "DONT SHOW TOTALS";
 	lang[m_translate.LANG_PAN_OPTIONS_BS_ALTUICLICKLOCK] = "REQUIRE MODIFIERS TO CLICK";
 	lang[m_translate.LANG_PAN_OPTIONS_LOGGING] = "LOGGING";
-	lang[m_translate.LANG_PAN_OPTIONS_SM_HIDEZEROBUFFS] = "HIDE ZERO BUFFS";
-
-	/* panels: templates */
-	lang[m_translate.LANG_PAN_TEMPLATES_HEADER] = "TEMPLATES";
-	lang[m_translate.LANG_PAN_TEMPLATES_LOAD] = "LOAD";
-	lang[m_translate.LANG_PAN_TEMPLATES_SAVE] = "SAVE";
-	lang[m_translate.LANG_PAN_TEMPLATES_NONE] = "NO TEMPLATES";
-	lang[m_translate.LANG_PAN_TEMPLATES_TRAITS] = "TRAITS";
-	lang[m_translate.LANG_PAN_TEMPLATES_GEAR] = "GEAR";
-	lang[m_translate.LANG_PAN_TEMPLATES_SKILLS] = "SKILLS";
-	lang[m_translate.LANG_PAN_TEMPLATES_LEGENDARY] = "LEGENDARY";
-	lang[m_translate.LANG_PAN_TEMPLATES_PVP] = "PVP";
-	//lang[m_translate.LANG_PAN_TEMPLATES_SAVETRAITS] = "SAVE TRAITS";
-	//lang[m_translate.LANG_PAN_TEMPLATES_SAVEGEAR] = "SAVE GEAR";
-	lang[m_translate.LANG_PAN_TEMPLATES_COPY] = "copied";
-	lang[m_translate.LANG_PAN_TEMPLATES_NAME] = "NAME";
-	lang[m_translate.LANG_PAN_TEMPLATES_DELETE] = "delete";
-	lang[m_translate.LANG_PAN_TEMPLATES_OVERWRITE] = "OVERWRITE";
-	lang[m_translate.LANG_PAN_TEMPLATES_SAVED] = "saved";
-	lang[m_translate.LANG_PAN_TEMPLATES_LOADING] = "loading...";
-	lang[m_translate.LANG_PAN_TEMPLATES_REDUCEDRATE] = "map rate restrictions in place (500ms)";
-	lang[m_translate.LANG_PAN_TEMPLATES_DISABLED] = "unavailable";
-	lang[m_translate.LANG_PAN_TEMPLATES_CANCEL] = "CANCEL";
-export { lang }; export default lang;
+	lang[m_translate.LANG_PAN_OPTIONS_SM_HIDEZEROBUFFS] = "HIDE ZERO BUFFS";export { lang }; export default lang;

@@ -5,6 +5,7 @@
 1. reload all data option
 2. option for don't auto-focus on gw2 window at gw2taco start[^1]
 3. maxSize for undefined poi (the default that one)
+4. don't block mouse lick when window is hidden
 
 ### category
 

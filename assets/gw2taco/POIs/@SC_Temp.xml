@@ -220,6 +220,14 @@
         <MarkerCategory name="Defeat Ysshi Hessani and Pek Rakt Grag"/>
       </MarkerCategory>
 
+      <MarkerCategory name="The Collection of Tribute">
+        <MarkerCategory name="Ancient Surveyor's Tools"/>
+        <MarkerCategory name="Bunch of Rare Grapes"/>
+        <MarkerCategory name="Late-Blooming Elon Lily"/>
+        <MarkerCategory name="Tamarisk Reed"/>
+        <MarkerCategory name="Chunk of Granite"/>
+      </MarkerCategory>
+
     </MarkerCategory>
 
     <MarkerCategory name="Pact Supply Network Agent"/>
