@@ -58,6 +58,13 @@
         <MarkerCategory name="Salute to Palawa Joko" DisplayName="Salute to Palawa Joko"/>
         <MarkerCategory name="Amnoon Independence" DisplayName="Amnoon Independence"/>
       </MarkerCategory>
+      <MarkerCategory name="The Collection of Tribute" DisplayName="The Collection of Tribute">
+        <MarkerCategory name="Chunk of Granite" DisplayName="Chunk of Granite"/>
+        <MarkerCategory name="Tamarisk Reed" DisplayName="Tamarisk Reed"/>
+        <MarkerCategory name="Late Blooming Elon Lily" DisplayName="Late Blooming Elon Lily"/>
+        <MarkerCategory name="Ancient Surveyors Tools" DisplayName="Ancient Surveyors Tools"/>
+        <MarkerCategory name="Bunch of Rare Grapes" DisplayName="Bunch of Rare Grapes"/>
+      </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
         <MarkerCategory name="A Familys Sacrifice" DisplayName="A Familys Sacrifice"/>
         <MarkerCategory name="A Soaring Stench" DisplayName="A Soaring Stench"/>
@@ -91,6 +98,7 @@
     <POI MapID="1210" xpos="1242.32" ypos="170.487" zpos="-450.095" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="UF+e6vXoWEuaor62ve6bKw=="/>
     <POI MapID="1210" xpos="-1226.43" ypos="3.47934" zpos="-570.796" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="e+23HLpGjkqgVLU5JhnqMA=="/>
     <POI MapID="1210" xpos="-859.104" ypos="13.3235" zpos="18.0117" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="MPgKTyUeZUe2LXPedqd0hg=="/>
+    <POI MapID="1210" xpos="824.561" ypos="224.979" zpos="122.663" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="F02rLgF+rkG3bAB+GnUu2w=="/>
     <POI MapID="1211" xpos="-55.0221" ypos="265.357" zpos="402.867" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="+bJ/Eg0HAEKqEn6r4WuO6Q=="/>
     <POI MapID="1211" xpos="-136.972" ypos="267.515" zpos="282.801" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="svX9v2T3mUWyaltE2b+AqQ=="/>
     <POI MapID="1211" xpos="-254.794" ypos="297.107" zpos="292.423" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="xgXog3i0g06MnzgNlgT04Q=="/>
@@ -365,6 +373,10 @@
     <POI MapID="1248" xpos="1300.52" ypos="206.127" zpos="844.486" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="HpPfPl0AekeB1VSmPtYBBQ=="/>
     <POI MapID="1248" xpos="-1468.16" ypos="315.776" zpos="-481.238" type="achievement.path_of_fire.raise_the_banners.salute_to_palawa_joko" GUID="u9oBvacEWEKDBSys++Kbig=="/>
     <POI MapID="1210" xpos="218.02" ypos="92.2172" zpos="-69.934" type="achievement.path_of_fire.raise_the_banners.amnoon_independence" GUID="sot4Xyfgyk+gKAhH/w2ccw=="/>
+    <POI MapID="1210" xpos="511.159" ypos="283.293" zpos="451.65" type="achievement.path_of_fire.the_collection_of_tribute.chunk_of_granite" GUID="45W6CzEge0WVCzwce/X7Cg=="/>
+    <POI MapID="1226" xpos="-887.187" ypos="186.522" zpos="554.033" type="achievement.path_of_fire.the_collection_of_tribute.ancient_surveyors_tools" GUID="yG2eeguQcEW788mvd/WK7Q=="/>
+    <POI MapID="1228" xpos="1020.7" ypos="17.1833" zpos="142.18" type="achievement.path_of_fire.the_collection_of_tribute.late_blooming_elon_lily" GUID="KxM7N3Xy8E60J8YEuX/dtA=="/>
+    <POI MapID="1248" xpos="578.632" ypos="84.5477" zpos="-820.722" type="achievement.path_of_fire.the_collection_of_tribute.bunch_of_rare_grapes" GUID="MGCOpMQoqUio6BFO2to2gA=="/>
     <POI MapID="1226" xpos="-742.314" ypos="47.464" zpos="998.52" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="nInIC7MQXkaYxqhblbnmVw=="/>
     <POI MapID="1226" xpos="872.666" ypos="210.927" zpos="-862.247" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="aQhGRu+jJEWBK7vs2m+CEQ=="/>
     <POI MapID="1228" xpos="327.338" ypos="5.16716" zpos="-226.233" type="achievement.path_of_fire.the_desolation.a_familys_sacrifice" GUID="6niTLqaqDUGBM9SgcFa5Vg=="/>

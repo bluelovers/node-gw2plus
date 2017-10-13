@@ -38,6 +38,7 @@ POIs
 │ │ ├── Glorify the Golden Heart.xml
 │ │ ├── Open Skies.xml
 │ │ ├── Raise the Banners.xml
+│ │ ├── The Collection of Tribute.xml
 │ │ ├─┬ The Desolation
 │ │ │ ├── A Familys Sacrifice.xml
 │ │ │ ├── A Soaring Stench.xml
@@ -188,6 +189,7 @@ POIs
 │   ├── Glorify the Golden Heart.xml
 │   ├── Open Skies.xml
 │   ├── Raise the Banners.xml
+│   ├── The Collection of Tribute.xml
 │   ├─┬ The Desolation
 │   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml
@@ -264,6 +266,8 @@ POIs
 │ │ ├─┬ Orichalcum
 │ │ │ ├── Plant_BlackCrocus.xml
 │ │ │ ├── Plant_Cactus.xml
+│ │ │ ├── Plant_Cluster of Desert Herbs.xml
+│ │ │ ├── Plant_Desert Vegetables.xml
 │ │ │ ├── Plant_Flax.xml
 │ │ │ ├── Plant_GhostPepper.xml
 │ │ │ ├── Plant_JunglePlants.xml
@@ -347,6 +351,8 @@ POIs
 │ │ │ ├─┬ Orichalcum
 │ │ │ │ ├── Plant_BlackCrocus.xml
 │ │ │ │ ├── Plant_Cactus.xml
+│ │ │ │ ├── Plant_Cluster of Desert Herbs.xml
+│ │ │ │ ├── Plant_Desert Vegetables.xml
 │ │ │ │ ├── Plant_Flax.xml
 │ │ │ │ ├── Plant_GhostPepper.xml
 │ │ │ │ ├── Plant_JunglePlants.xml
@@ -422,6 +428,8 @@ POIs
 │ │ ├─┬ Orichalcum
 │ │ │ ├── Plant_BlackCrocus.xml
 │ │ │ ├── Plant_Cactus.xml
+│ │ │ ├── Plant_Cluster of Desert Herbs.xml
+│ │ │ ├── Plant_Desert Vegetables.xml
 │ │ │ ├── Plant_Flax.xml
 │ │ │ ├── Plant_GhostPepper.xml
 │ │ │ ├── Plant_JunglePlants.xml
@@ -491,6 +499,7 @@ POIs
 │   ├── Glorify the Golden Heart.xml
 │   ├── Open Skies.xml
 │   ├── Raise the Banners.xml
+│   ├── The Collection of Tribute.xml
 │   ├─┬ The Desolation
 │   │ ├── A Familys Sacrifice.xml
 │   │ ├── A Soaring Stench.xml

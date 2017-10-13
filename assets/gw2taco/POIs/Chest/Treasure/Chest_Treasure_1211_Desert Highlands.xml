@@ -12,5 +12,11 @@
     <POI MapID="1211" xpos="-928.431" ypos="463.98" zpos="139.135" type="chest.mapspecific.treasure" GUID="J7inKvq/w0mlDtSu5mwEpg=="/>
     <POI MapID="1211" xpos="-1387.65" ypos="438.027" zpos="105.361" type="chest.mapspecific.treasure" GUID="ZVeYhcXnyE+pAaZyC7w/Pw=="/>
     <POI MapID="1211" xpos="1189.98" ypos="155.9" zpos="-559.891" type="chest.mapspecific.treasure" GUID="bssAeJLr50i/0zGG4VGIQQ=="/>
+    <POI MapID="1211" xpos="1003.42" ypos="186.133" zpos="250.262" type="chest.mapspecific.treasure" GUID="NsnpMarTj024+5aiDKgP6Q=="/>
+    <POI MapID="1211" xpos="1255.63" ypos="217.599" zpos="-27.0275" type="chest.mapspecific.treasure" GUID="ON1GVQlbik6mLtD6dYJlkA=="/>
+    <POI MapID="1211" xpos="767.579" ypos="203.135" zpos="397.364" type="chest.mapspecific.treasure" GUID="iUvYpY3ObEqrEb3anq0Q8w=="/>
+    <POI MapID="1211" xpos="-689.114" ypos="31.7739" zpos="-405.516" type="chest.mapspecific.treasure" GUID="a5WU3Q+/skmYJf5KYNB4Sw=="/>
+    <POI MapID="1211" xpos="58.6683" ypos="188.048" zpos="-17.6585" type="chest.mapspecific.treasure" GUID="a0FiWdFF3023h9VxyguI3g=="/>
+    <POI MapID="1211" xpos="-484.518" ypos="301.97" zpos="413.577" type="chest.mapspecific.treasure" GUID="bHl0KkqPIEqa2edoOn1jPw=="/>
   </POIs>
 </OverlayData>

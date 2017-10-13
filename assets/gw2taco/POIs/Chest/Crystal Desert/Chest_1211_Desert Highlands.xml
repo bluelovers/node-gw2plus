@@ -110,5 +110,7 @@
     <POI MapID="1211" xpos="-1457.25" ypos="7.71018" zpos="70.9762" type="chest.permanent" GUID="XDMmtGzNmUa9J7aKU6Mo2g=="/>
     <POI MapID="1211" xpos="425.34" ypos="135.962" zpos="-469.762" type="chest.permanent" GUID="FNZ7B//840OuO5iDSbIvJQ=="/>
     <POI MapID="1211" xpos="577.232" ypos="203.052" zpos="192.378" type="chest.mapspecific.keyrequired" GUID="DqFAiGekgk+ByyFXHwwbBA=="/>
+    <POI MapID="1211" xpos="-383.768" ypos="245.631" zpos="578.496" type="chest.mapspecific.keyrequired" GUID="iFQrYKOycEu7Wue8pOjfWw=="/>
+    <POI MapID="1211" xpos="713.218" ypos="210.769" zpos="431.269" type="chest.mapspecific.keyrequired" GUID="bYy1W31Ry0GCkvqs+fUysg=="/>
   </POIs>
 </OverlayData>

@@ -1,0 +1,17 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Cluster of Desert Herbs"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="1021.58" ypos="17.1841" zpos="145.939" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="p5CQqDqfHEKynbIAGLzMXw=="/>
+    <POI MapID="1228" xpos="1023.8" ypos="17.1841" zpos="139.27" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="18wtlEQaAEisDrQMA4IAcA=="/>
+    <POI MapID="1228" xpos="1020.91" ypos="17.1821" zpos="138.108" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="llYKM6txrkmpiVAORhfQIw=="/>
+    <POI MapID="1211" xpos="-1168" ypos="-6.14697" zpos="-501.967" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="/YG4qgRdpkSKf9H4KXM29g=="/>
+    <POI MapID="1211" xpos="78.8735" ypos="239.382" zpos="143.223" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="iOaEOc+SCEKtBaA78dzuDg=="/>
+    <POI MapID="1210" xpos="-249.982" ypos="3.61647" zpos="-87.5214" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="b9z8ZMCPgU6e/aMrCic4Tw=="/>
+  </POIs>
+</OverlayData>

@@ -253,6 +253,9 @@
       <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png" data-sort="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
+      <MarkerCategory name="The Collection of Tribute" DisplayName="The Collection of Tribute">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
         <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
           <MarkerCategory name="undefined"/>

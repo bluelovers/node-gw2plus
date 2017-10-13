@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="Desert Vegetables"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="1018.98" ypos="17.1799" zpos="139.251" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="BzWXQbNutk+gjJNpeh8Mpw=="/>
+    <POI MapID="1228" xpos="1016.1" ypos="17.1777" zpos="141.481" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="Sae53jzvUU2TqR/tuU5SWQ=="/>
+    <POI MapID="1211" xpos="-446.592" ypos="253.722" zpos="568.567" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="xRs81fc2k0akVQ5VPrMX/g=="/>
+    <POI MapID="1210" xpos="-336.889" ypos="1.05051" zpos="-182.092" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="DUbP0w1JREq0oIlwo+A5Fg=="/>
+  </POIs>
+</OverlayData>

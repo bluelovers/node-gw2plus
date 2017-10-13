@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="The Collection of Tribute" DisplayName="The Collection of Tribute">
+        <MarkerCategory name="Chunk of Granite" DisplayName="Chunk of Granite"/>
+        <MarkerCategory name="Tamarisk Reed" DisplayName="Tamarisk Reed"/>
+        <MarkerCategory name="Late Blooming Elon Lily" DisplayName="Late Blooming Elon Lily"/>
+        <MarkerCategory name="Ancient Surveyors Tools" DisplayName="Ancient Surveyors Tools"/>
+        <MarkerCategory name="Bunch of Rare Grapes" DisplayName="Bunch of Rare Grapes"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="511.159" ypos="283.293" zpos="451.65" type="achievement.path_of_fire.the_collection_of_tribute.chunk_of_granite" GUID="45W6CzEge0WVCzwce/X7Cg=="/>
+    <POI MapID="1226" xpos="-887.187" ypos="186.522" zpos="554.033" type="achievement.path_of_fire.the_collection_of_tribute.ancient_surveyors_tools" GUID="yG2eeguQcEW788mvd/WK7Q=="/>
+    <POI MapID="1228" xpos="1020.7" ypos="17.1833" zpos="142.18" type="achievement.path_of_fire.the_collection_of_tribute.late_blooming_elon_lily" GUID="KxM7N3Xy8E60J8YEuX/dtA=="/>
+    <POI MapID="1248" xpos="578.632" ypos="84.5477" zpos="-820.722" type="achievement.path_of_fire.the_collection_of_tribute.bunch_of_rare_grapes" GUID="MGCOpMQoqUio6BFO2to2gA=="/>
+  </POIs>
+</OverlayData>
