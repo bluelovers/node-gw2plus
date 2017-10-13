@@ -70,7 +70,6 @@
     <POI MapID="1099" xpos="-879.247" ypos="8.00386" zpos="443.737" type="other.vendor.merchant" GUID="g+zSDhATV0GHGcZx0ny+hg=="/>
     <POI MapID="95" xpos="-689.207" ypos="16.4567" zpos="399.849" type="other.vendor.merchant" GUID="d8HI4rR4z02q20O9555uqQ=="/>
     <POI MapID="1248" xpos="1273.68" ypos="57.0631" zpos="-636.045" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="NGH7A+ZjUUKcj8ShpgJ1+w=="/>
-    <POI MapID="1210" xpos="511.159" ypos="283.293" zpos="451.65" type="resourcenode.ore.undefined" GUID="45W6CzEge0WVCzwce/X7Cg=="/>
     <POI MapID="1228" xpos="-985.614" ypos="42.2178" zpos="279.661" type="temp.path_of_fire.elon_riverlands.equipment_tracker" GUID="umZGNnnytUSHS85f0RTHgA=="/>
     <POI MapID="1228" xpos="1036.31" ypos="57.4351" zpos="737.737" type="temp.path_of_fire.elon_riverlands.equipment_tracker" GUID="LaS/NBLZoUKVnWbxwVcVBQ=="/>
     <POI MapID="1228" xpos="-343.993" ypos="4.93016" zpos="175.605" type="temp.path_of_fire.elon_riverlands.equipment_tracker" GUID="TIx8czysLEOoIJwodyP3CA=="/>
@@ -343,5 +342,9 @@
     <POI MapID="1228" xpos="154.009" ypos="3.52069" zpos="-117.625" type="temp.path_of_fire.race.start" GUID="tkVqag4d60KLUEZDOTlIGg=="/>
     <POI MapID="1228" xpos="196.288" ypos="4.23035" zpos="-197.026" type="temp.path_of_fire.race.end" GUID="iwo+nTYVqk+A/6jAevJYDA=="/>
     <POI MapID="1210" xpos="-1114.01" ypos="15.7656" zpos="-191.401" GUID="UFV3Sww6Dk2dvL0tOdjq1Q=="/>
+    <POI MapID="1228" xpos="937.899" ypos="11.1699" zpos="2.15034" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="mcqnJ4VZekiEICT6ucB6qg=="/>
+    <POI MapID="1248" xpos="1015.81" ypos="196.462" zpos="-558.47" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="2NxOk2QAu0afFF30V63TRg=="/>
+    <POI MapID="1210" xpos="552.205" ypos="278.754" zpos="331.617" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="8I0NIITUnE24+635pvc5iQ=="/>
+    <POI MapID="1210" xpos="-434.961" ypos="-6.26834" zpos="-80.9231" GUID="NbMc+NcaGUOxeB/6nsqg7g=="/>
   </POIs>
 </OverlayData>
