@@ -114,6 +114,7 @@
         <MarkerCategory name="Toxic Seedling" data-class="size-0.35" iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" data-iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" iconSize="0.35"/>
         <MarkerCategory name="Herb"/>
         <MarkerCategory name="Vegetable"/>
+        <MarkerCategory name="Random"/>
       </MarkerCategory>
       <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
     </MarkerCategory>
