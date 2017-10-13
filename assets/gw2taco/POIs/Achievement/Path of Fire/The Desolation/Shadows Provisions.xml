@@ -27,5 +27,7 @@
     <POI MapID="1226" xpos="176.452" ypos="272.25" zpos="452.866" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="npCe6zbIbU2s2ctm5fUPhQ=="/>
     <POI MapID="1226" xpos="628.145" ypos="8.86291" zpos="1420.35" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="50TTghFKuUOYipfT088ffQ=="/>
     <POI MapID="1226" xpos="947.275" ypos="199.757" zpos="1106.26" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="RfhTapiAf06Bc8GCmjSuvw=="/>
+    <POI MapID="1226" xpos="-272.299" ypos="364.601" zpos="-1003.83" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="PZVjPsl0wEW1eZJnslvBYA=="/>
+    <POI MapID="1226" xpos="904.762" ypos="245.986" zpos="-1320.86" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="asxfFpEEREqIRmiNPx183Q=="/>
   </POIs>
 </OverlayData>
