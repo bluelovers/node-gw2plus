@@ -81,6 +81,8 @@
       <MarkerCategory name="Orichalcum" data-sort="true">
         <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
         <MarkerCategory name="Cactus"/>
+        <MarkerCategory name="Cluster of Desert Herbs"/>
+        <MarkerCategory name="Desert Vegetables"/>
         <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
         <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
         <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data/ResourceNode/Plant/Orichalcum/JunglePlants.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/JunglePlants.png" iconSize="0.35"/>
@@ -110,6 +112,8 @@
         <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800"/>
         <MarkerCategory name="Vegetable Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800"/>
         <MarkerCategory name="Toxic Seedling" data-class="size-0.35" iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" data-iconFile="Data/ResourceNode/MapSpecific/Plant/Toxic Seedling.png" iconSize="0.35"/>
+        <MarkerCategory name="Herb"/>
+        <MarkerCategory name="Vegetable"/>
       </MarkerCategory>
       <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
     </MarkerCategory>
@@ -453,6 +457,13 @@
         <MarkerCategory name="Amnoon Independence"/>
         <MarkerCategory name="Salute to Palawa Joko"/>
         <MarkerCategory name="Sunspear Support"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Collection of Tribute">
+        <MarkerCategory name="Chunk of Granite"/>
+        <MarkerCategory name="Tamarisk Reed"/>
+        <MarkerCategory name="Late Blooming Elon Lily"/>
+        <MarkerCategory name="Ancient Surveyors Tools"/>
+        <MarkerCategory name="Bunch of Rare Grapes"/>
       </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png">
         <MarkerCategory name="A Familys Sacrifice"/>
