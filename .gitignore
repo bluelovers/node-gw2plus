@@ -22,3 +22,5 @@
 /gulpfile.js
 /project.config.js
 *.stackdump
+/gulp-task/gw2taco/*.js
+/bin/*.js

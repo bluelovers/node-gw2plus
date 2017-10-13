@@ -9,5 +9,6 @@
   <POIs>
     <POI MapID="1226" xpos="108.694" ypos="269.451" zpos="493.8" type="achievement.path_of_fire.the_desolation.jackal_reconnaissance" GUID="gH7IXw0GxUC3VBfwlbsAhw=="/>
     <POI MapID="1226" xpos="183.248" ypos="7.85591" zpos="1338.68" type="achievement.path_of_fire.the_desolation.jackal_reconnaissance" GUID="Co51dWK3z0aDZWe5B21riw=="/>
+    <POI MapID="1226" xpos="-843.873" ypos="14.9822" zpos="1131.27" type="achievement.path_of_fire.the_desolation.jackal_reconnaissance" GUID="cUWpPpY9HkSHHvmaejuEQg=="/>
   </POIs>
 </OverlayData>
