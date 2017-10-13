@@ -1183,6 +1183,62 @@ addGulpTasks({
 									}
 
 									break;
+								case 'the_collection_of_tribute.bunch_of_rare_grapes':
+								case 'the_collection_of_tribute.late_blooming_elon_lily':
+								case 'the_collection_of_tribute.ancient_surveyor_s_tools':
+								case 'the_collection_of_tribute.chunk_of_granite':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Collection of Tribute',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'the_collection_of_tribute.bunch_of_rare_grapes':
+
+											type_new = type_new
+												.concat([
+													'Bunch of Rare Grapes',
+												])
+											;
+
+											break;
+										case 'the_collection_of_tribute.ancient_surveyor_s_tools':
+
+											type_new = type_new
+												.concat([
+													'Ancient Surveyor\'s Tools',
+												])
+											;
+
+											break;
+										case 'the_collection_of_tribute.late_blooming_elon_lily':
+
+											type_new = type_new
+												.concat([
+													'Late-Blooming Elon Lily',
+												])
+											;
+
+											break;
+										case 'the_collection_of_tribute.chunk_of_granite':
+
+											type_new = type_new
+												.concat([
+													'Chunk of Granite',
+												])
+											;
+
+											break;
+										default:
+											break POIS;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
