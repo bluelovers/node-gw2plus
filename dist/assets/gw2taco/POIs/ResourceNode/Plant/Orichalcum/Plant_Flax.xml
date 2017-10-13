@@ -132,8 +132,6 @@
     <POI MapID="1210" xpos="-237.581" ypos="1.3475" zpos="-364.555" type="resourcenode.plant.orichalcum.flax" GUID="Fzly+ZghY0uxwcRSd8aZxQ=="/>
     <POI MapID="1210" xpos="47.1016" ypos="11.4927" zpos="-130.969" type="resourcenode.plant.orichalcum.flax" GUID="+4uWwHNVs0ukU10uKUb0yQ=="/>
     <POI MapID="1211" xpos="646.703" ypos="251.181" zpos="652.033" type="resourcenode.plant.orichalcum.flax" GUID="8xATCzcYe0uqzhetdG5HBA=="/>
-    <POI MapID="1228" xpos="1019.14" ypos="17.18" zpos="139.228" type="resourcenode.plant.orichalcum.flax" GUID="gALzya8830Gn121L+K+Qdg=="/>
-    <POI MapID="1228" xpos="1016.19" ypos="17.1781" zpos="141" type="resourcenode.plant.orichalcum.flax" GUID="u1sQ4VpnikyWO8cYsu6Bjw=="/>
     <POI MapID="1228" xpos="643.989" ypos="91.5526" zpos="642.336" type="resourcenode.plant.orichalcum.flax" GUID="RzDfDRrlxUeVoEKHmGvhdw=="/>
     <POI MapID="1248" xpos="-607.024" ypos="110.567" zpos="-499.057" type="resourcenode.plant.orichalcum.flax" GUID="RX/J/CIxS0KflRWhNDpxQw=="/>
     <POI MapID="1210" xpos="-518.308" ypos="1.2996" zpos="396.175" type="resourcenode.plant.orichalcum.flax" GUID="BvaV7KhvV0SFBnkIDKtimg=="/>
@@ -162,8 +160,6 @@
     <POI MapID="1043" xpos="180.175" ypos="364.995" zpos="634.027" type="resourcenode.plant.orichalcum.flax" GUID="ZUq4P5kPz0OZca03obrjwQ=="/>
     <POI MapID="1043" xpos="-133.414" ypos="329.866" zpos="414.031" type="resourcenode.plant.orichalcum.flax" GUID="gfB0VbR6I0agryi9uHN+gg=="/>
     <POI MapID="1226" xpos="-14.0932" ypos="270.201" zpos="335.118" type="resourcenode.plant.orichalcum.flax" GUID="OT3nEN7O0k2jsJySBTIhqw=="/>
-    <POI MapID="1228" xpos="1026.23" ypos="17.1842" zpos="142.902" type="resourcenode.plant.orichalcum.flax" GUID="xK+gHL0/BE6tDFahxMYiig=="/>
-    <POI MapID="1228" xpos="1024.81" ypos="17.1839" zpos="145.43" type="resourcenode.plant.orichalcum.flax" GUID="yF1oeBVVaEqCpMJ7tJpYcg=="/>
     <POI MapID="1226" xpos="826.029" ypos="253.232" zpos="482.434" type="resourcenode.plant.orichalcum.flax" GUID="nRY9a0ewbEGaM9WE+nBp3g=="/>
   </POIs>
 </OverlayData>
