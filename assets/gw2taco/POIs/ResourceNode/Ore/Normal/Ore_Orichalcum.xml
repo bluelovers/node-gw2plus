@@ -192,5 +192,9 @@
     <POI MapID="1210" xpos="-1275.49" ypos="2.64809" zpos="-52.4476" type="resourcenode.ore.normal.orichalcum" GUID="mnyjKkGcQ0iM4LaKSsNoDg=="/>
     <POI MapID="1211" xpos="-414.704" ypos="202.391" zpos="-141.428" type="resourcenode.ore.normal.orichalcum" GUID="dJWifU6SDke9R0Kodv03SA=="/>
     <POI MapID="1226" xpos="-494.006" ypos="-24.5036" zpos="1380.6" type="resourcenode.ore.normal.orichalcum" GUID="CGIp7YKTxUqICN5rGsI1Jg=="/>
+    <POI MapID="1228" xpos="-20.7549" ypos="40.3868" zpos="-300.535" type="resourcenode.ore.normal.orichalcum" GUID="VptfSneYCkCzYAbPvnSEQQ=="/>
+    <POI MapID="1228" xpos="11.9444" ypos="9.37867" zpos="-379.719" type="resourcenode.ore.normal.orichalcum" GUID="/MZ4bjstrUiAhwERfNhmlQ=="/>
+    <POI MapID="1228" xpos="-174.741" ypos="74.3635" zpos="401.444" type="resourcenode.ore.normal.orichalcum" GUID="r1d5E6/Ku0u3sPePCl8k6Q=="/>
+    <POI MapID="1226" xpos="29.6479" ypos="247.096" zpos="642.331" type="resourcenode.ore.normal.orichalcum" GUID="wRfEoUrB1UmyYHsbq4TDoQ=="/>
   </POIs>
 </OverlayData>
