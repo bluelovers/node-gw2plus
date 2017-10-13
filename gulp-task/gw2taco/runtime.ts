@@ -51,6 +51,7 @@ addGulpTasks({
 				'resourcenode.mapspecific.plant.toxic_seedling',
 				'ls.ls3.flashpoint.lessons_learned',
 				'chest.skritt',
+				'resourcenode.mapspecific.plant.random',
 			];
 
 			let types2 = {
