@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Plant">
+        <MarkerCategory name="Random"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="1026.03" ypos="17.1838" zpos="143.147" type="resourcenode.mapspecific.plant.random" GUID="Sdp/EQHx90SfqoPMobnDPQ=="/>
+    <POI MapID="1228" xpos="1016.92" ypos="17.179" zpos="144.064" type="resourcenode.mapspecific.plant.random" GUID="fNoa1yRIHkONw8JMLo+AvQ=="/>
+    <POI MapID="1228" xpos="1021.43" ypos="17.184" zpos="145.965" type="resourcenode.mapspecific.plant.random" GUID="mx5R77cprE2plT8JvYyINQ=="/>
+    <POI MapID="1228" xpos="1024.79" ypos="17.3023" zpos="145.558" type="resourcenode.mapspecific.plant.random" GUID="z1S2Qam7oUGA7d2t01McmA=="/>
+    <POI MapID="1228" xpos="1023.69" ypos="17.1841" zpos="140.037" type="resourcenode.mapspecific.plant.random" GUID="rAFCOZBBd0aVUc50vZwZjA=="/>
+    <POI MapID="1228" xpos="1021.7" ypos="17.1831" zpos="137.924" type="resourcenode.mapspecific.plant.random" GUID="H+Zb/o6IokmLp81fWgsypA=="/>
+    <POI MapID="1228" xpos="1018.03" ypos="17.1797" zpos="139.154" type="resourcenode.mapspecific.plant.random" GUID="nOHw+Zo+w0SLkjFQtXoA9g=="/>
+    <POI MapID="1228" xpos="1016.28" ypos="17.1781" zpos="141.021" type="resourcenode.mapspecific.plant.random" GUID="px3YkGT6l0OLgAVyCEnNvA=="/>
+  </POIs>
+</OverlayData>
