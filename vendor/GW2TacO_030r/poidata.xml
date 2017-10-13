@@ -346,5 +346,8 @@
     <POI MapID="1248" xpos="1015.81" ypos="196.462" zpos="-558.47" type="temp.path_of_fire.domain_of_vabbi.scourge_buster" GUID="2NxOk2QAu0afFF30V63TRg=="/>
     <POI MapID="1210" xpos="552.205" ypos="278.754" zpos="331.617" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="8I0NIITUnE24+635pvc5iQ=="/>
     <POI MapID="1210" xpos="-434.961" ypos="-6.26834" zpos="-80.9231" GUID="NbMc+NcaGUOxeB/6nsqg7g=="/>
+    <POI MapID="1226" xpos="-451.029" ypos="15.9285" zpos="1153.73" type="temp.path_of_fire.the_desolation.shadow_sprinter" GUID="WrKSQxkueUaJCYvvB87rYw=="/>
+    <POI MapID="1226" xpos="-511.208" ypos="-11.7577" zpos="1248.36" type="temp.path_of_fire.the_desolation.shadow_sprinter.point" GUID="ykpB976+2Ea9Xb8KTZo6ZA=="/>
+    <POI MapID="1226" xpos="-649.72" ypos="18.4486" zpos="1189.81" type="temp.path_of_fire.the_desolation.shadow_sprinter.point" GUID="OtuP6qfABES3Xcvqp0eKfA=="/>
   </POIs>
 </OverlayData>
