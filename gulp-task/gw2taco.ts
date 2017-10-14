@@ -31,6 +31,7 @@ addGulpTasks({
 				':mapspecific',
 				':pet',
 				':pof:default',
+				':raid',
 			],
 		},
 
@@ -231,6 +232,17 @@ addGulpTasks({
 				},
 			},
 
+		},
+
+		'raid': {
+			deps: [
+				'category:cache',
+			],
+
+			async callback()
+			{
+				await pack_poi('POIs/Tactical/Raid', path.join(dist_root, 'assets/gw2taco', `POIs`, `${project_config.RUNTIME_PREFIX_TEMP}Raid.xml`))
+			},
 		},
 	},
 });
