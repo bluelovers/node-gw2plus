@@ -4,13 +4,12 @@
       <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
         <MarkerCategory name="Pink Moa" DisplayName="Pink Moa"/>
       </MarkerCategory>
-      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
-      </MarkerCategory>
+      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns"/>
       <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
-        <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
         <MarkerCategory name="Cheetah"/>
         <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
         <MarkerCategory name="Jacaranda"/>
+        <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
