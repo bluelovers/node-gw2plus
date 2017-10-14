@@ -313,8 +313,6 @@
     <POI MapID="1226" xpos="1014.79" ypos="20.4512" zpos="1425.8" type="other.portal" GUID="SBdcPTAQj0mmSrFLEgHCtA=="/>
     <POI MapID="951" xpos="-251.591" ypos="-202.246" zpos="-743.062" type="other.portal.cave" GUID="cjK2DBgB50Gm6HDA55Z9Ag=="/>
     <POI MapID="951" xpos="-256.125" ypos="-185.404" zpos="-727.856" type="other.portal.cave" GUID="jEI3vrsgv0u1bUtiWsJmEA=="/>
-    <POI MapID="1188" xpos="-155.51" ypos="63.3027" zpos="-64.1974" type="other.portal.in" GUID="OwhmTS/bz0m+hMAJ+ckfQw=="/>
-    <POI MapID="1188" xpos="-124.646" ypos="60.7328" zpos="-92.9665" type="other.portal.out" GUID="KxMhRwHnoU6kao9ueaf4Gw=="/>
     <POI MapID="1188" xpos="-142.864" ypos="60.7217" zpos="-134.975" type="temp.bastion_of_the_penitent.voice_of_the_deceased" GUID="WJNAQ3aQY0y5y93cLw51AA=="/>
     <POI MapID="1188" xpos="-61.5055" ypos="132.264" zpos="24.478" type="temp.bastion_of_the_penitent.voice_of_the_deceased.10" GUID="zfoh4bXEGEWwCj0syE5CHw=="/>
     <POI MapID="1188" xpos="-10.4052" ypos="121.043" zpos="95.4183" type="temp.bastion_of_the_penitent.voice_of_the_deceased.11" GUID="T2KLJLJbeUWCZ+TspqiJLQ=="/>
@@ -327,7 +325,6 @@
     <POI MapID="1188" xpos="-129.713" ypos="96.7771" zpos="221.925" type="temp.bastion_of_the_penitent.voice_of_the_deceased.7" GUID="Gh8SngANU0mbIwCacVxq0Q=="/>
     <POI MapID="1188" xpos="-89.4528" ypos="88.0492" zpos="-54.6655" type="temp.bastion_of_the_penitent.voice_of_the_deceased.8" GUID="asRUz0kNiUWRdormM+cNOA=="/>
     <POI MapID="1188" xpos="-175.394" ypos="93.4885" zpos="245.309" type="temp.bastion_of_the_penitent.voice_of_the_deceased.9" GUID="gyGawrQ89ES8nL6E7tdMhg=="/>
-    <POI MapID="1188" xpos="88.5395" ypos="108.483" zpos="153.405" type="other.portal.gate" GUID="bGBGfYJ/wU61lqIT3oy4eA=="/>
     <POI MapID="1226" xpos="25.114" ypos="270.848" zpos="416.627" type="temp.path_of_fire.the_desolation.shadow_sprinter" GUID="v3/wir1TeUSMDFnsX0lTrw=="/>
     <POI MapID="1226" xpos="-1002.35" ypos="288.654" zpos="-487.347" type="temp.path_of_fire.the_desolation.shadow_sprinter.undefined" GUID="Ikq1rBOe9EGaPptV+MVW3g=="/>
     <POI MapID="1248" xpos="-1359.66" ypos="71.7986" zpos="-25.5613" type="other.portal.cave" GUID="/OZJMHQGlkeNq5jC70LQJQ=="/>
