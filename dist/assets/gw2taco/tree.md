@@ -285,6 +285,7 @@ POIs
 │ │ │ └── Plant_Zucchini.xml
 │ │ ├── Currency_1203_Sirens Landing.xml
 │ │ ├── Currency_Fresh Winterberry.xml
+│ │ ├── Random.xml
 │ │ └── Toxic Seedling.xml
 │ ├── Synthesizer.xml
 │ └─┬ Wood
@@ -370,6 +371,7 @@ POIs
 │ │ │ │ └── Plant_Zucchini.xml
 │ │ │ ├── Currency_1203_Sirens Landing.xml
 │ │ │ ├── Currency_Fresh Winterberry.xml
+│ │ │ ├── Random.xml
 │ │ │ └── Toxic Seedling.xml
 │ │ ├── Synthesizer.xml
 │ │ └─┬ Wood
@@ -447,6 +449,7 @@ POIs
 │ │ │ └── Plant_Zucchini.xml
 │ │ ├── Currency_1203_Sirens Landing.xml
 │ │ ├── Currency_Fresh Winterberry.xml
+│ │ ├── Random.xml
 │ │ └── Toxic Seedling.xml
 │ └─┬ Wood
 │   ├── Wood_Ancient.xml
@@ -474,60 +477,62 @@ POIs
 │ │   ├── Jacaranda.xml
 │ │   └── Sand Lion.xml
 │ ├── Juvenile Pets.xml
-│ └─┬ Path of Fire
-│   ├─┬ Crystal Desert
-│   │ ├── Chest_1210_Crystal Oasis.xml
-│   │ ├── Chest_1211_Desert Highlands.xml
-│   │ ├── Chest_1226_The Desolation.xml
-│   │ ├── Chest_1228_Elon Riverlands.xml
-│   │ ├── Chest_1248_Domain of Vabbi.xml
-│   │ ├── Always Time for Taimi.xml
-│   │ └── Priory Historian Elisa.xml
-│   ├─┬ Crystal Oasis
-│   │ └── Lost Lore of Crystal Oasis.xml
-│   ├─┬ Desert Highlands
-│   │ ├── Carrot Collector.xml
-│   │ ├── Dwarven Ruins.xml
-│   │ ├── Hidden Carrot Hunt.xml
-│   │ └── Lost Lore of Desert Highlands.xml
-│   ├─┬ Domain of Vabbi
-│   │ └── Lost Lore of the Domain of Vabbi.xml
-│   ├─┬ Elon Riverlands
-│   │ ├── Flameseeker Prophecies.xml
-│   │ ├── Ghostly Trio.xml
-│   │ └── Lost Lore of Elon Riverlands.xml
-│   ├── Glorify the Golden Heart.xml
-│   ├── Open Skies.xml
-│   ├── Raise the Banners.xml
-│   ├── The Collection of Tribute.xml
-│   ├─┬ The Desolation
-│   │ ├── A Familys Sacrifice.xml
-│   │ ├── A Soaring Stench.xml
-│   │ ├── Acrid Springs Recovery.xml
-│   │ ├── Dance Till You Drop.xml
-│   │ ├── Jackal Reconnaissance.xml
-│   │ ├── Jokos Hidden Chamber.xml
-│   │ ├── Lost Lore of the Desolation.xml
-│   │ ├── Path of the Gods.xml
-│   │ ├── Shadows Provisions.xml
-│   │ └── The Throne of Bones.xml
-│   ├─┬ Act 2
-│   │ ├─┬ Facing the Truth
-│   │ │ ├── Goddess of Secrets.xml
-│   │ │ ├── Seeker of Truth and Knowledge.xml
-│   │ │ └── Wedge Symbol.xml
-│   │ └─┬ The Way Forward
-│   │   └── Walk a Fine Line.xml
-│   ├─┬ Act 3
-│   │ ├─┬ Enemy of My Enemy
-│   │ │ └── The Troopmarshal.xml
-│   │ └── The Departing.xml
-│   ├── Casino Blits.xml
-│   ├── Serpents Ire.xml
-│   ├── Cheetah.xml
-│   ├── Fanged Iboga.xml
-│   ├── Jacaranda.xml
-│   └── Sand Lion.xml
+│ ├─┬ Path of Fire
+│ │ ├─┬ Crystal Desert
+│ │ │ ├── Chest_1210_Crystal Oasis.xml
+│ │ │ ├── Chest_1211_Desert Highlands.xml
+│ │ │ ├── Chest_1226_The Desolation.xml
+│ │ │ ├── Chest_1228_Elon Riverlands.xml
+│ │ │ ├── Chest_1248_Domain of Vabbi.xml
+│ │ │ ├── Always Time for Taimi.xml
+│ │ │ └── Priory Historian Elisa.xml
+│ │ ├─┬ Crystal Oasis
+│ │ │ └── Lost Lore of Crystal Oasis.xml
+│ │ ├─┬ Desert Highlands
+│ │ │ ├── Carrot Collector.xml
+│ │ │ ├── Dwarven Ruins.xml
+│ │ │ ├── Hidden Carrot Hunt.xml
+│ │ │ └── Lost Lore of Desert Highlands.xml
+│ │ ├─┬ Domain of Vabbi
+│ │ │ └── Lost Lore of the Domain of Vabbi.xml
+│ │ ├─┬ Elon Riverlands
+│ │ │ ├── Flameseeker Prophecies.xml
+│ │ │ ├── Ghostly Trio.xml
+│ │ │ └── Lost Lore of Elon Riverlands.xml
+│ │ ├── Glorify the Golden Heart.xml
+│ │ ├── Open Skies.xml
+│ │ ├── Raise the Banners.xml
+│ │ ├── The Collection of Tribute.xml
+│ │ ├─┬ The Desolation
+│ │ │ ├── A Familys Sacrifice.xml
+│ │ │ ├── A Soaring Stench.xml
+│ │ │ ├── Acrid Springs Recovery.xml
+│ │ │ ├── Dance Till You Drop.xml
+│ │ │ ├── Jackal Reconnaissance.xml
+│ │ │ ├── Jokos Hidden Chamber.xml
+│ │ │ ├── Lost Lore of the Desolation.xml
+│ │ │ ├── Path of the Gods.xml
+│ │ │ ├── Shadows Provisions.xml
+│ │ │ └── The Throne of Bones.xml
+│ │ ├─┬ Act 2
+│ │ │ ├─┬ Facing the Truth
+│ │ │ │ ├── Goddess of Secrets.xml
+│ │ │ │ ├── Seeker of Truth and Knowledge.xml
+│ │ │ │ └── Wedge Symbol.xml
+│ │ │ └─┬ The Way Forward
+│ │ │   └── Walk a Fine Line.xml
+│ │ ├─┬ Act 3
+│ │ │ ├─┬ Enemy of My Enemy
+│ │ │ │ └── The Troopmarshal.xml
+│ │ │ └── The Departing.xml
+│ │ ├── Casino Blits.xml
+│ │ ├── Serpents Ire.xml
+│ │ ├── Cheetah.xml
+│ │ ├── Fanged Iboga.xml
+│ │ ├── Jacaranda.xml
+│ │ └── Sand Lion.xml
+│ └─┬ Raid
+│   └── Raid_1188_Bastion of the Penitent.xml
 ├── ZZZ_SC_Chest.xml
 ├── ZZZ_SC_GuildMission.xml
 ├── ZZZ_SC_MapSpecific.xml
