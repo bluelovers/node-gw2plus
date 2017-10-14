@@ -1,0 +1,34 @@
+<OverlayData>
+  <MarkerCategory name="Other">
+    <MarkerCategory name="Portal">
+      <MarkerCategory name="In"/>
+      <MarkerCategory name="Out"/>
+      <MarkerCategory name="Gate"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="Direction_N"/>
+      <MarkerCategory name="Direction_W"/>
+      <MarkerCategory name="Direction_S"/>
+      <MarkerCategory name="Direction_E"/>
+      <MarkerCategory name="StackPoint"/>
+      <MarkerCategory name="SpawnPoint"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1188" xpos="-155.51" ypos="63.3027" zpos="-64.1974" type="other.portal.in" GUID="OwhmTS/bz0m+hMAJ+ckfQw=="/>
+    <POI MapID="1188" xpos="-124.646" ypos="60.7328" zpos="-92.9665" type="other.portal.out" GUID="KxMhRwHnoU6kao9ueaf4Gw=="/>
+    <POI MapID="1188" xpos="88.5395" ypos="108.483" zpos="153.405" type="other.portal.gate" GUID="bGBGfYJ/wU61lqIT3oy4eA=="/>
+    <POI MapID="1188" xpos="-199.68" ypos="357.718" zpos="128.719" type="tactical.raid.direction_n" GUID="c3TZOLbarUuG5jxTtI5fMQ=="/>
+    <POI MapID="1188" xpos="-228.115" ypos="357.718" zpos="112.417" type="tactical.raid.direction_w" GUID="HvKvu7XwtU21p7EaehL3ug=="/>
+    <POI MapID="1188" xpos="-211.196" ypos="357.718" zpos="83.9024" type="tactical.raid.direction_s" GUID="8UiOacoiB0aVA72D5rEHSw=="/>
+    <POI MapID="1188" xpos="-182.78" ypos="357.718" zpos="100.393" type="tactical.raid.direction_e" GUID="/WINbbkmp0CRQBfdoW28CA=="/>
+    <POI MapID="1188" xpos="-212.16" ypos="101.923" zpos="103.76" type="tactical.raid.direction_n" GUID="aEa0r6xU9kalQzoFc1YMGA=="/>
+    <POI MapID="1188" xpos="-239.819" ypos="101.923" zpos="78.6618" type="tactical.raid.direction_w" GUID="ipr15XVknEa+NT9LqyiL6w=="/>
+    <POI MapID="1188" xpos="-214.147" ypos="101.923" zpos="52.0509" type="tactical.raid.direction_s" GUID="EW/7QPTj10mxoWy/Lg6xBQ=="/>
+    <POI MapID="1188" xpos="-187.984" ypos="101.923" zpos="77.3378" type="tactical.raid.direction_e" GUID="Ko1E/Sdf0EmG1ONLCI14Sg=="/>
+    <POI MapID="1188" xpos="-214.192" ypos="101.924" zpos="77.8408" type="tactical.raid.stackpoint" GUID="y/S/BmbiEkaE+VdOiZ3OEg=="/>
+    <POI MapID="1188" xpos="-204.892" ypos="357.718" zpos="106.122" type="tactical.raid.spawnpoint" GUID="4Cf4G6pp0EKnV1nHCG+riA=="/>
+  </POIs>
+</OverlayData>
