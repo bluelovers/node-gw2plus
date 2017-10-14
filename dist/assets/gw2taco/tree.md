@@ -536,6 +536,7 @@ POIs
 ├── ZZZ_SC_Chest.xml
 ├── ZZZ_SC_GuildMission.xml
 ├── ZZZ_SC_MapSpecific.xml
+├── ZZZ_SC_Raid.xml
 ├── ZZZ_SC_ResourceNode.xml
 └── ZZZ_SC_undefined.xml
 ```
