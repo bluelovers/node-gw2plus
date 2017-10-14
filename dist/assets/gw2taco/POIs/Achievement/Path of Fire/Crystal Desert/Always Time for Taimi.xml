@@ -9,5 +9,6 @@
   <POIs>
     <POI MapID="1226" xpos="285.376" ypos="437.057" zpos="-184.285" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="JqkPLpuOnUqXAY23g5FqGg=="/>
     <POI MapID="1210" xpos="-1031.53" ypos="67.7949" zpos="185.888" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="3y5fywGBuUuL6r2MtRyWbw=="/>
+    <POI MapID="1226" xpos="299.995" ypos="159.271" zpos="1061.5" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="apF2mz+tx0qg3Ed5vE2RkA=="/>
   </POIs>
 </OverlayData>
