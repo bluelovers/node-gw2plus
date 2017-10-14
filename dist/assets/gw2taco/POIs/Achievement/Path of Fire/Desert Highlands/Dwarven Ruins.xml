@@ -11,11 +11,11 @@
             <MarkerCategory name="Portal" iconFile="Data/Other/Portal/In.png"/>
           </MarkerCategory>
           <MarkerCategory name="Dwarven Forge" data-sort="true" DisplayName="Dwarven Forge">
-            <MarkerCategory name="Stonespite Cleaver" DisplayName="Stonespite Cleaver"/>
-            <MarkerCategory name="Staff of the Lost" DisplayName="Staff of the Lost"/>
-            <MarkerCategory name="Gate of Good Byes" DisplayName="Gate of Good Byes"/>
             <MarkerCategory name="Final Sting" DisplayName="Final Sting"/>
+            <MarkerCategory name="Gate of Good Byes" DisplayName="Gate of Good Byes"/>
             <MarkerCategory name="Might of the Vindictive" DisplayName="Might of the Vindictive"/>
+            <MarkerCategory name="Staff of the Lost" DisplayName="Staff of the Lost"/>
+            <MarkerCategory name="Stonespite Cleaver" DisplayName="Stonespite Cleaver"/>
           </MarkerCategory>
         </MarkerCategory>
       </MarkerCategory>
