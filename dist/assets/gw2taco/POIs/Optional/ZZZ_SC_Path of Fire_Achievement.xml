@@ -19,11 +19,11 @@
             <MarkerCategory name="Portal" iconFile="Data/Other/Portal/In.png"/>
           </MarkerCategory>
           <MarkerCategory name="Dwarven Forge" data-sort="true" DisplayName="Dwarven Forge">
-            <MarkerCategory name="Stonespite Cleaver" DisplayName="Stonespite Cleaver"/>
-            <MarkerCategory name="Staff of the Lost" DisplayName="Staff of the Lost"/>
-            <MarkerCategory name="Gate of Good Byes" DisplayName="Gate of Good Byes"/>
             <MarkerCategory name="Final Sting" DisplayName="Final Sting"/>
+            <MarkerCategory name="Gate of Good Byes" DisplayName="Gate of Good Byes"/>
             <MarkerCategory name="Might of the Vindictive" DisplayName="Might of the Vindictive"/>
+            <MarkerCategory name="Staff of the Lost" DisplayName="Staff of the Lost"/>
+            <MarkerCategory name="Stonespite Cleaver" DisplayName="Stonespite Cleaver"/>
           </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="Hidden Carrot Hunt" DisplayName="Hidden Carrot Hunt"/>
@@ -54,9 +54,9 @@
         <MarkerCategory name="On Wings and a Prayer" DisplayName="On Wings and a Prayer"/>
       </MarkerCategory>
       <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png" data-sort="true">
-        <MarkerCategory name="Sunspear Support" DisplayName="Sunspear Support"/>
-        <MarkerCategory name="Salute to Palawa Joko" DisplayName="Salute to Palawa Joko"/>
         <MarkerCategory name="Amnoon Independence" DisplayName="Amnoon Independence"/>
+        <MarkerCategory name="Salute to Palawa Joko" DisplayName="Salute to Palawa Joko"/>
+        <MarkerCategory name="Sunspear Support" DisplayName="Sunspear Support"/>
       </MarkerCategory>
       <MarkerCategory name="The Collection of Tribute" DisplayName="The Collection of Tribute">
         <MarkerCategory name="Chunk of Granite" DisplayName="Chunk of Granite"/>
@@ -90,6 +90,7 @@
   <POIs>
     <POI MapID="1226" xpos="285.376" ypos="437.057" zpos="-184.285" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="JqkPLpuOnUqXAY23g5FqGg=="/>
     <POI MapID="1210" xpos="-1031.53" ypos="67.7949" zpos="185.888" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="3y5fywGBuUuL6r2MtRyWbw=="/>
+    <POI MapID="1226" xpos="299.995" ypos="159.271" zpos="1061.5" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="apF2mz+tx0qg3Ed5vE2RkA=="/>
     <POI MapID="1228" xpos="753.225" ypos="150.406" zpos="955.065" type="achievement.path_of_fire.crystal_desert.priory_historian_elisa" GUID="okl19+rz9k+Aq+exA/j9KQ=="/>
     <POI MapID="1226" xpos="-246.031" ypos="308.272" zpos="726.102" type="achievement.path_of_fire.crystal_desert.priory_historian_elisa" GUID="2qR7zyUxZU2JGfdrIslgSQ=="/>
     <POI MapID="1210" xpos="255.956" ypos="60.5678" zpos="620.168" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="mYa2H6HqlU2b8D7UxG6O1Q=="/>
@@ -199,6 +200,7 @@
     <POI MapID="1211" xpos="-484.505" ypos="278.928" zpos="-18.2637" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="V8LPa2TNRUK7GlKzrBrNZw=="/>
     <POI MapID="1211" xpos="-1294.38" ypos="434.532" zpos="313.497" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="Qtg7vggnvE+gQh7T8DZdMw=="/>
     <POI MapID="1211" xpos="-1239.44" ypos="277.569" zpos="157.191" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="dRAD8XyPiEGoCqs6dNu3aw=="/>
+    <POI MapID="1211" xpos="-172.683" ypos="248.706" zpos="-353.025" type="achievement.path_of_fire.desert_highlands.lost_lore_of_desert_highlands" GUID="E0nPB/Pnw02Z/AprVkbATQ=="/>
     <POI MapID="1248" xpos="1378.64" ypos="102.794" zpos="-595.586" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="FwBsSEiHSE6eDPsGbxt1ig=="/>
     <POI MapID="1248" xpos="-1233.85" ypos="120.401" zpos="346.815" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="bMMPZ54rcki0qRHM9w01pw=="/>
     <POI MapID="1248" xpos="-1458.43" ypos="312.203" zpos="-686.926" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="tDYOO6gU0Eus1bYv4vf6aA=="/>
@@ -433,6 +435,8 @@
     <POI MapID="1226" xpos="176.452" ypos="272.25" zpos="452.866" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="npCe6zbIbU2s2ctm5fUPhQ=="/>
     <POI MapID="1226" xpos="628.145" ypos="8.86291" zpos="1420.35" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="50TTghFKuUOYipfT088ffQ=="/>
     <POI MapID="1226" xpos="947.275" ypos="199.757" zpos="1106.26" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="RfhTapiAf06Bc8GCmjSuvw=="/>
+    <POI MapID="1226" xpos="-272.299" ypos="364.601" zpos="-1003.83" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="PZVjPsl0wEW1eZJnslvBYA=="/>
+    <POI MapID="1226" xpos="904.762" ypos="245.986" zpos="-1320.86" type="achievement.path_of_fire.the_desolation.shadows_provisions" GUID="asxfFpEEREqIRmiNPx183Q=="/>
     <POI MapID="1226" xpos="311.686" ypos="279.019" zpos="-1359.35" type="achievement.path_of_fire.the_desolation.the_throne_of_bones" GUID="rGztZdzeHkGZTaqDqNIArw=="/>
   </POIs>
 </OverlayData>
