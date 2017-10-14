@@ -110,8 +110,8 @@
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
   </MarkerCategory>
   <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Timed">
-      <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
+    <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
+      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>
     </MarkerCategory>
     <MarkerCategory name="Raid">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
@@ -125,6 +125,9 @@
       <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
       <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
     </MarkerCategory>
+    <MarkerCategory name="Timed">
+      <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
+    </MarkerCategory>
     <MarkerCategory name="WvW" minSize="16" maxSize="32">
       <MarkerCategory name="Camp" DisplayName="Camp" iconFile="Data/camp.png"/>
       <MarkerCategory name="Tower" DisplayName="Tower" iconFile="Data/tower.png"/>
@@ -133,9 +136,6 @@
       <MarkerCategory name="Generic" DisplayName="Generic" iconFile="Data/generic.png"/>
       <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
       <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
-    </MarkerCategory>
-    <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
-      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>
     </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
