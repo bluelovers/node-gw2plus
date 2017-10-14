@@ -246,7 +246,7 @@
         <MarkerCategory name="Boss"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Raid">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
       <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
       <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
