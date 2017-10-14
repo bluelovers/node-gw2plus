@@ -11,6 +11,8 @@ import * as Promise from 'bluebird';
 import * as minimatch from 'minimatch';
 import * as globule from 'globule';
 
+import * as gw2MapID from '../../src/data/mapid';
+
 import project_config, { project_root, dist_root, temp_root, gw2taco_path } from '../../project.config';
 
 import gw2taco, { Category, Node, Poi } from '../../src/gw2taco';
@@ -82,15 +84,9 @@ addGulpTasks({
 				],
 			};
 
-			const map_home = [
-				'371',
-			];
+			const map_home = gw2MapID.Home;
 
-			const map_gh = [
-				'1124',
-				'1121',
-				'1232',
-			];
+			const map_gh = gw2MapID.GuildHall;
 
 			let ls = pois.filter();
 
@@ -162,6 +158,22 @@ addGulpTasks({
 							}
 
 							pois_target_id[pois_target_id.length] = 'Guild Hall' + '_' + map_id;
+						}
+						else if (!IS_TEMP && cats[type] && gw2MapID.Raid.includes(map_id))
+						{
+							pois_target_id = [
+								'Tactical',
+								'Raid',
+							];
+
+							type_new = cats[type].name_id.split('.');
+
+							if (_cache_[map_id])
+							{
+								map_id += '_' + _cache_[map_id].name;
+							}
+
+							pois_target_id[pois_target_id.length] = 'Raid' + '_' + map_id;
 						}
 						else if (types2[type])
 						{
