@@ -207,6 +207,8 @@
 	lang[LANG_PAN_SUMMARY_CLEANSEDSELF] = "cleanse self";
 	lang[LANG_PAN_SUMMARY_DURATION] = "duration";
 	lang[LANG_PAN_SUMMARY_INTENSITY] = "intensity";
+	lang[LANG_PAN_SUMMARY_PHYS] = "phys";
+	lang[LANG_PAN_SUMMARY_COND] = "cond";
 
 	/* panels: logger */
 	lang[LANG_PAN_LOGGER_HEADER] = "LOGGER";
