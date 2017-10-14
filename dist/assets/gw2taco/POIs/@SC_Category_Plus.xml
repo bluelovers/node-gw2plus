@@ -10,9 +10,9 @@
     </MarkerCategory>
     <MarkerCategory name="Plant" data-class="iconsize-0.35 poi-plant" iconFile="Data/ResourceNode/Plant.png" data-iconFile="Data/Plant.png" heightOffset="1.6">
       <MarkerCategory name="Orichalcum" data-sort="true">
-        <MarkerCategory name="Lentils" iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" iconSize="0.35"/>
-        <MarkerCategory name="Desert Vegetables" DisplayName="Desert Vegetables"/>
         <MarkerCategory name="Cluster of Desert Herbs" DisplayName="Cluster of Desert Herbs"/>
+        <MarkerCategory name="Desert Vegetables" DisplayName="Desert Vegetables"/>
+        <MarkerCategory name="Lentils" iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Lentils.png" iconSize="0.35"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
@@ -38,12 +38,12 @@
       <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+      <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200" DisplayName="Candy Corn"/>
+      <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+      <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
         <MarkerCategory name="Rich" data-class="size-1 fade-max2" iconSize="1" fadeFar="42000" fadeNear="25200"/>
       </MarkerCategory>
-      <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
-      <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
-      <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200" DisplayName="Candy Corn"/>
       <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" DisplayName="Watchwork Sprocket"/>
     </MarkerCategory>
   </MarkerCategory>
@@ -59,17 +59,17 @@
   </MarkerCategory>
   <MarkerCategory name="Tactical" data-sort="true" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="GuildMission" data-sort="true" DisplayName="Guild Missions">
-      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
+      <MarkerCategory name="Challenge" iconFile="Data/Tactical/GuildMission/Challenge.png" data-iconFile="Data/Tactical/GuildMission/Challenge.png">
+        <MarkerCategory name="Portal"/>
+        <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
+      </MarkerCategory>
       <MarkerCategory name="Puzzle">
         <MarkerCategory name="Portal"/>
       </MarkerCategory>
       <MarkerCategory name="Race" data-allowsub="true">
         <MarkerCategory name="Trap"/>
       </MarkerCategory>
-      <MarkerCategory name="Challenge" iconFile="Data/Tactical/GuildMission/Challenge.png" data-iconFile="Data/Tactical/GuildMission/Challenge.png">
-        <MarkerCategory name="Portal"/>
-        <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
-      </MarkerCategory>
+      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200" maxSize="256"/>
@@ -96,11 +96,11 @@
   </MarkerCategory>
   <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">
-      <MarkerCategory name="Merchant"/>
-      <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
-      <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
-      <MarkerCategory name="Event"/>
       <MarkerCategory name="Achievement"/>
+      <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
+      <MarkerCategory name="Event"/>
+      <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
+      <MarkerCategory name="Merchant"/>
       <MarkerCategory name="Trophy"/>
     </MarkerCategory>
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
