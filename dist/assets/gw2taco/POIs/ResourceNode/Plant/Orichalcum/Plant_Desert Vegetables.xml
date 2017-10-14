@@ -12,5 +12,7 @@
     <POI MapID="1226" xpos="723.504" ypos="272.069" zpos="-511.568" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="bvxKY0yd4ku90WED8T4MPA=="/>
     <POI MapID="1226" xpos="167.389" ypos="271.498" zpos="260.293" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="Bd+lsPlY3UuprJOXr92UMw=="/>
     <POI MapID="1226" xpos="-835.829" ypos="15.6045" zpos="1135.2" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="2oWseoNsGkKq4Z2zojGkKA=="/>
+    <POI MapID="1228" xpos="663.93" ypos="0.743101" zpos="-231.849" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="xEGMQnySbU+OKlYMwM9tJQ=="/>
+    <POI MapID="1228" xpos="502.83" ypos="0.118258" zpos="-158.052" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="GStlUZLqFk+i418jS0UBjA=="/>
   </POIs>
 </OverlayData>
