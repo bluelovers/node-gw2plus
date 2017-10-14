@@ -10,5 +10,8 @@
     <POI MapID="1211" xpos="-1168" ypos="-6.14697" zpos="-501.967" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="/YG4qgRdpkSKf9H4KXM29g=="/>
     <POI MapID="1211" xpos="78.8735" ypos="239.382" zpos="143.223" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="iOaEOc+SCEKtBaA78dzuDg=="/>
     <POI MapID="1210" xpos="-249.982" ypos="3.61647" zpos="-87.5214" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="b9z8ZMCPgU6e/aMrCic4Tw=="/>
+    <POI MapID="1228" xpos="224.366" ypos="-0.453021" zpos="-430.346" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="ZJ4AG3EM5km4sTA0lglMog=="/>
+    <POI MapID="1228" xpos="604.463" ypos="87.0502" zpos="522.087" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="EWpB3PKuH0iNY9SQUUpveg=="/>
+    <POI MapID="1228" xpos="-28.0114" ypos="18.711" zpos="-128.584" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="W9dYZo9KYE6FuXZ9V4Ov3A=="/>
   </POIs>
 </OverlayData>
