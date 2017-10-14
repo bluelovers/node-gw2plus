@@ -203,6 +203,8 @@ enum m_translate {
 	LANG_PAN_SUMMARY_CLEANSEDSELF,
 	LANG_PAN_SUMMARY_DURATION,
 	LANG_PAN_SUMMARY_INTENSITY,
+	LANG_PAN_SUMMARY_PHYS,
+	LANG_PAN_SUMMARY_COND,
 
 	/* panels: logger */
 	LANG_PAN_LOGGER_HEADER = 390,
@@ -600,6 +602,8 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_SUMMARY_CLEANSEDSELF] = "cleanse self";
 	lang[m_translate.LANG_PAN_SUMMARY_DURATION] = "duration";
 	lang[m_translate.LANG_PAN_SUMMARY_INTENSITY] = "intensity";
+	lang[m_translate.LANG_PAN_SUMMARY_PHYS] = "phys";
+	lang[m_translate.LANG_PAN_SUMMARY_COND] = "cond";
 
 	/* panels: logger */
 	lang[m_translate.LANG_PAN_LOGGER_HEADER] = "LOGGER";

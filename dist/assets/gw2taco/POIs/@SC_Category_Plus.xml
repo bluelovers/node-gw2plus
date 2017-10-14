@@ -71,6 +71,7 @@
       </MarkerCategory>
       <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600"/>
   </MarkerCategory>
   <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200" maxSize="256"/>
   <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400" maxSize="256">

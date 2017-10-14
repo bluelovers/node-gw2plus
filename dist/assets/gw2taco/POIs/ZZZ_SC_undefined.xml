@@ -126,7 +126,7 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Raid">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Timed">
