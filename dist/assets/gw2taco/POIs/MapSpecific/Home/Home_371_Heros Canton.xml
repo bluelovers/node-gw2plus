@@ -14,20 +14,20 @@
     </MarkerCategory>
     <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
       <MarkerCategory name="Orichalcum" data-sort="true">
+        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
+        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
+        <MarkerCategory name="Lotus"/>
+        <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35"/>
         <MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle"/>
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
-        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
-        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
-        <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35"/>
-        <MarkerCategory name="Lotus"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800"/>
       <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200" DisplayName="Candy Corn"/>
-      <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" DisplayName="Watchwork Sprocket"/>
       <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
       <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" DisplayName="Watchwork Sprocket"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
