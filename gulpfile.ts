@@ -572,6 +572,10 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 									attr.fadeFar = 5600;
 									attr.fadeNear = 4800;
 									break;
+								case 'raid':
+									attr.fadeFar = 5600;
+									attr.fadeNear = attr.fadeFar;
+									break;
 								case '7':
 									attr.fadeFar = 10500;
 									attr.fadeNear = 4200;
