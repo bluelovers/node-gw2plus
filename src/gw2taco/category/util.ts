@@ -170,35 +170,46 @@ export function sortByArray(elem, arr: string[], attr: string = 'name')
 		return false;
 	};
 
-	elem.children.sort(function (a, b)
-	{
-		let a1 = (arr && arr.length) ? arr.indexOf(a.attribs[attr]) : a.attribs[attr];
-		let b1 = (arr && arr.length) ? arr.indexOf(b.attribs[attr]) : b.attribs[attr];
+	let cs = elem.children
+		.filter(function (value)
+		{
+			return value.type == 'tag';
+		})
+	;
 
-		if (isUndef(b1))
+	cs
+		.sort(function (a, b)
 		{
-			return 0;
-		}
-		else if (isUndef(a1))
-		{
+			let a1 = (arr && arr.length) ? arr.indexOf(a.attribs[attr]) : a.attribs[attr];
+			let b1 = (arr && arr.length) ? arr.indexOf(b.attribs[attr]) : b.attribs[attr];
+
 			if (isUndef(b1))
 			{
 				return 0;
 			}
-			else
+			else if (isUndef(a1))
 			{
-				return 1;
+				if (isUndef(b1))
+				{
+					return 0;
+				}
+				else
+				{
+					return 1;
+				}
 			}
-		}
 
-		return compareFn(a1, b1);
-	});
+			return compareFn(a1, b1);
+		})
+	;
 
-	for (let i = 0; i < elem.children.length; i++)
+	for (let i = 0; i < cs.length; i++)
 	{
-		elem.children[i].prev = elem.children[i - 1] || null;
-		elem.children[i].next = elem.children[i + 1] || null;
+		cs[i].prev = cs[i - 1] || null;
+		cs[i].next = cs[i + 1] || null;
 	}
+
+	elem.children = cs;
 
 	return elem;
 }
