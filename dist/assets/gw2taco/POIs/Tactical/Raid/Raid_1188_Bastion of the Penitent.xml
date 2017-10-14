@@ -7,7 +7,7 @@
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Raid">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
       <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
       <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
