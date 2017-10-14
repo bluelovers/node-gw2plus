@@ -24,6 +24,8 @@ import './gulp-task/gw2api';
 import './gulp-task/tree';
 import './gulp-task/pack';
 
+import * as cu from './src/gw2taco/category/util';
+
 gulp.task('gw2taco:categorydata', ['category:cache'], async function ()
 {
 	//let src = path.join(dist_root, 'assets/gw2taco', file);
@@ -866,12 +868,89 @@ gulp.task('category:attr', ['category:undefined', 'gw2taco:build-poi:default'], 
 });
 
 addGulpTasks({
+	'category': {
+
+		'sort': {
+
+			async callback()
+			{
+				const currentTask = this.currentTask;
+				const gw2taco_prefix = project_config.RUNTIME_PREFIX_TEMP;
+
+				let patterns = [
+					'categorydata.xml',
+					'POIs/**/*.xml',
+				];
+
+				let options = {
+					cwd: path.join(dist_root, 'assets/gw2taco'),
+					absolute: true,
+				};
+
+				let cat_cache = await Category.load(path.join(temp_root, `categorydata.cache.xml`));
+				cat_cache = cat_cache.toList();
+
+				let ls = await globby(patterns, options)
+					.then(async (ls) =>
+					{
+						for (let file of ls)
+						{
+							//console.log(file);
+
+							let cat = await Category.load(file);
+
+							cat.find('MarkerCategory[data-sort]')
+								.each(function (i, elem)
+								{
+									let _this = cat.$(elem);
+
+									let attr_sort = _this.attr('data-sort');
+
+									if (attr_sort && attr_sort != 'false')
+									{
+										if (attr_sort == 'true')
+										{
+											attr_sort = 'name';
+										}
+
+										let p = [];
+										for (let i = 0; i < elem.children.length; i++)
+										{
+											if (elem.children[i].type != 'tag')
+											{
+												continue;
+											}
+
+											p.push(elem.children[i].attribs[attr_sort]);
+										}
+										p.sort();
+
+										cu.sortByArray(elem, p, attr_sort);
+
+										//console.log(elem.children);
+									}
+								})
+							;
+
+							await fs.outputFile(file, cat.dump());
+						}
+					})
+				;
+			},
+
+		},
+
+	},
+});
+
+addGulpTasks({
 	'default': {
 		deps: [
 			'category:attr',
 		],
 
 		tasks: [
+			'category:sort',
 			['tree:default', 'pack:default'],
 		],
 	},
