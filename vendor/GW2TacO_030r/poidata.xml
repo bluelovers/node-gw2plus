@@ -395,5 +395,36 @@
 		<POI MapID="1248" xpos="81.9647" ypos="1.05009" zpos="-588.489" type="other.portal" GUID="CQXIi1WhFU+p1NY8TlDLmA=="/>
 		<POI MapID="1248" xpos="81.675" ypos="-0.375074" zpos="-559.081" type="temp.path_of_fire.domain_of_vabbi.praise_joko_" GUID="L6gXnVrD6keOMA5VhDgqug=="/>
 		<POI MapID="1248" xpos="5.36953" ypos="128.558" zpos="31.6364" type="chest.mapspecific.keyrequired" GUID="rTpMc4BebUui1WtefVcjlg=="/>
+		<POI MapID="1210" xpos="807.092" ypos="204.898" zpos="704.605" type="temp.path_of_fire.crystal_oasis.bleached_bones" GUID="qckRHb8Z5UqWThrRbgp4gA=="/>
+		<POI MapID="1210" xpos="-1105.01" ypos="62.9572" zpos="149.37" type="chest.mapspecific.keyrequired" GUID="OKY4eglXc0GYGbXRMbMY+g=="/>
+		<POI MapID="1210" xpos="158.194" ypos="72.706" zpos="251.787" type="chest.mapspecific.keyrequired" GUID="/VMN0C/wa0O51rWDzGhoSw=="/>
+		<POI MapID="1210" xpos="-741.96" ypos="-0.12033" zpos="414.85" type="resourcenode.plant.orichalcum.mussels" GUID="/tEnKt+kRkKlDTxwItvowA=="/>
+		<POI MapID="1228" xpos="-206.426" ypos="90.7552" zpos="904.767" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="C4TdLvPwKU+kwCxzfjuc6Q=="/>
+		<POI MapID="1228" xpos="-177.916" ypos="93.7558" zpos="993.332" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="WsoPH39dTUKTJ656u13Yzw=="/>
+		<POI MapID="1228" xpos="-170.896" ypos="22.4721" zpos="372.368" type="chest.permanent" GUID="DhR2NH45fk60PgAC11a/6w=="/>
+		<POI MapID="1228" xpos="-327.992" ypos="76.0639" zpos="359.943" type="other.portal.cave" GUID="1RANqH+dzkuQ9Wgofd5aDw=="/>
+		<POI MapID="1228" xpos="-876.75" ypos="145.355" zpos="742.302" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="Fin428n8mESoW5qnQXOaqg=="/>
+		<POI MapID="1228" xpos="-869.608" ypos="145.74" zpos="741.497" type="resourcenode.plant.orichalcum.lentils" GUID="PTKQcT+IM0WjafVLc34v/A=="/>
+		<POI MapID="1228" xpos="-927.065" ypos="80.8168" zpos="347.543" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="KLSuZ22EAUyzaJfCO19WeQ=="/>
+		<POI MapID="1228" xpos="-676.678" ypos="45.9041" zpos="-749.469" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="Pph8evlH6kil89LnUesYKg=="/>
+		<POI MapID="1228" xpos="-794.487" ypos="51.1798" zpos="-794.646" type="chest.mapspecific.keyrequired" GUID="SjG5DU4kUUWgfLgx8rkHjg=="/>
+		<POI MapID="1228" xpos="-664.417" ypos="29.6343" zpos="-908.268" type="resourcenode.ore.normal.orichalcum" GUID="e5nBK6HYMUK304d77qIVOg=="/>
+		<POI MapID="1228" xpos="75.7019" ypos="72.9641" zpos="346.832" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="Jw7Il3+qm0OCmnq2IHQTyw=="/>
+		<POI MapID="1228" xpos="-789.078" ypos="108.703" zpos="998.062" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="ssyxtWUdZkOn/TvzkbcA+A=="/>
+		<POI MapID="1228" xpos="-781.473" ypos="110.179" zpos="1002.25" type="resourcenode.ore.normal.orichalcum" GUID="DgphSTOwk02fsHcHK9ZUNA=="/>
+		<POI MapID="1228" xpos="-672.826" ypos="118.086" zpos="883.423" type="chest.permanent" GUID="Eu1EjDTaO0i7uvaq13V8sQ=="/>
+		<POI MapID="1228" xpos="-666.091" ypos="79.6271" zpos="715.757" type="resourcenode.wood.elder" GUID="Tw8+ySsZP02Mz3pwAc9nfg=="/>
+		<POI MapID="1228" xpos="-161.858" ypos="55.6184" zpos="-512.14" type="resourcenode.ore.normal.orichalcum" GUID="0AdNY/bXvk2DTqVsvC9/xA=="/>
+		<POI MapID="1228" xpos="336.34" ypos="-72.5856" zpos="-192.818" type="resourcenode.ore.rich.mithril" GUID="RCy5EjSshEyyyEZ+QglWPA=="/>
+		<POI MapID="1228" xpos="395.592" ypos="-73.1629" zpos="-201.241" type="chest.permanent" GUID="WhyrIpaVWE+MPWdD5zdB3w=="/>
+		<POI MapID="1228" xpos="321.33" ypos="-36.8065" zpos="-206.964" type="other.portal.cave" GUID="37kCg6gg8E+3hq8KK0vUQQ=="/>
+		<POI MapID="1228" xpos="456.788" ypos="95.6146" zpos="-407.434" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="sefThZjCRUuj6TCn688NsA=="/>
+		<POI MapID="1228" xpos="546.662" ypos="35.9095" zpos="-636.338" type="temp.path_of_fire.elon_riverlands.forgotten_debris" GUID="SWgFFaMb6kClyt+ci3PY5Q=="/>
+		<POI MapID="1228" xpos="986.325" ypos="5.93969" zpos="-852.836" type="other.portal.cave" GUID="arm+v/YubEWz20/BTzxOvg=="/>
+		<POI MapID="1228" xpos="1055.24" ypos="3.61004" zpos="-570.229" type="other.portal.cave" GUID="3QDzvjolY0atRjMR8rkBPw=="/>
+		<POI MapID="1228" xpos="1034.34" ypos="-1.0535" zpos="-339.035" type="other.portal.cave" GUID="RW0Re2IZmUeXxIZjmhsQ4Q=="/>
+		<POI MapID="1228" xpos="1070.09" ypos="3.39065" zpos="-332.587" type="temp.path_of_fire.elon_riverlands.lost_lore_of_elon_riverlands" GUID="4IGFSl8+WEa72AnD9I74EQ=="/>
+		<POI MapID="1228" xpos="936.599" ypos="2.49793" zpos="-327.516" type="resourcenode.wood.ancient" GUID="XrLnwUKPhk+nXHpffbeLAw=="/>
+		<POI MapID="1228" xpos="495.024" ypos="202.426" zpos="649.499" type="temp.path_of_fire.always_time_for_taimi" GUID="mKgjFQWeBk6H2FnJzLAb+A=="/>
 	</POIs>
 </OverlayData>
