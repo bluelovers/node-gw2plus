@@ -178,7 +178,8 @@
     <Event Name="1" Length="5" Color="80ffd7d7"/>
     <Event Name="2" Length="5" Color="80ffd7d7"/>
     <Event Name="3" Length="5" Color="80ffd7d7"/>
-    <Event Name="Boss" Length="5" Color="80ff9999"/>
+    <Event Name="" Length="1" Color=""/>
+    <Event Name="Boss" Length="4" Color="80ff9999"/>
     <Event Name="" Length="100" Color=""/>
   </Map>
 
