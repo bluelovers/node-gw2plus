@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="Chest">
+    <MarkerCategory name="Permanent"/>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="StackPoint"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1149" xpos="209.603" ypos="-0.476765" zpos="-53.1286" type="chest.permanent" GUID="NWMlmoshM0+bZuvadT1UjA=="/>
+    <POI MapID="1149" xpos="-150.796" ypos="131.523" zpos="149.879" type="tactical.raid.stackpoint" GUID="bQrtSISZ6keoKBIqokgkBg=="/>
+  </POIs>
+</OverlayData>
