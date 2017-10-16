@@ -222,6 +222,9 @@
       <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png">
+      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="Bristleback"/>
+      </MarkerCategory>
       <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true">
         <MarkerCategory name="Cheetah"/>
         <MarkerCategory name="Fanged Iboga"/>
@@ -232,7 +235,6 @@
       <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
         <MarkerCategory name="Pink Moa"/>
       </MarkerCategory>
-      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true"/>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire">
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png">
