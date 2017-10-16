@@ -1,0 +1,71 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="The Desolation">
+        <MarkerCategory name="Shadow Sprinter">
+          <MarkerCategory name="Point" iconFile="Data/Point.png"/>
+          <MarkerCategory name="Wacther" iconFile="Data/CheckPoint.png"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="644.348" ypos="264.176" zpos="-910.955" type="achievement.path_of_fire.the_desolation.shadow_sprinter" GUID="HW6PDoP1y0S1EAXALdz7wg=="/>
+    <POI MapID="1226" xpos="25.114" ypos="270.848" zpos="416.627" type="achievement.path_of_fire.the_desolation.shadow_sprinter" GUID="v3/wir1TeUSMDFnsX0lTrw=="/>
+    <POI MapID="1226" xpos="-451.029" ypos="15.9285" zpos="1153.73" type="achievement.path_of_fire.the_desolation.shadow_sprinter" GUID="WrKSQxkueUaJCYvvB87rYw=="/>
+    <POI MapID="1226" xpos="-511.208" ypos="-11.7577" zpos="1248.36" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="ykpB976+2Ea9Xb8KTZo6ZA=="/>
+    <POI MapID="1226" xpos="-649.72" ypos="18.4486" zpos="1189.81" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="OtuP6qfABES3Xcvqp0eKfA=="/>
+    <POI MapID="1226" xpos="308.747" ypos="249.477" zpos="479.434" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="f5PbO/InK0GS1mK3VvuDBA=="/>
+    <POI MapID="1226" xpos="242.223" ypos="261.102" zpos="610.576" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="691VBE+5NkGFJGq7zUg8Qg=="/>
+    <POI MapID="1226" xpos="138.639" ypos="284.072" zpos="564.008" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="W1erVIe7YU2Y4oHlL926MQ=="/>
+    <POI MapID="1226" xpos="40.3307" ypos="286.531" zpos="556.384" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="OvXgXulYNEurXAw02np1MA=="/>
+    <POI MapID="1226" xpos="-9.49512" ypos="260.055" zpos="499.146" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="6UjfTPIpAUGlE61OVJUfpA=="/>
+    <POI MapID="1226" xpos="-35.9279" ypos="273.168" zpos="292.368" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="LKZzkCQBU0eOJQUQmaC0lA=="/>
+    <POI MapID="1226" xpos="8.22002" ypos="253.546" zpos="218.149" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="ZFUYbyd7206vV7ASoP+pKQ=="/>
+    <POI MapID="1226" xpos="23.5965" ypos="249.524" zpos="294.422" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="4+gHr7x/PUqtpOFlfTX2xw=="/>
+    <POI MapID="1226" xpos="89.4479" ypos="260.848" zpos="279.141" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="FSXEOaaVyEiVleTKOdlYVA=="/>
+    <POI MapID="1226" xpos="256.806" ypos="235.95" zpos="427.459" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="d9YgRG172kCLtmBgAr2tlA=="/>
+    <POI MapID="1226" xpos="206.488" ypos="252.064" zpos="504.833" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="/7UF4sG2wE2/ILQ67EmxFw=="/>
+    <POI MapID="1226" xpos="122.136" ypos="259.11" zpos="360.724" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="4qJGOM/CSkyftNRokk8pjA=="/>
+    <POI MapID="1226" xpos="147.998" ypos="269.34" zpos="453.622" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="Wb9zwV+sP0qE9vn5iTsyDg=="/>
+    <POI MapID="1226" xpos="504.798" ypos="260.274" zpos="-965.447" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="40/PAlR/rEKBnrhTEDF/Yw=="/>
+    <POI MapID="1226" xpos="609.439" ypos="256.112" zpos="-972.486" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="Q9xsyVI2qUK16cpZTwbL1Q=="/>
+    <POI MapID="1226" xpos="698.264" ypos="273.754" zpos="-953.135" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="aQCYZImGn0qJaB6TofePFw=="/>
+    <POI MapID="1226" xpos="704.118" ypos="275.843" zpos="-1033.95" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="3SLbTaERnUCRA6miYoI2+Q=="/>
+    <POI MapID="1226" xpos="544.931" ypos="243.685" zpos="-1081.06" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="+5or77ks6Ea9bOcQYl9kUQ=="/>
+    <POI MapID="1226" xpos="560.972" ypos="312.126" zpos="-909.539" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="Ap9HvayAFEG47GwatvOcOg=="/>
+    <POI MapID="1226" xpos="386.263" ypos="319.013" zpos="-925.2" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="OZu/xlwxIkGszs7smh9cfg=="/>
+    <POI MapID="1226" xpos="540.223" ypos="292.018" zpos="-826.367" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="6mezKrYfEkuKX0EPlKdVAw=="/>
+    <POI MapID="1226" xpos="266.959" ypos="236.396" zpos="579.891" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="05okpKmNo0ODJYlCcmCDIQ=="/>
+    <POI MapID="1226" xpos="17.1885" ypos="273.833" zpos="197.246" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="k0Xo3OHMw0qlhsqdYTwuwA=="/>
+    <POI MapID="1226" xpos="16.0518" ypos="303.359" zpos="571.306" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="y/4H98LB70SnX52Z6Uj+CA=="/>
+    <POI MapID="1226" xpos="-482.091" ypos="46.3278" zpos="1073.22" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="83gxymG87US6Y2tGZ7XOEg=="/>
+    <POI MapID="1226" xpos="-557.64" ypos="61.3682" zpos="1008.87" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="oL1VLnoXEku8CMlq/xmCYw=="/>
+    <POI MapID="1226" xpos="-675.19" ypos="28.8968" zpos="1129.14" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="Nii9lU3Aj0at1OVZlkLXdw=="/>
+    <POI MapID="1226" xpos="-397.327" ypos="84.5396" zpos="1027.44" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="y4yZRYnPZkibILzqHNRFNA=="/>
+    <POI MapID="1226" xpos="542.477" ypos="291.202" zpos="-826.025" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="BppAa6pwBU20+5jS+lnuDQ=="/>
+    <POI MapID="1226" xpos="482.873" ypos="322.45" zpos="-867" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="w4g7cWOReU+yESIc9Q1GHQ=="/>
+    <POI MapID="1226" xpos="436.431" ypos="251.705" zpos="-966.811" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="nFzbf+jpAUKFRZDX4Z1wbQ=="/>
+    <POI MapID="1226" xpos="648.649" ypos="273.633" zpos="-1244.57" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="wj6gijXUyESXgEz3+Ny4PA=="/>
+    <POI MapID="1226" xpos="-973.924" ypos="308.412" zpos="-531.355" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="GOGj6toHHUCjeZvmzuXbKQ=="/>
+    <POI MapID="1226" xpos="-892.449" ypos="291.142" zpos="-601.607" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="DMARXeDkIU2Ka5NLYefgrQ=="/>
+    <POI MapID="1226" xpos="-879.307" ypos="309.995" zpos="-542.195" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="sOeAvouzXEmMm/b/dgUAJQ=="/>
+    <POI MapID="1226" xpos="-1052.79" ypos="314.402" zpos="-517.021" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="FuVmXI7DLkuRF5wi6Shggg=="/>
+    <POI MapID="1226" xpos="-1029.1" ypos="269.847" zpos="-732.338" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="eWjWFxFVykuqSUzbcqOsvw=="/>
+    <POI MapID="1226" xpos="-978.913" ypos="277.606" zpos="-252.96" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="GLWyBqg2Qk+LvmF93ssLNA=="/>
+    <POI MapID="1226" xpos="-905.255" ypos="293.329" zpos="-440.572" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="9TO+/URIkEy8nf1fjQq6MQ=="/>
+    <POI MapID="1226" xpos="-53.9263" ypos="302.078" zpos="425.576" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="au44AZNhUEykZldS9ZjZIQ=="/>
+    <POI MapID="1226" xpos="312.14" ypos="255.758" zpos="384.609" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="kGNjQiWoVkyOK+MqcSlckw=="/>
+    <POI MapID="1226" xpos="-533.379" ypos="60.3655" zpos="1075.81" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="mRAT6G2GHEqyFgGXqDBoaQ=="/>
+    <POI MapID="1226" xpos="-571.885" ypos="34.6087" zpos="1145.8" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="qgj4Kgvu5UWRHnVcuBwZVA=="/>
+    <POI MapID="1226" xpos="-725.13" ypos="28.1483" zpos="1207.76" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="pjVZJnIHVEar9aekw1dQLQ=="/>
+    <POI MapID="1226" xpos="-731.277" ypos="32.8568" zpos="1294.45" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="exj8iq5rGUSS22IrG+AVuQ=="/>
+    <POI MapID="1226" xpos="386.23" ypos="319.353" zpos="-944.238" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="m4owudj1pUSDBcZTWnDXMg=="/>
+    <POI MapID="1226" xpos="465.486" ypos="290.834" zpos="-947.103" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="WATknbeUaEyBI+SBmqtzDA=="/>
+    <POI MapID="1226" xpos="846.656" ypos="287.841" zpos="-1106.43" type="achievement.path_of_fire.the_desolation.shadow_sprinter.wacther" GUID="HHX2UG9FkkKzGllfQFVB9w=="/>
+    <POI MapID="1226" xpos="-904.396" ypos="284.46" zpos="-476.255" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="ISq5Gffk9U6Dr6zEmq1zIQ=="/>
+    <POI MapID="1226" xpos="-961.787" ypos="307.974" zpos="-415.624" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="vc3wxwpOnEy2XuCkVMXdew=="/>
+    <POI MapID="1226" xpos="-885.515" ypos="291.548" zpos="-339.875" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="2gkYOlkHyUevojjyLOdOyw=="/>
+    <POI MapID="1226" xpos="-661.533" ypos="35.5255" zpos="1302.19" type="achievement.path_of_fire.the_desolation.shadow_sprinter.point" GUID="1F9Nqey34Eei4MbRKDXILg=="/>
+  </POIs>
+</OverlayData>

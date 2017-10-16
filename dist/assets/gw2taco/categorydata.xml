@@ -122,8 +122,8 @@
       <MarkerCategory name="Counter_2" DisplayName="Counter - 2" iconFile="Data/two.png"/>
       <MarkerCategory name="Counter_3" DisplayName="Counter - 3" iconFile="Data/three.png"/>
       <MarkerCategory name="Counter_4" DisplayName="Counter - 4" iconFile="Data/four.png"/>
-      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
-      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
+      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5" heightOffset="0"/>
     </MarkerCategory>
     <MarkerCategory name="Timed">
       <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>

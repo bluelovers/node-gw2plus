@@ -48,6 +48,7 @@ POIs
 │ │ │ ├── Jokos Hidden Chamber.xml
 │ │ │ ├── Lost Lore of the Desolation.xml
 │ │ │ ├── Path of the Gods.xml
+│ │ │ ├── Shadow Sprinter.xml
 │ │ │ ├── Shadows Provisions.xml
 │ │ │ └── The Throne of Bones.xml
 │ │ ├─┬ Act 2
@@ -66,6 +67,7 @@ POIs
 │ │ ├── Cheetah.xml
 │ │ ├── Fanged Iboga.xml
 │ │ ├── Jacaranda.xml
+│ │ ├── Rock Gazalle.xml
 │ │ └── Sand Lion.xml
 │ └─┬ The Silverwastes
 │   └── Go for the Gold.xml
@@ -199,6 +201,7 @@ POIs
 │   │ ├── Jokos Hidden Chamber.xml
 │   │ ├── Lost Lore of the Desolation.xml
 │   │ ├── Path of the Gods.xml
+│   │ ├── Shadow Sprinter.xml
 │   │ ├── Shadows Provisions.xml
 │   │ └── The Throne of Bones.xml
 │   ├─┬ Act 2
@@ -217,6 +220,7 @@ POIs
 │   ├── Cheetah.xml
 │   ├── Fanged Iboga.xml
 │   ├── Jacaranda.xml
+│   ├── Rock Gazalle.xml
 │   └── Sand Lion.xml
 ├─┬ MapSpecific
 │ ├─┬ Guild Hall
@@ -475,6 +479,7 @@ POIs
 │ │   ├── Cheetah.xml
 │ │   ├── Fanged Iboga.xml
 │ │   ├── Jacaranda.xml
+│ │   ├── Rock Gazalle.xml
 │ │   └── Sand Lion.xml
 │ ├── Juvenile Pets.xml
 │ ├─┬ Path of Fire
@@ -512,6 +517,7 @@ POIs
 │ │ │ ├── Jokos Hidden Chamber.xml
 │ │ │ ├── Lost Lore of the Desolation.xml
 │ │ │ ├── Path of the Gods.xml
+│ │ │ ├── Shadow Sprinter.xml
 │ │ │ ├── Shadows Provisions.xml
 │ │ │ └── The Throne of Bones.xml
 │ │ ├─┬ Act 2
@@ -530,6 +536,7 @@ POIs
 │ │ ├── Cheetah.xml
 │ │ ├── Fanged Iboga.xml
 │ │ ├── Jacaranda.xml
+│ │ ├── Rock Gazalle.xml
 │ │ └── Sand Lion.xml
 │ └─┬ Raid
 │   └── Raid_1188_Bastion of the Penitent.xml

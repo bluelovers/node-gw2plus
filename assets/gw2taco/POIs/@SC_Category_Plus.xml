@@ -58,7 +58,10 @@
     <MarkerCategory name="Achievement"/>
   </MarkerCategory>
   <MarkerCategory name="Tactical" data-sort="true">
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid"/>
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid">
+      <MarkerCategory name="StackPoint" heightOffset="0"/>
+      <MarkerCategory name="SpawnPoint" heightOffset="0"/>
+    </MarkerCategory>
 		<MarkerCategory name="GuildMission" data-sort="true">
 			<MarkerCategory name="Trek" heightOffset="4"/>
       <MarkerCategory name="Puzzle">
@@ -103,6 +106,7 @@
       <MarkerCategory name="Event"/>
       <MarkerCategory name="Achievement"/>
       <MarkerCategory name="Trophy"/>
+      <MarkerCategory name="MapSpecific"/>
     </MarkerCategory>
     <MarkerCategory name="Portal">
       <MarkerCategory name="In"/>

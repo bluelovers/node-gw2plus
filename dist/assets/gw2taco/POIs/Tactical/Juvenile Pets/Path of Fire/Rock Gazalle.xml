@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+        <MarkerCategory name="Rock Gazalle" DisplayName="Rock Gazalle"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="465.742" ypos="311.705" zpos="-910.407" type="tactical.juvenile_pets.path_of_fire.rock_gazalle" GUID="keLfEl+m3EmuETLqb3S3Pg=="/>
+  </POIs>
+</OverlayData>

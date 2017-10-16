@@ -2,7 +2,7 @@
   <MarkerCategory name="Achievement">
     <MarkerCategory name="Path of Fire">
       <MarkerCategory name="Elon Riverlands">
-        <MarkerCategory name="Flameseeker Prophecies">
+        <MarkerCategory name="Flameseeker Prophecies" data-class="fade-4">
           <MarkerCategory name="Forgotten Light" iconFile="Data/Point.png"/>
         </MarkerCategory>
       </MarkerCategory>

@@ -112,9 +112,6 @@
       <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
@@ -236,7 +233,7 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
-        <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies">
+        <MarkerCategory name="Flameseeker Prophecies" data-class="fade-4" fadeFar="8400" fadeNear="2100" DisplayName="Flameseeker Prophecies">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
         <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
@@ -258,6 +255,9 @@
       </MarkerCategory>
       <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
         <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Shadow Sprinter" iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png" data-iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png" DisplayName="Shadow Sprinter">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
         <MarkerCategory name="undefined"/>
@@ -334,6 +334,27 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+      <MarkerCategory name="tw_pof_co" DisplayName="Crystal Oasis">
+        <MarkerCategory name="tw_pof_ev_co_casblitz" DisplayName="Casino Blitz">
+          <MarkerCategory name="tw_pof_ev_co_casblitz_round1" DisplayName="Round 1">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="tw_pof_ev_co_casblitz_round2" DisplayName="Round 2">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="tw_pof_ev_co_casblitz_round3" DisplayName="Round 3">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
