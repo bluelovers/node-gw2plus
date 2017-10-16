@@ -32,6 +32,7 @@ addGulpTasks({
 				':pet',
 				':pof:default',
 				':raid',
+				':vendor',
 			],
 		},
 
@@ -242,6 +243,17 @@ addGulpTasks({
 			async callback()
 			{
 				await pack_poi('POIs/Tactical/Raid', path.join(dist_root, 'assets/gw2taco', `POIs`, `${project_config.RUNTIME_PREFIX_TEMP}Raid.xml`))
+			},
+		},
+
+		'vendor': {
+			deps: [
+				'category:cache',
+			],
+
+			async callback()
+			{
+				await pack_poi('POIs/Other/Vendor', path.join(dist_root, 'assets/gw2taco', `POIs`, `${project_config.RUNTIME_PREFIX_TEMP}Vendor.xml`))
 			},
 		},
 	},
