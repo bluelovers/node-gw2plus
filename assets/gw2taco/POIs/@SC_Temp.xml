@@ -143,6 +143,7 @@
         <MarkerCategory name="Shadows Provisions"/>
         <MarkerCategory name="Shadow Sprinter">
           <MarkerCategory name="point"/>
+          <MarkerCategory name="Wacther"/>
         </MarkerCategory>
         <MarkerCategory name="Joko's Hidden Chamber"/>
         <MarkerCategory name="A Family’s Sacrifice"/>
@@ -256,4 +257,12 @@
     </MarkerCategory>
 
   </MarkerCategory>
+
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Path of Fire">
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+
 </OverlayData>
