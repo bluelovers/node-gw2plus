@@ -222,16 +222,17 @@
       <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png">
-      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
-        <MarkerCategory name="Pink Moa"/>
-      </MarkerCategory>
-      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true"/>
       <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true">
         <MarkerCategory name="Cheetah"/>
         <MarkerCategory name="Fanged Iboga"/>
         <MarkerCategory name="Jacaranda"/>
+        <MarkerCategory name="Rock Gazalle"/>
         <MarkerCategory name="Sand Lion"/>
       </MarkerCategory>
+      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="Pink Moa"/>
+      </MarkerCategory>
+      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true"/>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire">
       <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png">
@@ -255,8 +256,8 @@
       <MarkerCategory name="Counter_2" DisplayName="Counter - 2" iconFile="Data/two.png"/>
       <MarkerCategory name="Counter_3" DisplayName="Counter - 3" iconFile="Data/three.png"/>
       <MarkerCategory name="Counter_4" DisplayName="Counter - 4" iconFile="Data/four.png"/>
-      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
-      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
+      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5" heightOffset="0"/>
     </MarkerCategory>
     <MarkerCategory name="Timed">
       <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
@@ -434,7 +435,7 @@
         <MarkerCategory name="Lost Lore of the Domain of Vabbi"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png">
-        <MarkerCategory name="Flameseeker Prophecies">
+        <MarkerCategory name="Flameseeker Prophecies" data-class="fade-4" fadeFar="8400" fadeNear="2100">
           <MarkerCategory name="Forgotten Light" iconFile="Data/Point.png"/>
         </MarkerCategory>
         <MarkerCategory name="Ghostly Trio">
@@ -482,6 +483,10 @@
           <MarkerCategory name="Statue of Balthazar"/>
           <MarkerCategory name="Statue of Kormir"/>
           <MarkerCategory name="Statue of Abaddon"/>
+        </MarkerCategory>
+        <MarkerCategory name="Shadow Sprinter" iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png" data-iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png">
+          <MarkerCategory name="Point" iconFile="Data/Point.png"/>
+          <MarkerCategory name="Wacther" iconFile="Data/CheckPoint.png"/>
         </MarkerCategory>
         <MarkerCategory name="Shadows Provisions"/>
         <MarkerCategory name="The Throne of Bones"/>
@@ -568,8 +573,9 @@
       <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
       <MarkerCategory name="Event"/>
       <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
+      <MarkerCategory name="MapSpecific"/>
       <MarkerCategory name="Merchant"/>
-      <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png"/>
+      <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png" data-class="fade-4" fadeFar="8400" fadeNear="2100"/>
       <MarkerCategory name="Trophy"/>
     </MarkerCategory>
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
@@ -578,6 +584,29 @@
       <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
       <MarkerCategory name="Cave" iconFile="Data/Other/Portal/Cave.png" data-iconFile="Data/Other/Portal/Cave.png"/>
       <MarkerCategory name="Instance"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+      <MarkerCategory name="tw_pof_co" DisplayName="Crystal Oasis">
+        <MarkerCategory name="tw_pof_ev_co_casblitz" DisplayName="Casino Blitz">
+          <MarkerCategory name="tw_pof_ev_co_casblitz_round1" DisplayName="Round 1">
+            <MarkerCategory name="tw_pof_casinoblitz_coin1" DisplayName="Round 1 Coin" iconSize="1.0" fadeNear="10000" fadeFar="10000" heightOffset="0.0" iconFile="Data/tw_pof_co_coin1.png"/>
+            <MarkerCategory name="tw_pof_casinoblitz_start1" DisplayName="Round 1 Start" iconSize="1.0" fadeNear="10000" fadeFar="10000" heightOffset="2.5" iconFile="Data/tw_pof_co_blitz_start1.png"/>
+            <MarkerCategory name="tw_pof_casinoblitz_path_dot_g" DisplayName="Round 1 Path" iconSize="0.3" fadeNear="2600" fadeFar="2700" heightOffset="0.0" iconFile="Data/tw_dot_g.png"/>
+          </MarkerCategory>
+          <MarkerCategory name="tw_pof_ev_co_casblitz_round2" DisplayName="Round 2">
+            <MarkerCategory name="tw_pof_casinoblitz_coin2" DisplayName="Round 2 Coin" iconSize="1.0" fadeNear="10000" fadeFar="10000" heightOffset="0.0" iconFile="Data/tw_pof_co_coin2.png"/>
+            <MarkerCategory name="tw_pof_casinoblitz_start2" DisplayName="Round 2 Start" iconSize="1.0" fadeNear="10000" fadeFar="10000" heightOffset="2.5" iconFile="Data/tw_pof_co_blitz_start2.png"/>
+            <MarkerCategory name="tw_pof_dot_y" DisplayName="Round 2 Path" iconSize="0.3" fadeNear="2600" fadeFar="2700" heightOffset="0.0" iconFile="Data/tw_dot_y.png"/>
+          </MarkerCategory>
+          <MarkerCategory name="tw_pof_ev_co_casblitz_round3" DisplayName="Round 3">
+            <MarkerCategory name="tw_pof_casinoblitz_coin3" DisplayName="Round 3 Coin" iconSize="1.0" fadeNear="10000" fadeFar="10000" heightOffset="0.0" iconFile="Data/tw_pof_co_coin3.png"/>
+            <MarkerCategory name="tw_pof_casinoblitz_start3" DisplayName="Round 3 Start" iconSize="1.0" fadeNear="10000" fadeFar="10000" heightOffset="2.5" iconFile="Data/tw_pof_co_blitz_start3.png"/>
+            <MarkerCategory name="tw_pof_dot_r" DisplayName="Round 3 Path" iconSize="0.3" fadeNear="2600" fadeFar="2700" heightOffset="0.0" iconFile="Data/tw_dot_r.png"/>
+          </MarkerCategory>
+        </MarkerCategory>
+      </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true" maxSize="256">
@@ -703,6 +732,7 @@
         <MarkerCategory name="Shadows Provisions"/>
         <MarkerCategory name="Shadow Sprinter">
           <MarkerCategory name="point"/>
+          <MarkerCategory name="Wacther"/>
         </MarkerCategory>
         <MarkerCategory name="Jokos Hidden Chamber" DisplayName="Joko's Hidden Chamber"/>
         <MarkerCategory name="A Familys Sacrifice" DisplayName="A Family’s Sacrifice"/>
