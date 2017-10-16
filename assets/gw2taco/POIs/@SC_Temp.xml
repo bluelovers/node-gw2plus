@@ -260,6 +260,9 @@
 
   <MarkerCategory name="Tactical">
     <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Heart of Thorns">
+        <MarkerCategory name="Bristleback"/>
+      </MarkerCategory>
       <MarkerCategory name="Path of Fire">
       </MarkerCategory>
     </MarkerCategory>
