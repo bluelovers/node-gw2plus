@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Path of Fire">
+        <MarkerCategory name="Rock Gazalle"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1226" xpos="465.742" ypos="311.705" zpos="-910.407" type="tactical.juvenile_pets.path_of_fire.rock_gazalle" GUID="keLfEl+m3EmuETLqb3S3Pg=="/>
+  </POIs>
+</OverlayData>
