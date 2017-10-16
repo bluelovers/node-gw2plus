@@ -8,6 +8,7 @@
         <MarkerCategory name="Cheetah"/>
         <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
         <MarkerCategory name="Jacaranda"/>
+        <MarkerCategory name="Rock Gazalle" DisplayName="Rock Gazalle"/>
         <MarkerCategory name="Sand Lion" DisplayName="Sand Lion"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -17,6 +18,7 @@
     <POI MapID="1228" xpos="1033.37" ypos="-0.0609184" zpos="-107.601" type="tactical.juvenile_pets.path_of_fire.cheetah" GUID="V+kd5otuQ0+3zbjMjk6X2g=="/>
     <POI MapID="1211" xpos="-322.567" ypos="206.666" zpos="154.609" type="tactical.juvenile_pets.path_of_fire.fanged_iboga" GUID="+wCyQOpmjUiNDPmjpK9P3Q=="/>
     <POI MapID="1248" xpos="-1237.72" ypos="239.837" zpos="-492.055" type="tactical.juvenile_pets.path_of_fire.jacaranda" GUID="jpRUTvyxD0OKlwx0E+C9sA=="/>
+    <POI MapID="1226" xpos="465.742" ypos="311.705" zpos="-910.407" type="tactical.juvenile_pets.path_of_fire.rock_gazalle" GUID="keLfEl+m3EmuETLqb3S3Pg=="/>
     <POI MapID="1210" xpos="-276.003" ypos="33.1166" zpos="380.828" type="tactical.juvenile_pets.path_of_fire.sand_lion" GUID="wAP4KCryf0GveBqXzEjPUA=="/>
     <POI MapID="1210" xpos="75.9275" ypos="20.5585" zpos="11.3321" type="tactical.juvenile_pets.path_of_fire.sand_lion" GUID="xqu9C4LqL0CHBFbUflYGSQ=="/>
   </POIs>
