@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Heart of Thorns">
+        <MarkerCategory name="Bristleback"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1043" xpos="465.253" ypos="245.677" zpos="-165.18" type="tactical.juvenile_pets.heart_of_thorns.bristleback" GUID="VId3ANl+pkqrZKOrfHzs8w=="/>
+  </POIs>
+</OverlayData>

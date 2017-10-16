@@ -1,4 +1,17 @@
 <OverlayData>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Permanent"/>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
+      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
+      <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
+      <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
+      <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
+      <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5" heightOffset="0"/>
+    </MarkerCategory>
+  </MarkerCategory>
   <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
@@ -6,17 +19,9 @@
       <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
-      <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
-      <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
-      <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
-      <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
-      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
-      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5" heightOffset="0"/>
-    </MarkerCategory>
-  </MarkerCategory>
   <POIs>
+    <POI MapID="1149" xpos="209.603" ypos="-0.476765" zpos="-53.1286" type="chest.permanent" GUID="NWMlmoshM0+bZuvadT1UjA=="/>
+    <POI MapID="1149" xpos="-150.796" ypos="131.523" zpos="149.879" type="tactical.raid.stackpoint" GUID="bQrtSISZ6keoKBIqokgkBg=="/>
     <POI MapID="1188" xpos="-155.51" ypos="63.3027" zpos="-64.1974" type="other.portal.in" GUID="OwhmTS/bz0m+hMAJ+ckfQw=="/>
     <POI MapID="1188" xpos="-124.646" ypos="60.7328" zpos="-92.9665" type="other.portal.out" GUID="KxMhRwHnoU6kao9ueaf4Gw=="/>
     <POI MapID="1188" xpos="88.5395" ypos="108.483" zpos="153.405" type="other.portal.gate" GUID="bGBGfYJ/wU61lqIT3oy4eA=="/>

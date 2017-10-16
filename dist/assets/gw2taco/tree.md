@@ -473,6 +473,8 @@ POIs
 │ ├─┬ Juvenile Pets
 │ │ ├─┬ Core
 │ │ │ └── Pink Moa.xml
+│ │ ├─┬ Heart of Thorns
+│ │ │ └── Bristleback.xml
 │ │ └─┬ Path of Fire
 │ │   ├── Casino Blits.xml
 │ │   ├── Serpents Ire.xml
@@ -539,6 +541,7 @@ POIs
 │ │ ├── Rock Gazalle.xml
 │ │ └── Sand Lion.xml
 │ └─┬ Raid
+│   ├── Raid_1149_Salvation Pass.xml
 │   └── Raid_1188_Bastion of the Penitent.xml
 ├── ZZZ_SC_Chest.xml
 ├── ZZZ_SC_GuildMission.xml

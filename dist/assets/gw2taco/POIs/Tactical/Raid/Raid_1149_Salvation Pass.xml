@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Permanent"/>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
+      <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1149" xpos="209.603" ypos="-0.476765" zpos="-53.1286" type="chest.permanent" GUID="NWMlmoshM0+bZuvadT1UjA=="/>
+    <POI MapID="1149" xpos="-150.796" ypos="131.523" zpos="149.879" type="tactical.raid.stackpoint" GUID="bQrtSISZ6keoKBIqokgkBg=="/>
+  </POIs>
+</OverlayData>
