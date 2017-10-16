@@ -127,6 +127,7 @@
         <MarkerCategory name="Shadows Provisions" DisplayName="Shadows Provisions"/>
         <MarkerCategory name="Shadow Sprinter" DisplayName="Shadow Sprinter">
           <MarkerCategory name="point"/>
+          <MarkerCategory name="Wacther"/>
         </MarkerCategory>
         <MarkerCategory name="Joko's Hidden Chamber" DisplayName="Joko's Hidden Chamber"/>
         <MarkerCategory name="A Family’s Sacrifice" DisplayName="A Family’s Sacrifice"/>
@@ -216,6 +217,11 @@
     </MarkerCategory>
     <MarkerCategory name="The Silverwastes" DisplayName="The Silverwastes">
       <MarkerCategory name="Go for the Gold" DisplayName="Go for the Gold"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire"/>
     </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
