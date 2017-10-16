@@ -182,13 +182,15 @@ const _gulp_ = {
 					}
 				}
 
-				cht_new.push(`; miss list`);
+				cht_new.push(`; miss/removed list`);
 
-				for (let i in cht_ini)
+				let t = Object.assign({}, chs_ini, tw_ini, cht_ini);
+
+				for (let i in t)
 				{
 					if (!c.lang[i] && i != '[lang]')
 					{
-						let v = cht_ini[i];
+						let v = t[i];
 						cht_new.push(`;${i}=${v}`);
 					}
 				}
