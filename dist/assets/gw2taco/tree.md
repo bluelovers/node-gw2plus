@@ -545,6 +545,7 @@ POIs
 ├── ZZZ_SC_MapSpecific.xml
 ├── ZZZ_SC_Raid.xml
 ├── ZZZ_SC_ResourceNode.xml
+├── ZZZ_SC_Vendor.xml
 └── ZZZ_SC_undefined.xml
 ```
 
