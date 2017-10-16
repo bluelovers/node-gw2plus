@@ -196,5 +196,10 @@
     <POI MapID="1228" xpos="11.9444" ypos="9.37867" zpos="-379.719" type="resourcenode.ore.normal.orichalcum" GUID="/MZ4bjstrUiAhwERfNhmlQ=="/>
     <POI MapID="1228" xpos="-174.741" ypos="74.3635" zpos="401.444" type="resourcenode.ore.normal.orichalcum" GUID="r1d5E6/Ku0u3sPePCl8k6Q=="/>
     <POI MapID="1226" xpos="29.6479" ypos="247.096" zpos="642.331" type="resourcenode.ore.normal.orichalcum" GUID="wRfEoUrB1UmyYHsbq4TDoQ=="/>
+    <POI MapID="1228" xpos="-664.417" ypos="29.6343" zpos="-908.268" type="resourcenode.ore.normal.orichalcum" GUID="e5nBK6HYMUK304d77qIVOg=="/>
+    <POI MapID="1228" xpos="-781.473" ypos="110.179" zpos="1002.25" type="resourcenode.ore.normal.orichalcum" GUID="DgphSTOwk02fsHcHK9ZUNA=="/>
+    <POI MapID="1228" xpos="-161.858" ypos="55.6184" zpos="-512.14" type="resourcenode.ore.normal.orichalcum" GUID="0AdNY/bXvk2DTqVsvC9/xA=="/>
+    <POI MapID="1211" xpos="255.558" ypos="142.505" zpos="-153.426" type="resourcenode.ore.normal.orichalcum" GUID="QYinFeJaE0exmxzvQOXk+Q=="/>
+    <POI MapID="1226" xpos="217.496" ypos="246.487" zpos="493.83" type="resourcenode.ore.normal.orichalcum" GUID="wowqmEH8B02AGMDnieacBA=="/>
   </POIs>
 </OverlayData>
