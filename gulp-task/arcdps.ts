@@ -182,6 +182,17 @@ const _gulp_ = {
 					}
 				}
 
+				cht_new.push(`; miss list`);
+
+				for (let i in cht_ini)
+				{
+					if (!c.lang[i] && i != '[lang]')
+					{
+						let v = cht_ini[i];
+						cht_new.push(`;${i}=${v}`);
+					}
+				}
+
 				let out = Buffer.from(cht_new.join("\n"));
 
 				out = iconv.encode(out as any, encodings, {
