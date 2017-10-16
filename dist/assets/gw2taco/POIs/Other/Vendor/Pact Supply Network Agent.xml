@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">
-      <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png" DisplayName="Pact Supply Network Agent"/>
+      <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png" data-class="fade-4" fadeFar="8400" fadeNear="2100" DisplayName="Pact Supply Network Agent"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
