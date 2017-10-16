@@ -1252,6 +1252,47 @@ addGulpTasks({
 									}
 
 									break;
+								case 'the_desolation.shadow_sprinter.point':
+								case 'the_desolation.shadow_sprinter.wacther':
+								case 'the_desolation.shadow_sprinter':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'The Desolation',
+											'Shadow Sprinter',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'the_desolation.shadow_sprinter.point':
+
+											type_new = type_new
+												.concat([
+													'Point',
+												])
+											;
+
+											break;
+										case 'the_desolation.shadow_sprinter.wacther':
+
+											type_new = type_new
+												.concat([
+													'Wacther',
+												])
+											;
+
+											break;
+										case 'the_desolation.shadow_sprinter':
+
+											break;
+										default:
+											break POIS;
+									}
+
+									break;
 								default:
 									break POIS;
 								//break;
