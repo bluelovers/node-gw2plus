@@ -720,4 +720,26 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_OPTIONS_BS_NOTOTALS] = "DONT SHOW TOTALS";
 	lang[m_translate.LANG_PAN_OPTIONS_BS_ALTUICLICKLOCK] = "REQUIRE MODIFIERS TO CLICK";
 	lang[m_translate.LANG_PAN_OPTIONS_LOGGING] = "LOGGING";
-	lang[m_translate.LANG_PAN_OPTIONS_SM_HIDEZEROBUFFS] = "HIDE ZERO BUFFS";export { lang }; export default lang;
+	lang[m_translate.LANG_PAN_OPTIONS_SM_HIDEZEROBUFFS] = "HIDE ZERO BUFFS";
+
+	/* panels: templates */
+	lang[m_translate.LANG_PAN_TEMPLATES_HEADER] = "TEMPLATES";
+	lang[m_translate.LANG_PAN_TEMPLATES_LOAD] = "LOAD";
+	lang[m_translate.LANG_PAN_TEMPLATES_SAVE] = "SAVE";
+	lang[m_translate.LANG_PAN_TEMPLATES_NONE] = "NO TEMPLATES";
+	lang[m_translate.LANG_PAN_TEMPLATES_TRAITS] = "TRAITS";
+	lang[m_translate.LANG_PAN_TEMPLATES_GEAR] = "GEAR";
+	lang[m_translate.LANG_PAN_TEMPLATES_SKILLS] = "SKILLS";
+	lang[m_translate.LANG_PAN_TEMPLATES_LEGENDARY] = "LEGENDARY";
+	lang[m_translate.LANG_PAN_TEMPLATES_PVP] = "PVP";
+	//lang[m_translate.LANG_PAN_TEMPLATES_SAVETRAITS] = "SAVE TRAITS";
+	//lang[m_translate.LANG_PAN_TEMPLATES_SAVEGEAR] = "SAVE GEAR";
+	lang[m_translate.LANG_PAN_TEMPLATES_COPY] = "copied";
+	lang[m_translate.LANG_PAN_TEMPLATES_NAME] = "NAME";
+	lang[m_translate.LANG_PAN_TEMPLATES_DELETE] = "delete";
+	lang[m_translate.LANG_PAN_TEMPLATES_OVERWRITE] = "OVERWRITE";
+	lang[m_translate.LANG_PAN_TEMPLATES_SAVED] = "saved";
+	lang[m_translate.LANG_PAN_TEMPLATES_LOADING] = "loading...";
+	lang[m_translate.LANG_PAN_TEMPLATES_REDUCEDRATE] = "map rate restrictions in place (500ms)";
+	lang[m_translate.LANG_PAN_TEMPLATES_DISABLED] = "unavailable";
+	lang[m_translate.LANG_PAN_TEMPLATES_CANCEL] = "CANCEL";export { lang }; export default lang;
