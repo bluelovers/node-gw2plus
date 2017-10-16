@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Other">
     <MarkerCategory name="Vendor">
-      <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png"/>
+      <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png" data-class="fade-4"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
