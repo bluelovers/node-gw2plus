@@ -17,6 +17,7 @@
   "achievement.path_of_fire.desert_highlands": "Achievement/Path of Fire/Desert_Highlands.png",
   "achievement.path_of_fire.domain_of_vabbi": "Achievement/Path of Fire/Domain_of_Vabbi.png",
   "achievement.path_of_fire.elon_riverlands": "Achievement/Path of Fire/Elon_Riverlands.png",
+  "achievement.path_of_fire.the_desolation.shadow_sprinter": "Achievement/Path of Fire/The Desolation/Shadow Sprinter.png",
   "achievement.path_of_fire.the_desolation": "Achievement/Path of Fire/The_Desolation.png",
   "achievement.the_silverwastes": "Achievement/The_Silverwastes.png",
   "auric_basin": "Auric_Basin.png",
@@ -152,6 +153,15 @@
   "three": "three.png",
   "tower": "tower.png",
   "triangle": "triangle.png",
+  "tw_dot_g": "tw_dot_g.png",
+  "tw_dot_o": "tw_dot_o.png",
+  "tw_dot_r": "tw_dot_r.png",
+  "tw_pof_co_blitz_start1": "tw_pof_co_blitz_start1.png",
+  "tw_pof_co_blitz_start2": "tw_pof_co_blitz_start2.png",
+  "tw_pof_co_blitz_start3": "tw_pof_co_blitz_start3.png",
+  "tw_pof_co_coin1": "tw_pof_co_coin1.png",
+  "tw_pof_co_coin2": "tw_pof_co_coin2.png",
+  "tw_pof_co_coin3": "tw_pof_co_coin3.png",
   "two": "two.png",
   "west": "west.png"
 }
