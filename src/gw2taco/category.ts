@@ -173,7 +173,7 @@ class Category extends Node
 	}
 
 	@overwrite
-	static normalize(name: string, options?)
+	static normalize(name: string|string[], options?)
 	{
 		options = Object.assign({
 			lc: false,
@@ -183,7 +183,7 @@ class Category extends Node
 	}
 
 	@overwrite
-	static normalize2(name: string, options?)
+	static normalize2(name: string|string[], options?)
 	{
 		options = Object.assign({
 			space: false,
