@@ -203,8 +203,13 @@ class Node
 		return elem;
 	}
 
-	static normalize(name: string, options: normalizeOptions = {}): string
+	static normalize(name: string|string[], options: normalizeOptions = {}): string
 	{
+		if (Array.isArray(name))
+		{
+			name = name.join('.');
+		}
+
 		let n = name.toString()
 			.replace(/[\?]/ig, '_')
 		;
@@ -264,7 +269,7 @@ class Node
 	 * @param {Object} options
 	 * @returns {string}
 	 */
-	static normalize2(name: string, options?: normalizeOptions)
+	static normalize2(name: string|string[], options?: normalizeOptions)
 	{
 		options = Object.assign({
 			gw2taco: true,

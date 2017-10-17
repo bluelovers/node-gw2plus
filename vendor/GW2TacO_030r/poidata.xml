@@ -384,9 +384,8 @@
 		<POI MapID="1211" xpos="-1255.28" ypos="6.18556" zpos="-527.977" type="temp.path_of_fire.desert_highlands.dwarven_remnants" GUID="GJab6/QE/0KtZEsiuWA6jQ=="/>
 		<POI MapID="1211" xpos="-964.973" ypos="496.818" zpos="-259.82" type="temp.path_of_fire.desert_highlands.dwarven_remnants" GUID="5v47s8HlLUagTyq5yCZmqg=="/>
 		<POI MapID="1211" xpos="1232.95" ypos="183.369" zpos="467.909" type="other.vendor.mapspecific" GUID="ptRHNhM6FE2NJAwb/yYecg=="/>
-		<POI MapID="1188" xpos="90.5871" ypos="106.169" zpos="117.253" GUID="i6O1capKHE67IFnh84mUuA=="/>
-		<POI MapID="1188" xpos="91.1707" ypos="106.169" zpos="101.268" GUID="VSwt1mahnUmsbdLVnC35sg=="/>
-		<POI MapID="1188" xpos="90.4582" ypos="106.169" zpos="87.4062" GUID="6zp8I1AG30WS6wydFllotQ=="/>
+		<POI MapID="1188" xpos="90.5871" ypos="106.169" zpos="117.253" type="tactical.raid.stackpoint" GUID="i6O1capKHE67IFnh84mUuA=="/>
+		<POI MapID="1188" xpos="91.1707" ypos="106.169" zpos="101.268" type="tactical.raid.stackpoint" GUID="VSwt1mahnUmsbdLVnC35sg=="/>
 		<POI MapID="1156" xpos="133.069" ypos="83.0717" zpos="450.318" type="tactical.raid.trap" GUID="T2yvIiljlE2rLTvGF/pPBw=="/>
 		<POI MapID="1156" xpos="116.863" ypos="83.5883" zpos="511.251" type="tactical.raid.trap" GUID="Gs8bDHRF00Coi3ZQcn0ehA=="/>
 		<POI MapID="1156" xpos="53.947" ypos="84.8487" zpos="541.622" type="tactical.raid.trap" GUID="pc3OELbcxUqaMc7tsqX5xA=="/>
@@ -397,5 +396,8 @@
 		<POI MapID="1156" xpos="-81.5489" ypos="101.818" zpos="482.463" type="tactical.raid.trap" GUID="aYAAdN+j50KrupwzRIjaKw=="/>
 		<POI MapID="1156" xpos="-89.3752" ypos="99.5391" zpos="487.948" type="tactical.raid.trap" GUID="KaYFZEh64kqGTX3RO9Jk9Q=="/>
 		<POI MapID="1062" xpos="-289.068" ypos="89.3527" zpos="109.607" type="chest.permanent" GUID="93AHnBopaEi97RtOpVqVvw=="/>
+		<POI MapID="1188" xpos="91.3112" ypos="106.169" zpos="85.5351" type="tactical.raid.stackpoint" GUID="5imKLfraCEOcgdxxmxuMOQ=="/>
+		<POI MapID="1188" xpos="67.1366" ypos="106.169" zpos="101.322" type="tactical.raid.spawnpoint" GUID="GYm3TdP43kmnSLO+riOs3A=="/>
+		<POI MapID="1188" xpos="-89.9334" ypos="129.513" zpos="77.2864" type="tactical.raid.stackpoint" GUID="Tsbx1X1IRkGikXE+Z2uTZw=="/>
 	</POIs>
 </OverlayData>

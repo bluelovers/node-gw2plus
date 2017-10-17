@@ -52,7 +52,7 @@ class Poi extends Node
 	}
 
 	@overwrite
-	static normalize(name: string, options?)
+	static normalize(name: string|string[], options?)
 	{
 		options = Object.assign({
 			space: false,
@@ -63,7 +63,7 @@ class Poi extends Node
 	}
 
 	@overwrite
-	static normalize2(name: string, options: object)
+	static normalize2(name: string|string[], options: object)
 	{
 		options = Object.assign({
 			space: false,
