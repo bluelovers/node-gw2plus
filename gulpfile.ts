@@ -251,38 +251,6 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 		absolute: true,
 	};
 
-	function _search_icon(assets_iconfile, ...ids)
-	{
-		for (let k of ids)
-		{
-			let ks = _make_img_ids(k);
-
-			for (let k of ks)
-			{
-				if (assets_iconfile[k])
-				{
-					return assets_iconfile[k];
-				}
-			}
-		}
-	}
-
-	function _make_img_ids(k)
-	{
-		let ret = [k];
-
-		if (k.match(/^(.+)s$/))
-		{
-			ret.push(RegExp.$1);
-		}
-		else
-		{
-			ret.push(RegExp.$1 + 's');
-		}
-
-		return ret;
-	}
-
 	let ls = await globby(patterns, options)
 		.then(async (ls) =>
 		{
@@ -424,6 +392,25 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 				DisplayName?: string;
 			}
 
+			let assets_iconfile = require(path.join(temp_root, `assets.gw2taco.cache.json`));
+
+			let _elem_parentid = function (_this)
+			{
+				let a = [];
+				let c = _this.parent();
+
+				while (c && c.length && c[0].tagName == 'MarkerCategory')
+				{
+					a.unshift(c.attr('name'));
+
+					c = c.parent();
+				}
+
+				//console.log(a);
+
+				return a;
+			};
+
 			let _class_fn = function (_this, _class: string, _attr: IMarkerCategory): any|IMarkerCategory
 			{
 				switch (_class)
@@ -443,7 +430,6 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 						_attr.heightOffset = 1.6;
 
 						break;
-
 					default:
 						break;
 				}
@@ -959,3 +945,35 @@ addGulpTasks({
 		],
 	},
 });
+
+function _search_icon(assets_iconfile, ...ids)
+{
+	for (let k of ids)
+	{
+		let ks = _make_img_ids(k);
+
+		for (let k of ks)
+		{
+			if (assets_iconfile[k])
+			{
+				return assets_iconfile[k];
+			}
+		}
+	}
+}
+
+function _make_img_ids(k)
+{
+	let ret = [k];
+
+	if (k.match(/^(.+)s$/))
+	{
+		ret.push(RegExp.$1);
+	}
+	else
+	{
+		ret.push(RegExp.$1 + 's');
+	}
+
+	return ret;
+}
