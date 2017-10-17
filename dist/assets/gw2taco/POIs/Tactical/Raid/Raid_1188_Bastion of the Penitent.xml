@@ -7,13 +7,13 @@
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" iconFile="Data/Tactical/Raid.png" data-iconFile="Data/Tactical/Raid.png" fadeFar="5600" fadeNear="5600">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
       <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
       <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
       <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
       <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
-      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5" heightOffset="0"/>
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/Tactical/Raid/SpawnPoint.png" iconSize="0.5" heightOffset="0" data-iconFile="Data/spawn.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
