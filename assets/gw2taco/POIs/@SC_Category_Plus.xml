@@ -61,7 +61,7 @@
     <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid">
       <MarkerCategory name="StackPoint" heightOffset="0"/>
       <MarkerCategory name="SpawnPoint" heightOffset="0"/>
-      <MarkerCategory name="Trap"/>
+      <MarkerCategory name="Trap" iconSize="0.5"/>
     </MarkerCategory>
 		<MarkerCategory name="GuildMission" data-sort="true">
 			<MarkerCategory name="Trek" heightOffset="4"/>
