@@ -249,7 +249,7 @@
         <MarkerCategory name="Boss"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" fadeFar="5600" fadeNear="5600">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" iconFile="Data/Tactical/Raid.png" data-iconFile="Data/Tactical/Raid.png" fadeFar="5600" fadeNear="5600">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
       <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
       <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
@@ -259,8 +259,8 @@
       <MarkerCategory name="Counter_3" DisplayName="Counter - 3" iconFile="Data/three.png"/>
       <MarkerCategory name="Counter_4" DisplayName="Counter - 4" iconFile="Data/four.png"/>
       <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
-      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5" heightOffset="0"/>
-      <MarkerCategory name="Trap" heightOffset="0"/>
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/Tactical/Raid/SpawnPoint.png" iconSize="0.5" heightOffset="0" data-iconFile="Data/spawn.png"/>
+      <MarkerCategory name="Trap" iconFile="Data/Tactical/Raid/Trap.png" data-iconFile="Data/Tactical/Raid/Trap.png"/>
     </MarkerCategory>
     <MarkerCategory name="Timed">
       <MarkerCategory name="SpeedBoostMushroom" DisplayName="Speed Boost Mushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
