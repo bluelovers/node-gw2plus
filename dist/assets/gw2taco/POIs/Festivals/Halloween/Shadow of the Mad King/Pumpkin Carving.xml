@@ -2,7 +2,7 @@
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
       <MarkerCategory name="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" DisplayName="Shadow of the Mad King">
-        <MarkerCategory name="Pumpkin Carving" behavior="6" DisplayName="Pumpkin Carving"/>
+        <MarkerCategory name="Pumpkin Carving" behavior="6" data-class="size-0.5" iconSize="0.5" DisplayName="Pumpkin Carving"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

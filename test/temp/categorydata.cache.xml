@@ -191,9 +191,13 @@
           <MarkerCategory name="Mad Memorial">
             <MarkerCategory name="1"/>
             <MarkerCategory name="2"/>
+            <MarkerCategory name="3"/>
+            <MarkerCategory name="4"/>
+            <MarkerCategory name="5"/>
+            <MarkerCategory name="6"/>
           </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="Pumpkin Carving" behavior="6"/>
+        <MarkerCategory name="Pumpkin Carving" behavior="6" data-class="size-0.5" iconSize="0.5"/>
         <MarkerCategory name="Shut the Doors"/>
       </MarkerCategory>
     </MarkerCategory>

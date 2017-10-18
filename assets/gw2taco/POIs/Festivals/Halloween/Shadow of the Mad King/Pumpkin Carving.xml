@@ -2,7 +2,7 @@
   <MarkerCategory name="Festivals">
     <MarkerCategory name="Halloween">
       <MarkerCategory name="Shadow of the Mad King">
-        <MarkerCategory name="Pumpkin Carving" behavior="6"/>
+        <MarkerCategory name="Pumpkin Carving" behavior="6" data-class="size-0.5"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
