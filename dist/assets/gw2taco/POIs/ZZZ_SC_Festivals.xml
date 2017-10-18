@@ -1,0 +1,95 @@
+<OverlayData>
+  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
+      <MarkerCategory name="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" DisplayName="Lunatic Wardrobe">
+        <MarkerCategory name="Lunatic Racer" DisplayName="Lunatic Racer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" DisplayName="Shadow of the Mad King">
+        <MarkerCategory name="Courtly Service" DisplayName="Courtly Service"/>
+        <MarkerCategory name="Mad Memories" DisplayName="Mad Memories">
+          <MarkerCategory name="Mad Mysteries" DisplayName="Mad Mysteries">
+            <MarkerCategory name="shadow_of_the_mad_king">
+              <MarkerCategory name="mad_mysteries">
+                <MarkerCategory name="1"/>
+                <MarkerCategory name="2"/>
+                <MarkerCategory name="3"/>
+                <MarkerCategory name="4"/>
+                <MarkerCategory name="5"/>
+                <MarkerCategory name="6"/>
+              </MarkerCategory>
+            </MarkerCategory>
+          </MarkerCategory>
+          <MarkerCategory name="Mad Mementos" DisplayName="Mad Mementos">
+            <MarkerCategory name="shadow_of_the_mad_king">
+              <MarkerCategory name="mad_mementos">
+                <MarkerCategory name="1"/>
+                <MarkerCategory name="2"/>
+                <MarkerCategory name="3"/>
+                <MarkerCategory name="4"/>
+                <MarkerCategory name="5"/>
+                <MarkerCategory name="6"/>
+              </MarkerCategory>
+            </MarkerCategory>
+          </MarkerCategory>
+          <MarkerCategory name="Mad Memorial" DisplayName="Mad Memorial">
+            <MarkerCategory name="shadow_of_the_mad_king">
+              <MarkerCategory name="mad_memorial">
+                <MarkerCategory name="1"/>
+                <MarkerCategory name="2"/>
+              </MarkerCategory>
+            </MarkerCategory>
+          </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="Pumpkin Carving" behavior="6" DisplayName="Pumpkin Carving"/>
+        <MarkerCategory name="Shut the Doors" DisplayName="Shut the Doors"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="866" xpos="0.542229" ypos="192.673" zpos="56.0757" type="festivals.halloween.lunatic_wardrobe.lunatic_racer" GUID="kahW+UcUGk64eRLw3zWHxA=="/>
+    <POI MapID="866" xpos="6.15847" ypos="225.292" zpos="-2.51174" type="festivals.halloween.shadow_of_the_mad_king.courtly_service" GUID="prKLlB0MBUKM8kXtWYKiEQ=="/>
+    <POI MapID="50" xpos="-85.1626" ypos="23.8827" zpos="156.07" type="festivals.halloween.shadow_of_the_mad_king.mad_memories" GUID="9jRJzPo5skyJcsfdVGq4Bw=="/>
+    <POI MapID="50" xpos="-94.8229" ypos="23.8697" zpos="137.683" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mysteries.shadow_of_the_mad_king.mad_mysteries.1" GUID="+j0W/bHHHUGDYZ+n5iHUTg=="/>
+    <POI MapID="50" xpos="391.599" ypos="0.846782" zpos="-4.40319" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mysteries.shadow_of_the_mad_king.mad_mysteries.2" GUID="MiNJ0awv30u4VV3pZbJP9Q=="/>
+    <POI MapID="50" xpos="-361.378" ypos="-57.786" zpos="-83.0549" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mysteries.shadow_of_the_mad_king.mad_mysteries.3" GUID="H/EqUy/YG06DLiBnZ/Srdg=="/>
+    <POI MapID="15" xpos="-137.979" ypos="56.6309" zpos="621.091" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mysteries.shadow_of_the_mad_king.mad_mysteries.4" GUID="kYPWQEQI4kaf0eNSoFvVTQ=="/>
+    <POI MapID="23" xpos="1037.81" ypos="14.4863" zpos="505.81" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mysteries.shadow_of_the_mad_king.mad_mysteries.5" GUID="RjdJhNtBTEifOyUssVVAzA=="/>
+    <POI MapID="24" xpos="50.7463" ypos="-0.255198" zpos="556.081" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mysteries.shadow_of_the_mad_king.mad_mysteries.6" GUID="65kuI1rxWkicACceuAGeGA=="/>
+    <POI MapID="24" xpos="-337.034" ypos="52.1101" zpos="132.473" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mementos.shadow_of_the_mad_king.mad_mementos.1" GUID="ajNCo59rFUSzcp4IyFxYYw=="/>
+    <POI MapID="17" xpos="-878.752" ypos="131.105" zpos="-134.248" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mementos.shadow_of_the_mad_king.mad_mementos.2" GUID="/OguarEVDkCkQGTlkbRH2Q=="/>
+    <POI MapID="73" xpos="-418.41" ypos="3.198" zpos="457.079" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mementos.shadow_of_the_mad_king.mad_mementos.3" GUID="BGfY9G7r5UGkOQMXntqXZg=="/>
+    <POI MapID="17" xpos="-735.121" ypos="28.0121" zpos="289.277" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mementos.shadow_of_the_mad_king.mad_mementos.4" GUID="X0CqYuvmfE6KK5ShynH3gg=="/>
+    <POI MapID="17" xpos="-403.545" ypos="36.0643" zpos="574.568" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mementos.shadow_of_the_mad_king.mad_mementos.5" GUID="W36thgSzBEOwL72b72p1Pw=="/>
+    <POI MapID="53" xpos="246.146" ypos="-0.450827" zpos="940.143" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mementos.shadow_of_the_mad_king.mad_mementos.6" GUID="m9bDL8qg40yPgfrt7Zjizw=="/>
+    <POI MapID="50" xpos="-87.3548" ypos="21.2999" zpos="390.02" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_memorial.shadow_of_the_mad_king.mad_memorial.1" GUID="jLAUCOpgcEuDuj4DD+tXkQ=="/>
+    <POI MapID="866" xpos="150.042" ypos="278.527" zpos="149.843" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_memorial.shadow_of_the_mad_king.mad_memorial.2" GUID="ESJsiRpwkkmKJTKbdV6zNQ=="/>
+    <POI MapID="50" xpos="-82.7782" ypos="24.5478" zpos="296.209" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="ghR01/JkNUOQnyfVICtCIA=="/>
+    <POI MapID="19" xpos="940.004" ypos="76.9466" zpos="523.44" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="YYTwAhuCTEe9m+eYFsxzVw=="/>
+    <POI MapID="19" xpos="-292.133" ypos="4.80635" zpos="-462.783" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="ZAqh7RetFEighw1/qmts/w=="/>
+    <POI MapID="19" xpos="81.116" ypos="41.3807" zpos="-259.938" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="SQ+63Kq6L0CFeJDNuHEcug=="/>
+    <POI MapID="19" xpos="-912.047" ypos="45.2885" zpos="-195.092" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="kFOXhEombk+H8ULlptM3rQ=="/>
+    <POI MapID="866" xpos="47.6385" ypos="179.442" zpos="-116.455" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="maCAsKkfkkGYk6ytIzSg4w=="/>
+    <POI MapID="866" xpos="15.3341" ypos="179.014" zpos="-104.193" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="p+jorTOVfEiffQFVjpxHKg=="/>
+    <POI MapID="24" xpos="-988.228" ypos="44.969" zpos="-280.294" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="/1ZVibb7nU6JhGIgo/ZFRA=="/>
+    <POI MapID="19" xpos="-67.9229" ypos="19.4846" zpos="-57.6098" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="eZWuXBYonEWQyO/m5kP/bA=="/>
+    <POI MapID="24" xpos="-366.255" ypos="7.15111" zpos="7.4552" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="ESMxpWz+x0iEAp6LEnp1AQ=="/>
+    <POI MapID="35" xpos="-396.495" ypos="25.5437" zpos="725.259" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="1Uoa8AcaDU+8R1EhSb6DnA=="/>
+    <POI MapID="23" xpos="1186.76" ypos="42.5594" zpos="-98.7915" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="oLEk0rKApUKwfoS+5bKkfw=="/>
+    <POI MapID="15" xpos="-691.242" ypos="25.0018" zpos="400.272" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="Mla3qmfgVku4BDoCs7ptng=="/>
+    <POI MapID="34" xpos="0.242473" ypos="20.4035" zpos="-652.226" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="ubDs12bWUU2G5S8F6v+tEA=="/>
+    <POI MapID="28" xpos="39.8346" ypos="13.9171" zpos="-1118.63" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="StujlI4LpEimWycgg683ow=="/>
+    <POI MapID="19" xpos="-646.804" ypos="42.8492" zpos="233.464" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="X4WGNzRA0EiZorOolm/lBg=="/>
+    <POI MapID="19" xpos="-551.6" ypos="2.98145" zpos="37.3312" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="q/aG5RSwMUKRKFK9zojD/A=="/>
+    <POI MapID="28" xpos="-28.2892" ypos="146.447" zpos="671.638" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="iGlbrVjEyEmEfFcX3/fm0A=="/>
+    <POI MapID="15" xpos="-938.991" ypos="26.8569" zpos="384.912" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="/P1PWRtffEiYh4nfFRwwUw=="/>
+    <POI MapID="28" xpos="126.992" ypos="3.79832" zpos="-496.503" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="Z9uU74t0LkaXzyVqlodQXw=="/>
+    <POI MapID="34" xpos="-170.389" ypos="5.65384" zpos="-999.943" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="UjDg/MgBq0Kzjc2WKExzrQ=="/>
+    <POI MapID="866" xpos="182.475" ypos="174.449" zpos="140.618" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="uXh19/23bk25gaMkaAG3pA=="/>
+    <POI MapID="866" xpos="211.464" ypos="185.574" zpos="-48.0673" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="JS1dHdMswkGlYFZyUnp4Zw=="/>
+    <POI MapID="23" xpos="999.199" ypos="3.4273" zpos="561.546" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="QQwTaVF5t0u6X669bFaHWQ=="/>
+    <POI MapID="24" xpos="-47.9719" ypos="13.8273" zpos="464.81" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="Eigvjy4RzES0MP44OwHb3Q=="/>
+    <POI MapID="24" xpos="-355.854" ypos="56.9556" zpos="131.405" type="festivals.halloween.shadow_of_the_mad_king.pumpkin_carving" GUID="fU06Oyd4b0mIqxO/1D3kKA=="/>
+    <POI MapID="866" xpos="120.015" ypos="175.17" zpos="-177.472" type="festivals.halloween.shadow_of_the_mad_king.shut_the_doors" GUID="pbCzGh3dPUCiwH4mr4LLLA=="/>
+    <POI MapID="866" xpos="-53.7512" ypos="193.4" zpos="-29.1347" type="festivals.halloween.shadow_of_the_mad_king.shut_the_doors" GUID="Vh3jnjsemEaMRkcKqKcpWQ=="/>
+  </POIs>
+</OverlayData>
