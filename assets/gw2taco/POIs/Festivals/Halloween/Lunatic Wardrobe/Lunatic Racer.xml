@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Festivals">
+    <MarkerCategory name="Halloween">
+      <MarkerCategory name="Lunatic Wardrobe">
+        <MarkerCategory name="Lunatic Racer"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="866" xpos="0.542229" ypos="192.673" zpos="56.0757" type="festivals.halloween.lunatic_wardrobe.lunatic_racer" GUID="kahW+UcUGk64eRLw3zWHxA=="/>
+  </POIs>
+</OverlayData>
