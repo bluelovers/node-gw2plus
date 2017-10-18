@@ -20,5 +20,6 @@
     <POI MapID="1228" xpos="-619.492" ypos="75.4283" zpos="-184.979" type="divinggoggles.start" GUID="IT8sNRJ+NU+28mf01eMi+A=="/>
     <POI MapID="1228" xpos="-625.014" ypos="-1.05301" zpos="-164.647" type="divinggoggles.guilde.end" GUID="n0viS6rD+0ugKU+sIBPbkg=="/>
     <POI MapID="35" xpos="-26.3709" ypos="25.7214" zpos="-566.777" type="divinggoggles.start" GUID="5Y8gMwmtxk2Dr8u+Mnt7gQ=="/>
+    <POI MapID="28" xpos="142.952" ypos="41.0467" zpos="-51.7476" type="divinggoggles.start" GUID="OxFolOxcc0aP8PP1FUddqw=="/>
   </POIs>
 </OverlayData>
