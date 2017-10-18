@@ -54,6 +54,9 @@ addGulpTasks({
 				'ls.ls3.flashpoint.lessons_learned',
 				'chest.skritt',
 				'resourcenode.mapspecific.plant.random',
+
+				'festivals.halloween.shadow_of_the_mad_king.pumpkin_carving',
+				'resourcenode.other.candy_corn',
 			];
 
 			let types2 = {
@@ -81,6 +84,13 @@ addGulpTasks({
 					'Achievement',
 					'The Silverwastes',
 					'Go for the Gold',
+				],
+
+				'festivals.halloween.carvingpumpkin': [
+					'Festivals',
+					'Halloween',
+					'Shadow of the Mad King',
+					'Pumpkin Carving',
 				],
 			};
 
@@ -256,6 +266,149 @@ addGulpTasks({
 							];
 
 							type_new = cats[type].name_id.split('.');
+						}
+						else if (type.match(/^(?:temp\.halloween)\.(.+)$/i))
+						{
+							pois_target_id = [
+								'Festivals',
+								'Halloween',
+							];
+
+							let k = RegExp.$1;
+
+							switch (k)
+							{
+								case 'lunatic_wardrobe.lunatic_racer':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Lunatic Wardrobe',
+											'Lunatic Racer',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'shadow_of_the_mad_king.shut_the_doors':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Shadow of the Mad King',
+											'Shut the Doors',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'shadow_of_the_mad_king.mad_memories':
+								case 'shadow_of_the_mad_king.mad_mysteries.1':
+								case 'shadow_of_the_mad_king.mad_mysteries.2':
+								case 'shadow_of_the_mad_king.mad_mysteries.3':
+								case 'shadow_of_the_mad_king.mad_mysteries.4':
+								case 'shadow_of_the_mad_king.mad_mysteries.5':
+								case 'shadow_of_the_mad_king.mad_mysteries.6':
+								case 'shadow_of_the_mad_king.mad_mementos.1':
+								case 'shadow_of_the_mad_king.mad_mementos.2':
+								case 'shadow_of_the_mad_king.mad_mementos.3':
+								case 'shadow_of_the_mad_king.mad_mementos.4':
+								case 'shadow_of_the_mad_king.mad_mementos.5':
+								case 'shadow_of_the_mad_king.mad_mementos.6':
+								case 'shadow_of_the_mad_king.mad_memorial.1':
+								case 'shadow_of_the_mad_king.mad_memorial.2':
+								case 'shadow_of_the_mad_king.mad_memorial.3':
+								case 'shadow_of_the_mad_king.mad_memorial.4':
+								case 'shadow_of_the_mad_king.mad_memorial.5':
+								case 'shadow_of_the_mad_king.mad_memorial.6':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Shadow of the Mad King',
+											'Mad Memories',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									switch (k)
+									{
+										case 'shadow_of_the_mad_king.mad_memories':
+											break;
+										case 'shadow_of_the_mad_king.mad_mysteries.1':
+										case 'shadow_of_the_mad_king.mad_mysteries.2':
+										case 'shadow_of_the_mad_king.mad_mysteries.3':
+										case 'shadow_of_the_mad_king.mad_mysteries.4':
+										case 'shadow_of_the_mad_king.mad_mysteries.5':
+										case 'shadow_of_the_mad_king.mad_mysteries.6':
+
+											type.match(/^(?:shadow_of_the_mad_king\.mad_mysteries)\.(.+)$/i);
+											var k2 = RegExp.$1;
+
+											type_new = type_new
+												.concat([
+													'Mad Mysteries',
+													k2,
+												])
+											;
+
+											break;
+										case 'shadow_of_the_mad_king.mad_mementos.1':
+										case 'shadow_of_the_mad_king.mad_mementos.2':
+										case 'shadow_of_the_mad_king.mad_mementos.3':
+										case 'shadow_of_the_mad_king.mad_mementos.4':
+										case 'shadow_of_the_mad_king.mad_mementos.5':
+										case 'shadow_of_the_mad_king.mad_mementos.6':
+
+											type.match(/^(?:shadow_of_the_mad_king\.mad_mementos)\.(.+)$/i);
+											var k2 = RegExp.$1;
+
+											type_new = type_new
+												.concat([
+													'Mad Mementos',
+													k2,
+												])
+											;
+
+											break;
+										case 'shadow_of_the_mad_king.mad_memorial.1':
+										case 'shadow_of_the_mad_king.mad_memorial.2':
+										case 'shadow_of_the_mad_king.mad_memorial.3':
+										case 'shadow_of_the_mad_king.mad_memorial.4':
+										case 'shadow_of_the_mad_king.mad_memorial.5':
+										case 'shadow_of_the_mad_king.mad_memorial.6':
+
+											type.match(/^(?:shadow_of_the_mad_king\.mad_memorial)\.(.+)$/i);
+											var k2 = RegExp.$1;
+
+											type_new = type_new
+												.concat([
+													'Mad Memorial',
+													k2,
+												])
+											;
+
+											break;
+										default:
+											break POIS;
+									}
+
+									break;
+								case 'shadow_of_the_mad_king.courtly_service':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Shadow of the Mad King',
+											'Courtly Service',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								default:
+									break POIS;
+							}
 						}
 						else if (type.match(/^(?:temp\.path_of_fire)\.(.+)$/i))
 						{
