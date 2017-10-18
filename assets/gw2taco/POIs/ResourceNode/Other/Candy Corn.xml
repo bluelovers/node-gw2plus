@@ -44,5 +44,7 @@
     <POI MapID="866" xpos="-40.7716" ypos="195.2" zpos="35.0761" type="resourcenode.other.candy_corn" GUID="IIbQPmSvw0ah/xktfAh+zw=="/>
     <POI MapID="866" xpos="44.0278" ypos="194.279" zpos="-40.5347" type="resourcenode.other.candy_corn" GUID="ufcWVfHLO0aRR45FXSA2Fg=="/>
     <POI MapID="866" xpos="39.6415" ypos="196.513" zpos="46.7212" type="resourcenode.other.candy_corn" GUID="jQfBHBL7hUSb2f7aOHtr9g=="/>
+    <POI MapID="866" xpos="137.497" ypos="175.789" zpos="-180.943" type="resourcenode.other.candy_corn" GUID="l37VIrON6k2RrJVPoZMS3g=="/>
+    <POI MapID="866" xpos="102.877" ypos="176.847" zpos="-189.154" type="resourcenode.other.candy_corn" GUID="RZ3fWireFEueMqxGCvu9qA=="/>
   </POIs>
 </OverlayData>
