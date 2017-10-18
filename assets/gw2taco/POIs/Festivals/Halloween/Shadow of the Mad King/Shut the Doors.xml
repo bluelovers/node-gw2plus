@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="Festivals">
+    <MarkerCategory name="Halloween">
+      <MarkerCategory name="Shadow of the Mad King">
+        <MarkerCategory name="Shut the Doors"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="866" xpos="120.015" ypos="175.17" zpos="-177.472" type="festivals.halloween.shadow_of_the_mad_king.shut_the_doors" GUID="pbCzGh3dPUCiwH4mr4LLLA=="/>
+    <POI MapID="866" xpos="-53.7512" ypos="193.4" zpos="-29.1347" type="festivals.halloween.shadow_of_the_mad_king.shut_the_doors" GUID="Vh3jnjsemEaMRkcKqKcpWQ=="/>
+  </POIs>
+</OverlayData>
