@@ -31,5 +31,10 @@
     <POI MapID="1188" xpos="-214.192" ypos="101.924" zpos="77.8408" type="tactical.raid.stackpoint" GUID="y/S/BmbiEkaE+VdOiZ3OEg=="/>
     <POI MapID="1188" xpos="-204.892" ypos="357.718" zpos="106.122" type="tactical.raid.spawnpoint" GUID="4Cf4G6pp0EKnV1nHCG+riA=="/>
     <POI MapID="1188" xpos="39.5825" ypos="105.453" zpos="53.7944" type="other.portal.gate" GUID="1oDQxZJjPUCtgl8m/Q1mNw=="/>
+    <POI MapID="1188" xpos="90.5871" ypos="106.169" zpos="117.253" type="tactical.raid.stackpoint" GUID="i6O1capKHE67IFnh84mUuA=="/>
+    <POI MapID="1188" xpos="91.1707" ypos="106.169" zpos="101.268" type="tactical.raid.stackpoint" GUID="VSwt1mahnUmsbdLVnC35sg=="/>
+    <POI MapID="1188" xpos="91.3112" ypos="106.169" zpos="85.5351" type="tactical.raid.stackpoint" GUID="5imKLfraCEOcgdxxmxuMOQ=="/>
+    <POI MapID="1188" xpos="67.1366" ypos="106.169" zpos="101.322" type="tactical.raid.spawnpoint" GUID="GYm3TdP43kmnSLO+riOs3A=="/>
+    <POI MapID="1188" xpos="-89.9334" ypos="129.513" zpos="77.2864" type="tactical.raid.stackpoint" GUID="Tsbx1X1IRkGikXE+Z2uTZw=="/>
   </POIs>
 </OverlayData>
