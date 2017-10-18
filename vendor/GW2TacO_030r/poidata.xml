@@ -398,5 +398,7 @@
     <POI MapID="24" xpos="-38.9896" ypos="11.8878" zpos="491.648" type="other.portal.cave" GUID="sP0PhdWzlEKO7BdWpxrdfg=="/>
     <POI MapID="17" xpos="-684.663" ypos="0.337386" zpos="-122.495" type="other.portal.gate" GUID="k0tEwdt1dkCNDSk0sLopjw=="/>
     <POI MapID="53" xpos="255.278" ypos="6.05893" zpos="962.868" type="other.portal.cave" GUID="gMC4lAPHoUmE8uZip3/Dwg=="/>
+    <POI MapID="50" xpos="-383.47" ypos="11.1317" zpos="193.559" type="other.portal.cave" GUID="4qI+AV7UaU+QWAsNdFdKsQ=="/>
+    <POI MapID="23" xpos="832.247" ypos="46.3283" zpos="479.437" type="other.portal.gate" GUID="j6X4vI78QkGEA3RXWeAZrw=="/>
   </POIs>
 </OverlayData>
