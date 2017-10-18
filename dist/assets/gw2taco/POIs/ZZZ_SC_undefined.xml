@@ -45,8 +45,8 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true" data-class="iconsize-0.5">
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" iconSize="0.5" fadeFar="25200" fadeNear="16800">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -72,7 +72,43 @@
     <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Halloween">
+    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
+      <MarkerCategory name="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" DisplayName="Lunatic Wardrobe">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" DisplayName="Shadow of the Mad King">
+        <MarkerCategory name="Mad Memories" DisplayName="Mad Memories">
+          <MarkerCategory name="Mad Mysteries" DisplayName="Mad Mysteries">
+            <MarkerCategory name="shadow_of_the_mad_king">
+              <MarkerCategory name="mad_mysteries">
+                <MarkerCategory name="undefined"/>
+              </MarkerCategory>
+              <MarkerCategory name="undefined"/>
+            </MarkerCategory>
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="Mad Mementos" DisplayName="Mad Mementos">
+            <MarkerCategory name="shadow_of_the_mad_king">
+              <MarkerCategory name="mad_mementos">
+                <MarkerCategory name="undefined"/>
+              </MarkerCategory>
+              <MarkerCategory name="undefined"/>
+            </MarkerCategory>
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="Mad Memorial" DisplayName="Mad Memorial">
+            <MarkerCategory name="shadow_of_the_mad_king">
+              <MarkerCategory name="mad_memorial">
+                <MarkerCategory name="undefined"/>
+              </MarkerCategory>
+              <MarkerCategory name="undefined"/>
+            </MarkerCategory>
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Wintersday">
@@ -106,10 +142,13 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
+      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -484,6 +523,42 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="The Silverwastes" DisplayName="The Silverwastes">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Halloween">
+      <MarkerCategory name="Shadow of the Mad King" DisplayName="Shadow of the Mad King">
+        <MarkerCategory name="Mad Mysteries" DisplayName="Mad Mysteries">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Mad Mementos" DisplayName="Mad Mementos">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Mad Memorial" DisplayName="Mad Memorial">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Lunatic Wardrobe" DisplayName="Lunatic Wardrobe">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Lunatic Inquisition" DisplayName="Lunatic Inquisition">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Mad King says" DisplayName="Mad King says">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Halloween Rituals" DisplayName="Halloween Rituals">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Tactical">
+      <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets">
+        <MarkerCategory name="Heart of Thorns" DisplayName="Heart of Thorns">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
