@@ -21,5 +21,10 @@
     <POI MapID="23" xpos="210.33" ypos="61.3168" zpos="54.5849" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="9U+wQZksMEK9Ps0gg8qh+g=="/>
     <POI MapID="23" xpos="208.163" ypos="61.4174" zpos="56.9001" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="Cy3K3HJzYEG9VmoJRpk4YA=="/>
     <POI MapID="23" xpos="202.837" ypos="62.7336" zpos="54.9828" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="fVVxU5lCaEuXinicM2c6Zg=="/>
+    <POI MapID="23" xpos="-422.203" ypos="6.37047" zpos="-424.99" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="iH59rWIcykqb3pJS3sOlxA=="/>
+    <POI MapID="23" xpos="-423.795" ypos="7.59282" zpos="-428.211" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="09tFcwFukUGKldWgG47JEQ=="/>
+    <POI MapID="23" xpos="-427.767" ypos="5.26735" zpos="-420.902" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="6YlrLvtsXUeYk96CAVAjVw=="/>
+    <POI MapID="23" xpos="-425.005" ypos="5.1494" zpos="-419.94" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="S8sMuj4/dUOWU1n/ebFzzg=="/>
+    <POI MapID="23" xpos="-422.594" ypos="5.16587" zpos="-420.356" type="resourcenode.mapspecific.plant.toxic_seedling" GUID="991PcuGKbUmxHl7sVc04Kw=="/>
   </POIs>
 </OverlayData>
