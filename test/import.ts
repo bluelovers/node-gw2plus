@@ -68,6 +68,12 @@ import gw2api, { getMapAll, getMapInfo } from '../src/gw2api/map';
 			'Other',
 			'Candy Corn',
 		],
+		'festivals.halloween.carving pumpkin': [
+			'Festivals',
+			'Halloween',
+			'Shadow of the Mad King',
+			'Pumpkin Carving',
+		],
 	};
 
 	let ls = pois.filter();
