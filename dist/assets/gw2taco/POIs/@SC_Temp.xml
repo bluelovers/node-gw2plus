@@ -218,13 +218,62 @@
     <MarkerCategory name="The Silverwastes" DisplayName="The Silverwastes">
       <MarkerCategory name="Go for the Gold" DisplayName="Go for the Gold"/>
     </MarkerCategory>
-  </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
-      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
-        <MarkerCategory name="Bristleback"/>
+    <MarkerCategory name="Halloween">
+      <MarkerCategory name="Shadow of the Mad King" DisplayName="Shadow of the Mad King">
+        <MarkerCategory name="Pumpkin Carving" DisplayName="Pumpkin Carving"/>
+        <MarkerCategory name="Shut the Doors" DisplayName="Shut the Doors"/>
+        <MarkerCategory name="Mad Memories" DisplayName="Mad Memories"/>
+        <MarkerCategory name="Courtly Service" DisplayName="Courtly Service"/>
+        <MarkerCategory name="Ancient Grudge" DisplayName="Ancient Grudge"/>
+        <MarkerCategory name="Mad Mysteries" DisplayName="Mad Mysteries">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="4"/>
+          <MarkerCategory name="5"/>
+          <MarkerCategory name="6"/>
+        </MarkerCategory>
+        <MarkerCategory name="Mad Mementos" DisplayName="Mad Mementos">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="4"/>
+          <MarkerCategory name="5"/>
+          <MarkerCategory name="6"/>
+        </MarkerCategory>
+        <MarkerCategory name="Mad Memorial" DisplayName="Mad Memorial">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="4"/>
+          <MarkerCategory name="5"/>
+          <MarkerCategory name="6"/>
+        </MarkerCategory>
       </MarkerCategory>
-      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire"/>
+      <MarkerCategory name="Lunatic Wardrobe" DisplayName="Lunatic Wardrobe">
+        <MarkerCategory name="Lunatic Racer" DisplayName="Lunatic Racer"/>
+      </MarkerCategory>
+      <MarkerCategory name="Lunatic Inquisition" DisplayName="Lunatic Inquisition">
+        <MarkerCategory name="Black Goo" DisplayName="Black Goo"/>
+        <MarkerCategory name="Torches"/>
+        <MarkerCategory name="Web"/>
+        <MarkerCategory name="Bones"/>
+      </MarkerCategory>
+      <MarkerCategory name="Mad King says" DisplayName="Mad King says">
+        <MarkerCategory name="Chest"/>
+      </MarkerCategory>
+      <MarkerCategory name="Halloween Rituals" DisplayName="Halloween Rituals">
+        <MarkerCategory name="New Afterlife for Quaggan" DisplayName="New Afterlife for Quaggan"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Tactical">
+      <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets">
+        <MarkerCategory name="Heart of Thorns" DisplayName="Heart of Thorns">
+          <MarkerCategory name="Bristleback"/>
+        </MarkerCategory>
+        <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
+        </MarkerCategory>
+      </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
 </OverlayData>
