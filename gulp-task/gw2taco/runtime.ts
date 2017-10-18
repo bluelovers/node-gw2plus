@@ -342,7 +342,7 @@ addGulpTasks({
 										case 'shadow_of_the_mad_king.mad_mysteries.5':
 										case 'shadow_of_the_mad_king.mad_mysteries.6':
 
-											type.match(/^(?:shadow_of_the_mad_king\.mad_mysteries)\.(.+)$/i);
+											k.match(/^(?:shadow_of_the_mad_king\.mad_mysteries)\.(.+)$/i);
 											var k2 = RegExp.$1;
 
 											type_new = type_new
@@ -360,7 +360,7 @@ addGulpTasks({
 										case 'shadow_of_the_mad_king.mad_mementos.5':
 										case 'shadow_of_the_mad_king.mad_mementos.6':
 
-											type.match(/^(?:shadow_of_the_mad_king\.mad_mementos)\.(.+)$/i);
+											k.match(/^(?:shadow_of_the_mad_king\.mad_mementos)\.(.+)$/i);
 											var k2 = RegExp.$1;
 
 											type_new = type_new
@@ -378,7 +378,7 @@ addGulpTasks({
 										case 'shadow_of_the_mad_king.mad_memorial.5':
 										case 'shadow_of_the_mad_king.mad_memorial.6':
 
-											type.match(/^(?:shadow_of_the_mad_king\.mad_memorial)\.(.+)$/i);
+											k.match(/^(?:shadow_of_the_mad_king\.mad_memorial)\.(.+)$/i);
 											var k2 = RegExp.$1;
 
 											type_new = type_new

@@ -173,36 +173,24 @@
         <MarkerCategory name="Courtly Service"/>
         <MarkerCategory name="Mad Memories">
           <MarkerCategory name="Mad Mysteries">
-            <MarkerCategory name="shadow_of_the_mad_king">
-              <MarkerCategory name="mad_mysteries">
-                <MarkerCategory name="1"/>
-                <MarkerCategory name="2"/>
-                <MarkerCategory name="3"/>
-                <MarkerCategory name="4"/>
-                <MarkerCategory name="5"/>
-                <MarkerCategory name="6"/>
-              </MarkerCategory>
-            </MarkerCategory>
+            <MarkerCategory name="1"/>
+            <MarkerCategory name="2"/>
+            <MarkerCategory name="3"/>
+            <MarkerCategory name="4"/>
+            <MarkerCategory name="5"/>
+            <MarkerCategory name="6"/>
           </MarkerCategory>
           <MarkerCategory name="Mad Mementos">
-            <MarkerCategory name="shadow_of_the_mad_king">
-              <MarkerCategory name="mad_mementos">
-                <MarkerCategory name="1"/>
-                <MarkerCategory name="2"/>
-                <MarkerCategory name="3"/>
-                <MarkerCategory name="4"/>
-                <MarkerCategory name="5"/>
-                <MarkerCategory name="6"/>
-              </MarkerCategory>
-            </MarkerCategory>
+            <MarkerCategory name="1"/>
+            <MarkerCategory name="2"/>
+            <MarkerCategory name="3"/>
+            <MarkerCategory name="4"/>
+            <MarkerCategory name="5"/>
+            <MarkerCategory name="6"/>
           </MarkerCategory>
           <MarkerCategory name="Mad Memorial">
-            <MarkerCategory name="shadow_of_the_mad_king">
-              <MarkerCategory name="mad_memorial">
-                <MarkerCategory name="1"/>
-                <MarkerCategory name="2"/>
-              </MarkerCategory>
-            </MarkerCategory>
+            <MarkerCategory name="1"/>
+            <MarkerCategory name="2"/>
           </MarkerCategory>
         </MarkerCategory>
         <MarkerCategory name="Pumpkin Carving" behavior="6"/>

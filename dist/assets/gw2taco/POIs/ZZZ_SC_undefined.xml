@@ -79,30 +79,12 @@
       <MarkerCategory name="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" DisplayName="Shadow of the Mad King">
         <MarkerCategory name="Mad Memories" DisplayName="Mad Memories">
           <MarkerCategory name="Mad Mysteries" DisplayName="Mad Mysteries">
-            <MarkerCategory name="shadow_of_the_mad_king">
-              <MarkerCategory name="mad_mysteries">
-                <MarkerCategory name="undefined"/>
-              </MarkerCategory>
-              <MarkerCategory name="undefined"/>
-            </MarkerCategory>
             <MarkerCategory name="undefined"/>
           </MarkerCategory>
           <MarkerCategory name="Mad Mementos" DisplayName="Mad Mementos">
-            <MarkerCategory name="shadow_of_the_mad_king">
-              <MarkerCategory name="mad_mementos">
-                <MarkerCategory name="undefined"/>
-              </MarkerCategory>
-              <MarkerCategory name="undefined"/>
-            </MarkerCategory>
             <MarkerCategory name="undefined"/>
           </MarkerCategory>
           <MarkerCategory name="Mad Memorial" DisplayName="Mad Memorial">
-            <MarkerCategory name="shadow_of_the_mad_king">
-              <MarkerCategory name="mad_memorial">
-                <MarkerCategory name="undefined"/>
-              </MarkerCategory>
-              <MarkerCategory name="undefined"/>
-            </MarkerCategory>
             <MarkerCategory name="undefined"/>
           </MarkerCategory>
           <MarkerCategory name="undefined"/>
