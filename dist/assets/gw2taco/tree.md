@@ -137,6 +137,15 @@ POIs
 │ └─┬ World vs.World
 │   └── Chest_38_Eternal Battlegrounds.xml
 ├── DivingGoggles.xml
+├─┬ Festivals
+│ └─┬ Halloween
+│   ├─┬ Lunatic Wardrobe
+│   │ └── Lunatic Racer.xml
+│   └─┬ Shadow of the Mad King
+│     ├── Courtly Service.xml
+│     ├── Mad Memories.xml
+│     ├── Pumpkin Carving.xml
+│     └── Shut the Doors.xml
 ├── JumpingPuzzle.xml
 ├─┬ LS
 │ ├─┬ LS3
@@ -541,9 +550,12 @@ POIs
 │ │ ├── Rock Gazalle.xml
 │ │ └── Sand Lion.xml
 │ └─┬ Raid
+│   ├── Raid_1062_Spirit Vale.xml
 │   ├── Raid_1149_Salvation Pass.xml
+│   ├── Raid_1156_Stronghold of the Faithful.xml
 │   └── Raid_1188_Bastion of the Penitent.xml
 ├── ZZZ_SC_Chest.xml
+├── ZZZ_SC_Festivals.xml
 ├── ZZZ_SC_GuildMission.xml
 ├── ZZZ_SC_MapSpecific.xml
 ├── ZZZ_SC_Raid.xml

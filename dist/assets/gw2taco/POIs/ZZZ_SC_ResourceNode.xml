@@ -34,11 +34,11 @@
         <MarkerCategory name="Orichalcum"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
-      <MarkerCategory name="Candy Corn" data-class="fade-min" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" fadeFar="2400" fadeNear="1200" DisplayName="Candy Corn"/>
-      <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
-      <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" fadeFar="25200" fadeNear="16800">
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true" data-class="iconsize-0.5">
+      <MarkerCategory name="Candy Corn" data-class="fade-4" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" iconSize="0.5" fadeFar="8400" fadeNear="2100" DisplayName="Candy Corn"/>
+      <MarkerCategory name="Cloth" data-class="fade-synthesizer" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+      <MarkerCategory name="Leather" data-class="fade-synthesizer" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" iconSize="0.5" fadeFar="25200" fadeNear="16800">
         <MarkerCategory name="Rich" data-class="size-1 fade-max2" iconSize="1" fadeFar="42000" fadeNear="25200"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -2642,6 +2642,14 @@
     <POI MapID="62" xpos="408.005" ypos="41.5183" zpos="418.677" type="resourcenode.plant.orichalcum.snowtruffle" GUID="pQkRvqziKkyyBvQZin2ccA=="/>
     <POI MapID="988" xpos="-513.43" ypos="8.06111" zpos="-1.80207" type="resourcenode.plant.steel.cabbage" GUID="7MY4reEQMUazFrWlvy7rTw=="/>
     <POI MapID="988" xpos="-512.856" ypos="9.41421" zpos="-17.2246" type="resourcenode.plant.steel.cabbage" GUID="xkkj2n0lMkm+lCdktJEfhQ=="/>
+    <POI MapID="17" xpos="-698.784" ypos="0.357893" zpos="-135.615" type="resourcenode.plant.steel.cabbage" GUID="leKy+NJLLkCv56J6sSNw/A=="/>
+    <POI MapID="17" xpos="-701.771" ypos="0.367581" zpos="-141.181" type="resourcenode.plant.steel.cabbage" GUID="FakpipdHMUuoNXgg62jKxg=="/>
+    <POI MapID="17" xpos="-707.281" ypos="0.160998" zpos="-143.442" type="resourcenode.plant.steel.cabbage" GUID="7TADBdfARUOu9CAqHFH6sA=="/>
+    <POI MapID="17" xpos="-713.118" ypos="0.286476" zpos="-142.255" type="resourcenode.plant.steel.cabbage" GUID="raBDHmENIEGsBIzZcLmTCQ=="/>
+    <POI MapID="17" xpos="-713.69" ypos="0.331978" zpos="-135.416" type="resourcenode.plant.steel.cabbage" GUID="y0wWXTfpn0qk916HFhxy3w=="/>
+    <POI MapID="17" xpos="-710.139" ypos="0.760542" zpos="-129.707" type="resourcenode.plant.steel.cabbage" GUID="Je9V4wMFO0ORyZYTy+QOSw=="/>
+    <POI MapID="17" xpos="-705.104" ypos="0.504429" zpos="-127.714" type="resourcenode.plant.steel.cabbage" GUID="fOJ5MKgUA0++P4U+c3cKMg=="/>
+    <POI MapID="17" xpos="-700.473" ypos="0.681918" zpos="-125.644" type="resourcenode.plant.steel.cabbage" GUID="/CHe9VO1NUq+qZzWInOn4g=="/>
     <POI MapID="27" xpos="-431.153" ypos="28.0175" zpos="-1046.65" type="resourcenode.plant.steel.grapes" GUID="gQ1Mym+z2km50h3xnFMgXw=="/>
     <POI MapID="27" xpos="-434.787" ypos="30.9837" zpos="-1025.4" type="resourcenode.plant.steel.grapes" GUID="yPTcsaf94E+rXaCqcngvXg=="/>
     <POI MapID="27" xpos="-463.596" ypos="35.4396" zpos="-1009.1" type="resourcenode.plant.steel.grapes" GUID="++1mwekWHkehpkzOnGiwDQ=="/>
@@ -4047,6 +4055,7 @@
     <POI MapID="39" xpos="-885.445" ypos="25.8195" zpos="-235.691" type="resourcenode.wood.hard" GUID="iDePlpWgn0ueUCZJ5aJvCQ=="/>
     <POI MapID="53" xpos="-1.27526" ypos="37.7959" zpos="-823.731" type="resourcenode.wood.hard" GUID="FATufWQakkKFP2/ggbQlJA=="/>
     <POI MapID="73" xpos="448.302" ypos="16.4061" zpos="-636.598" type="resourcenode.wood.hard" GUID="aqn1sgmZ7UmPc4h22/p2dA=="/>
+    <POI MapID="73" xpos="40.7996" ypos="44.8573" zpos="558.1" type="resourcenode.wood.hard" GUID="p1AHQpCMWk6LrZ1HxWACFg=="/>
     <POI MapID="73" xpos="390.261" ypos="12.6469" zpos="90.6561" type="resourcenode.wood.seasoned" GUID="e8L3NvbJFkOQ+4Ov1XKfAw=="/>
     <POI MapID="73" xpos="191.115" ypos="15.7275" zpos="247.346" type="resourcenode.wood.seasoned" GUID="sOywBx/ztUKuOsSYqkhgLA=="/>
     <POI MapID="73" xpos="-350.235" ypos="4.96581" zpos="246.567" type="resourcenode.wood.seasoned" GUID="sr733SaITkGBN37yvLXklQ=="/>
@@ -4352,5 +4361,6 @@
     <POI MapID="31" xpos="-759.215" ypos="33.6282" zpos="-321.531" type="resourcenode.wood.soft" GUID="2no/+mz9pU6nIiZNlsTotQ=="/>
     <POI MapID="31" xpos="-663.04" ypos="46.1975" zpos="-468.723" type="resourcenode.wood.soft" GUID="vjFoDuUBJEKlD3T/GoIt7A=="/>
     <POI MapID="23" xpos="609.095" ypos="66.3306" zpos="154.182" type="resourcenode.wood.soft" GUID="rTZxzdHXrU+2kBHPOc3+Fg=="/>
+    <POI MapID="24" xpos="91.7528" ypos="36.5922" zpos="557.617" type="resourcenode.wood.soft" GUID="SPslsFHmxE6rFYazJaE6+g=="/>
   </POIs>
 </OverlayData>

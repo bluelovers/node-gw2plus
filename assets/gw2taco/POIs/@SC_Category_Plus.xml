@@ -37,13 +37,13 @@
       </MarkerCategory>
       <MarkerCategory name="Synthesizer" data-class="fade-synthesizer size-0.5"/>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true" data-sort="true">
+    <MarkerCategory name="Other" data-allowsub="true" data-sort="true" data-class="iconsize-0.5">
       <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal">
         <MarkerCategory name="Rich" data-class="size-1 fade-max2"/>
       </MarkerCategory>
-      <MarkerCategory name="Leather" data-class="fade-synthesizer size-0.5"/>
-      <MarkerCategory name="Cloth" data-class="fade-synthesizer size-0.5"/>
-      <MarkerCategory name="Candy Corn" data-class="fade-min"/>
+      <MarkerCategory name="Leather" data-class="fade-synthesizer"/>
+      <MarkerCategory name="Cloth" data-class="fade-synthesizer"/>
+      <MarkerCategory name="Candy Corn" data-class="fade-4"/>
       <MarkerCategory name="Watchwork Sprocket"/>
     </MarkerCategory>
   </MarkerCategory>

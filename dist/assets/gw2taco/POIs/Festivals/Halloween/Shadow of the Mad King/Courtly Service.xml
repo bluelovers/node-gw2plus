@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
+      <MarkerCategory name="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" DisplayName="Shadow of the Mad King">
+        <MarkerCategory name="Courtly Service" DisplayName="Courtly Service"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="866" xpos="6.15847" ypos="225.292" zpos="-2.51174" type="festivals.halloween.shadow_of_the_mad_king.courtly_service" GUID="prKLlB0MBUKM8kXtWYKiEQ=="/>
+  </POIs>
+</OverlayData>

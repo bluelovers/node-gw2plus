@@ -256,6 +256,58 @@
       <MarkerCategory name="Go for the Gold"/>
     </MarkerCategory>
 
+    <MarkerCategory name="Halloween">
+      <MarkerCategory name="Shadow of the Mad King">
+        <MarkerCategory name="Pumpkin Carving"/>
+        <MarkerCategory name="Shut the Doors"/>
+        <MarkerCategory name="Mad Memories"/>
+        <MarkerCategory name="Courtly Service"/>
+        <MarkerCategory name="Ancient Grudge"/>
+        <MarkerCategory name="Mad Mysteries">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="4"/>
+          <MarkerCategory name="5"/>
+          <MarkerCategory name="6"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="Mad Mementos">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="4"/>
+          <MarkerCategory name="5"/>
+          <MarkerCategory name="6"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="Mad Memorial">
+          <MarkerCategory name="1"/>
+          <MarkerCategory name="2"/>
+          <MarkerCategory name="3"/>
+          <MarkerCategory name="4"/>
+          <MarkerCategory name="5"/>
+          <MarkerCategory name="6"/>
+        </MarkerCategory>
+
+      </MarkerCategory>
+      <MarkerCategory name="Lunatic Wardrobe">
+        <MarkerCategory name="Lunatic Racer"></MarkerCategory>
+      </MarkerCategory>
+        <MarkerCategory name="Lunatic Inquisition">
+          <MarkerCategory name="Black Goo"/>
+          <MarkerCategory name="Torches"/>
+          <MarkerCategory name="Web"/>
+          <MarkerCategory name="Bones"/>
+        </MarkerCategory>
+        <MarkerCategory name="Mad King says">
+          <MarkerCategory name="Chest"/>
+        </MarkerCategory>
+
+      <MarkerCategory name="Halloween Rituals">
+        <MarkerCategory name="New Afterlife for Quaggan"/>
+      </MarkerCategory>
+
   </MarkerCategory>
 
   <MarkerCategory name="Tactical">

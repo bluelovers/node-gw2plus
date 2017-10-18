@@ -33,6 +33,7 @@ addGulpTasks({
 				':pof:default',
 				':raid',
 				':vendor',
+				':festivals',
 			],
 		},
 
@@ -254,6 +255,17 @@ addGulpTasks({
 			async callback()
 			{
 				await pack_poi('POIs/Other/Vendor', path.join(dist_root, 'assets/gw2taco', `POIs`, `${project_config.RUNTIME_PREFIX_TEMP}Vendor.xml`))
+			},
+		},
+
+		'festivals': {
+			deps: [
+				'category:cache',
+			],
+
+			async callback()
+			{
+				await pack_poi('POIs/Festivals', path.join(dist_root, 'assets/gw2taco', `POIs`, `${project_config.RUNTIME_PREFIX_TEMP}Festivals.xml`))
 			},
 		},
 	},
