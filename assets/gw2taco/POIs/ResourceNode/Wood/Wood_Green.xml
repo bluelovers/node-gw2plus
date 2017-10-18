@@ -137,5 +137,8 @@
     <POI MapID="35" xpos="475.992" ypos="36.8489" zpos="619.899" type="resourcenode.wood.green" GUID="N49Iv6BOpk+ic7dLwPaXSw=="/>
     <POI MapID="15" xpos="-946.1" ypos="11.2084" zpos="-555.34" type="resourcenode.wood.green" GUID="GT7/fjrZ8Ea/E9ydzg1hXg=="/>
     <POI MapID="23" xpos="972.832" ypos="40.3794" zpos="219.117" type="resourcenode.wood.green" GUID="4qRxpUV37kmoAekZnxfHbg=="/>
+    <POI MapID="15" xpos="61.6079" ypos="26.5323" zpos="333.263" type="resourcenode.wood.green" GUID="tNsdcvm8Pkq6Y6yJ0rOgJw=="/>
+    <POI MapID="15" xpos="333.978" ypos="0.584708" zpos="-585.317" type="resourcenode.wood.green" GUID="Vxatg44bx0CAnQ/G1hBVKQ=="/>
+    <POI MapID="28" xpos="-198.615" ypos="109.079" zpos="600.513" type="resourcenode.wood.green" GUID="JnMc+M49SUKpx48/IsU4wQ=="/>
   </POIs>
 </OverlayData>
