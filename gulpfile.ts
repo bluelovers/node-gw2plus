@@ -430,6 +430,11 @@ gulp.task('category:cache', ['assets:cache'], async function ()
 						_attr.heightOffset = 1.6;
 
 						break;
+					case 'icon-reset':
+
+						_attr.iconFile = null;
+
+						break;
 					default:
 						break;
 				}
