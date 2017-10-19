@@ -157,7 +157,12 @@ class Category extends Node
 			{
 				case 'iconfile':
 					b = 'iconFile';
-					value = value.replace(/\\/g, '/');
+
+					if (typeof value != 'undefined' && value !== null)
+					{
+						value = value.replace(/\\/g, '/');
+					}
+
 					break;
 				default:
 					break;

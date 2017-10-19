@@ -55,7 +55,6 @@ addGulpTasks({
 				'chest.skritt',
 				'resourcenode.mapspecific.plant.random',
 
-				'festivals.halloween.shadow_of_the_mad_king.pumpkin_carving',
 				'resourcenode.other.candy_corn',
 			];
 
@@ -89,8 +88,13 @@ addGulpTasks({
 				'festivals.halloween.carvingpumpkin': [
 					'Festivals',
 					'Halloween',
-					'Shadow of the Mad King',
-					'Pumpkin Carving',
+					'CarvingPumpkin',
+				],
+
+				'festivals.halloween.shadow_of_the_mad_king.pumpkin_carving': [
+					'Festivals',
+					'Halloween',
+					'CarvingPumpkin',
 				],
 			};
 

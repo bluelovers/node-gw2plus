@@ -165,7 +165,7 @@
       <MarkerCategory name="FireCracker" iconFile="data/Lunar_New_Year_Dailies.png" behavior="2" iconSize="0.5"/>
     </MarkerCategory>
     <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
-      <MarkerCategory name="CarvingPumpkin" DisplayName="Carving Pumpkin" iconFile="data/Halloween.png" behavior="6" iconSize="0.5"/>
+      <MarkerCategory name="CarvingPumpkin" DisplayName="Carving Pumpkin" behavior="6" iconSize="0.5" data-class="icon-reset"/>
       <MarkerCategory name="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png">
         <MarkerCategory name="Lunatic Racer"/>
       </MarkerCategory>
@@ -197,7 +197,6 @@
             <MarkerCategory name="6"/>
           </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="Pumpkin Carving" behavior="6" data-class="size-0.5" iconSize="0.5"/>
         <MarkerCategory name="Shut the Doors"/>
       </MarkerCategory>
     </MarkerCategory>
