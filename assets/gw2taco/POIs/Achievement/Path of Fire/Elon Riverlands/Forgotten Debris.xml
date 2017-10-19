@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Elon Riverlands">
+        <MarkerCategory name="Forgotten Debris"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1228" xpos="-414.075" ypos="4.44885" zpos="166.592" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Jq4pkyBa4kuCZBdP8Us10Q=="/>
+    <POI MapID="1228" xpos="1010.98" ypos="83.7391" zpos="959.024" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="n+O/sW5FHE+c1gCaicnbDw=="/>
+    <POI MapID="1228" xpos="937.899" ypos="11.1699" zpos="2.15034" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="mcqnJ4VZekiEICT6ucB6qg=="/>
+    <POI MapID="1228" xpos="-128.622" ypos="21.7789" zpos="-193.715" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="/OUjy0GVx0u88PRJeDMgxw=="/>
+    <POI MapID="1228" xpos="-177.916" ypos="93.7558" zpos="993.332" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="WsoPH39dTUKTJ656u13Yzw=="/>
+    <POI MapID="1228" xpos="-876.75" ypos="145.355" zpos="742.302" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Fin428n8mESoW5qnQXOaqg=="/>
+    <POI MapID="1228" xpos="-927.065" ypos="80.8168" zpos="347.543" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="KLSuZ22EAUyzaJfCO19WeQ=="/>
+    <POI MapID="1228" xpos="-676.678" ypos="45.9041" zpos="-749.469" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Pph8evlH6kil89LnUesYKg=="/>
+    <POI MapID="1228" xpos="75.7019" ypos="72.9641" zpos="346.832" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Jw7Il3+qm0OCmnq2IHQTyw=="/>
+    <POI MapID="1228" xpos="-789.078" ypos="108.703" zpos="998.062" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="ssyxtWUdZkOn/TvzkbcA+A=="/>
+    <POI MapID="1228" xpos="456.788" ypos="95.6146" zpos="-407.434" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="sefThZjCRUuj6TCn688NsA=="/>
+    <POI MapID="1228" xpos="546.662" ypos="35.9095" zpos="-636.338" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="SWgFFaMb6kClyt+ci3PY5Q=="/>
+  </POIs>
+</OverlayData>
