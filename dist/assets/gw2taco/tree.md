@@ -139,12 +139,12 @@ POIs
 ├── DivingGoggles.xml
 ├─┬ Festivals
 │ └─┬ Halloween
+│   ├── CarvingPumpkin.xml
 │   ├─┬ Lunatic Wardrobe
 │   │ └── Lunatic Racer.xml
 │   └─┬ Shadow of the Mad King
 │     ├── Courtly Service.xml
 │     ├── Mad Memories.xml
-│     ├── Pumpkin Carving.xml
 │     └── Shut the Doors.xml
 ├── JumpingPuzzle.xml
 ├─┬ LS
