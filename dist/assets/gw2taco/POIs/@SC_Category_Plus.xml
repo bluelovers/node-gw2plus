@@ -56,6 +56,7 @@
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
     <MarkerCategory name="Skritt" heightOffset="3" iconFile="Data/Chest/Skritt.png" data-iconFile="Data/Chest/Skritt.png"/>
     <MarkerCategory name="Achievement" iconFile="Data/Chest/Achievement.png" data-iconFile="Data/Chest/Achievement.png"/>
+    <MarkerCategory name="Daily"/>
   </MarkerCategory>
   <MarkerCategory name="Tactical" data-sort="true" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="GuildMission" data-sort="true" DisplayName="Guild Missions">
@@ -83,12 +84,14 @@
     <MarkerCategory name="Guilde">
       <MarkerCategory name="End" iconFile="Data/DivingGoggles/Guilde.End.png" data-iconFile="Data/DivingGoggles/Guilde.End.png"/>
     </MarkerCategory>
+    <MarkerCategory name="End"/>
   </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
     <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point" iconFile="Data/jumpingpuzzle/CheckPoint.png" data-iconFile="Data/jumpingpuzzle/CheckPoint.png"/>
     <MarkerCategory name="Portal"/>
     <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+    <MarkerCategory name="End" iconFile="Data/jumpingpuzzle/End.png" data-iconFile="Data/jumpingpuzzle/End.png"/>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
