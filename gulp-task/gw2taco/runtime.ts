@@ -294,6 +294,28 @@ addGulpTasks({
 									type_new = pois_target_id.slice(0);
 
 									break;
+								case 'new_afterlife_for_quaggan':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'New Afterlife for Quaggan',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'your_mad_king_says':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Your Mad King says',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
 								case 'shadow_of_the_mad_king.shut_the_doors':
 
 									pois_target_id = pois_target_id
@@ -676,6 +698,66 @@ addGulpTasks({
 										.concat([
 											'Elon Riverlands',
 											'Lost Lore of Elon Riverlands',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'elon_riverlands.forgotten_debris':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Elon Riverlands',
+											'Forgotten Debris',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'domain_of_vabbi.scourge_buster':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Domain of Vabbi',
+											'Scourge Buster',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'domain_of_vabbi.praise_joko_':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Domain of Vabbi',
+											'Praise Joko',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'desert_highlands.dwarven_remnants':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Desert Highlands',
+											'Dwarven Remnants',
+										])
+									;
+
+									type_new = pois_target_id.slice(0);
+
+									break;
+								case 'crystal_oasis.bleached_bones':
+
+									pois_target_id = pois_target_id
+										.concat([
+											'Crystal Oasis',
+											'Bleached Bones',
 										])
 									;
 
