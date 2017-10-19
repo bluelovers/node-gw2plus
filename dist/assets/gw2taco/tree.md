@@ -23,16 +23,21 @@ POIs
 │ │ │ ├── Always Time for Taimi.xml
 │ │ │ └── Priory Historian Elisa.xml
 │ │ ├─┬ Crystal Oasis
+│ │ │ ├── Bleached Bones.xml
 │ │ │ └── Lost Lore of Crystal Oasis.xml
 │ │ ├─┬ Desert Highlands
 │ │ │ ├── Carrot Collector.xml
+│ │ │ ├── Dwarven Remnants.xml
 │ │ │ ├── Dwarven Ruins.xml
 │ │ │ ├── Hidden Carrot Hunt.xml
 │ │ │ └── Lost Lore of Desert Highlands.xml
 │ │ ├─┬ Domain of Vabbi
-│ │ │ └── Lost Lore of the Domain of Vabbi.xml
+│ │ │ ├── Lost Lore of the Domain of Vabbi.xml
+│ │ │ ├── Praise Joko.xml
+│ │ │ └── Scourge Buster.xml
 │ │ ├─┬ Elon Riverlands
 │ │ │ ├── Flameseeker Prophecies.xml
+│ │ │ ├── Forgotten Debris.xml
 │ │ │ ├── Ghostly Trio.xml
 │ │ │ └── Lost Lore of Elon Riverlands.xml
 │ │ ├── Glorify the Golden Heart.xml
@@ -142,10 +147,12 @@ POIs
 │   ├── CarvingPumpkin.xml
 │   ├─┬ Lunatic Wardrobe
 │   │ └── Lunatic Racer.xml
-│   └─┬ Shadow of the Mad King
-│     ├── Courtly Service.xml
-│     ├── Mad Memories.xml
-│     └── Shut the Doors.xml
+│   ├── New Afterlife for Quaggan.xml
+│   ├─┬ Shadow of the Mad King
+│   │ ├── Courtly Service.xml
+│   │ ├── Mad Memories.xml
+│   │ └── Shut the Doors.xml
+│   └── Your Mad King says.xml
 ├── JumpingPuzzle.xml
 ├─┬ LS
 │ ├─┬ LS3
@@ -185,16 +192,21 @@ POIs
 │   │ ├── Always Time for Taimi.xml
 │   │ └── Priory Historian Elisa.xml
 │   ├─┬ Crystal Oasis
+│   │ ├── Bleached Bones.xml
 │   │ └── Lost Lore of Crystal Oasis.xml
 │   ├─┬ Desert Highlands
 │   │ ├── Carrot Collector.xml
+│   │ ├── Dwarven Remnants.xml
 │   │ ├── Dwarven Ruins.xml
 │   │ ├── Hidden Carrot Hunt.xml
 │   │ └── Lost Lore of Desert Highlands.xml
 │   ├─┬ Domain of Vabbi
-│   │ └── Lost Lore of the Domain of Vabbi.xml
+│   │ ├── Lost Lore of the Domain of Vabbi.xml
+│   │ ├── Praise Joko.xml
+│   │ └── Scourge Buster.xml
 │   ├─┬ Elon Riverlands
 │   │ ├── Flameseeker Prophecies.xml
+│   │ ├── Forgotten Debris.xml
 │   │ ├── Ghostly Trio.xml
 │   │ └── Lost Lore of Elon Riverlands.xml
 │   ├── Glorify the Golden Heart.xml
@@ -503,16 +515,21 @@ POIs
 │ │ │ ├── Always Time for Taimi.xml
 │ │ │ └── Priory Historian Elisa.xml
 │ │ ├─┬ Crystal Oasis
+│ │ │ ├── Bleached Bones.xml
 │ │ │ └── Lost Lore of Crystal Oasis.xml
 │ │ ├─┬ Desert Highlands
 │ │ │ ├── Carrot Collector.xml
+│ │ │ ├── Dwarven Remnants.xml
 │ │ │ ├── Dwarven Ruins.xml
 │ │ │ ├── Hidden Carrot Hunt.xml
 │ │ │ └── Lost Lore of Desert Highlands.xml
 │ │ ├─┬ Domain of Vabbi
-│ │ │ └── Lost Lore of the Domain of Vabbi.xml
+│ │ │ ├── Lost Lore of the Domain of Vabbi.xml
+│ │ │ ├── Praise Joko.xml
+│ │ │ └── Scourge Buster.xml
 │ │ ├─┬ Elon Riverlands
 │ │ │ ├── Flameseeker Prophecies.xml
+│ │ │ ├── Forgotten Debris.xml
 │ │ │ ├── Ghostly Trio.xml
 │ │ │ └── Lost Lore of Elon Riverlands.xml
 │ │ ├── Glorify the Golden Heart.xml

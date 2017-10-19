@@ -6,10 +6,12 @@
         <MarkerCategory name="Priory Historian Elisa" DisplayName="Priory Historian Elisa"/>
       </MarkerCategory>
       <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" DisplayName="Crystal Oasis">
+        <MarkerCategory name="Bleached Bones" DisplayName="Bleached Bones"/>
         <MarkerCategory name="Lost Lore of Crystal Oasis" DisplayName="Lost Lore of Crystal Oasis"/>
       </MarkerCategory>
       <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
         <MarkerCategory name="Carrot Collector" DisplayName="Carrot Collector"/>
+        <MarkerCategory name="Dwarven Remnants" DisplayName="Dwarven Remnants"/>
         <MarkerCategory name="Dwarven Ruins" DisplayName="Dwarven Ruins">
           <MarkerCategory name="The Curious Bowl" DisplayName="The Curious Bowl">
             <MarkerCategory name="Breaking the Bank" DisplayName="Breaking the Bank"/>
@@ -31,11 +33,14 @@
       </MarkerCategory>
       <MarkerCategory name="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" DisplayName="Domain of Vabbi">
         <MarkerCategory name="Lost Lore of the Domain of Vabbi" DisplayName="Lost Lore of the Domain of Vabbi"/>
+        <MarkerCategory name="Praise Joko" DisplayName="Praise Joko"/>
+        <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>
       </MarkerCategory>
       <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
         <MarkerCategory name="Flameseeker Prophecies" data-class="fade-4" fadeFar="8400" fadeNear="2100" DisplayName="Flameseeker Prophecies">
           <MarkerCategory name="Forgotten Light" iconFile="Data/Point.png" DisplayName="Forgotten Light"/>
         </MarkerCategory>
+        <MarkerCategory name="Forgotten Debris" DisplayName="Forgotten Debris"/>
         <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
           <MarkerCategory name="Path" iconFile="Data/CheckPoint.png"/>
         </MarkerCategory>
@@ -98,6 +103,23 @@
     <POI MapID="1228" xpos="495.024" ypos="202.426" zpos="649.499" type="achievement.path_of_fire.crystal_desert.always_time_for_taimi" GUID="mKgjFQWeBk6H2FnJzLAb+A=="/>
     <POI MapID="1228" xpos="753.225" ypos="150.406" zpos="955.065" type="achievement.path_of_fire.crystal_desert.priory_historian_elisa" GUID="okl19+rz9k+Aq+exA/j9KQ=="/>
     <POI MapID="1226" xpos="-246.031" ypos="308.272" zpos="726.102" type="achievement.path_of_fire.crystal_desert.priory_historian_elisa" GUID="2qR7zyUxZU2JGfdrIslgSQ=="/>
+    <POI MapID="1210" xpos="-1249.13" ypos="-32.9902" zpos="-212.662" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="eWONSSjqMU208ran0TMe5Q=="/>
+    <POI MapID="1210" xpos="-1092.17" ypos="38.6974" zpos="468.95" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="ZzO68tNhYUKDLDbyr3ufBw=="/>
+    <POI MapID="1210" xpos="-850.679" ypos="13.7484" zpos="303.776" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="y4f5zS3Dnkar0DBdJG8E5w=="/>
+    <POI MapID="1210" xpos="-835.085" ypos="38.6754" zpos="656.982" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="elPOjT36JESd6zdCnf89kw=="/>
+    <POI MapID="1210" xpos="291.53" ypos="58.985" zpos="513.434" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="mrUQKzeyqUikViQo4K62mA=="/>
+    <POI MapID="1210" xpos="-492.026" ypos="-9.68781" zpos="-514.608" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="yGNN4jZjxkO8qAbNSbzRPw=="/>
+    <POI MapID="1210" xpos="-897.416" ypos="87.9316" zpos="17.775" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="vH3esqCshEWacTD9CUMWCw=="/>
+    <POI MapID="1210" xpos="1186.55" ypos="374.996" zpos="393.922" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="iqJ569Vw90Sd217oYMhYSQ=="/>
+    <POI MapID="1210" xpos="1241.18" ypos="278.337" zpos="455.806" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="yNcvKWMM/02j2t4ksBdKig=="/>
+    <POI MapID="1210" xpos="1016.91" ypos="209.594" zpos="439.956" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="r+9sQNoQuUS/Sn4OkRP/qg=="/>
+    <POI MapID="1210" xpos="-937.571" ypos="46.638" zpos="362.953" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="tf3XRin+Bk+l4KLpy7ElfQ=="/>
+    <POI MapID="1210" xpos="482.837" ypos="69.9656" zpos="15.113" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="CL8+B7+K0EKXuLosvRfMew=="/>
+    <POI MapID="1210" xpos="-500.559" ypos="33.8963" zpos="421.029" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="kYMQmtj+QkmPyRrL7fXQlw=="/>
+    <POI MapID="1210" xpos="172.302" ypos="80.147" zpos="-154.376" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="XJiifODp0kyBtmEsHPHENA=="/>
+    <POI MapID="1210" xpos="1452.76" ypos="165.746" zpos="-420.743" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="Q29rgWajl0mcXZwF1llVDg=="/>
+    <POI MapID="1210" xpos="552.205" ypos="278.754" zpos="331.617" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="8I0NIITUnE24+635pvc5iQ=="/>
+    <POI MapID="1210" xpos="807.092" ypos="204.898" zpos="704.605" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="qckRHb8Z5UqWThrRbgp4gA=="/>
     <POI MapID="1210" xpos="255.956" ypos="60.5678" zpos="620.168" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="mYa2H6HqlU2b8D7UxG6O1Q=="/>
     <POI MapID="1210" xpos="1205.58" ypos="372.936" zpos="392.209" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="cJUwBoSUvECnZZAHPXkZzQ=="/>
     <POI MapID="1210" xpos="986.895" ypos="209.571" zpos="394.137" type="achievement.path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="+vkGBJw6D0+g21KnqUVJuA=="/>
@@ -137,6 +159,18 @@
     <POI MapID="1211" xpos="-151.256" ypos="295.806" zpos="455.989" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="UZgvsX2EbUmpnILTPo2CMQ=="/>
     <POI MapID="1211" xpos="-119.968" ypos="308.773" zpos="374.093" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="gLK9eLGX+0W9hVPSBeHiRw=="/>
     <POI MapID="1211" xpos="-68.4292" ypos="218.711" zpos="266.152" type="achievement.path_of_fire.desert_highlands.carrot_collector" GUID="oy2rhd6yC0im/F1hH74H/Q=="/>
+    <POI MapID="1211" xpos="1196.79" ypos="74.4178" zpos="-415.563" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="NAw9Sls3GUi/pl9tERynFw=="/>
+    <POI MapID="1211" xpos="-1227.26" ypos="330.836" zpos="-162.758" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="yfFOyAbnjUyziUXN2wex7g=="/>
+    <POI MapID="1211" xpos="1265.56" ypos="231.356" zpos="478.642" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="Q/MOwN5T1E2gQm9RpmioGg=="/>
+    <POI MapID="1211" xpos="-984.916" ypos="391.699" zpos="543.032" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="xWhc3JTetECyd8uYwz4kBA=="/>
+    <POI MapID="1211" xpos="432.748" ypos="135.641" zpos="-365.149" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="0XWjYs1H8UCQnkUxLtDA8w=="/>
+    <POI MapID="1211" xpos="739.136" ypos="203.32" zpos="-14.6099" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="da80Ghtm6Em3+DqO8TXvHg=="/>
+    <POI MapID="1211" xpos="926.268" ypos="206.223" zpos="354.411" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="zGTWN0nNNEuMmGHn3HmjHQ=="/>
+    <POI MapID="1211" xpos="-448.509" ypos="5.48933" zpos="-571.783" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="4RGd+5NbjkqueGyDc3nUMQ=="/>
+    <POI MapID="1211" xpos="207.895" ypos="182.935" zpos="-618.678" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="zoBsalAw802kbBPuKbqyTg=="/>
+    <POI MapID="1211" xpos="-452.089" ypos="63.6169" zpos="-683.794" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="c75TJsfFbkKKtmFFp1aaQg=="/>
+    <POI MapID="1211" xpos="-1255.28" ypos="6.18556" zpos="-527.977" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="GJab6/QE/0KtZEsiuWA6jQ=="/>
+    <POI MapID="1211" xpos="-964.973" ypos="496.818" zpos="-259.82" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="5v47s8HlLUagTyq5yCZmqg=="/>
     <POI MapID="1211" xpos="-1123.87" ypos="324.373" zpos="215.947" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="WpSJ+pMtwkKSVI9ldg+FpQ=="/>
     <POI MapID="1211" xpos="-1095.06" ypos="325.412" zpos="209.78" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="EC0gXJc6ZEG8sCC2RvXblw=="/>
     <POI MapID="1211" xpos="-1093.31" ypos="325.411" zpos="217.508" type="achievement.path_of_fire.desert_highlands.dwarven_ruins.the_curious_bowl.breaking_the_bank" GUID="oGTnZ+7dY06NttW3Okxiqw=="/>
@@ -209,6 +243,32 @@
     <POI MapID="1248" xpos="1378.64" ypos="102.794" zpos="-595.586" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="FwBsSEiHSE6eDPsGbxt1ig=="/>
     <POI MapID="1248" xpos="-1233.85" ypos="120.401" zpos="346.815" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="bMMPZ54rcki0qRHM9w01pw=="/>
     <POI MapID="1248" xpos="-1458.43" ypos="312.203" zpos="-686.926" type="achievement.path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="tDYOO6gU0Eus1bYv4vf6aA=="/>
+    <POI MapID="1248" xpos="-700.625" ypos="109.477" zpos="-457.966" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="yuUoh7+VNEGYWd/vVE/SSQ=="/>
+    <POI MapID="1248" xpos="-757.77" ypos="109.184" zpos="500.495" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="PwBz2ATNXUy9Khoz0OVTBA=="/>
+    <POI MapID="1248" xpos="-470.457" ypos="39.6585" zpos="619.706" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="C2IN46Y7F0uuz8HXHD4Mbg=="/>
+    <POI MapID="1248" xpos="-1304.4" ypos="164.425" zpos="319.532" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="94cPaFSXtUChSez7h58kCw=="/>
+    <POI MapID="1248" xpos="-1195.03" ypos="164.432" zpos="318.814" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="srppg3B81UCMeNcw2a4tuQ=="/>
+    <POI MapID="1248" xpos="-1200.23" ypos="164.441" zpos="271.14" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="13kOpMyef06aC/7I5ORMKA=="/>
+    <POI MapID="1248" xpos="-1249.9" ypos="164.345" zpos="266.64" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="DibniqRJwEqRpRRmRcWrBg=="/>
+    <POI MapID="1248" xpos="-1298.35" ypos="164.365" zpos="273.993" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="Z+CU6wvaz0Wl9iDbHSl+Ww=="/>
+    <POI MapID="1248" xpos="-1249.69" ypos="164.44" zpos="372.667" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="bAHnzcsSKEuey9/fJ26zQg=="/>
+    <POI MapID="1248" xpos="-1213.16" ypos="165.866" zpos="427.295" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="2RkfPJ5jDkyAktcz1cjmlg=="/>
+    <POI MapID="1248" xpos="-885.476" ypos="181.775" zpos="-625.382" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="jXXPacD8yUanci94tYHcRQ=="/>
+    <POI MapID="1248" xpos="-853.486" ypos="181.775" zpos="-636.58" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="R4kCIOjsDkGxgh1mtUcLVA=="/>
+    <POI MapID="1248" xpos="81.675" ypos="-0.375074" zpos="-559.081" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="L6gXnVrD6keOMA5VhDgqug=="/>
+    <POI MapID="1248" xpos="1273.68" ypos="57.0631" zpos="-636.045" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="NGH7A+ZjUUKcj8ShpgJ1+w=="/>
+    <POI MapID="1248" xpos="-369.649" ypos="126.083" zpos="-133.687" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="lJFMaBxNxEGIAWkzc6FL1A=="/>
+    <POI MapID="1248" xpos="169.276" ypos="176.872" zpos="910.751" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="qalC6TeySkG77Q33cRtACg=="/>
+    <POI MapID="1248" xpos="25.7121" ypos="148.783" zpos="874.795" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="UMuIRtkTxka/DQeTN26K2w=="/>
+    <POI MapID="1248" xpos="1437.55" ypos="109.86" zpos="-741.194" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="gDJ7IhEthkm7Q51cNngZ4g=="/>
+    <POI MapID="1248" xpos="1323.82" ypos="59.3975" zpos="-629.427" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="aF+c0TnzL0SdB3H4UmjcPQ=="/>
+    <POI MapID="1248" xpos="-1226.12" ypos="135.403" zpos="-260.531" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="LQA5843NDkWgdLHDUf6I1A=="/>
+    <POI MapID="1248" xpos="359.77" ypos="116.162" zpos="117.818" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="HVtOM3kKs0+KKPOXAh6JIA=="/>
+    <POI MapID="1248" xpos="249.04" ypos="160.598" zpos="78.1724" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="s0gt5Dl7IkCb3xVDKwl56g=="/>
+    <POI MapID="1248" xpos="-1379.54" ypos="109.127" zpos="819.394" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="WIGvHGmSKkWfDA7C2Ip1ZA=="/>
+    <POI MapID="1248" xpos="1015.81" ypos="196.462" zpos="-558.47" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="2NxOk2QAu0afFF30V63TRg=="/>
+    <POI MapID="1248" xpos="910.464" ypos="127.836" zpos="423.844" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="Evf/8d+J60ewEOKMsKGXvQ=="/>
+    <POI MapID="1248" xpos="-1001.44" ypos="126.372" zpos="-738.021" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="9P0AqerG5USGErnOAwqPxw=="/>
     <POI MapID="1228" xpos="380.612" ypos="89.5985" zpos="776.363" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="OiKgnqlmLUqBPlmrUbgk6Q=="/>
     <POI MapID="1228" xpos="423.831" ypos="97.8049" zpos="790.653" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="7F87e1AW7EKmyUcI+dcpwA=="/>
     <POI MapID="1228" xpos="446.156" ypos="103.275" zpos="752.118" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="YCdiEz1mLE6YQT/TldixEQ=="/>
@@ -276,6 +336,18 @@
     <POI MapID="1228" xpos="423.027" ypos="203.64" zpos="797.426" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="C65ynrMD7Ua1OPOv+hIqpQ=="/>
     <POI MapID="1228" xpos="367.85" ypos="182.277" zpos="769.648" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies" GUID="1sXqpjnyIEiJwZU5hsyGyw=="/>
     <POI MapID="1228" xpos="431.849" ypos="164.949" zpos="620.217" type="achievement.path_of_fire.elon_riverlands.flameseeker_prophecies.forgotten_light" GUID="0MxcJaMPEUaybBhAaOOrYg=="/>
+    <POI MapID="1228" xpos="-414.075" ypos="4.44885" zpos="166.592" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Jq4pkyBa4kuCZBdP8Us10Q=="/>
+    <POI MapID="1228" xpos="1010.98" ypos="83.7391" zpos="959.024" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="n+O/sW5FHE+c1gCaicnbDw=="/>
+    <POI MapID="1228" xpos="937.899" ypos="11.1699" zpos="2.15034" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="mcqnJ4VZekiEICT6ucB6qg=="/>
+    <POI MapID="1228" xpos="-128.622" ypos="21.7789" zpos="-193.715" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="/OUjy0GVx0u88PRJeDMgxw=="/>
+    <POI MapID="1228" xpos="-177.916" ypos="93.7558" zpos="993.332" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="WsoPH39dTUKTJ656u13Yzw=="/>
+    <POI MapID="1228" xpos="-876.75" ypos="145.355" zpos="742.302" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Fin428n8mESoW5qnQXOaqg=="/>
+    <POI MapID="1228" xpos="-927.065" ypos="80.8168" zpos="347.543" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="KLSuZ22EAUyzaJfCO19WeQ=="/>
+    <POI MapID="1228" xpos="-676.678" ypos="45.9041" zpos="-749.469" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Pph8evlH6kil89LnUesYKg=="/>
+    <POI MapID="1228" xpos="75.7019" ypos="72.9641" zpos="346.832" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="Jw7Il3+qm0OCmnq2IHQTyw=="/>
+    <POI MapID="1228" xpos="-789.078" ypos="108.703" zpos="998.062" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="ssyxtWUdZkOn/TvzkbcA+A=="/>
+    <POI MapID="1228" xpos="456.788" ypos="95.6146" zpos="-407.434" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="sefThZjCRUuj6TCn688NsA=="/>
+    <POI MapID="1228" xpos="546.662" ypos="35.9095" zpos="-636.338" type="achievement.path_of_fire.elon_riverlands.forgotten_debris" GUID="SWgFFaMb6kClyt+ci3PY5Q=="/>
     <POI MapID="1228" xpos="14.8888" ypos="86.4498" zpos="739.21" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="GeSk4FBf+0uqMlTun16ZvA=="/>
     <POI MapID="1228" xpos="-232.726" ypos="103.771" zpos="728.788" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="PBgAYVfbkEKEJ3GbAvjODw=="/>
     <POI MapID="1228" xpos="-472.702" ypos="82.4926" zpos="707.412" type="achievement.path_of_fire.elon_riverlands.ghostly_trio.path" GUID="APUH4PTB006mRloPxso0oQ=="/>
