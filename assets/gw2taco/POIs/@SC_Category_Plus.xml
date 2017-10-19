@@ -56,6 +56,7 @@
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5"/>
     <MarkerCategory name="Skritt" heightOffset="3"/>
     <MarkerCategory name="Achievement"/>
+    <MarkerCategory name="Daily"/>
   </MarkerCategory>
   <MarkerCategory name="Tactical" data-sort="true">
     <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid">
@@ -83,12 +84,14 @@
     <MarkerCategory name="Guilde">
       <MarkerCategory name="End"/>
     </MarkerCategory>
+    <MarkerCategory name="End"/>
   </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle">
+  <MarkerCategory name="jumpingpuzzle" data-class="fade-max">
     <MarkerCategory name="Start"/>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
     <MarkerCategory name="Point"/>
+    <MarkerCategory name="End"/>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true"/>
   <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true">
