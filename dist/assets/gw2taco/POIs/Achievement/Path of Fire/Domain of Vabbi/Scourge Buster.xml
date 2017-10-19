@@ -1,0 +1,24 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" DisplayName="Domain of Vabbi">
+        <MarkerCategory name="Scourge Buster" DisplayName="Scourge Buster"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1248" xpos="1273.68" ypos="57.0631" zpos="-636.045" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="NGH7A+ZjUUKcj8ShpgJ1+w=="/>
+    <POI MapID="1248" xpos="-369.649" ypos="126.083" zpos="-133.687" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="lJFMaBxNxEGIAWkzc6FL1A=="/>
+    <POI MapID="1248" xpos="169.276" ypos="176.872" zpos="910.751" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="qalC6TeySkG77Q33cRtACg=="/>
+    <POI MapID="1248" xpos="25.7121" ypos="148.783" zpos="874.795" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="UMuIRtkTxka/DQeTN26K2w=="/>
+    <POI MapID="1248" xpos="1437.55" ypos="109.86" zpos="-741.194" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="gDJ7IhEthkm7Q51cNngZ4g=="/>
+    <POI MapID="1248" xpos="1323.82" ypos="59.3975" zpos="-629.427" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="aF+c0TnzL0SdB3H4UmjcPQ=="/>
+    <POI MapID="1248" xpos="-1226.12" ypos="135.403" zpos="-260.531" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="LQA5843NDkWgdLHDUf6I1A=="/>
+    <POI MapID="1248" xpos="359.77" ypos="116.162" zpos="117.818" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="HVtOM3kKs0+KKPOXAh6JIA=="/>
+    <POI MapID="1248" xpos="249.04" ypos="160.598" zpos="78.1724" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="s0gt5Dl7IkCb3xVDKwl56g=="/>
+    <POI MapID="1248" xpos="-1379.54" ypos="109.127" zpos="819.394" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="WIGvHGmSKkWfDA7C2Ip1ZA=="/>
+    <POI MapID="1248" xpos="1015.81" ypos="196.462" zpos="-558.47" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="2NxOk2QAu0afFF30V63TRg=="/>
+    <POI MapID="1248" xpos="910.464" ypos="127.836" zpos="423.844" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="Evf/8d+J60ewEOKMsKGXvQ=="/>
+    <POI MapID="1248" xpos="-1001.44" ypos="126.372" zpos="-738.021" type="achievement.path_of_fire.domain_of_vabbi.scourge_buster" GUID="9P0AqerG5USGErnOAwqPxw=="/>
+  </POIs>
+</OverlayData>
