@@ -72,7 +72,7 @@
     <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
+    <MarkerCategory name="Halloween" data-sort="true" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
       <MarkerCategory name="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" DisplayName="Lunatic Wardrobe">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
