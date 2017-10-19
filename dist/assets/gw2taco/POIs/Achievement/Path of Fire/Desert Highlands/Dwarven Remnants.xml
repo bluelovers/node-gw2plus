@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
+      <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
+        <MarkerCategory name="Dwarven Remnants" DisplayName="Dwarven Remnants"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1211" xpos="1196.79" ypos="74.4178" zpos="-415.563" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="NAw9Sls3GUi/pl9tERynFw=="/>
+    <POI MapID="1211" xpos="-1227.26" ypos="330.836" zpos="-162.758" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="yfFOyAbnjUyziUXN2wex7g=="/>
+    <POI MapID="1211" xpos="1265.56" ypos="231.356" zpos="478.642" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="Q/MOwN5T1E2gQm9RpmioGg=="/>
+    <POI MapID="1211" xpos="-984.916" ypos="391.699" zpos="543.032" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="xWhc3JTetECyd8uYwz4kBA=="/>
+    <POI MapID="1211" xpos="432.748" ypos="135.641" zpos="-365.149" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="0XWjYs1H8UCQnkUxLtDA8w=="/>
+    <POI MapID="1211" xpos="739.136" ypos="203.32" zpos="-14.6099" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="da80Ghtm6Em3+DqO8TXvHg=="/>
+    <POI MapID="1211" xpos="926.268" ypos="206.223" zpos="354.411" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="zGTWN0nNNEuMmGHn3HmjHQ=="/>
+    <POI MapID="1211" xpos="-448.509" ypos="5.48933" zpos="-571.783" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="4RGd+5NbjkqueGyDc3nUMQ=="/>
+    <POI MapID="1211" xpos="207.895" ypos="182.935" zpos="-618.678" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="zoBsalAw802kbBPuKbqyTg=="/>
+    <POI MapID="1211" xpos="-452.089" ypos="63.6169" zpos="-683.794" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="c75TJsfFbkKKtmFFp1aaQg=="/>
+    <POI MapID="1211" xpos="-1255.28" ypos="6.18556" zpos="-527.977" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="GJab6/QE/0KtZEsiuWA6jQ=="/>
+    <POI MapID="1211" xpos="-964.973" ypos="496.818" zpos="-259.82" type="achievement.path_of_fire.desert_highlands.dwarven_remnants" GUID="5v47s8HlLUagTyq5yCZmqg=="/>
+  </POIs>
+</OverlayData>
