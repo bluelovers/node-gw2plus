@@ -1,0 +1,10 @@
+<OverlayData>
+  <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Halloween" data-sort="true" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
+      <MarkerCategory name="New Afterlife for Quaggan" DisplayName="New Afterlife for Quaggan"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="50" xpos="-119.161" ypos="23.3386" zpos="396.177" type="festivals.halloween.new_afterlife_for_quaggan" GUID="CbVXEUvos0K5SCQ05A7ctg=="/>
+  </POIs>
+</OverlayData>

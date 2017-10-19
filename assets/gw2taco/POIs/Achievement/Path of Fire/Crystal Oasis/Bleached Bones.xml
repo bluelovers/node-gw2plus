@@ -1,0 +1,28 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Crystal Oasis">
+        <MarkerCategory name="Bleached Bones"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1210" xpos="-1249.13" ypos="-32.9902" zpos="-212.662" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="eWONSSjqMU208ran0TMe5Q=="/>
+    <POI MapID="1210" xpos="-1092.17" ypos="38.6974" zpos="468.95" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="ZzO68tNhYUKDLDbyr3ufBw=="/>
+    <POI MapID="1210" xpos="-850.679" ypos="13.7484" zpos="303.776" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="y4f5zS3Dnkar0DBdJG8E5w=="/>
+    <POI MapID="1210" xpos="-835.085" ypos="38.6754" zpos="656.982" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="elPOjT36JESd6zdCnf89kw=="/>
+    <POI MapID="1210" xpos="291.53" ypos="58.985" zpos="513.434" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="mrUQKzeyqUikViQo4K62mA=="/>
+    <POI MapID="1210" xpos="-492.026" ypos="-9.68781" zpos="-514.608" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="yGNN4jZjxkO8qAbNSbzRPw=="/>
+    <POI MapID="1210" xpos="-897.416" ypos="87.9316" zpos="17.775" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="vH3esqCshEWacTD9CUMWCw=="/>
+    <POI MapID="1210" xpos="1186.55" ypos="374.996" zpos="393.922" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="iqJ569Vw90Sd217oYMhYSQ=="/>
+    <POI MapID="1210" xpos="1241.18" ypos="278.337" zpos="455.806" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="yNcvKWMM/02j2t4ksBdKig=="/>
+    <POI MapID="1210" xpos="1016.91" ypos="209.594" zpos="439.956" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="r+9sQNoQuUS/Sn4OkRP/qg=="/>
+    <POI MapID="1210" xpos="-937.571" ypos="46.638" zpos="362.953" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="tf3XRin+Bk+l4KLpy7ElfQ=="/>
+    <POI MapID="1210" xpos="482.837" ypos="69.9656" zpos="15.113" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="CL8+B7+K0EKXuLosvRfMew=="/>
+    <POI MapID="1210" xpos="-500.559" ypos="33.8963" zpos="421.029" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="kYMQmtj+QkmPyRrL7fXQlw=="/>
+    <POI MapID="1210" xpos="172.302" ypos="80.147" zpos="-154.376" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="XJiifODp0kyBtmEsHPHENA=="/>
+    <POI MapID="1210" xpos="1452.76" ypos="165.746" zpos="-420.743" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="Q29rgWajl0mcXZwF1llVDg=="/>
+    <POI MapID="1210" xpos="552.205" ypos="278.754" zpos="331.617" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="8I0NIITUnE24+635pvc5iQ=="/>
+    <POI MapID="1210" xpos="807.092" ypos="204.898" zpos="704.605" type="achievement.path_of_fire.crystal_oasis.bleached_bones" GUID="qckRHb8Z5UqWThrRbgp4gA=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,10 @@
+<OverlayData>
+  <MarkerCategory name="Festivals">
+    <MarkerCategory name="Halloween">
+      <MarkerCategory name="Your Mad King says" data-class="poi-chest-meta"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="50" xpos="-35.8877" ypos="24.1276" zpos="158.667" type="festivals.halloween.your_mad_king_says" GUID="jzChnZNeV0G98NXSfAusVA=="/>
+  </POIs>
+</OverlayData>

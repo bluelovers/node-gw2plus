@@ -1,0 +1,24 @@
+<OverlayData>
+  <MarkerCategory name="Achievement">
+    <MarkerCategory name="Path of Fire">
+      <MarkerCategory name="Domain of Vabbi">
+        <MarkerCategory name="Praise Joko"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1248" xpos="-700.625" ypos="109.477" zpos="-457.966" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="yuUoh7+VNEGYWd/vVE/SSQ=="/>
+    <POI MapID="1248" xpos="-757.77" ypos="109.184" zpos="500.495" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="PwBz2ATNXUy9Khoz0OVTBA=="/>
+    <POI MapID="1248" xpos="-470.457" ypos="39.6585" zpos="619.706" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="C2IN46Y7F0uuz8HXHD4Mbg=="/>
+    <POI MapID="1248" xpos="-1304.4" ypos="164.425" zpos="319.532" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="94cPaFSXtUChSez7h58kCw=="/>
+    <POI MapID="1248" xpos="-1195.03" ypos="164.432" zpos="318.814" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="srppg3B81UCMeNcw2a4tuQ=="/>
+    <POI MapID="1248" xpos="-1200.23" ypos="164.441" zpos="271.14" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="13kOpMyef06aC/7I5ORMKA=="/>
+    <POI MapID="1248" xpos="-1249.9" ypos="164.345" zpos="266.64" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="DibniqRJwEqRpRRmRcWrBg=="/>
+    <POI MapID="1248" xpos="-1298.35" ypos="164.365" zpos="273.993" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="Z+CU6wvaz0Wl9iDbHSl+Ww=="/>
+    <POI MapID="1248" xpos="-1249.69" ypos="164.44" zpos="372.667" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="bAHnzcsSKEuey9/fJ26zQg=="/>
+    <POI MapID="1248" xpos="-1213.16" ypos="165.866" zpos="427.295" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="2RkfPJ5jDkyAktcz1cjmlg=="/>
+    <POI MapID="1248" xpos="-885.476" ypos="181.775" zpos="-625.382" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="jXXPacD8yUanci94tYHcRQ=="/>
+    <POI MapID="1248" xpos="-853.486" ypos="181.775" zpos="-636.58" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="R4kCIOjsDkGxgh1mtUcLVA=="/>
+    <POI MapID="1248" xpos="81.675" ypos="-0.375074" zpos="-559.081" type="achievement.path_of_fire.domain_of_vabbi.praise_joko" GUID="L6gXnVrD6keOMA5VhDgqug=="/>
+  </POIs>
+</OverlayData>
