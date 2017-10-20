@@ -358,5 +358,9 @@
 		<POI MapID="50" xpos="-512.038" ypos="4.87115" zpos="297.987" type="other.portal.cave" GUID="E2YxYD+WGUicBLlB7n9V1g=="/>
 		<POI MapID="50" xpos="-603.89" ypos="21.8266" zpos="408.953" type="chest.mapspecific.keyrequired" GUID="c+ZRIS369U+BNf51MTQ5rA=="/>
 		<POI MapID="50" xpos="365.704" ypos="30.2303" zpos="331.905" type="other.portal.gate" GUID="48GU1I1XjUOFFreE6Z5GHA=="/>
+		<POI MapID="864" xpos="139.266" ypos="177.911" zpos="113.164" type="temp.halloween.lunatic_inquisition.torches" GUID="wUvcInc2XEiUtwbHff3aNg=="/>
+		<POI MapID="864" xpos="-96.7028" ypos="179.028" zpos="161.568" type="temp.halloween.lunatic_inquisition.bones" GUID="a2EFmbKFQ0CmcsU4o9xFQQ=="/>
+		<POI MapID="864" xpos="-143.127" ypos="177.361" zpos="-162.106" type="temp.halloween.lunatic_inquisition.black_goo" GUID="oCOKifLeUkimIkvMMHVwsw=="/>
+		<POI MapID="864" xpos="137.741" ypos="177.107" zpos="-116.329" type="temp.halloween.lunatic_inquisition.web" GUID="QFUHTpIFCEyzZvLeuPX0Og=="/>
 	</POIs>
 </OverlayData>
