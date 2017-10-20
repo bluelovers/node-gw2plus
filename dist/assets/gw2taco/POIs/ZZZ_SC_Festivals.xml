@@ -34,7 +34,7 @@
             <MarkerCategory name="6"/>
           </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="Shut the Doors" DisplayName="Shut the Doors"/>
+        <MarkerCategory name="Shut the Doors" iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png" DisplayName="Shut the Doors"/>
       </MarkerCategory>
       <MarkerCategory name="Your Mad King says" data-class="poi-chest-meta" iconFile="Data/Festivals/Halloween/Your Mad King says.png" data-iconFile="Data/Festivals/Halloween/Your Mad King says.png" heightOffset="3.5" DisplayName="Your Mad King says"/>
     </MarkerCategory>

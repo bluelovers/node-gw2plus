@@ -108,9 +108,9 @@
       <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
       <MarkerCategory name="Event"/>
       <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
-      <MarkerCategory name="MapSpecific"/>
+      <MarkerCategory name="MapSpecific" iconFile="Data/Other/Vendor/MapSpecific.png" data-iconFile="Data/Other/Vendor/MapSpecific.png"/>
       <MarkerCategory name="Merchant"/>
-      <MarkerCategory name="Trophy"/>
+      <MarkerCategory name="Trophy" iconFile="Data/Other/Vendor/Trophy.png" data-iconFile="Data/Other/Vendor/Trophy.png"/>
     </MarkerCategory>
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
