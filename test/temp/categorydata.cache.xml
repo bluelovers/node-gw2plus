@@ -199,7 +199,7 @@
             <MarkerCategory name="6"/>
           </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="Shut the Doors"/>
+        <MarkerCategory name="Shut the Doors" iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png"/>
       </MarkerCategory>
       <MarkerCategory name="Your Mad King says" data-class="poi-chest-meta" iconFile="Data/Festivals/Halloween/Your Mad King says.png" data-iconFile="Data/Festivals/Halloween/Your Mad King says.png" heightOffset="3.5"/>
     </MarkerCategory>
@@ -619,10 +619,10 @@
       <MarkerCategory name="Ectoplasm" iconFile="Data/Other/Vendor/Ectoplasm.png" data-iconFile="Data/Other/Vendor/Ectoplasm.png"/>
       <MarkerCategory name="Event"/>
       <MarkerCategory name="Karma" iconFile="Data/Other/Vendor/Karma.png" data-iconFile="Data/Other/Vendor/Karma.png"/>
-      <MarkerCategory name="MapSpecific"/>
+      <MarkerCategory name="MapSpecific" iconFile="Data/Other/Vendor/MapSpecific.png" data-iconFile="Data/Other/Vendor/MapSpecific.png"/>
       <MarkerCategory name="Merchant"/>
       <MarkerCategory name="Pact Supply Network Agent" iconFile="Data/Other/Vendor/Karma.png" data-class="fade-4" fadeFar="8400" fadeNear="2100"/>
-      <MarkerCategory name="Trophy"/>
+      <MarkerCategory name="Trophy" iconFile="Data/Other/Vendor/Trophy.png" data-iconFile="Data/Other/Vendor/Trophy.png"/>
     </MarkerCategory>
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
