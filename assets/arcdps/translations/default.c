@@ -60,6 +60,7 @@
 	lang[LANG_COMMON_SKILLS2_HITSANY] = "hits (all)";
 	lang[LANG_COMMON_SKILLS2_DMGPHYS] = "dmg (phys)";
 	lang[LANG_COMMON_SKILLS2_DMGBUFF] = "dmg (buff)";
+	lang[LANG_COMMON_SKILLS2_CHANNELED] = "time cast";
 
 	/* common: custom skills */
 	lang[LANG_COMMON_CSK_DODGE] = "Dodge";
