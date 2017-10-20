@@ -355,5 +355,8 @@
 		<POI MapID="50" xpos="-394.851" ypos="40.061" zpos="124.644" type="jumpingpuzzle.checkpoint" GUID="1C33jhEtEk6ZqLdcOVWUGg=="/>
 		<POI MapID="50" xpos="-328.832" ypos="31.8695" zpos="72.9432" type="jumpingpuzzle.checkpoint" GUID="kibSjtUE2UmoVBsZ681F7g=="/>
 		<POI MapID="50" xpos="-169.68" ypos="37.5655" zpos="32.4075" type="jumpingpuzzle.checkpoint" GUID="kYP8GZ7AjkuxFAgayvyGfw=="/>
+		<POI MapID="50" xpos="-512.038" ypos="4.87115" zpos="297.987" type="other.portal.cave" GUID="E2YxYD+WGUicBLlB7n9V1g=="/>
+		<POI MapID="50" xpos="-603.89" ypos="21.8266" zpos="408.953" type="chest.mapspecific.keyrequired" GUID="c+ZRIS369U+BNf51MTQ5rA=="/>
+		<POI MapID="50" xpos="365.704" ypos="30.2303" zpos="331.905" type="other.portal.gate" GUID="48GU1I1XjUOFFreE6Z5GHA=="/>
 	</POIs>
 </OverlayData>

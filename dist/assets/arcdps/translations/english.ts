@@ -380,6 +380,7 @@ enum m_translate {
 	LANG_COMMON_SKILLS2_HITSANY,
 	LANG_COMMON_SKILLS2_DMGPHYS,
 	LANG_COMMON_SKILLS2_DMGBUFF,
+	LANG_COMMON_SKILLS2_CHANNELED,
 
 	/* common: assorted */
 	LANG_COMMON_AS_SUCCESS = 660,
@@ -455,6 +456,7 @@ enum m_translate {
 	lang[m_translate.LANG_COMMON_SKILLS2_HITSANY] = "hits (all)";
 	lang[m_translate.LANG_COMMON_SKILLS2_DMGPHYS] = "dmg (phys)";
 	lang[m_translate.LANG_COMMON_SKILLS2_DMGBUFF] = "dmg (buff)";
+	lang[m_translate.LANG_COMMON_SKILLS2_CHANNELED] = "time cast";
 
 	/* common: custom skills */
 	lang[m_translate.LANG_COMMON_CSK_DODGE] = "Dodge";
