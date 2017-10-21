@@ -278,6 +278,7 @@ POIs
 │ │ │ └── Plant_VariegatedTaproots.xml
 │ │ ├─┬ Iron
 │ │ │ ├── Plant_Clam.xml
+│ │ │ ├── Plant_HerbSprouts.xml
 │ │ │ ├── Plant_Spinach.xml
 │ │ │ ├── Plant_StrawberryPatch.xml
 │ │ │ └── Plant_Taproots.xml
@@ -306,6 +307,7 @@ POIs
 │ │ ├─┬ Steel
 │ │ │ ├── Plant_Cabbage.xml
 │ │ │ ├── Plant_Grapes.xml
+│ │ │ ├── Plant_RootVegetables.xml
 │ │ │ ├── Plant_YoungHerbs.xml
 │ │ │ └── Plant_Zucchini.xml
 │ │ ├── Currency_1203_Sirens Landing.xml
@@ -364,6 +366,7 @@ POIs
 │ │ │ │ └── Plant_VariegatedTaproots.xml
 │ │ │ ├─┬ Iron
 │ │ │ │ ├── Plant_Clam.xml
+│ │ │ │ ├── Plant_HerbSprouts.xml
 │ │ │ │ ├── Plant_Spinach.xml
 │ │ │ │ ├── Plant_StrawberryPatch.xml
 │ │ │ │ └── Plant_Taproots.xml
@@ -392,6 +395,7 @@ POIs
 │ │ │ ├─┬ Steel
 │ │ │ │ ├── Plant_Cabbage.xml
 │ │ │ │ ├── Plant_Grapes.xml
+│ │ │ │ ├── Plant_RootVegetables.xml
 │ │ │ │ ├── Plant_YoungHerbs.xml
 │ │ │ │ └── Plant_Zucchini.xml
 │ │ │ ├── Currency_1203_Sirens Landing.xml
@@ -442,6 +446,7 @@ POIs
 │ │ │ └── Plant_VariegatedTaproots.xml
 │ │ ├─┬ Iron
 │ │ │ ├── Plant_Clam.xml
+│ │ │ ├── Plant_HerbSprouts.xml
 │ │ │ ├── Plant_Spinach.xml
 │ │ │ ├── Plant_StrawberryPatch.xml
 │ │ │ └── Plant_Taproots.xml
@@ -470,6 +475,7 @@ POIs
 │ │ ├─┬ Steel
 │ │ │ ├── Plant_Cabbage.xml
 │ │ │ ├── Plant_Grapes.xml
+│ │ │ ├── Plant_RootVegetables.xml
 │ │ │ ├── Plant_YoungHerbs.xml
 │ │ │ └── Plant_Zucchini.xml
 │ │ ├── Currency_1203_Sirens Landing.xml
