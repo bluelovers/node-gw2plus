@@ -103,6 +103,7 @@ gulp.task('assets:copy', ['dist:clear'], async function ()
 	let patterns = [
 		'**/psd',
 		'**/*.{psd,bak}',
+		'**/GW2MapTimer',
 	];
 
 	await fs.copy(path.join(project_root, 'assets/gw2taco'), path.join(dist_root, 'assets/gw2taco'), {
