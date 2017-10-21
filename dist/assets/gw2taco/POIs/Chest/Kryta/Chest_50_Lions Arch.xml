@@ -1,8 +1,13 @@
 <OverlayData>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Permanent"/>
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
+      <MarkerCategory name="KeyRequired" iconFile="Data/Chest/MapSpecific.KeyRequired.png" data-iconFile="Data/Chest/MapSpecific.KeyRequired.png"/>
+    </MarkerCategory>
   </MarkerCategory>
   <POIs>
     <POI MapID="50" xpos="573.716" ypos="2.28927" zpos="-407.523" type="chest.permanent" GUID="wk5ouBs7EkeyZI4Gw19luA=="/>
+    <POI MapID="50" xpos="-480.434" ypos="78.0066" zpos="278.763" type="chest.mapspecific.keyrequired" GUID="qceQ7J3T4U+txVg2R35Wdw=="/>
+    <POI MapID="50" xpos="-603.89" ypos="21.8266" zpos="408.953" type="chest.mapspecific.keyrequired" GUID="c+ZRIS369U+BNf51MTQ5rA=="/>
   </POIs>
 </OverlayData>
