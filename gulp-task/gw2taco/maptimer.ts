@@ -32,13 +32,78 @@ addGulpTasks({
 			':build',
 		],
 
+		tasks: [
+			':attr',
+		],
+
 	},
 
-	'padding': {
+	'attr': {
 
 		async callback()
 		{
+			const cwd = path.join(dist_root, 'assets/gw2taco');
 
+			let ls = await globby([
+					'GW2MapTimer/**/*.xml',
+					'maptimer.xml',
+				], {
+					cwd: cwd,
+					absolute: true,
+					//realpath: true,
+				})
+				.then(async (ls) =>
+				{
+					let ls2 = {};
+
+					for (let file of ls)
+					{
+						ls2[file] = await gw2taco.MapTimer.load(file);
+					}
+
+					return ls2;
+				})
+				.then(async (ls) =>
+				{
+					let ids = [];
+
+					for (let file in ls)
+					{
+						let mt = ls[file];
+
+						mt.createPadding(mt.filter());
+
+						mt.filterEvent()
+							.each(function ()
+							{
+								let _this = mt.$(this);
+
+								let color = _this.attr('Color');
+
+								if (!color)
+								{
+									_this.attr('Color', '');
+								}
+							})
+						;
+					}
+
+					return ls;
+				})
+				.then(async (ls) =>
+				{
+					for (let file in ls)
+					{
+						let mt = ls[file];
+
+						console.log(file);
+
+						await fs.outputFile(file, mt.dump());
+					}
+
+					return ls;
+				})
+			;
 		},
 
 	},
@@ -54,12 +119,12 @@ addGulpTasks({
 			const cwd = path.join(project_root, 'assets/gw2taco', 'GW2MapTimer');
 
 			let ls = await globby([
-				'**/*.xml',
-			], {
-				cwd: cwd,
-				absolute: true,
-				//realpath: true,
-			})
+					'**/*.xml',
+				], {
+					cwd: cwd,
+					absolute: true,
+					//realpath: true,
+				})
 				.then(async (ls) =>
 				{
 
@@ -76,7 +141,7 @@ addGulpTasks({
 				{
 					let ids = [];
 
-					mt.createPadding(mt.filter())
+					mt.filter()
 						.each(function ()
 						{
 							let _this = mt.$(this);
@@ -100,24 +165,6 @@ addGulpTasks({
 							ids.push(_id);
 
 							_this.attr('id', _id);
-						})
-					;
-
-					return mt;
-				})
-				.then((mt) =>
-				{
-					mt.filterEvent()
-						.each(function ()
-						{
-							let _this = mt.$(this);
-
-							let color = _this.attr('Color');
-
-							if (!color)
-							{
-								_this.attr('Color', '');
-							}
 						})
 					;
 
