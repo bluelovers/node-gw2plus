@@ -8,5 +8,7 @@
   </MarkerCategory>
   <POIs>
     <POI MapID="27" xpos="313.12" ypos="72.4327" zpos="-1373" type="resourcenode.plant.iron.taproots" GUID="H5PH7+o5JUi79jRw/Xvgjg=="/>
+    <POI MapID="50" xpos="-492.298" ypos="85.9167" zpos="302.406" type="resourcenode.plant.iron.taproots" GUID="z9q3kN1hDU+uBIvtUAl8Fw=="/>
+    <POI MapID="50" xpos="-495.546" ypos="85.2624" zpos="295.399" type="resourcenode.plant.iron.taproots" GUID="KZ83NIj4OUmLqN66O+LKmA=="/>
   </POIs>
 </OverlayData>

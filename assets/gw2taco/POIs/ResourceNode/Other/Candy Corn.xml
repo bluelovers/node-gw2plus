@@ -48,5 +48,8 @@
     <POI MapID="866" xpos="102.877" ypos="176.847" zpos="-189.154" type="resourcenode.other.candy_corn" GUID="RZ3fWireFEueMqxGCvu9qA=="/>
     <POI MapID="866" xpos="125.971" ypos="176.766" zpos="-157.085" type="resourcenode.other.candy_corn" GUID="oBj62xWgD0C4/EpYuyXwAQ=="/>
     <POI MapID="866" xpos="-155.608" ypos="176.21" zpos="28.2886" type="resourcenode.other.candy_corn" GUID="5WMFiw9FPE6vtdHJg2rUtg=="/>
+    <POI MapID="866" xpos="-51.8351" ypos="194.592" zpos="-59.3889" type="resourcenode.other.candy_corn" GUID="BpmTAGkFaUy28c+Ivkefcw=="/>
+    <POI MapID="866" xpos="17.5512" ypos="194.943" zpos="-65.1662" type="resourcenode.other.candy_corn" GUID="5QT85H3WoEObVA41Wb9lAQ=="/>
+    <POI MapID="866" xpos="3.78473" ypos="224.266" zpos="-15.7042" type="resourcenode.other.candy_corn" GUID="oAkxIfP1XU+qL0jFYxRv5A=="/>
   </POIs>
 </OverlayData>
