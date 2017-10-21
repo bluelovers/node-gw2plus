@@ -173,19 +173,4 @@
     <Event Name="Spawn" Length="20" Color="80c0392b"/>
     <Event Name="Next: Timberline Falls" Length="100" Color="80e74c3c"/>
   </Map>
-
-  <Map Name="Crystal Oasis: Casino Blitz" Length="120" Start="5" id="cb">
-    <Event Name="1" Length="5" Color="80ffd7d7"/>
-    <Event Name="2" Length="5" Color="80ffd7d7"/>
-    <Event Name="3" Length="5" Color="80ffd7d7"/>
-    <Event Name="" Length="1" Color=""/>
-    <Event Name="Boss" Length="4" Color="80ff9999"/>
-    <Event Name="" Length="100" Color=""/>
-  </Map>
-
-  <Map Name="Serpents' Ire" Length="90" Start="60">
-    <Event Name="Serpents' Ire" Length="30" Color="80ffd7d7"/>
-    <Event Name="" Length="60" Color=""/>
-  </Map>
-
 </GW2MapTimer>
