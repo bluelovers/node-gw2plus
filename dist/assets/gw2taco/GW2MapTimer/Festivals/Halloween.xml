@@ -1,5 +1,0 @@
-<GW2MapTimer>
-  <Map Name="Halloween" Length="120" Start="0">
-    <Event Name="Mad King" Length="10" Color="80ffd7d7"/>
-  </Map>
-</GW2MapTimer>
