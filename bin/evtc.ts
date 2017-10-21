@@ -16,9 +16,13 @@ export = (async () =>
 	let paths = [
 		process.cwd(),
 		'.',
+		`${myDocFolder}/Guild Wars 2/addons`,
+		`${myDocFolder}/激战2/addons`,
 		`${myDocFolder}/Documents`,
 		`${myGW2Path}/addons`,
 		`${myDocFolder}`,
+		`${process.env.USERPROFILE}/Documents/Guild Wars 2/addons`,
+		`${process.env.USERPROFILE}/Documents/激战2/addons`,
 		`${process.env.USERPROFILE}/Documents`,
 		`${process.env.USERPROFILE}`,
 	];
@@ -35,6 +39,11 @@ export = (async () =>
 	}
 
 	let bin = search('raid_heroes.exe', [cwd].concat(paths));
+
+	if (!bin)
+	{
+		bin = search('arcdps/raid_heroes.exe', [cwd].concat(paths));
+	}
 
 	console.log({
 		bin: bin,
