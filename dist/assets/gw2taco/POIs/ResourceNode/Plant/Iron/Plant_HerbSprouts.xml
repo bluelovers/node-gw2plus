@@ -1,13 +1,12 @@
 <OverlayData>
   <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
-      <MarkerCategory name="Steel">
-        <MarkerCategory name="YoungHerbs" DisplayName="Young Herbs"/>
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
-    <POI MapID="17" xpos="434.841" ypos="18.7503" zpos="-694.323" type="resourcenode.plant.steel.youngherbs" GUID="ow8y8ceTp0yLGia4W/5u2A=="/>
-    <POI MapID="50" xpos="-493.647" ypos="84.5701" zpos="294.585" type="resourcenode.plant.steel.youngherbs" GUID="KrtaAfY4o02rbSuaGGREyA=="/>
+    <POI MapID="50" xpos="-495.148" ypos="85.8496" zpos="297.963" type="resourcenode.plant.iron.herbsprouts" GUID="LkZWaxjKZUK3xLZgENlmlw=="/>
   </POIs>
 </OverlayData>

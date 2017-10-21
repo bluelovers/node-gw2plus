@@ -128,5 +128,6 @@
     <POI MapID="866" xpos="10.9258" ypos="205.06" zpos="32.0882" type="festivals.halloween.carvingpumpkin" GUID="Msvl6Rv0HkqSGnNljUPBOw=="/>
     <POI MapID="866" xpos="14.0187" ypos="194.514" zpos="52.5297" type="festivals.halloween.carvingpumpkin" GUID="67zWPHqKI0eQU0sdtvX7Rw=="/>
     <POI MapID="866" xpos="49.9418" ypos="196.058" zpos="47.3105" type="festivals.halloween.carvingpumpkin" GUID="/hE9U/7HS0ikRV88vGSABA=="/>
+    <POI MapID="50" xpos="-486.18" ypos="78.0168" zpos="272.869" type="festivals.halloween.carvingpumpkin" GUID="fA53U9lgEEOz3gkiHztDRw=="/>
   </POIs>
 </OverlayData>

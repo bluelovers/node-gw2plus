@@ -1,0 +1,11 @@
+<GW2MapTimer>
+  <Map Name="Crystal Oasis: Casino Blitz" Length="120" Start="5">
+    <Event Name="1" Length="5" Color="80ffd7d7"/>
+    <Event Name="2" Length="5" Color="80ffd7d7"/>
+    <Event Name="3" Length="5" Color="80ffd7d7"/>
+    <Event Name="Boss" Length="5" Color="80ff9999"/>
+  </Map>
+  <Map Name="Serpents' Ire" Length="90" Start="60">
+    <Event Name="Serpents' Ire" Length="30" Color="80ffd7d7"/>
+  </Map>
+</GW2MapTimer>

@@ -60,6 +60,7 @@
       </MarkerCategory>
       <MarkerCategory name="Iron">
         <MarkerCategory name="Clam" iconFile="Data/ResourceNode/Plant/Iron/Clam.png" data-iconFile="Data/ResourceNode/Plant/Iron/Clam.png" iconSize="0.35"/>
+        <MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts"/>
         <MarkerCategory name="Spinach"/>
         <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
         <MarkerCategory name="Taproots"/>
@@ -91,6 +92,7 @@
       <MarkerCategory name="Steel">
         <MarkerCategory name="Cabbage"/>
         <MarkerCategory name="Grapes"/>
+        <MarkerCategory name="RootVegetables" DisplayName="Root Vegetables"/>
         <MarkerCategory name="YoungHerbs" DisplayName="Young Herbs"/>
         <MarkerCategory name="Zucchini"/>
       </MarkerCategory>
@@ -1800,6 +1802,9 @@
     <POI MapID="866" xpos="102.877" ypos="176.847" zpos="-189.154" type="resourcenode.other.candy_corn" GUID="RZ3fWireFEueMqxGCvu9qA=="/>
     <POI MapID="866" xpos="125.971" ypos="176.766" zpos="-157.085" type="resourcenode.other.candy_corn" GUID="oBj62xWgD0C4/EpYuyXwAQ=="/>
     <POI MapID="866" xpos="-155.608" ypos="176.21" zpos="28.2886" type="resourcenode.other.candy_corn" GUID="5WMFiw9FPE6vtdHJg2rUtg=="/>
+    <POI MapID="866" xpos="-51.8351" ypos="194.592" zpos="-59.3889" type="resourcenode.other.candy_corn" GUID="BpmTAGkFaUy28c+Ivkefcw=="/>
+    <POI MapID="866" xpos="17.5512" ypos="194.943" zpos="-65.1662" type="resourcenode.other.candy_corn" GUID="5QT85H3WoEObVA41Wb9lAQ=="/>
+    <POI MapID="866" xpos="3.78473" ypos="224.266" zpos="-15.7042" type="resourcenode.other.candy_corn" GUID="oAkxIfP1XU+qL0jFYxRv5A=="/>
     <POI MapID="1124" xpos="30.3892" ypos="104.346" zpos="-199.557" type="resourcenode.other.cloth" GUID="llAOqvN5vUmDrDegXK9fEA=="/>
     <POI MapID="1232" xpos="13.999" ypos="13.616" zpos="-77.8832" type="resourcenode.other.cloth" GUID="QnO4qWFavkWpGkWRDXpjBw=="/>
     <POI MapID="1124" xpos="12.4227" ypos="104.317" zpos="-199.98" type="resourcenode.other.leather" GUID="q0vIB/fNIEqhjDHkrFlAbg=="/>
@@ -1825,6 +1830,8 @@
     <POI MapID="988" xpos="-522.812" ypos="8.9529" zpos="-8.55508" type="resourcenode.plant.copper.carrots" GUID="2Bg9TFCwfUKkftjYUmeeFA=="/>
     <POI MapID="988" xpos="-523.27" ypos="9.25256" zpos="-17.3091" type="resourcenode.plant.copper.carrots" GUID="1AnP0gvvoE6sdEa+p3HBPw=="/>
     <POI MapID="988" xpos="-523.287" ypos="9.55299" zpos="-26.3581" type="resourcenode.plant.copper.carrots" GUID="Q03DLIwsoUa77ii3mBi2tg=="/>
+    <POI MapID="50" xpos="-492.538" ypos="85.4378" zpos="299.529" type="resourcenode.plant.copper.carrots" GUID="atD+dXI7i0q8K9+f27q9oA=="/>
+    <POI MapID="50" xpos="-495.074" ypos="86.4197" zpos="300.259" type="resourcenode.plant.copper.carrots" GUID="1Fc2UkduLE2QeC+U/Gz8Ag=="/>
     <POI MapID="988" xpos="-517.83" ypos="8.51516" zpos="-1.96213" type="resourcenode.plant.copper.lettuce" GUID="IwgejWIp002sugEZF+AFGg=="/>
     <POI MapID="988" xpos="-518.176" ypos="8.90657" zpos="-9.14039" type="resourcenode.plant.copper.lettuce" GUID="2FkeNxNxsU+gKcGm0lpbIw=="/>
     <POI MapID="988" xpos="-518.714" ypos="9.16004" zpos="-17.0713" type="resourcenode.plant.copper.lettuce" GUID="4iSFcLiOnUSkADivWsr7NA=="/>
@@ -1919,6 +1926,7 @@
     <POI MapID="1211" xpos="-1453.31" ypos="-37.2955" zpos="-497.214" type="resourcenode.plant.iron.clam" GUID="hLANFSfBJkmho217zF0Xzw=="/>
     <POI MapID="1211" xpos="-1469.36" ypos="-38.5654" zpos="-441.773" type="resourcenode.plant.iron.clam" GUID="w5uehC3tLEKEAgOr6AM0ag=="/>
     <POI MapID="1211" xpos="-1418.57" ypos="-19.2563" zpos="-479.601" type="resourcenode.plant.iron.clam" GUID="Dyrwle2n60Ou1EXmFWBbfQ=="/>
+    <POI MapID="50" xpos="-495.148" ypos="85.8496" zpos="297.963" type="resourcenode.plant.iron.herbsprouts" GUID="LkZWaxjKZUK3xLZgENlmlw=="/>
     <POI MapID="24" xpos="-39.8686" ypos="39.9873" zpos="585.923" type="resourcenode.plant.iron.spinach" GUID="6Wb60cHOaESXXLVoYd5qGw=="/>
     <POI MapID="24" xpos="-40.8575" ypos="41.8972" zpos="598.132" type="resourcenode.plant.iron.spinach" GUID="pz/J7HBG10+PDMonRUoVsQ=="/>
     <POI MapID="24" xpos="-44.5406" ypos="42.7922" zpos="605.816" type="resourcenode.plant.iron.spinach" GUID="svgXC7+uUkOjgXpL4iri4Q=="/>
@@ -1930,6 +1938,8 @@
     <POI MapID="1211" xpos="-400.543" ypos="87.661" zpos="-177.026" type="resourcenode.plant.iron.strawberrypatch" GUID="n72Ng5+SMkSq/tdu0sNOkg=="/>
     <POI MapID="1211" xpos="-417.74" ypos="86.5214" zpos="-168.267" type="resourcenode.plant.iron.strawberrypatch" GUID="Sut2z/RMV0awwWaqUtVk+A=="/>
     <POI MapID="27" xpos="313.12" ypos="72.4327" zpos="-1373" type="resourcenode.plant.iron.taproots" GUID="H5PH7+o5JUi79jRw/Xvgjg=="/>
+    <POI MapID="50" xpos="-492.298" ypos="85.9167" zpos="302.406" type="resourcenode.plant.iron.taproots" GUID="z9q3kN1hDU+uBIvtUAl8Fw=="/>
+    <POI MapID="50" xpos="-495.546" ypos="85.2624" zpos="295.399" type="resourcenode.plant.iron.taproots" GUID="KZ83NIj4OUmLqN66O+LKmA=="/>
     <POI MapID="51" xpos="-590.915" ypos="31.9134" zpos="-355.105" type="resourcenode.plant.mithril.asparagus" GUID="Mj2UAbuk6kSX1k1EB7yYlQ=="/>
     <POI MapID="873" xpos="-341.554" ypos="41.0692" zpos="67.3884" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="OsmwZ0LNPU6AWVctlkK0qw=="/>
     <POI MapID="873" xpos="-305.593" ypos="0.859732" zpos="370.238" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="UZRkuoap7UegnKD3CpCbzQ=="/>
@@ -2678,7 +2688,10 @@
     <POI MapID="21" xpos="540.507" ypos="35.4047" zpos="-834.047" type="resourcenode.plant.steel.grapes" GUID="3jVkn96DpE24qsS3ISLM0g=="/>
     <POI MapID="21" xpos="547.911" ypos="33.5551" zpos="-821.911" type="resourcenode.plant.steel.grapes" GUID="nCb2kMaMgE+k4L6+u1AaEQ=="/>
     <POI MapID="21" xpos="537.153" ypos="34.0157" zpos="-812.349" type="resourcenode.plant.steel.grapes" GUID="h0EvhrZi/EGAYliyvQbJLQ=="/>
+    <POI MapID="50" xpos="-494.934" ypos="87.2786" zpos="303.779" type="resourcenode.plant.steel.rootvegetables" GUID="pG6ZDAVn6EOZDN+7RKle+w=="/>
+    <POI MapID="50" xpos="-492.93" ypos="85.1738" zpos="297.361" type="resourcenode.plant.steel.rootvegetables" GUID="l5jpPcg34UyQGipBsIudFg=="/>
     <POI MapID="17" xpos="434.841" ypos="18.7503" zpos="-694.323" type="resourcenode.plant.steel.youngherbs" GUID="ow8y8ceTp0yLGia4W/5u2A=="/>
+    <POI MapID="50" xpos="-493.647" ypos="84.5701" zpos="294.585" type="resourcenode.plant.steel.youngherbs" GUID="KrtaAfY4o02rbSuaGGREyA=="/>
     <POI MapID="27" xpos="-147.459" ypos="99.2351" zpos="-1379.3" type="resourcenode.plant.steel.zucchini" GUID="kBV60U0sbEyW9X0oDcF6NA=="/>
     <POI MapID="1043" xpos="310.13" ypos="268.797" zpos="-293.716" type="resourcenode.wood.ancient" GUID="YFCBUWrzykanNEoifUB4Sw=="/>
     <POI MapID="62" xpos="297.595" ypos="40.8697" zpos="956.537" type="resourcenode.wood.ancient" GUID="Y37w5T64Q02I/41dZD3wmA=="/>

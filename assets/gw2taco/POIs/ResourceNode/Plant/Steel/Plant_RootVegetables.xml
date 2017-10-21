@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="RootVegetables"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="50" xpos="-494.934" ypos="87.2786" zpos="303.779" type="resourcenode.plant.steel.rootvegetables" GUID="pG6ZDAVn6EOZDN+7RKle+w=="/>
+    <POI MapID="50" xpos="-492.93" ypos="85.1738" zpos="297.361" type="resourcenode.plant.steel.rootvegetables" GUID="l5jpPcg34UyQGipBsIudFg=="/>
+  </POIs>
+</OverlayData>

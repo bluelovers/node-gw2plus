@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Plant">
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="HerbSprouts"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="50" xpos="-495.148" ypos="85.8496" zpos="297.963" type="resourcenode.plant.iron.herbsprouts" GUID="LkZWaxjKZUK3xLZgENlmlw=="/>
+  </POIs>
+</OverlayData>

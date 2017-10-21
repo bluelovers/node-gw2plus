@@ -3,6 +3,7 @@
     <MarkerCategory name="CheckPoint" DisplayName="Check Point" iconFile="Data/jumpingpuzzle/CheckPoint.png" data-iconFile="Data/jumpingpuzzle/CheckPoint.png"/>
     <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
     <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+    <MarkerCategory name="End" iconFile="Data/jumpingpuzzle/End.png" data-iconFile="Data/jumpingpuzzle/End.png"/>
   </MarkerCategory>
   <POIs>
     <POI MapID="1175" xpos="-537.332" ypos="153.017" zpos="-142.553" type="jumpingpuzzle.checkpoint" GUID="7bLyp1OS/UCyFTWlEvaz4g=="/>
@@ -119,5 +120,10 @@
     <POI MapID="1203" xpos="540.161" ypos="488.701" zpos="164" type="jumpingpuzzle.point" GUID="b9/AXA2rZEWuPlZAmFU5xA=="/>
     <POI MapID="1203" xpos="542.643" ypos="511.341" zpos="202.412" type="jumpingpuzzle.point" GUID="tS6VKaDcgkKBSW26oTPNTg=="/>
     <POI MapID="1203" xpos="581.974" ypos="510.509" zpos="98.3267" type="jumpingpuzzle.point" GUID="lljHLx3xi0GhApcrg0zEnA=="/>
+    <POI MapID="50" xpos="-484.528" ypos="77.5902" zpos="277.511" type="jumpingpuzzle.end" GUID="RHksfowLQEyhaI/yf4t0EA=="/>
+    <POI MapID="50" xpos="-477.877" ypos="84.2113" zpos="364.172" type="jumpingpuzzle.checkpoint" GUID="BulYki3d7ESJx0nFLL9XSw=="/>
+    <POI MapID="50" xpos="-394.851" ypos="40.061" zpos="124.644" type="jumpingpuzzle.checkpoint" GUID="1C33jhEtEk6ZqLdcOVWUGg=="/>
+    <POI MapID="50" xpos="-328.832" ypos="31.8695" zpos="72.9432" type="jumpingpuzzle.checkpoint" GUID="kibSjtUE2UmoVBsZ681F7g=="/>
+    <POI MapID="50" xpos="-169.68" ypos="37.5655" zpos="32.4075" type="jumpingpuzzle.checkpoint" GUID="kYP8GZ7AjkuxFAgayvyGfw=="/>
   </POIs>
 </OverlayData>

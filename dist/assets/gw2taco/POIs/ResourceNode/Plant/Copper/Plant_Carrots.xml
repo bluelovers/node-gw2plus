@@ -20,5 +20,7 @@
     <POI MapID="988" xpos="-522.812" ypos="8.9529" zpos="-8.55508" type="resourcenode.plant.copper.carrots" GUID="2Bg9TFCwfUKkftjYUmeeFA=="/>
     <POI MapID="988" xpos="-523.27" ypos="9.25256" zpos="-17.3091" type="resourcenode.plant.copper.carrots" GUID="1AnP0gvvoE6sdEa+p3HBPw=="/>
     <POI MapID="988" xpos="-523.287" ypos="9.55299" zpos="-26.3581" type="resourcenode.plant.copper.carrots" GUID="Q03DLIwsoUa77ii3mBi2tg=="/>
+    <POI MapID="50" xpos="-492.538" ypos="85.4378" zpos="299.529" type="resourcenode.plant.copper.carrots" GUID="atD+dXI7i0q8K9+f27q9oA=="/>
+    <POI MapID="50" xpos="-495.074" ypos="86.4197" zpos="300.259" type="resourcenode.plant.copper.carrots" GUID="1Fc2UkduLE2QeC+U/Gz8Ag=="/>
   </POIs>
 </OverlayData>
