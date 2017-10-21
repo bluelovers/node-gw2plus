@@ -362,5 +362,8 @@
 		<POI MapID="864" xpos="-96.7028" ypos="179.028" zpos="161.568" type="temp.halloween.lunatic_inquisition.bones" GUID="a2EFmbKFQ0CmcsU4o9xFQQ=="/>
 		<POI MapID="864" xpos="-143.127" ypos="177.361" zpos="-162.106" type="temp.halloween.lunatic_inquisition.black_goo" GUID="oCOKifLeUkimIkvMMHVwsw=="/>
 		<POI MapID="864" xpos="137.741" ypos="177.107" zpos="-116.329" type="temp.halloween.lunatic_inquisition.web" GUID="QFUHTpIFCEyzZvLeuPX0Og=="/>
+		<POI MapID="866" xpos="-51.8351" ypos="194.592" zpos="-59.3889" type="resourcenode.other.candy_corn" GUID="BpmTAGkFaUy28c+Ivkefcw=="/>
+		<POI MapID="866" xpos="17.5512" ypos="194.943" zpos="-65.1662" type="resourcenode.other.candy_corn" GUID="5QT85H3WoEObVA41Wb9lAQ=="/>
+		<POI MapID="866" xpos="3.78473" ypos="224.266" zpos="-15.7042" type="resourcenode.other.candy_corn" GUID="oAkxIfP1XU+qL0jFYxRv5A=="/>
 	</POIs>
 </OverlayData>

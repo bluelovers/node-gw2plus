@@ -12,6 +12,8 @@ const gw2taco = {
 
 	Route: require('./route'),
 
+	MapTimer: require('./maptimer'),
+
 	default: null,
 
 };
