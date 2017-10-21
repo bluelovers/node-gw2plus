@@ -165,7 +165,7 @@
     <Event Name="Crash Site" Length="40" Color="80fcfadc"/>
     <Event Name="Sandstorm" Length="20" Color="80ded98a"/>
   </Map>
-  <Map Name="Ley-Line Anomalies" Length="360" Start="20" id="wb">
+  <Map Name="Ley-Line Anomalies" Length="360" Start="20" id="wb1">
     <Event Name="Spawn" Length="20" Color="80c0392b"/>
     <Event Name="Next: Iron Marches" Length="100" Color="80e74c3c"/>
     <Event Name="Spawn" Length="20" Color="80c0392b"/>
@@ -173,16 +173,19 @@
     <Event Name="Spawn" Length="20" Color="80c0392b"/>
     <Event Name="Next: Timberline Falls" Length="100" Color="80e74c3c"/>
   </Map>
-  <Map Name="Crystal Oasis: Casino Blitz" Length="120" Start="5" id="cb">
+  <Map Name="Halloween" Length="120" Start="0" id="halloween">
+    <Event Name="Mad King" Length="10" Color="80ffd7d7"/>
+    <Event data-class="auto-pad" Name="Next: Mad King" Length="110" Color=""/>
+  </Map>
+  <Map Name="Crystal Oasis: Casino Blitz" Length="120" Start="5" id="crystal_oasis_casino_blitz">
     <Event Name="1" Length="5" Color="80ffd7d7"/>
     <Event Name="2" Length="5" Color="80ffd7d7"/>
     <Event Name="3" Length="5" Color="80ffd7d7"/>
-    <Event Name="" Length="1" Color=""/>
-    <Event Name="Boss" Length="4" Color="80ff9999"/>
-    <Event Name="" Length="100" Color=""/>
+    <Event Name="Boss" Length="5" Color="80ff9999"/>
+    <Event data-class="auto-pad" Name="Next: Crystal Oasis: Casino Blitz" Length="100" Color=""/>
   </Map>
-  <Map Name="Serpents' Ire" Length="90" Start="60">
+  <Map Name="Serpents' Ire" Length="90" Start="60" id="serpents_ire">
     <Event Name="Serpents' Ire" Length="30" Color="80ffd7d7"/>
-    <Event Name="" Length="60" Color=""/>
+    <Event data-class="auto-pad" Name="Next: Serpents' Ire" Length="60" Color=""/>
   </Map>
 </GW2MapTimer>
