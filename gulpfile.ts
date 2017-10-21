@@ -20,6 +20,7 @@ const addGulpTasks = addTasks(gulp);
 
 import './gulp-task/gw2taco';
 import './gulp-task/gw2taco/runtime';
+import './gulp-task/gw2taco/maptimer';
 import './gulp-task/gw2api';
 import './gulp-task/tree';
 import './gulp-task/pack';
@@ -951,6 +952,7 @@ addGulpTasks({
 
 		tasks: [
 			'category:sort',
+			'gw2taco:maptimer:default',
 			['tree:default', 'pack:default'],
 		],
 	},
