@@ -1,0 +1,13 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="RootVegetables" DisplayName="Root Vegetables"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="50" xpos="-494.934" ypos="87.2786" zpos="303.779" type="resourcenode.plant.steel.rootvegetables" GUID="pG6ZDAVn6EOZDN+7RKle+w=="/>
+    <POI MapID="50" xpos="-492.93" ypos="85.1738" zpos="297.361" type="resourcenode.plant.steel.rootvegetables" GUID="l5jpPcg34UyQGipBsIudFg=="/>
+  </POIs>
+</OverlayData>
