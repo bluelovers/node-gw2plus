@@ -1,0 +1,20 @@
+<OverlayData>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
+    <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="863" xpos="30.0325" ypos="208.261" zpos="-85.5912" type="jumpingpuzzle.point" GUID="ZsDECD3zb0ugW7z/3NU+Wg=="/>
+    <POI MapID="863" xpos="40.7126" ypos="199.5" zpos="-74.8304" type="jumpingpuzzle.point" GUID="BN+WRMwM6k6le4fhV69YOg=="/>
+    <POI MapID="863" xpos="47.1102" ypos="188.912" zpos="-74.403" type="jumpingpuzzle.point" GUID="f/Aswo1L4UOEm7K8ERzSYw=="/>
+    <POI MapID="863" xpos="47.7277" ypos="172.588" zpos="-88.2128" type="jumpingpuzzle.point" GUID="wzfulTp21kucBlvx8oX9mQ=="/>
+    <POI MapID="863" xpos="39.1098" ypos="167.427" zpos="-83.8297" type="jumpingpuzzle.point" GUID="IXpHEdSvrUO44Fwgz4izpg=="/>
+    <POI MapID="863" xpos="26.3405" ypos="152.713" zpos="-77.5168" type="jumpingpuzzle.point" GUID="YtRPK18YlEGYLBEC06e70g=="/>
+    <POI MapID="863" xpos="-13.1001" ypos="153.134" zpos="-0.827395" type="jumpingpuzzle.point" GUID="sYm5GU+0fESBzAJLeVzC+w=="/>
+    <POI MapID="863" xpos="1.15154" ypos="119.386" zpos="-10.5347" type="jumpingpuzzle.point" GUID="6nAJBrMG8ESqh9fEQeHI8Q=="/>
+    <POI MapID="863" xpos="5.98265" ypos="99.8432" zpos="-27.0936" type="jumpingpuzzle.point" GUID="ZvZbSozYmkOT6AgRjUuu2g=="/>
+    <POI MapID="863" xpos="23.2554" ypos="85.7294" zpos="-0.374719" type="chest.meta" GUID="rM5R4Y8+F0K17/BzpysOiA=="/>
+  </POIs>
+</OverlayData>

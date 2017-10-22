@@ -144,6 +144,7 @@ POIs
 ├── DivingGoggles.xml
 ├─┬ Festivals
 │ └─┬ Halloween
+│   ├── Ascent to Madness.xml
 │   ├── CarvingPumpkin.xml
 │   ├─┬ Lunatic Wardrobe
 │   │ └── Lunatic Racer.xml

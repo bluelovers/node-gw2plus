@@ -33,5 +33,6 @@
     <POI MapID="1203" xpos="-486.07" ypos="94.7882" zpos="42.0133" type="resourcenode.plant.orichalcum.omnomberries" GUID="HHepVja/7Um7Pwkx62CWJw=="/>
     <POI MapID="1203" xpos="-338.111" ypos="31.6284" zpos="10.8116" type="resourcenode.plant.orichalcum.omnomberries" GUID="QMtCplylK0+qzQbsr+0PRQ=="/>
     <POI MapID="1203" xpos="-297.275" ypos="21.8439" zpos="-6.98736" type="resourcenode.plant.orichalcum.omnomberries" GUID="zjWJvIyUG0eahKxKk2PEmA=="/>
+    <POI MapID="62" xpos="-93.5503" ypos="20.7793" zpos="74.585" type="resourcenode.plant.orichalcum.omnomberries" GUID="hGmKypEX3kW06HXgT6C7iA=="/>
   </POIs>
 </OverlayData>
