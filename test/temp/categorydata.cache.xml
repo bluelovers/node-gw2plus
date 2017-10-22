@@ -359,7 +359,7 @@
     <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point" iconFile="Data/jumpingpuzzle/CheckPoint.png" data-iconFile="Data/jumpingpuzzle/CheckPoint.png"/>
     <MarkerCategory name="Portal"/>
-    <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+    <MarkerCategory name="Point" heightOffset="1" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
     <MarkerCategory name="End" iconFile="Data/jumpingpuzzle/End.png" data-iconFile="Data/jumpingpuzzle/End.png"/>
     <MarkerCategory name="Guide">
       <MarkerCategory name="Ascalon">
