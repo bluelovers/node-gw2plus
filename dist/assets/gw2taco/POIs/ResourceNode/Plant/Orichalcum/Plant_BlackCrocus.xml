@@ -38,5 +38,6 @@
     <POI MapID="1203" xpos="-88.4766" ypos="28.2122" zpos="-99.6366" type="resourcenode.plant.orichalcum.blackcrocus" GUID="vvXpc4Dvy0GczboejKd6rA=="/>
     <POI MapID="1203" xpos="-510.934" ypos="24.9407" zpos="-228.118" type="resourcenode.plant.orichalcum.blackcrocus" GUID="F1+LNmlxqkWtH0rdw+XNOA=="/>
     <POI MapID="1203" xpos="-539.498" ypos="31.2788" zpos="-231.675" type="resourcenode.plant.orichalcum.blackcrocus" GUID="gB8JcGkE/ECNRcWGPlG4OA=="/>
+    <POI MapID="62" xpos="-122.33" ypos="2.81826" zpos="218.601" type="resourcenode.plant.orichalcum.blackcrocus" GUID="9CbK9laaWUGVzmRtbI6Ffw=="/>
   </POIs>
 </OverlayData>
