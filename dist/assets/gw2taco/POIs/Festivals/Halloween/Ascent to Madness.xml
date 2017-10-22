@@ -3,7 +3,7 @@
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
   </MarkerCategory>
   <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
-    <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+    <MarkerCategory name="Point" heightOffset="1" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
   </MarkerCategory>
   <POIs>
     <POI MapID="863" xpos="30.0325" ypos="208.261" zpos="-85.5912" type="jumpingpuzzle.point" GUID="ZsDECD3zb0ugW7z/3NU+Wg=="/>
