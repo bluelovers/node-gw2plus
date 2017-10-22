@@ -3,7 +3,7 @@
     <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
   </MarkerCategory>
   <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
-    <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+    <MarkerCategory name="Point" heightOffset="1" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
   </MarkerCategory>
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="Halloween" data-sort="true" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
