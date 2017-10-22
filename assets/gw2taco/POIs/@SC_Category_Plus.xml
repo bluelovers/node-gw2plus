@@ -90,7 +90,7 @@
     <MarkerCategory name="Start"/>
     <MarkerCategory name="CheckPoint" DisplayName="Check Point"/>
     <MarkerCategory name="Portal"/>
-    <MarkerCategory name="Point"/>
+    <MarkerCategory name="Point" heightOffset="1"/>
     <MarkerCategory name="End"/>
   </MarkerCategory>
   <MarkerCategory name="Achievement" data-allowsub="true"/>
