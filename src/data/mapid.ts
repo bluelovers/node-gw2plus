@@ -18,3 +18,11 @@ export const GuildHall = [
 export const Home = [
 	'371',
 ];
+
+export const MapID2Taco = {
+	863: [
+		'Festivals',
+		'Halloween',
+		'Ascent to Madness',
+	],
+};
