@@ -26,3 +26,5 @@ export const MapID2Taco = {
 		'Ascent to Madness',
 	],
 };
+
+export default exports;
