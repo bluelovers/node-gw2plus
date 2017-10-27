@@ -189,6 +189,11 @@ addGulpTasks({
 
 							pois_target_id[pois_target_id.length] = 'Raid' + '_' + map_id;
 						}
+						else if (!IS_TEMP && cats[type] && gw2MapID.MapID2Taco[map_id])
+						{
+							pois_target_id = gw2MapID.MapID2Taco[map_id];
+							type_new = cats[type].name_id.split('.');
+						}
 						else if (types2[type])
 						{
 							pois_target_id = types2[type];
