@@ -5,6 +5,11 @@
   <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
     <MarkerCategory name="Point" heightOffset="1" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
   </MarkerCategory>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" iconFile="Data/Tactical/Raid.png" data-iconFile="Data/Tactical/Raid.png" fadeFar="5600" fadeNear="5600">
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/Tactical/Raid/SpawnPoint.png" iconSize="0.5" heightOffset="0" data-iconFile="Data/spawn.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
   <POIs>
     <POI MapID="863" xpos="30.0325" ypos="208.261" zpos="-85.5912" type="jumpingpuzzle.point" GUID="ZsDECD3zb0ugW7z/3NU+Wg=="/>
     <POI MapID="863" xpos="40.7126" ypos="199.5" zpos="-74.8304" type="jumpingpuzzle.point" GUID="BN+WRMwM6k6le4fhV69YOg=="/>
@@ -16,5 +21,8 @@
     <POI MapID="863" xpos="1.15154" ypos="119.386" zpos="-10.5347" type="jumpingpuzzle.point" GUID="6nAJBrMG8ESqh9fEQeHI8Q=="/>
     <POI MapID="863" xpos="5.98265" ypos="99.8432" zpos="-27.0936" type="jumpingpuzzle.point" GUID="ZvZbSozYmkOT6AgRjUuu2g=="/>
     <POI MapID="863" xpos="23.2554" ypos="85.7294" zpos="-0.374719" type="chest.meta" GUID="rM5R4Y8+F0K17/BzpysOiA=="/>
+    <POI MapID="863" xpos="36.0687" ypos="212.068" zpos="-25.4488" type="tactical.raid.spawnpoint" GUID="3ZnN8JO/vkiDKGtfjPKdmw=="/>
+    <POI MapID="863" xpos="-6.62451" ypos="154.281" zpos="-61.3399" type="tactical.raid.spawnpoint" GUID="aPADqtb10UWwt7lCQp6CJA=="/>
+    <POI MapID="863" xpos="19.9184" ypos="85.4666" zpos="-51.7371" type="tactical.raid.spawnpoint" GUID="idC2VlKyw0iANTALZuPNBg=="/>
   </POIs>
 </OverlayData>
