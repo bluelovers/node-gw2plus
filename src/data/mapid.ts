@@ -25,6 +25,12 @@ export const MapID2Taco = {
 		'Halloween',
 		'Ascent to Madness',
 	],
+
+	864: [
+		'Festivals',
+		'Halloween',
+		'Lunatic Inquisition',
+	],
 };
 
 export default exports;
