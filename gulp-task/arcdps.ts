@@ -113,6 +113,8 @@ const _gulp_ = {
 				cht_new.push(`;Traditional Chinese`);
 				cht_new.push(`;https://github.com/bluelovers/node-gw2plus/tree/master/dist/assets/arcdps/translations/cht/arcdps_lang.ini`);
 
+				let no_lang = [];
+
 				for (let i in c.lang)
 				{
 					if ((i as any) == 1)
@@ -176,9 +178,15 @@ const _gulp_ = {
 						//cht_new = cht_new.concat(cv);
 					}
 
+					//console.log(i, v);
+
 					if (v)
 					{
 						cht_new.push(`${i}=${v}`);
+					}
+					else
+					{
+						no_lang.push(`;${i}=${c.lang[i]}`);
 					}
 				}
 
@@ -194,6 +202,10 @@ const _gulp_ = {
 						cht_new.push(`;${i}=${v}`);
 					}
 				}
+
+				cht_new.push(`; not translation list`);
+
+				cht_new = cht_new.concat(no_lang);
 
 				let out = Buffer.from(cht_new.join("\n"));
 
