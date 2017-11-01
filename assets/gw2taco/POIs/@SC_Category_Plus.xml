@@ -49,6 +49,9 @@
   </MarkerCategory>
   <MarkerCategory name="Chest" data-class="fade-1 poi-chest">
     <MarkerCategory name="MapSpecific" data-allowsub="true" data-class="fade-7">
+      <MarkerCategory name="VerdantBrink">
+        <MarkerCategory name="Rich"/>
+      </MarkerCategory>
       <MarkerCategory name="KeyRequired"/>
       <MarkerCategory name="Strongbox"/>
       <MarkerCategory name="Treasure" data-class="fade-max size-0.5"/>
