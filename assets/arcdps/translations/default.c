@@ -210,6 +210,7 @@
 	lang[LANG_PAN_SUMMARY_INTENSITY] = "intensity";
 	lang[LANG_PAN_SUMMARY_PHYS] = "phys";
 	lang[LANG_PAN_SUMMARY_COND] = "cond";
+	lang[LANG_PAN_SUMMARY_DPSUPTIME] = "dps uptime";
 
 	/* panels: logger */
 	lang[LANG_PAN_LOGGER_HEADER] = "LOGGER";

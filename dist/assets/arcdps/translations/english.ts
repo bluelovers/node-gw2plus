@@ -205,6 +205,7 @@ enum m_translate {
 	LANG_PAN_SUMMARY_INTENSITY,
 	LANG_PAN_SUMMARY_PHYS,
 	LANG_PAN_SUMMARY_COND,
+	LANG_PAN_SUMMARY_DPSUPTIME,
 
 	/* panels: logger */
 	LANG_PAN_LOGGER_HEADER = 390,
@@ -607,6 +608,7 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_SUMMARY_INTENSITY] = "intensity";
 	lang[m_translate.LANG_PAN_SUMMARY_PHYS] = "phys";
 	lang[m_translate.LANG_PAN_SUMMARY_COND] = "cond";
+	lang[m_translate.LANG_PAN_SUMMARY_DPSUPTIME] = "dps uptime";
 
 	/* panels: logger */
 	lang[m_translate.LANG_PAN_LOGGER_HEADER] = "LOGGER";
