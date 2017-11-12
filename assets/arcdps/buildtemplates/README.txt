@@ -17,8 +17,8 @@ x to delete.
 
 limitations:
 no ranger pet swapping - verify done as part of the ui, and not on cmd send.
-no rev legend swapping - much effort little reward.
-no legendary stat/rune/infusion swapping - no legendaries to try on.
+no rev legend swapping - much effort little reward, same as above.
+no legendary stat/rune/infusion swapping - no legendaries to reverse engineer, all gold donations go towards funding weaps+armor (at ~310g).
 
 restrictions:
 loading templates outside cities/hubs is limited to 500ms per command.
@@ -40,7 +40,7 @@ byte 0 = 's' (0x73).
 byte 1 = u16 prof id.
 byte 3-22 = u16[10] landheal, landutil1, landutil2, landutil3, landelite, waterheal, waterutil1, wateruril2, waterutil3, waterelite.
 skillpalette ids used for skill template are not currently available via web api.
-to use skilldef ids (from web api), replace byte0 with 'k' (0x6b) - experimental.
+to use skilldef ids (from web api), replace byte0 with 'k' (0x6b).
 
 gear template code:
 too long to be feasible
