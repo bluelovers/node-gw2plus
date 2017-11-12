@@ -79,9 +79,17 @@ const _gulp_ = {
 				;
 		},
 
+		'delay-2000': function ()
+		{
+			return sleep(2000);
+		},
+
 		cht: {
 			deps: [
 				':c',
+			],
+			tasks: [
+				':delay-2000',
 			],
 			async callback(done)
 			{
@@ -277,4 +285,12 @@ function verify()
 		console.debug('[verify]', 'done');
 		cb();
 	}
+}
+
+function sleep(ms: number)
+{
+	return new Promise(function (resolve, reject)
+	{
+		setTimeout(resolve, ms)
+	})
 }
