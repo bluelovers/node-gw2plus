@@ -206,6 +206,7 @@ enum m_translate {
 	LANG_PAN_SUMMARY_PHYS,
 	LANG_PAN_SUMMARY_COND,
 	LANG_PAN_SUMMARY_DPSUPTIME,
+	LANG_PAN_SUMMARY_PROT,
 
 	/* panels: logger */
 	LANG_PAN_LOGGER_HEADER = 390,
@@ -345,14 +346,14 @@ enum m_translate {
 	LANG_PAN_TEMPLATES_HEADER = 570,
 	LANG_PAN_TEMPLATES_LOAD,
 	LANG_PAN_TEMPLATES_SAVE,
-	LANG_PAN_TEMPLATES_NONE,
+	LANG_PAN_TEMPLATES_SELSIMILAR,
 	LANG_PAN_TEMPLATES_TRAITS,
 	LANG_PAN_TEMPLATES_GEAR,
 	LANG_PAN_TEMPLATES_SKILLS,
 	LANG_PAN_TEMPLATES_LEGENDARY,
 	LANG_PAN_TEMPLATES_PVP,
-	LANG_PAN_TEMPLATES_SAVETRAITS,
-	LANG_PAN_TEMPLATES_SAVEGEAR,
+	LANG_PAN_TEMPLATES_UNEQUIP,
+	LANG_PAN_TEMPLATES_ALPHA,
 	LANG_PAN_TEMPLATES_COPY,
 	LANG_PAN_TEMPLATES_NAME,
 	LANG_PAN_TEMPLATES_DELETE,
@@ -384,6 +385,7 @@ enum m_translate {
 	LANG_COMMON_SKILLS2_DMGPHYS,
 	LANG_COMMON_SKILLS2_DMGBUFF,
 	LANG_COMMON_SKILLS2_CHANNELED,
+	LANG_COMMON_SKILLS2_PROTECTED,
 
 	/* common: assorted */
 	LANG_COMMON_AS_SUCCESS = 660,
@@ -460,6 +462,7 @@ enum m_translate {
 	lang[m_translate.LANG_COMMON_SKILLS2_DMGPHYS] = "dmg (phys)";
 	lang[m_translate.LANG_COMMON_SKILLS2_DMGBUFF] = "dmg (buff)";
 	lang[m_translate.LANG_COMMON_SKILLS2_CHANNELED] = "time cast";
+	lang[m_translate.LANG_COMMON_SKILLS2_PROTECTED] = "protected";
 
 	/* common: custom skills */
 	lang[m_translate.LANG_COMMON_CSK_DODGE] = "Dodge";
@@ -610,6 +613,7 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_SUMMARY_PHYS] = "phys";
 	lang[m_translate.LANG_PAN_SUMMARY_COND] = "cond";
 	lang[m_translate.LANG_PAN_SUMMARY_DPSUPTIME] = "dps uptime";
+	lang[m_translate.LANG_PAN_SUMMARY_PROT] = "prot rate";
 
 	/* panels: logger */
 	lang[m_translate.LANG_PAN_LOGGER_HEADER] = "LOGGER";
@@ -734,14 +738,14 @@ enum m_translate {
 	lang[m_translate.LANG_PAN_TEMPLATES_HEADER] = "TEMPLATES";
 	lang[m_translate.LANG_PAN_TEMPLATES_LOAD] = "LOAD";
 	lang[m_translate.LANG_PAN_TEMPLATES_SAVE] = "SAVE";
-	lang[m_translate.LANG_PAN_TEMPLATES_NONE] = "NO TEMPLATES";
+	lang[m_translate.LANG_PAN_TEMPLATES_SELSIMILAR] = "SELECT SIMILAR";
 	lang[m_translate.LANG_PAN_TEMPLATES_TRAITS] = "TRAITS";
 	lang[m_translate.LANG_PAN_TEMPLATES_GEAR] = "GEAR";
 	lang[m_translate.LANG_PAN_TEMPLATES_SKILLS] = "SKILLS";
 	lang[m_translate.LANG_PAN_TEMPLATES_LEGENDARY] = "LEGENDARY";
 	lang[m_translate.LANG_PAN_TEMPLATES_PVP] = "PVP";
-	//lang[m_translate.LANG_PAN_TEMPLATES_SAVETRAITS] = "SAVE TRAITS";
-	//lang[m_translate.LANG_PAN_TEMPLATES_SAVEGEAR] = "SAVE GEAR";
+	lang[m_translate.LANG_PAN_TEMPLATES_UNEQUIP] = "UNEQUIP EMPTY";
+	lang[m_translate.LANG_PAN_TEMPLATES_ALPHA] = "SORT ALPHABETICALLY";
 	lang[m_translate.LANG_PAN_TEMPLATES_COPY] = "copied";
 	lang[m_translate.LANG_PAN_TEMPLATES_NAME] = "NAME";
 	lang[m_translate.LANG_PAN_TEMPLATES_DELETE] = "delete";
