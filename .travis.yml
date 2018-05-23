@@ -5,7 +5,7 @@ before_install:
   #- npm install -g typedoc typedoc-themes-color typedoc-plugin-nojekyll
   - npm install -g typescript gulp ts-node
 install:
-  #- npm install
+  - npm install
 #  - npm install --no-save
 script:
 - npm run gulp
