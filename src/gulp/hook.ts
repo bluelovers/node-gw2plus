@@ -6,13 +6,16 @@ import * as gulp from 'gulp';
 
 // @see https://stackoverflow.com/questions/27161903/how-to-get-task-name-inside-task-in-gulp
 
+// @ts-ignore
 gulp.Gulp.prototype.__runTask = gulp.Gulp.prototype._runTask;
+// @ts-ignore
 gulp.Gulp.prototype._runTask = function (task)
 {
 	this.currentTask = task;
 	this.__runTask(task);
 };
 
+export { gulp }
 export default gulp;
 
 export function thisTaskName(who): string

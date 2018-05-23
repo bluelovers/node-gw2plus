@@ -165,7 +165,7 @@
     <Event Name="Crash Site" Length="40" Color="80fcfadc"/>
     <Event Name="Sandstorm" Length="20" Color="80ded98a"/>
   </Map>
-  <Map Name="Ley-Line Anomalies" Length="360" Start="20" id="wb">
+  <Map Name="Ley-Line Anomalies" Length="360" Start="20" id="lla">
     <Event Name="Spawn" Length="20" Color="80c0392b"/>
     <Event Name="Next: Iron Marches" Length="100" Color="80e74c3c"/>
     <Event Name="Spawn" Length="20" Color="80c0392b"/>

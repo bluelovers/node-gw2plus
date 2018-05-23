@@ -4,6 +4,7 @@
     <MarkerCategory name="Guilde">
       <MarkerCategory name="End"/>
     </MarkerCategory>
+    <MarkerCategory name="End"/>
   </MarkerCategory>
   <POIs>
     <POI MapID="1195" xpos="-24.3984" ypos="546.803" zpos="-258.555" type="divinggoggles.start" GUID="CeLmDv7e2U2A+Co9wPVunw=="/>
@@ -21,5 +22,11 @@
     <POI MapID="1228" xpos="-625.014" ypos="-1.05301" zpos="-164.647" type="divinggoggles.guilde.end" GUID="n0viS6rD+0ugKU+sIBPbkg=="/>
     <POI MapID="35" xpos="-26.3709" ypos="25.7214" zpos="-566.777" type="divinggoggles.start" GUID="5Y8gMwmtxk2Dr8u+Mnt7gQ=="/>
     <POI MapID="28" xpos="142.952" ypos="41.0467" zpos="-51.7476" type="divinggoggles.start" GUID="OxFolOxcc0aP8PP1FUddqw=="/>
+    <POI MapID="1263" xpos="-286.717" ypos="45.3428" zpos="899.71" type="divinggoggles.start" GUID="vhmru0FI8Ui8oQr/lqIbcw=="/>
+    <POI MapID="1263" xpos="112.437" ypos="105.967" zpos="619.151" type="divinggoggles.start" GUID="nojX8xVzvkKl1EwNP1/uaQ=="/>
+    <POI MapID="1268" xpos="197.469" ypos="93.7495" zpos="104.352" type="divinggoggles.start" GUID="e614tyILSE+RgeuTA96SqA=="/>
+    <POI MapID="1268" xpos="199.418" ypos="-1.05366" zpos="81.0718" type="divinggoggles.end" GUID="26IIgEpi7EidpnRCP3znSQ=="/>
+    <POI MapID="1263" xpos="-644.917" ypos="113.774" zpos="-294.837" type="divinggoggles.start" GUID="MMJGEfSNyUef7yyMKmaVkA=="/>
+    <POI MapID="1263" xpos="-649.331" ypos="22.3441" zpos="-273.122" type="divinggoggles.guilde.end" GUID="W5Mk+Dxm6E2DX0dxiJJr7Q=="/>
   </POIs>
 </OverlayData>

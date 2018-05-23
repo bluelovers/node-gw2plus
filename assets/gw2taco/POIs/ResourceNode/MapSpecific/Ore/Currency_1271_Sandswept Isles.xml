@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="Ore">
+        <MarkerCategory name="Currency"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1271" xpos="-358.565" ypos="66.4364" zpos="14.9761" type="resourcenode.mapspecific.ore.currency" GUID="Um45uqiCGUu60STR1FqQ5g=="/>
+    <POI MapID="1271" xpos="-494.885" ypos="130.268" zpos="83.0711" type="resourcenode.mapspecific.ore.currency" GUID="M29IUvcDo0iblpaqdi0Bbg=="/>
+    <POI MapID="1271" xpos="597.387" ypos="0.795904" zpos="-582.124" type="resourcenode.mapspecific.ore.currency" GUID="o8EruSFEN0u1/EC9g7ubAA=="/>
+    <POI MapID="1271" xpos="609.991" ypos="13.4416" zpos="-596.065" type="resourcenode.mapspecific.ore.currency" GUID="ib+aN2STOUevA9gtHd/Dbw=="/>
+  </POIs>
+</OverlayData>

@@ -1,0 +1,8 @@
+<OverlayData>
+  <MarkerCategory name="Chest">
+    <MarkerCategory name="Meta"/>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1205" xpos="266.8" ypos="124.106" zpos="62.6752" type="chest.meta" GUID="QqXcdUgeLUaIf9KrmBIKtQ=="/>
+  </POIs>
+</OverlayData>

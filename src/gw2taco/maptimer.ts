@@ -17,6 +17,14 @@ class MapTimer extends Node
 	static defaultTagName: string = 'Map';
 	static defaultSubTagName: string = 'Event';
 
+	static AttrOrder = [
+		'Color',
+		'Length',
+		'Name',
+		'Start',
+		'id',
+	];
+
 	filterEvent()
 	{
 		let _self = this;
@@ -26,7 +34,7 @@ class MapTimer extends Node
 		let es = _self.find(eventTagName);
 
 		return es;
-	},
+	}
 
 	createPadding(maps)
 	{

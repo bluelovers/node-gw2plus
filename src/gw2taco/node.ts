@@ -13,6 +13,9 @@ import * as prettifyXml from 'prettify-xml';
 import fs from '../lib/fs';
 
 import * as shortid from 'shortid';
+import sortObjectKeys from 'sort-object-keys2';
+
+
 
 export interface normalizeOptions
 {
@@ -96,6 +99,7 @@ class Node
 	 */
 	html(...argv): string
 	{
+		// @ts-ignore
 		return this.xml(...argv);
 	}
 
@@ -105,7 +109,7 @@ class Node
 	 * @param {Object} options
 	 * @returns {string | this}
 	 */
-	xml(context, options?: object): string | this
+	xml(context?, options?: object): string | this
 	{
 		if (typeof context != 'undefined')
 		{
@@ -118,6 +122,8 @@ class Node
 
 			return this;
 		}
+
+		getClassStatic(this).sortAttr(this.$._root);
 
 		return this.$.xml();
 	}
@@ -133,7 +139,9 @@ class Node
 	 */
 	dump(): string
 	{
-		let out = this.$.xml()
+		let out = this
+			//.$
+			.xml()
 			//.replace(/\/\>/g, `/>\n`)
 		;
 
@@ -339,6 +347,69 @@ class Node
 	static newGUID(): string
 	{
 		return shortid.generate();
+	}
+
+	static AttrOrder = [
+		'MapID',
+		'xpos',
+		'ypos',
+		'zpos',
+		'type',
+
+		'name',
+		'DisplayName',
+
+		'fadeFar',
+		'fadeNear',
+
+		'iconFile',
+
+		'iconSize',
+		'maxSize',
+		'heightOffset',
+
+	];
+
+	static sortAttr(elem)
+	{
+		const self = this;
+
+		if (elem.attribs)
+		{
+			sortObjectKeys(elem.attribs, {
+				keys: self.AttrOrder,
+				useSource: true,
+			});
+		}
+
+		if (elem._root)
+		{
+			self.sortAttr(elem._root);
+		}
+
+		if (elem.elem)
+		{
+			Object
+				.keys(elem.elem)
+				.forEach(function (id)
+				{
+					self.sortAttr(elem.elem[id]);
+				})
+			;
+		}
+
+		if (elem.children)
+		{
+			Object
+				.keys(elem.children)
+				.forEach(function (id)
+				{
+					self.sortAttr(elem.children[id]);
+				})
+			;
+		}
+
+		return elem;
 	}
 
 }

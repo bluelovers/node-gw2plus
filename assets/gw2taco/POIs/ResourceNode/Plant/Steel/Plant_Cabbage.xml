@@ -17,5 +17,9 @@
     <POI MapID="17" xpos="-710.139" ypos="0.760542" zpos="-129.707" type="resourcenode.plant.steel.cabbage" GUID="Je9V4wMFO0ORyZYTy+QOSw=="/>
     <POI MapID="17" xpos="-705.104" ypos="0.504429" zpos="-127.714" type="resourcenode.plant.steel.cabbage" GUID="fOJ5MKgUA0++P4U+c3cKMg=="/>
     <POI MapID="17" xpos="-700.473" ypos="0.681918" zpos="-125.644" type="resourcenode.plant.steel.cabbage" GUID="/CHe9VO1NUq+qZzWInOn4g=="/>
+    <POI MapID="1271" xpos="-19.7029" ypos="29.3231" zpos="721.911" type="resourcenode.plant.steel.cabbage" GUID="qLIY+jf9pEyQEvK1jsZ9kA=="/>
+    <POI MapID="1271" xpos="-21.6075" ypos="29.7909" zpos="728.013" type="resourcenode.plant.steel.cabbage" GUID="3V2kHOWNV0+OyknvcFFWug=="/>
+    <POI MapID="1271" xpos="-22.3234" ypos="30.0228" zpos="732.305" type="resourcenode.plant.steel.cabbage" GUID="tcUZciSp1UadthVaUacR9Q=="/>
+    <POI MapID="1271" xpos="-23.4395" ypos="30.3139" zpos="736.312" type="resourcenode.plant.steel.cabbage" GUID="tpQUBut5RE66Y/ijVg1tdA=="/>
   </POIs>
 </OverlayData>

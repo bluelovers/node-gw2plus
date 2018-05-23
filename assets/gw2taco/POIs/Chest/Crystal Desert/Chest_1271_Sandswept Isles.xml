@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Chest">
+    <MarkerCategory name="Meta"/>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="KeyRequired"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1271" xpos="-251.6" ypos="2.25509" zpos="-208.554" type="chest.meta" GUID="MsAWX5wRF0WuGioAzjT0zw=="/>
+    <POI MapID="1271" xpos="-719.316" ypos="3.25029" zpos="664.403" type="chest.mapspecific.keyrequired" GUID="YyL+WMQ15kikBiQbKA17WA=="/>
+  </POIs>
+</OverlayData>

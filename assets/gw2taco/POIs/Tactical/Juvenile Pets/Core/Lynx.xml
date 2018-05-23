@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Core">
+        <MarkerCategory name="Lynx"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="26" xpos="127.369" ypos="60.3261" zpos="687.186" type="tactical.juvenile_pets.core.lynx" GUID="o5EO5PgrMUiwXEce3gkXkw=="/>
+  </POIs>
+</OverlayData>

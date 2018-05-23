@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="Chest">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="KeyRequired"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1263" xpos="-615.514" ypos="45.0704" zpos="-441.498" type="chest.mapspecific.keyrequired" GUID="i8o77N9kxEy9Z9Pc1yhxIg=="/>
+    <POI MapID="1263" xpos="-338.764" ypos="11.1525" zpos="872.214" type="chest.mapspecific.keyrequired" GUID="upve8CMsJUGHBkmfClPfzA=="/>
+    <POI MapID="1263" xpos="246.732" ypos="16.2598" zpos="435.193" type="chest.mapspecific.keyrequired" GUID="Svfo48S2jkWx/8mqrfZQ9w=="/>
+    <POI MapID="1263" xpos="666.867" ypos="34.7551" zpos="217.209" type="chest.mapspecific.keyrequired" GUID="r0qhGegOM0Sy41xq4Uq8qw=="/>
+    <POI MapID="1263" xpos="77.9994" ypos="147.885" zpos="-359.137" type="chest.mapspecific.keyrequired" GUID="NDPK75vih0WYr8MZ3GbQVw=="/>
+  </POIs>
+</OverlayData>

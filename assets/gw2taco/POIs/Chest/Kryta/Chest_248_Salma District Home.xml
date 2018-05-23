@@ -1,8 +1,16 @@
 <OverlayData>
   <MarkerCategory name="Chest">
     <MarkerCategory name="Permanent"/>
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="VerdantBrink"/>
+      <MarkerCategory name="AuricBasin"/>
+      <MarkerCategory name="TangledDepths"/>
+    </MarkerCategory>
   </MarkerCategory>
   <POIs>
     <POI MapID="248" xpos="197.938" ypos="70.01" zpos="256.441" type="chest.permanent" GUID="GMsM2lc9I0yZ7YgceXzlVg=="/>
+    <POI MapID="248" xpos="256.332" ypos="69.1879" zpos="256.307" type="chest.mapspecific.verdantbrink" GUID="lja6m2jkU0azSX3IS33jOg=="/>
+    <POI MapID="248" xpos="257.148" ypos="69.1884" zpos="253.083" type="chest.mapspecific.auricbasin" GUID="IZBlcklJ+kueFHGCKVNcOg=="/>
+    <POI MapID="248" xpos="259.491" ypos="69.3011" zpos="250.802" type="chest.mapspecific.tangleddepths" GUID="Tq20BUxZSU+U/MV+sey16Q=="/>
   </POIs>
 </OverlayData>

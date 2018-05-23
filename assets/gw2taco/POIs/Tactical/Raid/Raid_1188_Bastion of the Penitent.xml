@@ -36,5 +36,7 @@
     <POI MapID="1188" xpos="91.3112" ypos="106.169" zpos="85.5351" type="tactical.raid.stackpoint" GUID="5imKLfraCEOcgdxxmxuMOQ=="/>
     <POI MapID="1188" xpos="67.1366" ypos="106.169" zpos="101.322" type="tactical.raid.spawnpoint" GUID="GYm3TdP43kmnSLO+riOs3A=="/>
     <POI MapID="1188" xpos="-89.9334" ypos="129.513" zpos="77.2864" type="tactical.raid.stackpoint" GUID="Tsbx1X1IRkGikXE+Z2uTZw=="/>
+    <POI MapID="1188" xpos="370.579" ypos="33.7204" zpos="61.9307" type="tactical.raid.stackpoint" GUID="U038uHZdykmbwhWH2RE6oQ=="/>
+    <POI MapID="1188" xpos="364.993" ypos="33.721" zpos="51.28" type="tactical.raid.spawnpoint" GUID="lNc8li6R5U2WBO75HW/JkQ=="/>
   </POIs>
 </OverlayData>

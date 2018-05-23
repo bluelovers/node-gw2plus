@@ -10,5 +10,9 @@
     <POI MapID="988" xpos="-517.83" ypos="8.51516" zpos="-1.96213" type="resourcenode.plant.copper.lettuce" GUID="IwgejWIp002sugEZF+AFGg=="/>
     <POI MapID="988" xpos="-518.176" ypos="8.90657" zpos="-9.14039" type="resourcenode.plant.copper.lettuce" GUID="2FkeNxNxsU+gKcGm0lpbIw=="/>
     <POI MapID="988" xpos="-518.714" ypos="9.16004" zpos="-17.0713" type="resourcenode.plant.copper.lettuce" GUID="4iSFcLiOnUSkADivWsr7NA=="/>
+    <POI MapID="1271" xpos="11.1573" ypos="35.535" zpos="781.288" type="resourcenode.plant.copper.lettuce" GUID="pMv1sD7j9Uqh9Q9JjL9+SQ=="/>
+    <POI MapID="1271" xpos="15.6081" ypos="35.5609" zpos="780.643" type="resourcenode.plant.copper.lettuce" GUID="UQIs20Nc/EGY5qneK/APOQ=="/>
+    <POI MapID="1271" xpos="19.4942" ypos="35.7519" zpos="779.583" type="resourcenode.plant.copper.lettuce" GUID="S7ghjWa470O73Cs/BaDMsQ=="/>
+    <POI MapID="1271" xpos="23.1285" ypos="35.9213" zpos="778.683" type="resourcenode.plant.copper.lettuce" GUID="k6fd5xX6D0WMbG5dagVsBg=="/>
   </POIs>
 </OverlayData>

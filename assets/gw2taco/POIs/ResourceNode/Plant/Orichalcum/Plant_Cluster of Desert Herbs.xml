@@ -17,5 +17,9 @@
     <POI MapID="1228" xpos="909.892" ypos="82.3571" zpos="560.431" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="36jsKaXI2EGey56oNYrRJw=="/>
     <POI MapID="1211" xpos="-1449.15" ypos="-30.0238" zpos="-455.645" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="4F4DgBBn0E2TC34fx31/5w=="/>
     <POI MapID="1211" xpos="-1390.02" ypos="-5.26776" zpos="-507.767" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="91CjeQa9UEyWdiqLtMSZyg=="/>
+    <POI MapID="1271" xpos="40.9345" ypos="28.4493" zpos="633.941" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="Lwea+sT20Ei3nUFQdbKZzA=="/>
+    <POI MapID="1271" xpos="35.5742" ypos="28.5099" zpos="636.544" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="lpS0rUOcLESFNZQhk0Zmwg=="/>
+    <POI MapID="1271" xpos="31.2069" ypos="28.6349" zpos="638.476" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="aMQyITkQ9UeRTbie4pQGjw=="/>
+    <POI MapID="1271" xpos="25.4354" ypos="28.6917" zpos="640.999" type="resourcenode.plant.orichalcum.cluster_of_desert_herbs" GUID="6hPIR2lkgkS/vCVIzBULFQ=="/>
   </POIs>
 </OverlayData>

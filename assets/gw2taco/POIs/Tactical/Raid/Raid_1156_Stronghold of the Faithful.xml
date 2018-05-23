@@ -2,6 +2,8 @@
   <MarkerCategory name="Tactical">
     <MarkerCategory name="Raid">
       <MarkerCategory name="Trap"/>
+      <MarkerCategory name="StackPoint"/>
+      <MarkerCategory name="SpawnPoint"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
@@ -23,5 +25,22 @@
     <POI MapID="1156" xpos="-35.9212" ypos="107.703" zpos="476.886" type="tactical.raid.trap" GUID="Af0TDFl6xUy2gmsj4oOq8Q=="/>
     <POI MapID="1156" xpos="-25.325" ypos="108.113" zpos="476.102" type="tactical.raid.trap" GUID="oUcprvs2KEuOLnzkoGN8uw=="/>
     <POI MapID="1156" xpos="-12.4765" ypos="113.104" zpos="434.118" type="tactical.raid.trap" GUID="jR1rtW92fUWEuyrUkS4HAw=="/>
+    <POI MapID="1156" xpos="-96.7806" ypos="138.074" zpos="390.873" type="tactical.raid.stackpoint" GUID="WR0hnQ+TAEuduDbaMeMDqQ=="/>
+    <POI MapID="1156" xpos="106.513" ypos="82.2467" zpos="520.063" type="tactical.raid.trap" GUID="UYyTrWrfOUGghbIcG5DLRA=="/>
+    <POI MapID="1156" xpos="91.2685" ypos="82.0263" zpos="520.741" type="tactical.raid.trap" GUID="Xvj9fRa8vUahIIlwkHUFGA=="/>
+    <POI MapID="1156" xpos="44.6717" ypos="88.0595" zpos="551.098" type="tactical.raid.trap" GUID="LYjhJ5xsXEKCb5iol+60iA=="/>
+    <POI MapID="1156" xpos="35.6776" ypos="89.6018" zpos="554.232" type="tactical.raid.trap" GUID="D6q2m6cbQE2RGreEJw6RQQ=="/>
+    <POI MapID="1156" xpos="-101.398" ypos="94.2358" zpos="506.193" type="tactical.raid.trap" GUID="nm4+CEb580GPv+uHrIPAXA=="/>
+    <POI MapID="1156" xpos="-98.9005" ypos="95.2693" zpos="496.873" type="tactical.raid.trap" GUID="+B3vTQwioUGYs35cqL9FFg=="/>
+    <POI MapID="1156" xpos="-12.0502" ypos="113.077" zpos="445.331" type="tactical.raid.trap" GUID="HdlF6p+l7E+bwnBFqqBdvQ=="/>
+    <POI MapID="1156" xpos="79.3535" ypos="82.2091" zpos="523.103" type="tactical.raid.trap" GUID="WUTlS4avNECwK28EAidQbw=="/>
+    <POI MapID="1156" xpos="-59.3671" ypos="103.163" zpos="474.904" type="tactical.raid.trap" GUID="lnhPq/Q4LUarMJ76EexrwA=="/>
+    <POI MapID="1156" xpos="-13.5342" ypos="107.867" zpos="470.456" type="tactical.raid.trap" GUID="557Ysjsg7kiUkfh8Qat21w=="/>
+    <POI MapID="1156" xpos="40.9803" ypos="88.6637" zpos="551.604" type="tactical.raid.stackpoint" GUID="VHvKpjheSUunLQXroqyqxA=="/>
+    <POI MapID="1156" xpos="-13.0877" ypos="92.7511" zpos="551.715" type="tactical.raid.stackpoint" GUID="vCbCDDGxbkCnP9Z819RF6w=="/>
+    <POI MapID="1156" xpos="-79.6498" ypos="99.5082" zpos="507.285" type="tactical.raid.stackpoint" GUID="b0SEVLPW8k+X73odgEfMIw=="/>
+    <POI MapID="1156" xpos="-65.4654" ypos="134.422" zpos="433.06" type="tactical.raid.stackpoint" GUID="048lNFKr80mzj5RJgAuUbg=="/>
+    <POI MapID="1156" xpos="-98.6129" ypos="150.151" zpos="237.749" type="tactical.raid.spawnpoint" GUID="gDNm2RARLkWlEKWPXq3I3Q=="/>
+    <POI MapID="1156" xpos="-77.3636" ypos="512.354" zpos="-80.7303" type="tactical.raid.spawnpoint" GUID="3ne0sONQwEKY08HoNSKeBQ=="/>
   </POIs>
 </OverlayData>

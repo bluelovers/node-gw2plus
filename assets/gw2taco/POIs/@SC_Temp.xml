@@ -1,67 +1,106 @@
 <OverlayData>
-  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="Letters from E"/>
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400"><!-- @formatter:on -->
+
+    <MarkerCategory name="Knight of the Thorn">
+ <MarkerCategory name="Shards of a Thorn">
+   <MarkerCategory name="Warden Leide" />
+   <MarkerCategory name="Ridhais" />
+   <MarkerCategory name="Shard of Caladbolg" />
+   <MarkerCategory name="Agent Zrii" />
+ </MarkerCategory>
+  <MarkerCategory name="Dreams of a Thorn">
+    <MarkerCategory name="Mote" />
+ </MarkerCategory>
+  <MarkerCategory name="Knight of the Thorn">
+ </MarkerCategory>
+  <MarkerCategory name="Sword Taxonomy">
+ </MarkerCategory>
+  <MarkerCategory name="The Sword Regrown">
+ </MarkerCategory>
+  <MarkerCategory name="The First Vision">
+ </MarkerCategory>
+</MarkerCategory>
+
+    <MarkerCategory name="Zeghai of the Lost">
+
+    </MarkerCategory>
+
+
+<MarkerCategory name="LS4">
+
+  <MarkerCategory name="Daybreak">
+  <MarkerCategory name="Lost to Time" />
+    <MarkerCategory name="Corsair Keepsakes" />
+
+    <MarkerCategory name="Library Detective" />
+    <MarkerCategory name="That Belongs in a Museum" />
+
+</MarkerCategory>
+</MarkerCategory>
+
+
+    <MarkerCategory name="Letters from E" />
     <MarkerCategory name="Flashpoint">
-      <MarkerCategory name="Burnin’ Down the House"/>
-      <MarkerCategory name="Rock Collector"/>
+      <MarkerCategory name="Burnin’ Down the House" />
+      <MarkerCategory name="Rock Collector" />
       <MarkerCategory name="Druid Stone">
-        <MarkerCategory name="The Druid Stone"/>
-        <MarkerCategory name="Awakening the Druid Stone"/>
-        <MarkerCategory name="Sprouting the Druid Stone"/>
-        <MarkerCategory name="A Henge Away from Home"/>
+        <MarkerCategory name="The Druid Stone" />
+        <MarkerCategory name="Awakening the Druid Stone" />
+        <MarkerCategory name="Sprouting the Druid Stone" />
+        <MarkerCategory name="A Henge Away from Home" />
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="MapSpecific">
-      <MarkerCategory name="Treasure Mushroom"/>
-      <MarkerCategory name="Champion"/>
+      <MarkerCategory name="Treasure Mushroom" />
+      <MarkerCategory name="Champion" />
     </MarkerCategory>
-    <MarkerCategory name="Chinese 中文"  DisplayName="Chinese 中文"/>
+    <MarkerCategory name="Chinese 中文" DisplayName="Chinese 中文" />
     <MarkerCategory name="Side Stories">
-      <MarkerCategory name="Bloodstone Sightings"/>
+      <MarkerCategory name="Bloodstone Sightings" />
     </MarkerCategory>
     <MarkerCategory name="Raid">
       <MarkerCategory name="Sloth">
-        <MarkerCategory name="1"/>
-        <MarkerCategory name="2"/>
-        <MarkerCategory name="3"/>
-        <MarkerCategory name="4"/>
+        <MarkerCategory name="1" />
+        <MarkerCategory name="2" />
+        <MarkerCategory name="3" />
+        <MarkerCategory name="4" />
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Aurora">
-      <MarkerCategory name="Aurora II: Empowering"/>
+      <MarkerCategory name="Aurora II: Empowering" />
     </MarkerCategory>
     <MarkerCategory name="Path of Fire">
       <MarkerCategory name="1" data-allowsub="true">
       </MarkerCategory>
       <MarkerCategory name="2">
         <MarkerCategory name="Crystalline Memories" data-allowsub="true">
-          <MarkerCategory name="All the Essences"/>
+          <MarkerCategory name="All the Essences" />
         </MarkerCategory>
         <MarkerCategory name="Hallowed Ground" data-allowsub="true">
 
         </MarkerCategory>
         <MarkerCategory name="Facing the Truth" data-allowsub="true">
           <MarkerCategory name="Wedge Symbol"></MarkerCategory>
-          <MarkerCategory name="Seeker of Truth and Knowledge"/>
-          <MarkerCategory name="Goddess of Secrets"/>
+          <MarkerCategory name="Seeker of Truth and Knowledge" />
+          <MarkerCategory name="Goddess of Secrets" />
         </MarkerCategory>
         <MarkerCategory name="The Way Forward" data-allowsub="true">
           <MarkerCategory name="Walk a Fine Line">
-            <MarkerCategory name="Point"/>
+            <MarkerCategory name="Point" />
           </MarkerCategory>
         </MarkerCategory>
       </MarkerCategory>
       <MarkerCategory name="3" data-allowsub="true">
         <MarkerCategory name="The Departing">
-          <MarkerCategory name="The Judge"/>
-          <MarkerCategory name="Joko"/>
-          <MarkerCategory name="Boss"/>
-          <MarkerCategory name="Name"/>
-          <MarkerCategory name="Search for Weapons"/>
-          <MarkerCategory name="The Whole Story"/>
+          <MarkerCategory name="The Judge" />
+          <MarkerCategory name="Joko" />
+          <MarkerCategory name="Boss" />
+          <MarkerCategory name="Name" />
+          <MarkerCategory name="Search for Weapons" />
+          <MarkerCategory name="The Whole Story" />
         </MarkerCategory>
         <MarkerCategory name="Beast of War">
-          <MarkerCategory name="Destroy Additional Pylons"/>
+          <MarkerCategory name="Destroy Additional Pylons" />
         </MarkerCategory>
 
         <MarkerCategory name="Enemy of My Enemy">
@@ -69,9 +108,9 @@
 
           </MarkerCategory>
           <MarkerCategory name="2 The Troopmarshal">
-            <MarkerCategory name="Explosives Expert"/>
-            <MarkerCategory name="Mummy Legion"/>
-            <MarkerCategory name="Master of Mummies"/>
+            <MarkerCategory name="Explosives Expert" />
+            <MarkerCategory name="Mummy Legion" />
+            <MarkerCategory name="Master of Mummies" />
           </MarkerCategory>
           <MarkerCategory name="3 The Beastmarshal">
 
@@ -83,119 +122,119 @@
       </MarkerCategory>
 
       <MarkerCategory name="Crystal Oasis">
-        <MarkerCategory name="Lost Lore of Crystal Oasis"/>
+        <MarkerCategory name="Lost Lore of Crystal Oasis" />
         <MarkerCategory name="Priory Historian Elisa">
-          <MarkerCategory name="Roads Less Traveled"/>
-          <MarkerCategory name="Recitation of the Litany of Deeds"/>
+          <MarkerCategory name="Roads Less Traveled" />
+          <MarkerCategory name="Recitation of the Litany of Deeds" />
         </MarkerCategory>
 
-        <MarkerCategory name="Bleached Bones"/>
+        <MarkerCategory name="Bleached Bones" />
 
         <MarkerCategory name="Casino Blits">
-          <MarkerCategory name="1"/>
-          <MarkerCategory name="2"/>
-          <MarkerCategory name="3"/>
-          <MarkerCategory name="Boss"/>
+          <MarkerCategory name="1" />
+          <MarkerCategory name="2" />
+          <MarkerCategory name="3" />
+          <MarkerCategory name="Boss" />
         </MarkerCategory>
 
       </MarkerCategory>
 
       <MarkerCategory name="Desert Highlands">
-        <MarkerCategory name="Lost Lore of Desert Highlands"/>
-        <MarkerCategory name="Dwarven Remnants"/>
-        <MarkerCategory name="Carrot Collector"/>
-        <MarkerCategory name="Hidden Carrot Hunt"/>
-        <MarkerCategory name="The Curious Bowl"/>
-        <MarkerCategory name="Breaking the Bank"/>
+        <MarkerCategory name="Lost Lore of Desert Highlands" />
+        <MarkerCategory name="Dwarven Remnants" />
+        <MarkerCategory name="Carrot Collector" />
+        <MarkerCategory name="Hidden Carrot Hunt" />
+        <MarkerCategory name="The Curious Bowl" />
+        <MarkerCategory name="Breaking the Bank" />
         <MarkerCategory name="Rune-Locked Doors">
-          <MarkerCategory name="Portal"/>
-          <MarkerCategory name="Runestone"/>
-          <MarkerCategory name="Runestone Put"/>
+          <MarkerCategory name="Portal" />
+          <MarkerCategory name="Runestone" />
+          <MarkerCategory name="Runestone Put" />
         </MarkerCategory>
 
-        <MarkerCategory name="Dwarven Forge"/>
+        <MarkerCategory name="Dwarven Forge" />
 
-        <MarkerCategory name="Stonespite Cleaver"/>
-        <MarkerCategory name="Staff of the Lost"/>
-        <MarkerCategory name="Gate of Good-Byes"/>
-        <MarkerCategory name="Final Sting"/>
-        <MarkerCategory name="Might of the Vindictive"/>
+        <MarkerCategory name="Stonespite Cleaver" />
+        <MarkerCategory name="Staff of the Lost" />
+        <MarkerCategory name="Gate of Good-Byes" />
+        <MarkerCategory name="Final Sting" />
+        <MarkerCategory name="Might of the Vindictive" />
 
-        <MarkerCategory name="Riddle Me This"/>
+        <MarkerCategory name="Riddle Me This" />
       </MarkerCategory>
 
 
       <MarkerCategory name="Elon Riverlands">
-        <MarkerCategory name="Lost Lore of Elon Riverlands"/>
-        <MarkerCategory name="Equipment Tracker"/>
+        <MarkerCategory name="Lost Lore of Elon Riverlands" />
+        <MarkerCategory name="Equipment Tracker" />
         <MarkerCategory name="Flameseeker Prophecies">
-          <MarkerCategory name="Forgotten Light"/>
+          <MarkerCategory name="Forgotten Light" />
         </MarkerCategory>
         <MarkerCategory name="Ghostly Trio">
-          <MarkerCategory name="path"/>
+          <MarkerCategory name="path" />
         </MarkerCategory>
-        <MarkerCategory name="Forgotten Debris"/>
+        <MarkerCategory name="Forgotten Debris" />
       </MarkerCategory>
 
       <MarkerCategory name="The Desolation">
-        <MarkerCategory name="Lost Lore of the Desolation"/>
-        <MarkerCategory name="Acrid Springs Recovery"/>
-        <MarkerCategory name="Shadows Provisions"/>
+        <MarkerCategory name="Lost Lore of the Desolation" />
+        <MarkerCategory name="Acrid Springs Recovery" />
+        <MarkerCategory name="Shadows Provisions" />
         <MarkerCategory name="Shadow Sprinter">
-          <MarkerCategory name="point"/>
-          <MarkerCategory name="Wacther"/>
+          <MarkerCategory name="point" />
+          <MarkerCategory name="Wacther" />
         </MarkerCategory>
-        <MarkerCategory name="Joko's Hidden Chamber"/>
-        <MarkerCategory name="A Family’s Sacrifice"/>
-        <MarkerCategory name="A Soaring Stench"/>
-        <MarkerCategory name="The Throne of Bones"/>
-        <MarkerCategory name="Cleansing Tormented Remnants"/>
+        <MarkerCategory name="Joko's Hidden Chamber" />
+        <MarkerCategory name="A Family’s Sacrifice" />
+        <MarkerCategory name="A Soaring Stench" />
+        <MarkerCategory name="The Throne of Bones" />
+        <MarkerCategory name="Cleansing Tormented Remnants" />
 
-        <MarkerCategory name="Jackal Reconnaissance"/>
+        <MarkerCategory name="Jackal Reconnaissance" />
         <MarkerCategory name="Path of the Gods">
-          <MarkerCategory name="Statue of Dwayna"/>
-          <MarkerCategory name="Statue of Melandru"/>
-          <MarkerCategory name="Statue of Lyssa"/>
-          <MarkerCategory name="Statue of Grenth"/>
-          <MarkerCategory name="Statue of Balthazar"/>
-          <MarkerCategory name="Statue of Kormir"/>
-          <MarkerCategory name="Statue of Abaddon"/>
+          <MarkerCategory name="Statue of Dwayna" />
+          <MarkerCategory name="Statue of Melandru" />
+          <MarkerCategory name="Statue of Lyssa" />
+          <MarkerCategory name="Statue of Grenth" />
+          <MarkerCategory name="Statue of Balthazar" />
+          <MarkerCategory name="Statue of Kormir" />
+          <MarkerCategory name="Statue of Abaddon" />
         </MarkerCategory>
 
-        <MarkerCategory name="Dance Till You Drop"/>
+        <MarkerCategory name="Dance Till You Drop" />
       </MarkerCategory>
 
       <MarkerCategory name="Domain of Vabbi">
-        <MarkerCategory name="Scourge Buster"/>
-        <MarkerCategory name="Lost Lore of the Domain of Vabbi"/>
-        <MarkerCategory name="Praise Joko!"/>
+        <MarkerCategory name="Scourge Buster" />
+        <MarkerCategory name="Lost Lore of the Domain of Vabbi" />
+        <MarkerCategory name="Praise Joko!" />
       </MarkerCategory>
 
-      <MarkerCategory name="Griffon" DisplayName="Open Skies: Domain of Vabbi"/>
+      <MarkerCategory name="Griffon" DisplayName="Open Skies: Domain of Vabbi" />
 
       <MarkerCategory name="Open Skies: Sunspear Sanctuary">
-        <MarkerCategory name="Open Skies: Crystal Oasis"/>
-        <MarkerCategory name="Open Skies: Elon Riverlands"/>
-        <MarkerCategory name="Open Skies: Desert Highlands"/>
-        <MarkerCategory name="Open Skies: The Desolation"/>
-        <MarkerCategory name="Open Skies: Sunspear VVrsdom"/>
-        <MarkerCategory name="Open Skies: On Wings and a Prayer"/>
+        <MarkerCategory name="Open Skies: Crystal Oasis" />
+        <MarkerCategory name="Open Skies: Elon Riverlands" />
+        <MarkerCategory name="Open Skies: Desert Highlands" />
+        <MarkerCategory name="Open Skies: The Desolation" />
+        <MarkerCategory name="Open Skies: Sunspear VVrsdom" />
+        <MarkerCategory name="Open Skies: On Wings and a Prayer" />
       </MarkerCategory>
 
       <MarkerCategory name="Specialization Collections">
-        <MarkerCategory name="Expurgation"/>
-        <MarkerCategory name="The Cutting Edge"/>
-        <MarkerCategory name="Wishing Well"/>
+        <MarkerCategory name="Expurgation" />
+        <MarkerCategory name="The Cutting Edge" />
+        <MarkerCategory name="Wishing Well" />
       </MarkerCategory>
 
-      <MarkerCategory name="Glorify the Golden Heart"/>
+      <MarkerCategory name="Glorify the Golden Heart" />
 
-      <MarkerCategory name="Treasure"/>
+      <MarkerCategory name="Treasure" />
 
       <MarkerCategory name="Race">
-        <MarkerCategory name="Start"/>
-        <MarkerCategory name="CheckPoint"/>
-        <MarkerCategory name="End"/>
+        <MarkerCategory name="Start" />
+        <MarkerCategory name="CheckPoint" />
+        <MarkerCategory name="End" />
       </MarkerCategory>
 
       <MarkerCategory name="Bounty">
@@ -208,86 +247,86 @@
       </MarkerCategory>
 
       <MarkerCategory name="Back item" DisplayName="Raise the Banners: Amnoon Arbitrator">
-        <MarkerCategory name="Raise the Banners: Amnoon Independence"/>
-        <MarkerCategory name="Raise the Banners: Sunspear Support"/>
-        <MarkerCategory name="Raise the Banners: Salute to Palawa Joko"/>
+        <MarkerCategory name="Raise the Banners: Amnoon Independence" />
+        <MarkerCategory name="Raise the Banners: Sunspear Support" />
+        <MarkerCategory name="Raise the Banners: Salute to Palawa Joko" />
       </MarkerCategory>
 
-      <MarkerCategory name="Always Time for Taimi"/>
+      <MarkerCategory name="Always Time for Taimi" />
 
       <MarkerCategory name="Serpents' Ire">
-        <MarkerCategory name="Defeat the Branded Forgotten zealot"/>
-        <MarkerCategory name="Defeat the Branded Forgotten zealots before the Branded crystal detonates"/>
-        <MarkerCategory name="Defeat Ysshi Hessani and Pek Rakt Grag"/>
+        <MarkerCategory name="Defeat the Branded Forgotten zealot" />
+        <MarkerCategory name="Defeat the Branded Forgotten zealots before the Branded crystal detonates" />
+        <MarkerCategory name="Defeat Ysshi Hessani and Pek Rakt Grag" />
       </MarkerCategory>
 
       <MarkerCategory name="The Collection of Tribute">
-        <MarkerCategory name="Ancient Surveyor's Tools"/>
-        <MarkerCategory name="Bunch of Rare Grapes"/>
-        <MarkerCategory name="Late-Blooming Elon Lily"/>
-        <MarkerCategory name="Tamarisk Reed"/>
-        <MarkerCategory name="Chunk of Granite"/>
+        <MarkerCategory name="Ancient Surveyor's Tools" />
+        <MarkerCategory name="Bunch of Rare Grapes" />
+        <MarkerCategory name="Late-Blooming Elon Lily" />
+        <MarkerCategory name="Tamarisk Reed" />
+        <MarkerCategory name="Chunk of Granite" />
       </MarkerCategory>
 
     </MarkerCategory>
 
-    <MarkerCategory name="Pact Supply Network Agent"/>
+    <MarkerCategory name="Pact Supply Network Agent" />
 
-    <MarkerCategory name="Lore"/>
+    <MarkerCategory name="Lore" />
 
     <MarkerCategory name="Bastion of the Penitent">
       <MarkerCategory name="Voice of the Deceased">
-        <MarkerCategory name="1"/>
-        <MarkerCategory name="2"/>
-        <MarkerCategory name="3"/>
-        <MarkerCategory name="4"/>
-        <MarkerCategory name="5"/>
-        <MarkerCategory name="6"/>
-        <MarkerCategory name="7"/>
-        <MarkerCategory name="8"/>
-        <MarkerCategory name="9"/>
-        <MarkerCategory name="10"/>
-        <MarkerCategory name="11"/>
-        <MarkerCategory name="12"/>
+        <MarkerCategory name="1" />
+        <MarkerCategory name="2" />
+        <MarkerCategory name="3" />
+        <MarkerCategory name="4" />
+        <MarkerCategory name="5" />
+        <MarkerCategory name="6" />
+        <MarkerCategory name="7" />
+        <MarkerCategory name="8" />
+        <MarkerCategory name="9" />
+        <MarkerCategory name="10" />
+        <MarkerCategory name="11" />
+        <MarkerCategory name="12" />
       </MarkerCategory>
     </MarkerCategory>
 
     <MarkerCategory name="The Silverwastes">
-      <MarkerCategory name="Go for the Gold"/>
+      <MarkerCategory name="Go for the Gold" />
     </MarkerCategory>
 
     <MarkerCategory name="Halloween">
       <MarkerCategory name="Shadow of the Mad King">
-        <MarkerCategory name="Pumpkin Carving"/>
-        <MarkerCategory name="Shut the Doors"/>
-        <MarkerCategory name="Mad Memories"/>
-        <MarkerCategory name="Courtly Service"/>
-        <MarkerCategory name="Ancient Grudge"/>
+        <MarkerCategory name="Pumpkin Carving" />
+        <MarkerCategory name="Shut the Doors" />
+        <MarkerCategory name="Mad Memories" />
+        <MarkerCategory name="Courtly Service" />
+        <MarkerCategory name="Ancient Grudge" />
         <MarkerCategory name="Mad Mysteries">
-          <MarkerCategory name="1"/>
-          <MarkerCategory name="2"/>
-          <MarkerCategory name="3"/>
-          <MarkerCategory name="4"/>
-          <MarkerCategory name="5"/>
-          <MarkerCategory name="6"/>
+          <MarkerCategory name="1" />
+          <MarkerCategory name="2" />
+          <MarkerCategory name="3" />
+          <MarkerCategory name="4" />
+          <MarkerCategory name="5" />
+          <MarkerCategory name="6" />
         </MarkerCategory>
 
         <MarkerCategory name="Mad Mementos">
-          <MarkerCategory name="1"/>
-          <MarkerCategory name="2"/>
-          <MarkerCategory name="3"/>
-          <MarkerCategory name="4"/>
-          <MarkerCategory name="5"/>
-          <MarkerCategory name="6"/>
+          <MarkerCategory name="1" />
+          <MarkerCategory name="2" />
+          <MarkerCategory name="3" />
+          <MarkerCategory name="4" />
+          <MarkerCategory name="5" />
+          <MarkerCategory name="6" />
         </MarkerCategory>
 
         <MarkerCategory name="Mad Memorial">
-          <MarkerCategory name="1"/>
-          <MarkerCategory name="2"/>
-          <MarkerCategory name="3"/>
-          <MarkerCategory name="4"/>
-          <MarkerCategory name="5"/>
-          <MarkerCategory name="6"/>
+          <MarkerCategory name="1" />
+          <MarkerCategory name="2" />
+          <MarkerCategory name="3" />
+          <MarkerCategory name="4" />
+          <MarkerCategory name="5" />
+          <MarkerCategory name="6" />
         </MarkerCategory>
 
       </MarkerCategory>
@@ -295,22 +334,22 @@
         <MarkerCategory name="Lunatic Racer"></MarkerCategory>
       </MarkerCategory>
         <MarkerCategory name="Lunatic Inquisition">
-          <MarkerCategory name="Black Goo"/>
-          <MarkerCategory name="Torches"/>
-          <MarkerCategory name="Web"/>
-          <MarkerCategory name="Bones"/>
+          <MarkerCategory name="Black Goo" />
+          <MarkerCategory name="Torches" />
+          <MarkerCategory name="Web" />
+          <MarkerCategory name="Bones" />
         </MarkerCategory>
         <MarkerCategory name="Mad King says">
-          <MarkerCategory name="Chest"/>
+          <MarkerCategory name="Chest" />
         </MarkerCategory>
 
       <MarkerCategory name="Halloween Rituals">
-        <MarkerCategory name="New Afterlife for Quaggan"/>
+        <MarkerCategory name="New Afterlife for Quaggan" />
       </MarkerCategory>
 
-      <MarkerCategory name="New Afterlife for Quaggan"/>
+      <MarkerCategory name="New Afterlife for Quaggan" />
 
-      <MarkerCategory name="Your Mad King says"/>
+      <MarkerCategory name="Your Mad King says" />
 
 
 
@@ -318,10 +357,24 @@
 
   <MarkerCategory name="Tactical">
     <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Core">
+        <MarkerCategory name="Warthog" />
+      </MarkerCategory>
       <MarkerCategory name="Heart of Thorns">
-        <MarkerCategory name="Bristleback"/>
+        <MarkerCategory name="Bristleback" />
       </MarkerCategory>
       <MarkerCategory name="Path of Fire">
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+
+   </MarkerCategory>
+
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Core">
+        <MarkerCategory name="Warthog" />
+        <MarkerCategory name="Lynx" />
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

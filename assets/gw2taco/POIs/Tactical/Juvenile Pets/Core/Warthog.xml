@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Juvenile Pets">
+      <MarkerCategory name="Core">
+        <MarkerCategory name="Warthog"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="32" xpos="-121.282" ypos="47.5974" zpos="254.464" type="tactical.juvenile_pets.core.warthog" GUID="PTlT0kNh9EWXJvHcJQ8jiQ=="/>
+  </POIs>
+</OverlayData>

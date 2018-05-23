@@ -21,5 +21,9 @@
     <POI MapID="1226" xpos="-414.803" ypos="36.4255" zpos="1056.31" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="NwnU5o3HFEKZRkKF6/rFBA=="/>
     <POI MapID="1226" xpos="546.801" ypos="315.22" zpos="-894.279" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="eaE9JbHFfkSbo8bJ51JcYw=="/>
     <POI MapID="1226" xpos="17.1241" ypos="268.31" zpos="377.249" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="k7eYbsx410mKg5Hf9VUl0A=="/>
+    <POI MapID="1271" xpos="0.506798" ypos="34.4692" zpos="569.167" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="vfV9vnhHzUale1hhM/nDqA=="/>
+    <POI MapID="1271" xpos="4.85444" ypos="34.4687" zpos="568.947" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="Ex4OJvhZPkOh1bwLFLWq+g=="/>
+    <POI MapID="1271" xpos="9.23602" ypos="34.7331" zpos="568.1" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="LM19KIu540uaWBKex6d3xA=="/>
+    <POI MapID="1271" xpos="-4.09139" ypos="34.1522" zpos="570.843" type="resourcenode.plant.orichalcum.desert_vegetables" GUID="d8ysLeqjoUu+glUKMWG1pw=="/>
   </POIs>
 </OverlayData>

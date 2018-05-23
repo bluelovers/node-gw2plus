@@ -24,5 +24,6 @@
     <POI MapID="863" xpos="36.0687" ypos="212.068" zpos="-25.4488" type="tactical.raid.spawnpoint" GUID="3ZnN8JO/vkiDKGtfjPKdmw=="/>
     <POI MapID="863" xpos="-6.62451" ypos="154.281" zpos="-61.3399" type="tactical.raid.spawnpoint" GUID="aPADqtb10UWwt7lCQp6CJA=="/>
     <POI MapID="863" xpos="19.9184" ypos="85.4666" zpos="-51.7371" type="tactical.raid.spawnpoint" GUID="idC2VlKyw0iANTALZuPNBg=="/>
+    <POI MapID="863" xpos="61.9568" ypos="212.551" zpos="-29.5739" type="tactical.raid.spawnpoint" GUID="f4pT2dTLR0WCTIXVpt3MGQ=="/>
   </POIs>
 </OverlayData>
