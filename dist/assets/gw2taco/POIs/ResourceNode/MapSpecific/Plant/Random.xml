@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant" heightOffset="1.6">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400" data-class="fade-3">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" heightOffset="1.6" data-allowsub="true" data-class="poi-plant">
         <MarkerCategory name="Random"/>
       </MarkerCategory>
     </MarkerCategory>

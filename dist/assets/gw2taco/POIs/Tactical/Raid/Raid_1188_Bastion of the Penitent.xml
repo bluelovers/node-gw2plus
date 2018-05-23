@@ -1,13 +1,13 @@
 <OverlayData>
-  <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Other" fadeFar="16800" fadeNear="8400" maxSize="256" data-allowsub="true">
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
       <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
       <MarkerCategory name="Gate" iconFile="Data/Other/Portal/Gate.png" data-iconFile="Data/Other/Portal/Gate.png"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" iconFile="Data/Tactical/Raid.png" data-iconFile="Data/Tactical/Raid.png" fadeFar="5600" fadeNear="5600">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
+    <MarkerCategory name="Raid" fadeFar="5600" fadeNear="5600" iconFile="Data/Tactical/Raid.png" data-allowsub="true" data-class="fade-raid" data-iconFile="Data/Tactical/Raid.png">
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
       <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
       <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
@@ -36,5 +36,7 @@
     <POI MapID="1188" xpos="91.3112" ypos="106.169" zpos="85.5351" type="tactical.raid.stackpoint" GUID="5imKLfraCEOcgdxxmxuMOQ=="/>
     <POI MapID="1188" xpos="67.1366" ypos="106.169" zpos="101.322" type="tactical.raid.spawnpoint" GUID="GYm3TdP43kmnSLO+riOs3A=="/>
     <POI MapID="1188" xpos="-89.9334" ypos="129.513" zpos="77.2864" type="tactical.raid.stackpoint" GUID="Tsbx1X1IRkGikXE+Z2uTZw=="/>
+    <POI MapID="1188" xpos="370.579" ypos="33.7204" zpos="61.9307" type="tactical.raid.stackpoint" GUID="U038uHZdykmbwhWH2RE6oQ=="/>
+    <POI MapID="1188" xpos="364.993" ypos="33.721" zpos="51.28" type="tactical.raid.spawnpoint" GUID="lNc8li6R5U2WBO75HW/JkQ=="/>
   </POIs>
 </OverlayData>

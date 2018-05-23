@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
     <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -12,7 +12,7 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" heightOffset="1.6" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Copper">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
@@ -33,33 +33,36 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
+    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400" data-class="fade-3">
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant" heightOffset="1.6">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" heightOffset="1.6" data-allowsub="true" data-class="poi-plant">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true" data-sort="true" data-class="iconsize-0.5">
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" iconSize="0.5" fadeFar="25200" fadeNear="16800">
+    <MarkerCategory name="Other" data-allowsub="true" data-class="iconsize-0.5" data-sort="true">
+      <MarkerCategory name="QuartzCrystal" DisplayName="Quartz Crystal" fadeFar="25200" fadeNear="16800" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" iconSize="0.5" behavior="0" data-class="fade-max" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
+  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400" iconFile="Data/Chest.png" maxSize="256" heightOffset="1.6" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png">
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" fadeFar="10500" fadeNear="4200" iconFile="Data/Chest-MapSpecific.png" data-allowsub="true" data-class="fade-7" data-iconFile="Data/Chest-MapSpecific.png">
+      <MarkerCategory name="VerdantBrink" DisplayName="Verdant Brink" iconFile="data/airshippart.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Collectible" fadeFar="16800" fadeNear="8400" iconFile="Data/Achievement.png" maxSize="256">
     <MarkerCategory name="RisingFlames" DisplayName="Rising Flames" fadeFar="16800" fadeNear="8400">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -72,11 +75,11 @@
     <MarkerCategory name="CanthanNewYear" DisplayName="Canthan New Year">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Halloween" data-sort="true" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
-      <MarkerCategory name="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" DisplayName="Lunatic Wardrobe">
+    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png" data-sort="true">
+      <MarkerCategory name="Lunatic Wardrobe" DisplayName="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" DisplayName="Shadow of the Mad King">
+      <MarkerCategory name="Shadow of the Mad King" DisplayName="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png">
         <MarkerCategory name="Mad Memories" DisplayName="Mad Memories">
           <MarkerCategory name="Mad Mysteries" DisplayName="Mad Mysteries">
             <MarkerCategory name="undefined"/>
@@ -101,7 +104,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
     <MarkerCategory name="Adventure">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -123,39 +126,39 @@
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
-      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+    <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets" iconFile="Data/Tactical/Juvenile Pets.png" heightOffset="3" data-iconFile="Data/Tactical/Juvenile Pets.png">
+      <MarkerCategory name="Core" data-allowsub="true" data-sort="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns">
+      <MarkerCategory name="Heart of Thorns" DisplayName="Heart of Thorns" data-allowsub="true" data-sort="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+      <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" data-allowsub="true" data-sort="true">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
-      <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
+      <MarkerCategory name="Casino Blits" DisplayName="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
-      <MarkerCategory name="Serpents Ire" iconFile="Data/Boss.png" DisplayName="Serpents Ire">
+      <MarkerCategory name="Serpents Ire" DisplayName="Serpents Ire" iconFile="Data/Boss.png">
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" iconFile="Data/Tactical/Raid.png" data-iconFile="Data/Tactical/Raid.png" fadeFar="5600" fadeNear="5600">
+    <MarkerCategory name="Raid" fadeFar="5600" fadeNear="5600" iconFile="Data/Tactical/Raid.png" data-allowsub="true" data-class="fade-raid" data-iconFile="Data/Tactical/Raid.png">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Timed">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
-    <MarkerCategory name="WvW" minSize="16" maxSize="32">
+    <MarkerCategory name="WvW" maxSize="32" minSize="16">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="guildrace" data-class="fade-8" data-allowsub="true" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200" maxSize="256">
+  <MarkerCategory name="guildrace" DisplayName="Guild Races" fadeFar="5600" fadeNear="1200" maxSize="256" data-allowsub="true" data-class="fade-8">
     <MarkerCategory name="bearlope" DisplayName="Bear Lope">
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
@@ -176,13 +179,7 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" iconFile="Data/DivingGoggles.png" data-iconFile="Data/DivingGoggles.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Guilde">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="undefined"/>
-  </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" fadeFar="25200" fadeNear="16800" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" maxSize="256" data-class="fade-max" data-iconFile="Data/jpguide.png" triggerRange="5">
     <MarkerCategory name="Guide">
       <MarkerCategory name="Ascalon">
         <MarkerCategory name="undefined"/>
@@ -215,150 +212,6 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Legendary Trinkets" iconFile="Data/Achievement/Legendary_Trinkets.png" data-iconFile="Data/Achievement/Legendary_Trinkets.png" DisplayName="Legendary Trinkets">
-      <MarkerCategory name="Aurora">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="Legendary Weapons" iconFile="Data/Achievement/Legendary_Weapons.png" data-iconFile="Data/Achievement/Legendary_Weapons.png" DisplayName="Legendary Weapons">
-      <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary Weapons/Nevermore.png">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
-      <MarkerCategory name="Crystal Desert" iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" DisplayName="Crystal Desert">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" DisplayName="Crystal Oasis">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" DisplayName="Desert Highlands">
-        <MarkerCategory name="Dwarven Ruins" DisplayName="Dwarven Ruins">
-          <MarkerCategory name="The Curious Bowl" DisplayName="The Curious Bowl">
-            <MarkerCategory name="undefined"/>
-          </MarkerCategory>
-          <MarkerCategory name="Rune Locked Doors" DisplayName="Rune Locked Doors">
-            <MarkerCategory name="undefined"/>
-          </MarkerCategory>
-          <MarkerCategory name="Dwarven Forge" data-sort="true" DisplayName="Dwarven Forge">
-            <MarkerCategory name="undefined"/>
-          </MarkerCategory>
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" DisplayName="Domain of Vabbi">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
-        <MarkerCategory name="Flameseeker Prophecies" data-class="fade-4" fadeFar="8400" fadeNear="2100" DisplayName="Flameseeker Prophecies">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Open Skies" data-class="fade-max" fadeFar="25200" fadeNear="16800" DisplayName="Open Skies">
-        <MarkerCategory name="Sunspear Sanctuary" DisplayName="Sunspear Sanctuary">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png" data-sort="true">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="The Collection of Tribute" DisplayName="The Collection of Tribute">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png" DisplayName="The Desolation">
-        <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="Shadow Sprinter" iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png" data-iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png" DisplayName="Shadow Sprinter">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="The Silverwastes" iconFile="Data/Achievement/The_Silverwastes.png" data-iconFile="Data/Achievement/The_Silverwastes.png" DisplayName="The Silverwastes">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="undefined"/>
-  </MarkerCategory>
-  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
-      <MarkerCategory name="A Crack in the Ice" iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png" data-iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png" DisplayName="A Crack in the Ice">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
-        <MarkerCategory name="Druid Stone" DisplayName="Druid Stone">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png" DisplayName="One Path Ends">
-        <MarkerCategory name="Storyteller">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="Wheres Balthazar" DisplayName="Wheres Balthazar">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" DisplayName="The Head of the Snake">
-        <MarkerCategory name="A Meeting of Ministers" DisplayName="A Meeting of Ministers">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
-      <MarkerCategory name="Act 1" data-allowsub="true" DisplayName="Act 1">
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Act 2" data-allowsub="true" DisplayName="Act 2">
-        <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="The Way Forward" DisplayName="The Way Forward">
-          <MarkerCategory name="Walk a Fine Line" DisplayName="Walk a Fine Line">
-            <MarkerCategory name="undefined"/>
-          </MarkerCategory>
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
-        <MarkerCategory name="Enemy of My Enemy" DisplayName="Enemy of My Enemy">
-          <MarkerCategory name="The Troopmarshal" DisplayName="The Troopmarshal">
-            <MarkerCategory name="undefined"/>
-          </MarkerCategory>
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="The Departing" DisplayName="The Departing">
-          <MarkerCategory name="undefined"/>
-        </MarkerCategory>
-        <MarkerCategory name="undefined"/>
-      </MarkerCategory>
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="undefined"/>
-  </MarkerCategory>
-  <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Vendor" data-allowsub="true" data-class="fade-8 size-0.5" data-sort="true" heightOffset="4" iconFile="Data/Other/Vendor.png" data-iconFile="Data/Other/Vendor.png" iconSize="0.5" fadeFar="5600" fadeNear="1200">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
-      <MarkerCategory name="undefined"/>
-    </MarkerCategory>
-    <MarkerCategory name="undefined"/>
-  </MarkerCategory>
   <MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides" fadeFar="16800" fadeNear="8400" maxSize="256">
     <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
       <MarkerCategory name="tw_pof_co" DisplayName="Crystal Oasis">
@@ -380,7 +233,172 @@
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true" maxSize="256">
+  <MarkerCategory name="DivingGoggles" DisplayName="Diving Goggles" fadeFar="16800" fadeNear="8400" iconFile="Data/DivingGoggles.png" maxSize="256" data-iconFile="Data/DivingGoggles.png">
+    <MarkerCategory name="Guilde">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Achievement" fadeFar="16800" fadeNear="8400" iconFile="Data/Achievement.png" maxSize="256" data-allowsub="true" data-iconFile="Data/Achievement.png">
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png">
+      <MarkerCategory name="Open Skies" DisplayName="Open Skies" fadeFar="25200" fadeNear="16800" data-class="fade-max">
+        <MarkerCategory name="Sunspear Sanctuary" DisplayName="Sunspear Sanctuary">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Raise the Banners" DisplayName="Raise the Banners: Amnoon Arbitrator" iconFile="Data/Achievement/Basic_Collections.png" data-sort="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Collection of Tribute" DisplayName="The Collection of Tribute">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Crystal Desert" DisplayName="Crystal Desert" iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Desert.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Crystal Oasis" DisplayName="Crystal Oasis" iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png" data-iconFile="Data/Achievement/Path of Fire/Crystal_Oasis.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Desert Highlands" DisplayName="Desert Highlands" iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png" data-iconFile="Data/Achievement/Path of Fire/Desert_Highlands.png">
+        <MarkerCategory name="Dwarven Ruins" DisplayName="Dwarven Ruins">
+          <MarkerCategory name="The Curious Bowl" DisplayName="The Curious Bowl">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="Rune Locked Doors" DisplayName="Rune Locked Doors">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="Dwarven Forge" DisplayName="Dwarven Forge" data-sort="true">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Domain of Vabbi" DisplayName="Domain of Vabbi" iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png" data-iconFile="Data/Achievement/Path of Fire/Domain_of_Vabbi.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png">
+        <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies" fadeFar="8400" fadeNear="2100" data-class="fade-4">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Ghostly Trio" DisplayName="Ghostly Trio">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Desolation" DisplayName="The Desolation" iconFile="Data/Achievement/Path of Fire/The_Desolation.png" data-iconFile="Data/Achievement/Path of Fire/The_Desolation.png">
+        <MarkerCategory name="Path of the Gods" DisplayName="Path of the Gods">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Shadow Sprinter" DisplayName="Shadow Sprinter" iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png" data-iconFile="Data/Achievement/Path of Fire/The Desolation/Shadow Sprinter.png">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="The Silverwastes" DisplayName="The Silverwastes" iconFile="Data/Achievement/The_Silverwastes.png" data-iconFile="Data/Achievement/The_Silverwastes.png">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Legendary Trinkets" DisplayName="Legendary Trinkets" iconFile="Data/Achievement/Legendary_Trinkets.png" data-iconFile="Data/Achievement/Legendary_Trinkets.png">
+      <MarkerCategory name="Aurora">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Legendary Weapons" DisplayName="Legendary Weapons" iconFile="Data/Achievement/Legendary_Weapons.png" data-iconFile="Data/Achievement/Legendary_Weapons.png">
+      <MarkerCategory name="Nevermore" iconFile="Data/Achievement/Legendary Weapons/Nevermore.png" data-iconFile="Data/Achievement/Legendary Weapons/Nevermore.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="LS" DisplayName="Living World" fadeFar="16800" fadeNear="8400" iconFile="Data/LS.png" maxSize="256" data-allowsub="true" data-iconFile="Data/LS.png">
+    <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
+      <MarkerCategory name="A Crack in the Ice" DisplayName="A Crack in the Ice" iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png" data-iconFile="Data/LS/LS3/A_Crack_In_the_Ice.png">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Flashpoint" iconFile="Data/LS/LS3/Flashpoint.png" data-iconFile="Data/LS/LS3/Flashpoint.png">
+        <MarkerCategory name="Druid Stone" DisplayName="Druid Stone">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="One Path Ends" DisplayName="One Path Ends" iconFile="Data/LS/LS3/One_Path_Ends.png" data-iconFile="Data/LS/LS3/One_Path_Ends.png">
+        <MarkerCategory name="Storyteller">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Wheres Balthazar" DisplayName="Wheres Balthazar">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="The Head of the Snake" DisplayName="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
+        <MarkerCategory name="A Meeting of Ministers" DisplayName="A Meeting of Ministers">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" data-allowsub="true">
+      <MarkerCategory name="Act 1" DisplayName="Act 1" data-allowsub="true">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Act 2" DisplayName="Act 2" data-allowsub="true">
+        <MarkerCategory name="The Way Forward" DisplayName="The Way Forward">
+          <MarkerCategory name="Walk a Fine Line" DisplayName="Walk a Fine Line">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Act 3" DisplayName="Act 3" data-allowsub="true">
+        <MarkerCategory name="The Departing" DisplayName="The Departing">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="Enemy of My Enemy" DisplayName="Enemy of My Enemy">
+          <MarkerCategory name="The Troopmarshal" DisplayName="The Troopmarshal">
+            <MarkerCategory name="undefined"/>
+          </MarkerCategory>
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Other" fadeFar="16800" fadeNear="8400" maxSize="256" data-allowsub="true">
+    <MarkerCategory name="Vendor" fadeFar="5600" fadeNear="1200" iconFile="Data/Other/Vendor.png" iconSize="0.5" heightOffset="4" data-allowsub="true" data-class="fade-8 size-0.5" data-iconFile="Data/Other/Vendor.png" data-sort="true">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" maxSize="256" data-allowsub="true">
+    <MarkerCategory name="Knight of the Thorn" DisplayName="Knight of the Thorn">
+      <MarkerCategory name="Shards of a Thorn" DisplayName="Shards of a Thorn">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="Dreams of a Thorn" DisplayName="Dreams of a Thorn">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="LS4">
+      <MarkerCategory name="Daybreak">
+        <MarkerCategory name="undefined"/>
+      </MarkerCategory>
+      <MarkerCategory name="undefined"/>
+    </MarkerCategory>
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Druid Stone" DisplayName="Druid Stone">
         <MarkerCategory name="undefined"/>
@@ -407,16 +425,16 @@
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="2">
-        <MarkerCategory name="Crystalline Memories" data-allowsub="true" DisplayName="Crystalline Memories">
+        <MarkerCategory name="Crystalline Memories" DisplayName="Crystalline Memories" data-allowsub="true">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
-        <MarkerCategory name="Hallowed Ground" data-allowsub="true" DisplayName="Hallowed Ground">
+        <MarkerCategory name="Hallowed Ground" DisplayName="Hallowed Ground" data-allowsub="true">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
-        <MarkerCategory name="Facing the Truth" data-allowsub="true" DisplayName="Facing the Truth">
+        <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth" data-allowsub="true">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>
-        <MarkerCategory name="The Way Forward" data-allowsub="true" DisplayName="The Way Forward">
+        <MarkerCategory name="The Way Forward" DisplayName="The Way Forward" data-allowsub="true">
           <MarkerCategory name="Walk a Fine Line" DisplayName="Walk a Fine Line">
             <MarkerCategory name="undefined"/>
           </MarkerCategory>
@@ -536,6 +554,9 @@
     </MarkerCategory>
     <MarkerCategory name="Tactical">
       <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets">
+        <MarkerCategory name="Core">
+          <MarkerCategory name="undefined"/>
+        </MarkerCategory>
         <MarkerCategory name="Heart of Thorns" DisplayName="Heart of Thorns">
           <MarkerCategory name="undefined"/>
         </MarkerCategory>

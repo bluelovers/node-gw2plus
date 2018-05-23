@@ -1,8 +1,8 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" heightOffset="1.6" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Orichalcum" data-sort="true">
-        <MarkerCategory name="Mussels" iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" iconSize="0.35"/>
+        <MarkerCategory name="Mussels" iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png" iconSize="0.35" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Mussels.png"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
@@ -140,5 +140,7 @@
     <POI MapID="1043" xpos="388.519" ypos="242.098" zpos="-177.502" type="resourcenode.plant.orichalcum.mussels" GUID="/0pAg/wcXUKO6Saa9Sde/g=="/>
     <POI MapID="1210" xpos="-741.96" ypos="-0.12033" zpos="414.85" type="resourcenode.plant.orichalcum.mussels" GUID="/tEnKt+kRkKlDTxwItvowA=="/>
     <POI MapID="1226" xpos="-534.375" ypos="-19.5049" zpos="1197.7" type="resourcenode.plant.orichalcum.mussels" GUID="a9UFQt8mqE2oICGDoxhDeQ=="/>
+    <POI MapID="1045" xpos="-881.924" ypos="-142.224" zpos="-297.807" type="resourcenode.plant.orichalcum.mussels" GUID="RbsmADAbbU6be8Z1HltZ9w=="/>
+    <POI MapID="1263" xpos="-402.915" ypos="-0.339004" zpos="-108.361" type="resourcenode.plant.orichalcum.mussels" GUID="dsWJo+TL+02fQgbqnswpMA=="/>
   </POIs>
 </OverlayData>

@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
     <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
-      <MarkerCategory name="Ancient" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" iconFile="Data/ResourceNode/Wood.Ancient.png" behavior="0" data-class="fade-max" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
@@ -235,5 +235,6 @@
     <POI MapID="1228" xpos="936.599" ypos="2.49793" zpos="-327.516" type="resourcenode.wood.ancient" GUID="XrLnwUKPhk+nXHpffbeLAw=="/>
     <POI MapID="1211" xpos="282.638" ypos="238.599" zpos="54.9587" type="resourcenode.wood.ancient" GUID="vk0+E3+/xkW14QhHnBoOBg=="/>
     <POI MapID="62" xpos="67.0735" ypos="7.16718" zpos="201.949" type="resourcenode.wood.ancient" GUID="J0bT2ngsqUCFtfzvOvTmzg=="/>
+    <POI MapID="1043" xpos="-352.128" ypos="247.773" zpos="37.435" type="resourcenode.wood.ancient" GUID="I7mvetJgjUmO2OWD46lCvg=="/>
   </POIs>
 </OverlayData>

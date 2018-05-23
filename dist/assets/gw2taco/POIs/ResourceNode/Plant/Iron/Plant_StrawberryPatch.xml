@@ -1,6 +1,6 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" heightOffset="1.6" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Iron">
         <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
       </MarkerCategory>
@@ -9,5 +9,11 @@
   <POIs>
     <POI MapID="1211" xpos="-400.543" ypos="87.661" zpos="-177.026" type="resourcenode.plant.iron.strawberrypatch" GUID="n72Ng5+SMkSq/tdu0sNOkg=="/>
     <POI MapID="1211" xpos="-417.74" ypos="86.5214" zpos="-168.267" type="resourcenode.plant.iron.strawberrypatch" GUID="Sut2z/RMV0awwWaqUtVk+A=="/>
+    <POI MapID="32" xpos="-1040.05" ypos="68.6828" zpos="-619.385" type="resourcenode.plant.iron.strawberrypatch" GUID="m8lGVfBonEWuiD6cc6VZaA=="/>
+    <POI MapID="32" xpos="-1038.29" ypos="68.5636" zpos="-621.409" type="resourcenode.plant.iron.strawberrypatch" GUID="CdqxxaMyXE6ok5qpUU0M0Q=="/>
+    <POI MapID="32" xpos="-1041.88" ypos="68.6578" zpos="-620.93" type="resourcenode.plant.iron.strawberrypatch" GUID="Zo5ZXn6mckGNqkEhioiXzQ=="/>
+    <POI MapID="32" xpos="-1043.31" ypos="68.6524" zpos="-622.595" type="resourcenode.plant.iron.strawberrypatch" GUID="8kgjT/xcZEqkd1OV77rP3A=="/>
+    <POI MapID="32" xpos="-1039.14" ypos="68.4545" zpos="-623.524" type="resourcenode.plant.iron.strawberrypatch" GUID="CzKBDnYx6Ea273934BqImw=="/>
+    <POI MapID="32" xpos="-1041.32" ypos="68.5021" zpos="-624.641" type="resourcenode.plant.iron.strawberrypatch" GUID="htIeLptGtk6T7O1Jkc1Pwg=="/>
   </POIs>
 </OverlayData>

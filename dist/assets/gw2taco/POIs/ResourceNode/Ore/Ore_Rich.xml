@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
     <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
       <MarkerCategory name="Rich" iconFile="Data/ResourceNode/Ore.Rich.png" data-iconFile="Data/ResourceNode/Ore.Rich.png">
         <MarkerCategory name="Iron"/>
@@ -132,5 +132,7 @@
     <POI MapID="1210" xpos="710.291" ypos="223.005" zpos="404.966" type="resourcenode.ore.rich.orichalcum" GUID="d4Hw1j4mGUO+Xim1Kh6ogQ=="/>
     <POI MapID="1226" xpos="761.987" ypos="350.604" zpos="44.5247" type="resourcenode.ore.rich.orichalcum" GUID="A6hY9Gg/L0mrmIEWHrF3SA=="/>
     <POI MapID="1228" xpos="336.34" ypos="-72.5856" zpos="-192.818" type="resourcenode.ore.rich.mithril" GUID="RCy5EjSshEyyyEZ+QglWPA=="/>
+    <POI MapID="1271" xpos="575.727" ypos="24.4687" zpos="-454.965" type="resourcenode.ore.rich.orichalcum" GUID="hOolq7eXh06rl1Qt4gT36g=="/>
+    <POI MapID="1271" xpos="722.178" ypos="44.369" zpos="-408.891" type="resourcenode.ore.rich.mithril" GUID="9dL9AEoLckyNfgP7CZSKrg=="/>
   </POIs>
 </OverlayData>

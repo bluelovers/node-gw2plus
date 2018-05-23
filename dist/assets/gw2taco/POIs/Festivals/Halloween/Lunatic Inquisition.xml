@@ -1,0 +1,14 @@
+<OverlayData>
+  <MarkerCategory name="Other" fadeFar="16800" fadeNear="8400" maxSize="256" data-allowsub="true">
+    <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
+      <MarkerCategory name="Cave" iconFile="Data/Other/Portal/Cave.png" data-iconFile="Data/Other/Portal/Cave.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="864" xpos="-122.186" ypos="175.012" zpos="-1.65384" type="other.portal" GUID="EEn2RyFIQ0KEReQAf1nmJw=="/>
+    <POI MapID="864" xpos="1.8945" ypos="177.315" zpos="-115.42" type="other.portal" GUID="kj0541r77k+fUjmZeAN62g=="/>
+    <POI MapID="864" xpos="145.904" ypos="178.422" zpos="-2.50602" type="other.portal" GUID="OyvevWfTvECjy/ss8FoU6g=="/>
+    <POI MapID="864" xpos="-1.22874" ypos="178.204" zpos="117.478" type="other.portal" GUID="6mcLLSV+3EeE1tP5sS5EQg=="/>
+    <POI MapID="864" xpos="216.503" ypos="179.678" zpos="50.1066" type="other.portal.cave" GUID="2R69GVoZ806/gms30qZzNg=="/>
+  </POIs>
+</OverlayData>

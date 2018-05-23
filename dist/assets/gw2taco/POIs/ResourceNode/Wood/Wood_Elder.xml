@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
     <MarkerCategory name="Wood" iconFile="Data/ResourceNode/Wood.png" data-iconFile="Data/Wood.png">
       <MarkerCategory name="Elder"/>
     </MarkerCategory>
@@ -669,5 +669,6 @@
     <POI MapID="1211" xpos="742.785" ypos="205.126" zpos="-14.1899" type="resourcenode.wood.elder" GUID="KYAPRYVls0W7XrySJ/pX0w=="/>
     <POI MapID="1248" xpos="1105.09" ypos="29.5525" zpos="78.7762" type="resourcenode.wood.elder" GUID="ZcEKALyY2ESaBPMgrVlK6A=="/>
     <POI MapID="1228" xpos="-666.091" ypos="79.6271" zpos="715.757" type="resourcenode.wood.elder" GUID="Tw8+ySsZP02Mz3pwAc9nfg=="/>
+    <POI MapID="1271" xpos="-28.0499" ypos="-0.437774" zpos="-532.356" type="resourcenode.wood.elder" GUID="QFxf4+xkU0WQPkRqAls8Xg=="/>
   </POIs>
 </OverlayData>

@@ -1,23 +1,23 @@
 <OverlayData>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3.5" iconFile="Data/Chest-Meta.png" data-iconFile="Data/Chest-Meta.png"/>
+  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400" iconFile="Data/Chest.png" maxSize="256" heightOffset="1.6" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png">
+    <MarkerCategory name="Meta" fadeFar="8400" fadeNear="2100" iconFile="Data/Chest-Meta.png" heightOffset="3.5" behavior="4" data-iconFile="Data/Chest-Meta.png" resetLength="30"/>
   </MarkerCategory>
-  <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
-    <MarkerCategory name="Point" heightOffset="1" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" fadeFar="25200" fadeNear="16800" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" maxSize="256" data-class="fade-max" data-iconFile="Data/jpguide.png" triggerRange="5">
+    <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" heightOffset="1" data-iconFile="Data/jumpingpuzzle/Point.png"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" iconFile="Data/Tactical/Raid.png" data-iconFile="Data/Tactical/Raid.png" fadeFar="5600" fadeNear="5600">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
+    <MarkerCategory name="Raid" fadeFar="5600" fadeNear="5600" iconFile="Data/Tactical/Raid.png" data-allowsub="true" data-class="fade-raid" data-iconFile="Data/Tactical/Raid.png">
       <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/Tactical/Raid/SpawnPoint.png" iconSize="0.5" heightOffset="0" data-iconFile="Data/spawn.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Halloween" data-sort="true" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
-      <MarkerCategory name="CarvingPumpkin" DisplayName="Carving Pumpkin" behavior="6" iconSize="0.5" data-class="icon-reset"/>
-      <MarkerCategory name="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" DisplayName="Lunatic Wardrobe">
+    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png" data-sort="true">
+      <MarkerCategory name="CarvingPumpkin" DisplayName="Carving Pumpkin" iconSize="0.5" behavior="6" data-class="icon-reset"/>
+      <MarkerCategory name="Lunatic Wardrobe" DisplayName="Lunatic Wardrobe" iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png" data-iconFile="Data/Festivals/Halloween/Lunatic_Wardrobe.png">
         <MarkerCategory name="Lunatic Racer" DisplayName="Lunatic Racer"/>
       </MarkerCategory>
       <MarkerCategory name="New Afterlife for Quaggan" DisplayName="New Afterlife for Quaggan"/>
-      <MarkerCategory name="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" DisplayName="Shadow of the Mad King">
+      <MarkerCategory name="Shadow of the Mad King" DisplayName="Shadow of the Mad King" iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King.png">
         <MarkerCategory name="Courtly Service" DisplayName="Courtly Service"/>
         <MarkerCategory name="Mad Memories" DisplayName="Mad Memories">
           <MarkerCategory name="Mad Mysteries" DisplayName="Mad Mysteries">
@@ -45,9 +45,14 @@
             <MarkerCategory name="6"/>
           </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="Shut the Doors" iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png" DisplayName="Shut the Doors"/>
+        <MarkerCategory name="Shut the Doors" DisplayName="Shut the Doors" iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png" data-iconFile="Data/Festivals/Halloween/Shadow of the Mad King/Shut the Doors.png"/>
       </MarkerCategory>
-      <MarkerCategory name="Your Mad King says" data-class="poi-chest-meta" iconFile="Data/Festivals/Halloween/Your Mad King says.png" data-iconFile="Data/Festivals/Halloween/Your Mad King says.png" heightOffset="3.5" DisplayName="Your Mad King says"/>
+      <MarkerCategory name="Your Mad King says" DisplayName="Your Mad King says" iconFile="Data/Festivals/Halloween/Your Mad King says.png" heightOffset="3.5" data-class="poi-chest-meta" data-iconFile="Data/Festivals/Halloween/Your Mad King says.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Other" fadeFar="16800" fadeNear="8400" maxSize="256" data-allowsub="true">
+    <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
+      <MarkerCategory name="Cave" iconFile="Data/Other/Portal/Cave.png" data-iconFile="Data/Other/Portal/Cave.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
@@ -64,6 +69,7 @@
     <POI MapID="863" xpos="36.0687" ypos="212.068" zpos="-25.4488" type="tactical.raid.spawnpoint" GUID="3ZnN8JO/vkiDKGtfjPKdmw=="/>
     <POI MapID="863" xpos="-6.62451" ypos="154.281" zpos="-61.3399" type="tactical.raid.spawnpoint" GUID="aPADqtb10UWwt7lCQp6CJA=="/>
     <POI MapID="863" xpos="19.9184" ypos="85.4666" zpos="-51.7371" type="tactical.raid.spawnpoint" GUID="idC2VlKyw0iANTALZuPNBg=="/>
+    <POI MapID="863" xpos="61.9568" ypos="212.551" zpos="-29.5739" type="tactical.raid.spawnpoint" GUID="f4pT2dTLR0WCTIXVpt3MGQ=="/>
     <POI MapID="50" xpos="-82.7782" ypos="24.5478" zpos="296.209" type="festivals.halloween.carvingpumpkin" GUID="ghR01/JkNUOQnyfVICtCIA=="/>
     <POI MapID="19" xpos="940.004" ypos="76.9466" zpos="523.44" type="festivals.halloween.carvingpumpkin" GUID="YYTwAhuCTEe9m+eYFsxzVw=="/>
     <POI MapID="19" xpos="-292.133" ypos="4.80635" zpos="-462.783" type="festivals.halloween.carvingpumpkin" GUID="ZAqh7RetFEighw1/qmts/w=="/>
@@ -188,8 +194,14 @@
     <POI MapID="866" xpos="14.0187" ypos="194.514" zpos="52.5297" type="festivals.halloween.carvingpumpkin" GUID="67zWPHqKI0eQU0sdtvX7Rw=="/>
     <POI MapID="866" xpos="49.9418" ypos="196.058" zpos="47.3105" type="festivals.halloween.carvingpumpkin" GUID="/hE9U/7HS0ikRV88vGSABA=="/>
     <POI MapID="50" xpos="-486.18" ypos="78.0168" zpos="272.869" type="festivals.halloween.carvingpumpkin" GUID="fA53U9lgEEOz3gkiHztDRw=="/>
-    <POI MapID="866" xpos="0.542229" ypos="192.673" zpos="56.0757" type="festivals.halloween.lunatic_wardrobe.lunatic_racer" GUID="kahW+UcUGk64eRLw3zWHxA=="/>
     <POI MapID="50" xpos="-119.161" ypos="23.3386" zpos="396.177" type="festivals.halloween.new_afterlife_for_quaggan" GUID="CbVXEUvos0K5SCQ05A7ctg=="/>
+    <POI MapID="864" xpos="-122.186" ypos="175.012" zpos="-1.65384" type="other.portal" GUID="EEn2RyFIQ0KEReQAf1nmJw=="/>
+    <POI MapID="864" xpos="1.8945" ypos="177.315" zpos="-115.42" type="other.portal" GUID="kj0541r77k+fUjmZeAN62g=="/>
+    <POI MapID="864" xpos="145.904" ypos="178.422" zpos="-2.50602" type="other.portal" GUID="OyvevWfTvECjy/ss8FoU6g=="/>
+    <POI MapID="864" xpos="-1.22874" ypos="178.204" zpos="117.478" type="other.portal" GUID="6mcLLSV+3EeE1tP5sS5EQg=="/>
+    <POI MapID="864" xpos="216.503" ypos="179.678" zpos="50.1066" type="other.portal.cave" GUID="2R69GVoZ806/gms30qZzNg=="/>
+    <POI MapID="50" xpos="-35.8877" ypos="24.1276" zpos="158.667" type="festivals.halloween.your_mad_king_says" GUID="jzChnZNeV0G98NXSfAusVA=="/>
+    <POI MapID="866" xpos="0.542229" ypos="192.673" zpos="56.0757" type="festivals.halloween.lunatic_wardrobe.lunatic_racer" GUID="kahW+UcUGk64eRLw3zWHxA=="/>
     <POI MapID="866" xpos="5.41036" ypos="225.661" zpos="-2.64353" type="festivals.halloween.shadow_of_the_mad_king.courtly_service" GUID="bR3Koy5fF0KRi0cDVl6GYw=="/>
     <POI MapID="50" xpos="-85.1626" ypos="23.8827" zpos="156.07" type="festivals.halloween.shadow_of_the_mad_king.mad_memories" GUID="9jRJzPo5skyJcsfdVGq4Bw=="/>
     <POI MapID="50" xpos="-94.8229" ypos="23.8697" zpos="137.683" type="festivals.halloween.shadow_of_the_mad_king.mad_memories.mad_mysteries.1" GUID="+j0W/bHHHUGDYZ+n5iHUTg=="/>
@@ -218,6 +230,5 @@
     <POI MapID="866" xpos="124.31" ypos="175.981" zpos="133.406" type="festivals.halloween.shadow_of_the_mad_king.shut_the_doors" GUID="sO/cINM1ikCBfwt9/zICUw=="/>
     <POI MapID="866" xpos="121.614" ypos="177.399" zpos="35.7241" type="festivals.halloween.shadow_of_the_mad_king.shut_the_doors" GUID="9g8w/p/YSEi3X9qwydbHtg=="/>
     <POI MapID="866" xpos="30.4117" ypos="177.24" zpos="134.152" type="festivals.halloween.shadow_of_the_mad_king.shut_the_doors" GUID="8Y/ldCOJckOThp4z70cyiw=="/>
-    <POI MapID="50" xpos="-35.8877" ypos="24.1276" zpos="158.667" type="festivals.halloween.your_mad_king_says" GUID="jzChnZNeV0G98NXSfAusVA=="/>
   </POIs>
 </OverlayData>

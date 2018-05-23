@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
-      <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
+  <MarkerCategory name="LS" DisplayName="Living World" fadeFar="16800" fadeNear="8400" iconFile="Data/LS.png" maxSize="256" data-allowsub="true" data-iconFile="Data/LS.png">
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" data-allowsub="true">
+      <MarkerCategory name="Act 3" DisplayName="Act 3" data-allowsub="true">
         <MarkerCategory name="The Departing" DisplayName="The Departing">
           <MarkerCategory name="CheckPoint" iconFile="Data/CheckPoint.png"/>
           <MarkerCategory name="The Whole Story" DisplayName="The Whole Story"/>

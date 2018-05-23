@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Other" data-allowsub="true" data-sort="true" data-class="iconsize-0.5">
-      <MarkerCategory name="Cloth" data-class="fade-synthesizer" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="Other" data-allowsub="true" data-class="iconsize-0.5" data-sort="true">
+      <MarkerCategory name="Cloth" fadeFar="5600" fadeNear="4800" iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" data-class="fade-synthesizer" data-iconFile="Data/ResourceNode/Other/Cloth.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>

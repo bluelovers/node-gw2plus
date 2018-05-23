@@ -1,8 +1,8 @@
 <OverlayData>
-  <MarkerCategory name="jumpingpuzzle" data-class="fade-max" DisplayName="Jumping Puzzles" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" triggerRange="5" data-iconFile="Data/jpguide.png" fadeFar="25200" fadeNear="16800" maxSize="256">
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" fadeFar="25200" fadeNear="16800" iconFile="Data/Jumping Puzzles.png" iconSize="0.75" maxSize="256" data-class="fade-max" data-iconFile="Data/jpguide.png" triggerRange="5">
     <MarkerCategory name="CheckPoint" DisplayName="Check Point" iconFile="Data/jumpingpuzzle/CheckPoint.png" data-iconFile="Data/jumpingpuzzle/CheckPoint.png"/>
     <MarkerCategory name="Start" iconFile="Data/jumpingpuzzle/Start.png" iconSize="1.5" data-iconFile="Data/jpstart.png"/>
-    <MarkerCategory name="Point" heightOffset="1" iconFile="Data/jumpingpuzzle/Point.png" data-iconFile="Data/jumpingpuzzle/Point.png"/>
+    <MarkerCategory name="Point" iconFile="Data/jumpingpuzzle/Point.png" heightOffset="1" data-iconFile="Data/jumpingpuzzle/Point.png"/>
     <MarkerCategory name="End" iconFile="Data/jumpingpuzzle/End.png" data-iconFile="Data/jumpingpuzzle/End.png"/>
   </MarkerCategory>
   <POIs>

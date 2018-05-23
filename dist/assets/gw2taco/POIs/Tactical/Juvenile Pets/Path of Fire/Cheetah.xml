@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
-      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
+    <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets" iconFile="Data/Tactical/Juvenile Pets.png" heightOffset="3" data-iconFile="Data/Tactical/Juvenile Pets.png">
+      <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" data-allowsub="true" data-sort="true">
         <MarkerCategory name="Cheetah"/>
       </MarkerCategory>
     </MarkerCategory>

@@ -1,19 +1,19 @@
 <OverlayData>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400" iconFile="Data/Chest.png" maxSize="256" heightOffset="1.6" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png">
     <MarkerCategory name="Permanent"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Raid" data-allowsub="true" data-class="fade-raid" iconFile="Data/Tactical/Raid.png" data-iconFile="Data/Tactical/Raid.png" fadeFar="5600" fadeNear="5600">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
+    <MarkerCategory name="Raid" fadeFar="5600" fadeNear="5600" iconFile="Data/Tactical/Raid.png" data-allowsub="true" data-class="fade-raid" data-iconFile="Data/Tactical/Raid.png">
       <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5" heightOffset="0"/>
-      <MarkerCategory name="Trap" iconSize="0.5" iconFile="Data/Tactical/Raid/Trap.png" data-iconFile="Data/Tactical/Raid/Trap.png"/>
+      <MarkerCategory name="Trap" iconFile="Data/Tactical/Raid/Trap.png" iconSize="0.5" data-iconFile="Data/Tactical/Raid/Trap.png"/>
+      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/Tactical/Raid/SpawnPoint.png" iconSize="0.5" heightOffset="0" data-iconFile="Data/spawn.png"/>
       <MarkerCategory name="Direction_N" DisplayName="North" iconFile="Data/north.png"/>
       <MarkerCategory name="Direction_W" DisplayName="West" iconFile="Data/west.png"/>
       <MarkerCategory name="Direction_S" DisplayName="South" iconFile="Data/south.png"/>
       <MarkerCategory name="Direction_E" DisplayName="East" iconFile="Data/east.png"/>
-      <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/Tactical/Raid/SpawnPoint.png" iconSize="0.5" heightOffset="0" data-iconFile="Data/spawn.png"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Other" data-allowsub="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Other" fadeFar="16800" fadeNear="8400" maxSize="256" data-allowsub="true">
     <MarkerCategory name="Portal" iconFile="Data/Other/Portal.png" data-iconFile="Data/Other/Portal.png">
       <MarkerCategory name="In" iconFile="Data/Other/Portal/In.png" data-iconFile="Data/Other/Portal/In.png"/>
       <MarkerCategory name="Out" iconFile="Data/Other/Portal/Out.png" data-iconFile="Data/Other/Portal/Out.png"/>
@@ -22,6 +22,7 @@
   </MarkerCategory>
   <POIs>
     <POI MapID="1062" xpos="-289.068" ypos="89.3527" zpos="109.607" type="chest.permanent" GUID="93AHnBopaEi97RtOpVqVvw=="/>
+    <POI MapID="1062" xpos="41.1658" ypos="48.4293" zpos="-113.724" type="tactical.raid.stackpoint" GUID="H8RE1vBwLUmTxnJq0gw4EA=="/>
     <POI MapID="1149" xpos="209.603" ypos="-0.476765" zpos="-53.1286" type="chest.permanent" GUID="NWMlmoshM0+bZuvadT1UjA=="/>
     <POI MapID="1149" xpos="-150.796" ypos="131.523" zpos="149.879" type="tactical.raid.stackpoint" GUID="bQrtSISZ6keoKBIqokgkBg=="/>
     <POI MapID="1156" xpos="133.069" ypos="83.0717" zpos="450.318" type="tactical.raid.trap" GUID="T2yvIiljlE2rLTvGF/pPBw=="/>
@@ -42,6 +43,23 @@
     <POI MapID="1156" xpos="-35.9212" ypos="107.703" zpos="476.886" type="tactical.raid.trap" GUID="Af0TDFl6xUy2gmsj4oOq8Q=="/>
     <POI MapID="1156" xpos="-25.325" ypos="108.113" zpos="476.102" type="tactical.raid.trap" GUID="oUcprvs2KEuOLnzkoGN8uw=="/>
     <POI MapID="1156" xpos="-12.4765" ypos="113.104" zpos="434.118" type="tactical.raid.trap" GUID="jR1rtW92fUWEuyrUkS4HAw=="/>
+    <POI MapID="1156" xpos="-96.7806" ypos="138.074" zpos="390.873" type="tactical.raid.stackpoint" GUID="WR0hnQ+TAEuduDbaMeMDqQ=="/>
+    <POI MapID="1156" xpos="106.513" ypos="82.2467" zpos="520.063" type="tactical.raid.trap" GUID="UYyTrWrfOUGghbIcG5DLRA=="/>
+    <POI MapID="1156" xpos="91.2685" ypos="82.0263" zpos="520.741" type="tactical.raid.trap" GUID="Xvj9fRa8vUahIIlwkHUFGA=="/>
+    <POI MapID="1156" xpos="44.6717" ypos="88.0595" zpos="551.098" type="tactical.raid.trap" GUID="LYjhJ5xsXEKCb5iol+60iA=="/>
+    <POI MapID="1156" xpos="35.6776" ypos="89.6018" zpos="554.232" type="tactical.raid.trap" GUID="D6q2m6cbQE2RGreEJw6RQQ=="/>
+    <POI MapID="1156" xpos="-101.398" ypos="94.2358" zpos="506.193" type="tactical.raid.trap" GUID="nm4+CEb580GPv+uHrIPAXA=="/>
+    <POI MapID="1156" xpos="-98.9005" ypos="95.2693" zpos="496.873" type="tactical.raid.trap" GUID="+B3vTQwioUGYs35cqL9FFg=="/>
+    <POI MapID="1156" xpos="-12.0502" ypos="113.077" zpos="445.331" type="tactical.raid.trap" GUID="HdlF6p+l7E+bwnBFqqBdvQ=="/>
+    <POI MapID="1156" xpos="79.3535" ypos="82.2091" zpos="523.103" type="tactical.raid.trap" GUID="WUTlS4avNECwK28EAidQbw=="/>
+    <POI MapID="1156" xpos="-59.3671" ypos="103.163" zpos="474.904" type="tactical.raid.trap" GUID="lnhPq/Q4LUarMJ76EexrwA=="/>
+    <POI MapID="1156" xpos="-13.5342" ypos="107.867" zpos="470.456" type="tactical.raid.trap" GUID="557Ysjsg7kiUkfh8Qat21w=="/>
+    <POI MapID="1156" xpos="40.9803" ypos="88.6637" zpos="551.604" type="tactical.raid.stackpoint" GUID="VHvKpjheSUunLQXroqyqxA=="/>
+    <POI MapID="1156" xpos="-13.0877" ypos="92.7511" zpos="551.715" type="tactical.raid.stackpoint" GUID="vCbCDDGxbkCnP9Z819RF6w=="/>
+    <POI MapID="1156" xpos="-79.6498" ypos="99.5082" zpos="507.285" type="tactical.raid.stackpoint" GUID="b0SEVLPW8k+X73odgEfMIw=="/>
+    <POI MapID="1156" xpos="-65.4654" ypos="134.422" zpos="433.06" type="tactical.raid.stackpoint" GUID="048lNFKr80mzj5RJgAuUbg=="/>
+    <POI MapID="1156" xpos="-98.6129" ypos="150.151" zpos="237.749" type="tactical.raid.spawnpoint" GUID="gDNm2RARLkWlEKWPXq3I3Q=="/>
+    <POI MapID="1156" xpos="-77.3636" ypos="512.354" zpos="-80.7303" type="tactical.raid.spawnpoint" GUID="3ne0sONQwEKY08HoNSKeBQ=="/>
     <POI MapID="1188" xpos="-155.51" ypos="63.3027" zpos="-64.1974" type="other.portal.in" GUID="OwhmTS/bz0m+hMAJ+ckfQw=="/>
     <POI MapID="1188" xpos="-124.646" ypos="60.7328" zpos="-92.9665" type="other.portal.out" GUID="KxMhRwHnoU6kao9ueaf4Gw=="/>
     <POI MapID="1188" xpos="88.5395" ypos="108.483" zpos="153.405" type="other.portal.gate" GUID="bGBGfYJ/wU61lqIT3oy4eA=="/>
@@ -61,5 +79,7 @@
     <POI MapID="1188" xpos="91.3112" ypos="106.169" zpos="85.5351" type="tactical.raid.stackpoint" GUID="5imKLfraCEOcgdxxmxuMOQ=="/>
     <POI MapID="1188" xpos="67.1366" ypos="106.169" zpos="101.322" type="tactical.raid.spawnpoint" GUID="GYm3TdP43kmnSLO+riOs3A=="/>
     <POI MapID="1188" xpos="-89.9334" ypos="129.513" zpos="77.2864" type="tactical.raid.stackpoint" GUID="Tsbx1X1IRkGikXE+Z2uTZw=="/>
+    <POI MapID="1188" xpos="370.579" ypos="33.7204" zpos="61.9307" type="tactical.raid.stackpoint" GUID="U038uHZdykmbwhWH2RE6oQ=="/>
+    <POI MapID="1188" xpos="364.993" ypos="33.721" zpos="51.28" type="tactical.raid.spawnpoint" GUID="lNc8li6R5U2WBO75HW/JkQ=="/>
   </POIs>
 </OverlayData>

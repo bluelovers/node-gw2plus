@@ -20,6 +20,8 @@ POIs
 │ │ │ ├── Chest_1226_The Desolation.xml
 │ │ │ ├── Chest_1228_Elon Riverlands.xml
 │ │ │ ├── Chest_1248_Domain of Vabbi.xml
+│ │ │ ├── Chest_1263_Domain of Istan.xml
+│ │ │ ├── Chest_1271_Sandswept Isles.xml
 │ │ │ ├── Always Time for Taimi.xml
 │ │ │ └── Priory Historian Elisa.xml
 │ │ ├─┬ Crystal Oasis
@@ -74,6 +76,8 @@ POIs
 │ │ ├── Jacaranda.xml
 │ │ ├── Rock Gazalle.xml
 │ │ └── Sand Lion.xml
+│ ├─┬ Side Stories
+│ │ └── Current Events
 │ └─┬ The Silverwastes
 │   └── Go for the Gold.xml
 ├─┬ Chest
@@ -88,8 +92,13 @@ POIs
 │ │ ├── Chest_1226_The Desolation.xml
 │ │ ├── Chest_1228_Elon Riverlands.xml
 │ │ ├── Chest_1248_Domain of Vabbi.xml
+│ │ ├── Chest_1263_Domain of Istan.xml
+│ │ ├── Chest_1271_Sandswept Isles.xml
 │ │ ├── Always Time for Taimi.xml
 │ │ └── Priory Historian Elisa.xml
+│ ├─┬ Fractals of the Mists
+│ │ ├── Chest_1205_Fractals of the Mists.xml
+│ │ └── Chest_954_Fractals of the Mists.xml
 │ ├─┬ Heart of Maguuma
 │ │ ├── Chest_1041_Dragons Stand.xml
 │ │ ├── Chest_1043_Auric Basin.xml
@@ -146,6 +155,7 @@ POIs
 │ └─┬ Halloween
 │   ├── Ascent to Madness.xml
 │   ├── CarvingPumpkin.xml
+│   ├── Lunatic Inquisition.xml
 │   ├─┬ Lunatic Wardrobe
 │   │ └── Lunatic Racer.xml
 │   ├── New Afterlife for Quaggan.xml
@@ -190,6 +200,8 @@ POIs
 │   │ ├── Chest_1226_The Desolation.xml
 │   │ ├── Chest_1228_Elon Riverlands.xml
 │   │ ├── Chest_1248_Domain of Vabbi.xml
+│   │ ├── Chest_1263_Domain of Istan.xml
+│   │ ├── Chest_1271_Sandswept Isles.xml
 │   │ ├── Always Time for Taimi.xml
 │   │ └── Priory Historian Elisa.xml
 │   ├─┬ Crystal Oasis
@@ -262,7 +274,8 @@ POIs
 │ │ │ └── Ore_Silver.xml
 │ │ ├── Ore_Rich.xml
 │ │ ├── Currency_1165_Bloodstone Fen.xml
-│ │ └── Currency_1185_Lake Doric.xml
+│ │ ├── Currency_1185_Lake Doric.xml
+│ │ └── Currency_1271_Sandswept Isles.xml
 │ ├─┬ Plant
 │ │ ├─┬ Copper
 │ │ │ ├── Plant_BlueberryBush.xml
@@ -284,6 +297,7 @@ POIs
 │ │ │ ├── Plant_StrawberryPatch.xml
 │ │ │ └── Plant_Taproots.xml
 │ │ ├─┬ Mithril
+│ │ │ ├── Plant_Artichoke.xml
 │ │ │ ├── Plant_Asparagus.xml
 │ │ │ ├── Plant_BloomingPassiflora.xml
 │ │ │ ├── Plant_ButternutSquash.xml
@@ -350,7 +364,8 @@ POIs
 │ │ │ │ └── Ore_Silver.xml
 │ │ │ ├── Ore_Rich.xml
 │ │ │ ├── Currency_1165_Bloodstone Fen.xml
-│ │ │ └── Currency_1185_Lake Doric.xml
+│ │ │ ├── Currency_1185_Lake Doric.xml
+│ │ │ └── Currency_1271_Sandswept Isles.xml
 │ │ ├─┬ Plant
 │ │ │ ├─┬ Copper
 │ │ │ │ ├── Plant_BlueberryBush.xml
@@ -372,6 +387,7 @@ POIs
 │ │ │ │ ├── Plant_StrawberryPatch.xml
 │ │ │ │ └── Plant_Taproots.xml
 │ │ │ ├─┬ Mithril
+│ │ │ │ ├── Plant_Artichoke.xml
 │ │ │ │ ├── Plant_Asparagus.xml
 │ │ │ │ ├── Plant_BloomingPassiflora.xml
 │ │ │ │ ├── Plant_ButternutSquash.xml
@@ -425,7 +441,8 @@ POIs
 │ │ │ └── Ore_Silver.xml
 │ │ ├── Ore_Rich.xml
 │ │ ├── Currency_1165_Bloodstone Fen.xml
-│ │ └── Currency_1185_Lake Doric.xml
+│ │ ├── Currency_1185_Lake Doric.xml
+│ │ └── Currency_1271_Sandswept Isles.xml
 │ ├─┬ Other
 │ │ ├── Candy Corn.xml
 │ │ ├── Cloth.xml
@@ -452,6 +469,7 @@ POIs
 │ │ │ ├── Plant_StrawberryPatch.xml
 │ │ │ └── Plant_Taproots.xml
 │ │ ├─┬ Mithril
+│ │ │ ├── Plant_Artichoke.xml
 │ │ │ ├── Plant_Asparagus.xml
 │ │ │ ├── Plant_BloomingPassiflora.xml
 │ │ │ ├── Plant_ButternutSquash.xml
@@ -500,7 +518,9 @@ POIs
 │ │ └── Trek.xml
 │ ├─┬ Juvenile Pets
 │ │ ├─┬ Core
-│ │ │ └── Pink Moa.xml
+│ │ │ ├── Lynx.xml
+│ │ │ ├── Pink Moa.xml
+│ │ │ └── Warthog.xml
 │ │ ├─┬ Heart of Thorns
 │ │ │ └── Bristleback.xml
 │ │ └─┬ Path of Fire
@@ -519,6 +539,8 @@ POIs
 │ │ │ ├── Chest_1226_The Desolation.xml
 │ │ │ ├── Chest_1228_Elon Riverlands.xml
 │ │ │ ├── Chest_1248_Domain of Vabbi.xml
+│ │ │ ├── Chest_1263_Domain of Istan.xml
+│ │ │ ├── Chest_1271_Sandswept Isles.xml
 │ │ │ ├── Always Time for Taimi.xml
 │ │ │ └── Priory Historian Elisa.xml
 │ │ ├─┬ Crystal Oasis

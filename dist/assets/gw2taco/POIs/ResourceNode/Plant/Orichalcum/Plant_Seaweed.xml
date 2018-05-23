@@ -1,8 +1,8 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" heightOffset="1.6" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Orichalcum" data-sort="true">
-        <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" iconSize="0.35"/>
+        <MarkerCategory name="Seaweed" iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png" iconSize="0.35" data-iconFile="Data/ResourceNode/Plant/Orichalcum.Seaweed.png"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
@@ -16,5 +16,7 @@
     <POI MapID="1175" xpos="-77.0619" ypos="-72.9987" zpos="-919.381" type="resourcenode.plant.orichalcum.seaweed" GUID="bihXxd/+hk24hqv5cfvgGg=="/>
     <POI MapID="1175" xpos="-78.8604" ypos="-72.4741" zpos="-924.138" type="resourcenode.plant.orichalcum.seaweed" GUID="IEVGJN2YIEageB6a1Y+GjQ=="/>
     <POI MapID="1175" xpos="-98.6442" ypos="-71.7664" zpos="-916.013" type="resourcenode.plant.orichalcum.seaweed" GUID="SDIEYzb+1U6mSG3lqM/poA=="/>
+    <POI MapID="1263" xpos="-633.116" ypos="19.9586" zpos="-245.021" type="resourcenode.plant.orichalcum.seaweed" GUID="fax/s+0ABU6hGMcH7dmrJw=="/>
+    <POI MapID="1263" xpos="-409.983" ypos="-3.1456" zpos="-167.953" type="resourcenode.plant.orichalcum.seaweed" GUID="M7YmWsbgMUGYOy/N5/CZMw=="/>
   </POIs>
 </OverlayData>

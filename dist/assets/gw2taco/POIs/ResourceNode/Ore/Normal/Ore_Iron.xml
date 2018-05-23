@@ -1,5 +1,5 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
     <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
         <MarkerCategory name="Iron"/>
@@ -322,5 +322,8 @@
     <POI MapID="23" xpos="716.763" ypos="90.8731" zpos="-228.803" type="resourcenode.ore.normal.iron" GUID="JxwCH7bLM0So3wqFqUBWLg=="/>
     <POI MapID="23" xpos="724.661" ypos="88.0536" zpos="-383.93" type="resourcenode.ore.normal.iron" GUID="zCMRuv+ZkEGiRR91ZS0Osw=="/>
     <POI MapID="26" xpos="-212.237" ypos="78.5084" zpos="766.852" type="resourcenode.ore.normal.iron" GUID="v3ZlCNBXcEqpQLRC9+hfvw=="/>
+    <POI MapID="17" xpos="873.774" ypos="73.83" zpos="249.358" type="resourcenode.ore.normal.iron" GUID="Sr6kNn9YhECXfUYh8KGu/w=="/>
+    <POI MapID="24" xpos="-1236.99" ypos="32.9815" zpos="-355.295" type="resourcenode.ore.normal.iron" GUID="Y0tedrNO4Ey9RDMRJZ5+Jw=="/>
+    <POI MapID="24" xpos="-1175.23" ypos="29.5862" zpos="-388.613" type="resourcenode.ore.normal.iron" GUID="dBLPv/Mzl0SM43YjSzcYgg=="/>
   </POIs>
 </OverlayData>

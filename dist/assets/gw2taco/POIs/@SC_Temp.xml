@@ -1,5 +1,34 @@
 <OverlayData>
-  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" data-allowsub="true" maxSize="256">
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400" maxSize="256" data-allowsub="true">
+    <MarkerCategory name="Knight of the Thorn" DisplayName="Knight of the Thorn">
+      <MarkerCategory name="Shards of a Thorn" DisplayName="Shards of a Thorn">
+        <MarkerCategory name="Warden Leide" DisplayName="Warden Leide"/>
+        <MarkerCategory name="Ridhais"/>
+        <MarkerCategory name="Shard of Caladbolg" DisplayName="Shard of Caladbolg"/>
+        <MarkerCategory name="Agent Zrii" DisplayName="Agent Zrii"/>
+      </MarkerCategory>
+      <MarkerCategory name="Dreams of a Thorn" DisplayName="Dreams of a Thorn">
+        <MarkerCategory name="Mote"/>
+      </MarkerCategory>
+      <MarkerCategory name="Knight of the Thorn" DisplayName="Knight of the Thorn">
+      </MarkerCategory>
+      <MarkerCategory name="Sword Taxonomy" DisplayName="Sword Taxonomy">
+      </MarkerCategory>
+      <MarkerCategory name="The Sword Regrown" DisplayName="The Sword Regrown">
+      </MarkerCategory>
+      <MarkerCategory name="The First Vision" DisplayName="The First Vision">
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Zeghai of the Lost" DisplayName="Zeghai of the Lost">
+    </MarkerCategory>
+    <MarkerCategory name="LS4">
+      <MarkerCategory name="Daybreak">
+        <MarkerCategory name="Lost to Time" DisplayName="Lost to Time"/>
+        <MarkerCategory name="Corsair Keepsakes" DisplayName="Corsair Keepsakes"/>
+        <MarkerCategory name="Library Detective" DisplayName="Library Detective"/>
+        <MarkerCategory name="That Belongs in a Museum" DisplayName="That Belongs in a Museum"/>
+      </MarkerCategory>
+    </MarkerCategory>
     <MarkerCategory name="Letters from E" DisplayName="Letters from E"/>
     <MarkerCategory name="Flashpoint">
       <MarkerCategory name="Burnin’ Down the House" DisplayName="Burnin’ Down the House"/>
@@ -34,17 +63,17 @@
       <MarkerCategory name="1" data-allowsub="true">
       </MarkerCategory>
       <MarkerCategory name="2">
-        <MarkerCategory name="Crystalline Memories" data-allowsub="true" DisplayName="Crystalline Memories">
+        <MarkerCategory name="Crystalline Memories" DisplayName="Crystalline Memories" data-allowsub="true">
           <MarkerCategory name="All the Essences" DisplayName="All the Essences"/>
         </MarkerCategory>
-        <MarkerCategory name="Hallowed Ground" data-allowsub="true" DisplayName="Hallowed Ground">
+        <MarkerCategory name="Hallowed Ground" DisplayName="Hallowed Ground" data-allowsub="true">
         </MarkerCategory>
-        <MarkerCategory name="Facing the Truth" data-allowsub="true" DisplayName="Facing the Truth">
+        <MarkerCategory name="Facing the Truth" DisplayName="Facing the Truth" data-allowsub="true">
           <MarkerCategory name="Wedge Symbol" DisplayName="Wedge Symbol"/>
           <MarkerCategory name="Seeker of Truth and Knowledge" DisplayName="Seeker of Truth and Knowledge"/>
           <MarkerCategory name="Goddess of Secrets" DisplayName="Goddess of Secrets"/>
         </MarkerCategory>
-        <MarkerCategory name="The Way Forward" data-allowsub="true" DisplayName="The Way Forward">
+        <MarkerCategory name="The Way Forward" DisplayName="The Way Forward" data-allowsub="true">
           <MarkerCategory name="Walk a Fine Line" DisplayName="Walk a Fine Line">
             <MarkerCategory name="Point"/>
           </MarkerCategory>
@@ -270,11 +299,22 @@
     </MarkerCategory>
     <MarkerCategory name="Tactical">
       <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets">
+        <MarkerCategory name="Core">
+          <MarkerCategory name="Warthog"/>
+        </MarkerCategory>
         <MarkerCategory name="Heart of Thorns" DisplayName="Heart of Thorns">
           <MarkerCategory name="Bristleback"/>
         </MarkerCategory>
         <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
         </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
+    <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets" iconFile="Data/Tactical/Juvenile Pets.png" heightOffset="3" data-iconFile="Data/Tactical/Juvenile Pets.png">
+      <MarkerCategory name="Core" data-allowsub="true" data-sort="true">
+        <MarkerCategory name="Lynx"/>
+        <MarkerCategory name="Warthog"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

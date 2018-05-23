@@ -1,0 +1,15 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" heightOffset="1.6" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png">
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="Artichoke"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="1271" xpos="57.4993" ypos="27.3921" zpos="655.424" type="resourcenode.plant.mithril.artichoke" GUID="DrFE60+4e0iYYk4inALu5w=="/>
+    <POI MapID="1271" xpos="54.3863" ypos="27.9248" zpos="664.215" type="resourcenode.plant.mithril.artichoke" GUID="3vtu9jMC8UGMNN7yMcD+Cg=="/>
+    <POI MapID="1271" xpos="52.4226" ypos="28.3608" zpos="671.969" type="resourcenode.plant.mithril.artichoke" GUID="JC/PbQTOREWElixwvOvQcA=="/>
+    <POI MapID="1271" xpos="48.7034" ypos="27.4381" zpos="683.281" type="resourcenode.plant.mithril.artichoke" GUID="/DDwhSDHn0iqA0YIwqzmYA=="/>
+  </POIs>
+</OverlayData>

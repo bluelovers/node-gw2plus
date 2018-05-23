@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Halloween" data-sort="true" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
-      <MarkerCategory name="Your Mad King says" data-class="poi-chest-meta" iconFile="Data/Festivals/Halloween/Your Mad King says.png" data-iconFile="Data/Festivals/Halloween/Your Mad King says.png" heightOffset="3.5" DisplayName="Your Mad King says"/>
+    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png" data-sort="true">
+      <MarkerCategory name="Your Mad King says" DisplayName="Your Mad King says" iconFile="Data/Festivals/Halloween/Your Mad King says.png" heightOffset="3.5" data-class="poi-chest-meta" data-iconFile="Data/Festivals/Halloween/Your Mad King says.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>

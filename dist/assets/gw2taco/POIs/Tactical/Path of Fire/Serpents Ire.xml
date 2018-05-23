@@ -1,9 +1,9 @@
 <OverlayData>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
     <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
-      <MarkerCategory name="Serpents Ire" iconFile="Data/Boss.png" DisplayName="Serpents Ire">
-        <MarkerCategory name="Zealot" data-class="fade-max2" fadeFar="42000" fadeNear="25200"/>
-        <MarkerCategory name="Detonates" data-class="fade-max" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="Serpents Ire" DisplayName="Serpents Ire" iconFile="Data/Boss.png">
+        <MarkerCategory name="Zealot" fadeFar="42000" fadeNear="25200" data-class="fade-max2"/>
+        <MarkerCategory name="Detonates" fadeFar="25200" fadeNear="16800" data-class="fade-max"/>
         <MarkerCategory name="Boss"/>
       </MarkerCategory>
     </MarkerCategory>

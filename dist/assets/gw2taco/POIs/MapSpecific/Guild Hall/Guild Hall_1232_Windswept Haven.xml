@@ -1,16 +1,16 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400" data-class="fade-3">
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
-        <MarkerCategory name="Ore Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Ore Synthesizer"/>
+        <MarkerCategory name="Ore Synthesizer" DisplayName="Ore Synthesizer" fadeFar="5600" fadeNear="4800" data-class="fade-synthesizer"/>
       </MarkerCategory>
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
-        <MarkerCategory name="Lumber Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Lumber Synthesizer"/>
+        <MarkerCategory name="Lumber Synthesizer" DisplayName="Lumber Synthesizer" fadeFar="5600" fadeNear="4800" data-class="fade-synthesizer"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant" heightOffset="1.6">
-        <MarkerCategory name="Vegetable Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Vegetable Synthesizer"/>
-        <MarkerCategory name="Herb Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Herb Synthesizer"/>
-        <MarkerCategory name="Berry Synthesizer" data-class="fade-synthesizer" fadeFar="5600" fadeNear="4800" DisplayName="Berry Synthesizer"/>
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" heightOffset="1.6" data-allowsub="true" data-class="poi-plant">
+        <MarkerCategory name="Vegetable Synthesizer" DisplayName="Vegetable Synthesizer" fadeFar="5600" fadeNear="4800" data-class="fade-synthesizer"/>
+        <MarkerCategory name="Herb Synthesizer" DisplayName="Herb Synthesizer" fadeFar="5600" fadeNear="4800" data-class="fade-synthesizer"/>
+        <MarkerCategory name="Berry Synthesizer" DisplayName="Berry Synthesizer" fadeFar="5600" fadeNear="4800" data-class="fade-synthesizer"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

@@ -1,8 +1,8 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" heightOffset="1.6" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Orichalcum" data-sort="true">
-        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
+        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
@@ -172,5 +172,6 @@
     <POI MapID="1226" xpos="234.649" ypos="270.864" zpos="334.059" type="resourcenode.plant.orichalcum.flax" GUID="HniLOuKhK0yJ6fxCazmFFA=="/>
     <POI MapID="1228" xpos="279.693" ypos="103.135" zpos="866.325" type="resourcenode.plant.orichalcum.flax" GUID="b1Szfs8ri0+uRT336mvRug=="/>
     <POI MapID="1226" xpos="-481.473" ypos="19.2906" zpos="1096.21" type="resourcenode.plant.orichalcum.flax" GUID="i4x9uIucZ0uLyyxREyQ+AQ=="/>
+    <POI MapID="1045" xpos="-277.682" ypos="209.181" zpos="-231.778" type="resourcenode.plant.orichalcum.flax" GUID="wHsAFZKz1UiLuli4chitYA=="/>
   </POIs>
 </OverlayData>

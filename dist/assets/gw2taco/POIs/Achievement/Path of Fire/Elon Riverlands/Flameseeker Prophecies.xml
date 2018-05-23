@@ -1,9 +1,9 @@
 <OverlayData>
-  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png" DisplayName="Path of Fire">
-      <MarkerCategory name="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" DisplayName="Elon Riverlands">
-        <MarkerCategory name="Flameseeker Prophecies" data-class="fade-4" fadeFar="8400" fadeNear="2100" DisplayName="Flameseeker Prophecies">
-          <MarkerCategory name="Forgotten Light" iconFile="Data/Point.png" DisplayName="Forgotten Light"/>
+  <MarkerCategory name="Achievement" fadeFar="16800" fadeNear="8400" iconFile="Data/Achievement.png" maxSize="256" data-allowsub="true" data-iconFile="Data/Achievement.png">
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" iconFile="Data/Achievement/Path of Fire.png" data-iconFile="Data/Achievement/Path of Fire.png">
+      <MarkerCategory name="Elon Riverlands" DisplayName="Elon Riverlands" iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png" data-iconFile="Data/Achievement/Path of Fire/Elon_Riverlands.png">
+        <MarkerCategory name="Flameseeker Prophecies" DisplayName="Flameseeker Prophecies" fadeFar="8400" fadeNear="2100" data-class="fade-4">
+          <MarkerCategory name="Forgotten Light" DisplayName="Forgotten Light" iconFile="Data/Point.png"/>
         </MarkerCategory>
       </MarkerCategory>
     </MarkerCategory>

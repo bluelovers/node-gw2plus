@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
+    <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets" iconFile="Data/Tactical/Juvenile Pets.png" heightOffset="3" data-iconFile="Data/Tactical/Juvenile Pets.png">
+      <MarkerCategory name="Core" data-allowsub="true" data-sort="true">
+        <MarkerCategory name="Lynx"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+    <POI MapID="26" xpos="127.369" ypos="60.3261" zpos="687.186" type="tactical.juvenile_pets.core.lynx" GUID="o5EO5PgrMUiwXEce3gkXkw=="/>
+  </POIs>
+</OverlayData>

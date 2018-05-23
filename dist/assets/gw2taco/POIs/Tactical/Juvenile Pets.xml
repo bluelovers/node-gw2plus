@@ -1,11 +1,11 @@
 <OverlayData>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Juvenile Pets" heightOffset="3" iconFile="Data/Tactical/Juvenile Pets.png" data-iconFile="Data/Tactical/Juvenile Pets.png" DisplayName="Juvenile Pets">
-      <MarkerCategory name="Core" data-sort="true" data-allowsub="true">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
+    <MarkerCategory name="Juvenile Pets" DisplayName="Juvenile Pets" iconFile="Data/Tactical/Juvenile Pets.png" heightOffset="3" data-iconFile="Data/Tactical/Juvenile Pets.png">
+      <MarkerCategory name="Core" data-allowsub="true" data-sort="true">
         <MarkerCategory name="Pink Moa" DisplayName="Pink Moa"/>
       </MarkerCategory>
-      <MarkerCategory name="Heart of Thorns" data-sort="true" data-allowsub="true" DisplayName="Heart of Thorns"/>
-      <MarkerCategory name="Path of Fire" data-sort="true" data-allowsub="true" DisplayName="Path of Fire">
+      <MarkerCategory name="Heart of Thorns" DisplayName="Heart of Thorns" data-allowsub="true" data-sort="true"/>
+      <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" data-allowsub="true" data-sort="true">
         <MarkerCategory name="Cheetah"/>
         <MarkerCategory name="Fanged Iboga" DisplayName="Fanged Iboga"/>
         <MarkerCategory name="Jacaranda"/>

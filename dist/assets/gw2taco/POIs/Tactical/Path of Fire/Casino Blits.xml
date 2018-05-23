@@ -1,11 +1,11 @@
 <OverlayData>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
     <MarkerCategory name="Path of Fire" DisplayName="Path of Fire">
-      <MarkerCategory name="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png" DisplayName="Casino Blits">
-        <MarkerCategory name="Round 1" iconFile="Data/1.png" DisplayName="Round 1"/>
-        <MarkerCategory name="Round 2" iconFile="Data/2.png" DisplayName="Round 2"/>
-        <MarkerCategory name="Round 3" iconFile="Data/3.png" DisplayName="Round 3"/>
-        <MarkerCategory name="Boss" data-class="boss-1 fade-6" fadeFar="5600" fadeNear="4800" iconFile="Data/Boss.png" heightOffset="3"/>
+      <MarkerCategory name="Casino Blits" DisplayName="Casino Blits" iconFile="Data/Tactical/Path of Fire/Casino Blits.png" data-iconFile="Data/Tactical/Path of Fire/Casino Blits.png">
+        <MarkerCategory name="Round 1" DisplayName="Round 1" iconFile="Data/1.png"/>
+        <MarkerCategory name="Round 2" DisplayName="Round 2" iconFile="Data/2.png"/>
+        <MarkerCategory name="Round 3" DisplayName="Round 3" iconFile="Data/3.png"/>
+        <MarkerCategory name="Boss" fadeFar="5600" fadeNear="4800" iconFile="Data/Boss.png" heightOffset="3" data-class="boss-1 fade-6"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

@@ -1,6 +1,6 @@
 <OverlayData>
-  <MarkerCategory name="Achievement" data-allowsub="true" iconFile="Data/Achievement.png" data-iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="The Silverwastes" iconFile="Data/Achievement/The_Silverwastes.png" data-iconFile="Data/Achievement/The_Silverwastes.png" DisplayName="The Silverwastes">
+  <MarkerCategory name="Achievement" fadeFar="16800" fadeNear="8400" iconFile="Data/Achievement.png" maxSize="256" data-allowsub="true" data-iconFile="Data/Achievement.png">
+    <MarkerCategory name="The Silverwastes" DisplayName="The Silverwastes" iconFile="Data/Achievement/The_Silverwastes.png" data-iconFile="Data/Achievement/The_Silverwastes.png">
       <MarkerCategory name="Go for the Gold" DisplayName="Go for the Gold"/>
     </MarkerCategory>
   </MarkerCategory>

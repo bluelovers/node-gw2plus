@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="Tactical" DisplayName="Tactical" data-sort="true" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="Tactical" DisplayName="Tactical" fadeFar="16800" fadeNear="8400" maxSize="256" data-sort="true">
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions" data-sort="true">
-      <MarkerCategory name="Trek" heightOffset="4" iconFile="Data/Tactical/GuildMission/Trek.png" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
+      <MarkerCategory name="Trek" iconFile="Data/Tactical/GuildMission/Trek.png" heightOffset="4" data-iconFile="Data/Tactical/GuildMission/Trek.png"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>

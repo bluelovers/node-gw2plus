@@ -1,191 +1,191 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GW2MapTimer>
-  <Map Name="World Bosses" Length="1440" Start="0" id="wb">
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Taidha" Length="15" Color="8063471c"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Destroyer" Length="15" Color="80ff2e0d"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
-    <Event Name="Shatterer" Length="15" Color="80aba6d3"/>
-    <Event Name="Shaman" Length="15" Color="80b9d0d5"/>
-    <Event Name="Ulgoth" Length="15" Color="8063471c"/>
-    <Event Name="Fire Elem" Length="15" Color="80eab700"/>
-    <Event Name="Golem" Length="15" Color="80a0a0a0"/>
-    <Event Name="Wurm" Length="15" Color="806dac2f"/>
-    <Event Name="Jormag" Length="15" Color="8079afff"/>
-    <Event Name="Behemoth" Length="15" Color="80303030"/>
+  <Map Length="1440" Name="World Bosses" Start="0" id="wb">
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="8063471c" Length="15" Name="Taidha"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="80ff2e0d" Length="15" Name="Destroyer"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
+    <Event Color="80aba6d3" Length="15" Name="Shatterer"/>
+    <Event Color="80b9d0d5" Length="15" Name="Shaman"/>
+    <Event Color="8063471c" Length="15" Name="Ulgoth"/>
+    <Event Color="80eab700" Length="15" Name="Fire Elem"/>
+    <Event Color="80a0a0a0" Length="15" Name="Golem"/>
+    <Event Color="806dac2f" Length="15" Name="Wurm"/>
+    <Event Color="8079afff" Length="15" Name="Jormag"/>
+    <Event Color="80303030" Length="15" Name="Behemoth"/>
   </Map>
-  <Map Name="Hardcore World Bosses" Length="1440" Start="0" id="hcwb">
-    <Event Name="Tequatl" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Triple Trouble" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Karka Queen" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Tequatl" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Triple Trouble" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="105" Color="00000000"/>
-    <Event Name="Karka Queen" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Tequatl" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Triple Trouble" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="135" Color="00000000"/>
-    <Event Name="Karka Queen" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Tequatl" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Triple Trouble" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="135" Color="00000000"/>
-    <Event Name="Karka Queen" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Tequatl" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Triple Trouble" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Karka Queen" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Tequatl" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
-    <Event Name="Triple Trouble" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="165" Color="00000000"/>
-    <Event Name="Karka Queen" Length="15" Color="80ea568f"/>
-    <Event Name="" Length="45" Color="00000000"/>
+  <Map Length="1440" Name="Hardcore World Bosses" Start="0" id="hcwb">
+    <Event Color="80ea568f" Length="15" Name="Tequatl"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Triple Trouble"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Karka Queen"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Tequatl"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Triple Trouble"/>
+    <Event Color="00000000" Length="105" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Karka Queen"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Tequatl"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Triple Trouble"/>
+    <Event Color="00000000" Length="135" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Karka Queen"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Tequatl"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Triple Trouble"/>
+    <Event Color="00000000" Length="135" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Karka Queen"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Tequatl"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Triple Trouble"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Karka Queen"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Tequatl"/>
+    <Event Color="00000000" Length="45" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Triple Trouble"/>
+    <Event Color="00000000" Length="165" Name=""/>
+    <Event Color="80ea568f" Length="15" Name="Karka Queen"/>
+    <Event Color="00000000" Length="45" Name=""/>
   </Map>
-  <Map Name="Daytime" Length="120" Start="25" id="daytime">
-    <Event Name="Dawn" Length="5" Color="80ffe37f"/>
-    <Event Name="Day" Length="70" Color="80ffe37f"/>
-    <Event Name="Dusk" Length="5" Color="80ffe37f"/>
-    <Event Name="Night" Length="40" Color="809f99cc"/>
+  <Map Length="120" Name="Daytime" Start="25" id="daytime">
+    <Event Color="80ffe37f" Length="5" Name="Dawn"/>
+    <Event Color="80ffe37f" Length="70" Name="Day"/>
+    <Event Color="80ffe37f" Length="5" Name="Dusk"/>
+    <Event Color="809f99cc" Length="40" Name="Night"/>
   </Map>
-  <Map Name="Verdant Brink" Length="120" Start="30" id="vb">
-    <Event Name="VB Daytime" Length="75" Color="80c4e2a5"/>
-    <Event Name="VB Night" Length="25" Color="8084c147"/>
-    <Event Name="Night Bosses" Length="20" Color="806dac2f"/>
+  <Map Length="120" Name="Verdant Brink" Start="30" id="vb">
+    <Event Color="80c4e2a5" Length="75" Name="VB Daytime"/>
+    <Event Color="8084c147" Length="25" Name="VB Night"/>
+    <Event Color="806dac2f" Length="20" Name="Night Bosses"/>
   </Map>
-  <Map Name="Auric Basin" Length="120" Start="60" id="ab">
-    <Event Name="Octovine" Length="20" Color="80eab700"/>
-    <Event Name="Reset" Length="10" Color="80fff1c1"/>
-    <Event Name="Pillars" Length="75" Color="80ffe37f"/>
-    <Event Name="Challenges" Length="15" Color="80ffd53d"/>
+  <Map Length="120" Name="Auric Basin" Start="60" id="ab">
+    <Event Color="80eab700" Length="20" Name="Octovine"/>
+    <Event Color="80fff1c1" Length="10" Name="Reset"/>
+    <Event Color="80ffe37f" Length="75" Name="Pillars"/>
+    <Event Color="80ffd53d" Length="15" Name="Challenges"/>
   </Map>
-  <Map Name="Tangled Depths" Length="120" Start="50" id="td">
-    <Event Name="Help the outposts" Length="95" Color="80ffd7d7"/>
-    <Event Name="Prep" Length="5" Color="80ffbdbd"/>
-    <Event Name="Chak Gerent" Length="20" Color="80ff9999"/>
+  <Map Length="120" Name="Tangled Depths" Start="50" id="td">
+    <Event Color="80ffd7d7" Length="95" Name="Help the outposts"/>
+    <Event Color="80ffbdbd" Length="5" Name="Prep"/>
+    <Event Color="80ff9999" Length="20" Name="Chak Gerent"/>
   </Map>
-  <Map Name="Dragon's Stand" Length="120" Start="90" id="ds">
-    <Event Name="Dragon's Stand Start" Length="120" Color="80aba6d3"/>
+  <Map Length="120" Name="Dragon's Stand" Start="90" id="ds">
+    <Event Color="80aba6d3" Length="120" Name="Dragon's Stand Start"/>
   </Map>
-  <Map Name="Dry Top" Length="60" Start="0" id="dt">
-    <Event Name="Crash Site" Length="40" Color="80fcfadc"/>
-    <Event Name="Sandstorm" Length="20" Color="80ded98a"/>
+  <Map Length="60" Name="Dry Top" Start="0" id="dt">
+    <Event Color="80fcfadc" Length="40" Name="Crash Site"/>
+    <Event Color="80ded98a" Length="20" Name="Sandstorm"/>
   </Map>
-  <Map Name="Ley-Line Anomalies" Length="360" Start="20" id="wb1">
-    <Event Name="Spawn" Length="20" Color="80c0392b"/>
-    <Event Name="Next: Iron Marches" Length="100" Color="80e74c3c"/>
-    <Event Name="Spawn" Length="20" Color="80c0392b"/>
-    <Event Name="Next: Gendarran Fields" Length="100" Color="80e74c3c"/>
-    <Event Name="Spawn" Length="20" Color="80c0392b"/>
-    <Event Name="Next: Timberline Falls" Length="100" Color="80e74c3c"/>
+  <Map Length="360" Name="Ley-Line Anomalies" Start="20" id="lla">
+    <Event Color="80c0392b" Length="20" Name="Spawn"/>
+    <Event Color="80e74c3c" Length="100" Name="Next: Iron Marches"/>
+    <Event Color="80c0392b" Length="20" Name="Spawn"/>
+    <Event Color="80e74c3c" Length="100" Name="Next: Gendarran Fields"/>
+    <Event Color="80c0392b" Length="20" Name="Spawn"/>
+    <Event Color="80e74c3c" Length="100" Name="Next: Timberline Falls"/>
   </Map>
-  <Map Name="Halloween" Length="120" Start="0" id="halloween">
-    <Event Name="Mad King" Length="10" Color="80ffd7d7"/>
-    <Event data-class="auto-pad" Name="Next: Mad King" Length="110" Color=""/>
+  <Map Length="120" Name="Crystal Oasis: Casino Blitz" Start="5" id="crystal_oasis_casino_blitz">
+    <Event Color="80ffd7d7" Length="5" Name="1"/>
+    <Event Color="80ffd7d7" Length="5" Name="2"/>
+    <Event Color="80ffd7d7" Length="5" Name="3"/>
+    <Event Color="80ff9999" Length="5" Name="Boss"/>
+    <Event Color="" Length="100" Name="Next: Crystal Oasis: Casino Blitz" data-class="auto-pad"/>
   </Map>
-  <Map Name="Crystal Oasis: Casino Blitz" Length="120" Start="5" id="crystal_oasis_casino_blitz">
-    <Event Name="1" Length="5" Color="80ffd7d7"/>
-    <Event Name="2" Length="5" Color="80ffd7d7"/>
-    <Event Name="3" Length="5" Color="80ffd7d7"/>
-    <Event Name="Boss" Length="5" Color="80ff9999"/>
-    <Event data-class="auto-pad" Name="Next: Crystal Oasis: Casino Blitz" Length="100" Color=""/>
+  <Map Length="90" Name="Serpents' Ire" Start="60" id="serpents_ire">
+    <Event Color="80ffd7d7" Length="30" Name="Serpents' Ire"/>
+    <Event Color="" Length="60" Name="Next: Serpents' Ire" data-class="auto-pad"/>
   </Map>
-  <Map Name="Serpents' Ire" Length="90" Start="60" id="serpents_ire">
-    <Event Name="Serpents' Ire" Length="30" Color="80ffd7d7"/>
-    <Event data-class="auto-pad" Name="Next: Serpents' Ire" Length="60" Color=""/>
+  <Map Length="120" Name="Halloween" Start="0" id="halloween">
+    <Event Color="80ffd7d7" Length="10" Name="Mad King"/>
+    <Event Color="" Length="110" Name="Next: Mad King" data-class="auto-pad"/>
   </Map>
 </GW2MapTimer>

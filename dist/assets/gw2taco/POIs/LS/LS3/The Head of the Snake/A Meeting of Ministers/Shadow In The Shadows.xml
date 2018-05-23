@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
+  <MarkerCategory name="LS" DisplayName="Living World" fadeFar="16800" fadeNear="8400" iconFile="Data/LS.png" maxSize="256" data-allowsub="true" data-iconFile="Data/LS.png">
     <MarkerCategory name="LS3" DisplayName="Season 3" data-allowsub="true">
-      <MarkerCategory name="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" DisplayName="The Head of the Snake">
+      <MarkerCategory name="The Head of the Snake" DisplayName="The Head of the Snake" iconFile="Data/LS/LS3/The_Head_of_the_Snake.png" data-iconFile="Data/LS/LS3/The_Head_of_the_Snake.png">
         <MarkerCategory name="A Meeting of Ministers" DisplayName="A Meeting of Ministers">
           <MarkerCategory name="Shadow In The Shadows" DisplayName="Shadow In The Shadows"/>
         </MarkerCategory>

@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Festivals" DisplayName="Festivals" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Halloween" data-sort="true" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png">
-      <MarkerCategory name="CarvingPumpkin" DisplayName="Carving Pumpkin" behavior="6" iconSize="0.5" data-class="icon-reset"/>
+    <MarkerCategory name="Halloween" iconFile="Data/Festivals/Halloween.png" data-iconFile="Data/Festivals/Halloween.png" data-sort="true">
+      <MarkerCategory name="CarvingPumpkin" DisplayName="Carving Pumpkin" iconSize="0.5" behavior="6" data-class="icon-reset"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>

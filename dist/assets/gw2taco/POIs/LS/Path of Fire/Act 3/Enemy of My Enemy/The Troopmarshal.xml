@@ -1,11 +1,11 @@
 <OverlayData>
-  <MarkerCategory name="LS" DisplayName="Living World" data-allowsub="true" iconFile="Data/LS.png" data-iconFile="Data/LS.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="Path of Fire" data-allowsub="true" DisplayName="Path of Fire">
-      <MarkerCategory name="Act 3" data-allowsub="true" DisplayName="Act 3">
+  <MarkerCategory name="LS" DisplayName="Living World" fadeFar="16800" fadeNear="8400" iconFile="Data/LS.png" maxSize="256" data-allowsub="true" data-iconFile="Data/LS.png">
+    <MarkerCategory name="Path of Fire" DisplayName="Path of Fire" data-allowsub="true">
+      <MarkerCategory name="Act 3" DisplayName="Act 3" data-allowsub="true">
         <MarkerCategory name="Enemy of My Enemy" DisplayName="Enemy of My Enemy">
           <MarkerCategory name="The Troopmarshal" DisplayName="The Troopmarshal">
             <MarkerCategory name="Mummy Legion" DisplayName="Mummy Legion"/>
-            <MarkerCategory name="Master of Mummies" iconFile="Data/CheckPoint.png" DisplayName="Master of Mummies"/>
+            <MarkerCategory name="Master of Mummies" DisplayName="Master of Mummies" iconFile="Data/CheckPoint.png"/>
           </MarkerCategory>
         </MarkerCategory>
       </MarkerCategory>

@@ -1,37 +1,37 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" data-class="fade-1" behavior="1" iconFile="Data/ResourceNode.png" data-iconFile="Data/ResourceNode.png" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="MapSpecific" data-class="fade-3" fadeFar="25200" fadeNear="8400">
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes" fadeFar="16800" fadeNear="8400" iconFile="Data/ResourceNode.png" maxSize="256" behavior="1" data-class="fade-1" data-iconFile="Data/ResourceNode.png">
+    <MarkerCategory name="MapSpecific" fadeFar="25200" fadeNear="8400" data-class="fade-3">
       <MarkerCategory name="Ore" iconFile="Data/Ore.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Ore.Currency.png"/>
-        <MarkerCategory name="Lump of Aurillium" iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png" data-iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png" DisplayName="Lump of Aurillium"/>
+        <MarkerCategory name="Lump of Aurillium" DisplayName="Lump of Aurillium" iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png" data-iconFile="Data/ResourceNode/MapSpecific/Ore/Lump_of_Aurillium.png"/>
       </MarkerCategory>
       <MarkerCategory name="Wood" iconFile="Data/Wood.png" data-allowsub="true">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Wood.Currency.png"/>
       </MarkerCategory>
-      <MarkerCategory name="Plant" iconFile="Data/Plant.png" data-allowsub="true" data-class="poi-plant" heightOffset="1.6">
+      <MarkerCategory name="Plant" iconFile="Data/Plant.png" heightOffset="1.6" data-allowsub="true" data-class="poi-plant">
         <MarkerCategory name="Currency" iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png" data-iconFile="Data/ResourceNode/MapSpecific.Plant.Currency.png"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png" heightOffset="1.6">
+    <MarkerCategory name="Plant" iconFile="Data/ResourceNode/Plant.png" heightOffset="1.6" data-class="iconsize-0.35 poi-plant" data-iconFile="Data/Plant.png">
       <MarkerCategory name="Orichalcum" data-sort="true">
-        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35"/>
-        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35"/>
+        <MarkerCategory name="Flax" iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png" iconSize="0.35" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Flax.png"/>
+        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png" iconSize="0.35" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Ghost_Pepper.png"/>
         <MarkerCategory name="Lotus"/>
-        <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35"/>
+        <MarkerCategory name="Omnomberries" iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png" iconSize="0.35" data-iconFile="Data/ResourceNode/Plant/Orichalcum/Omnomberries.png"/>
         <MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle"/>
         <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
       </MarkerCategory>
     </MarkerCategory>
-    <MarkerCategory name="Other" data-allowsub="true" data-sort="true" data-class="iconsize-0.5">
-      <MarkerCategory name="Candy Corn" data-class="fade-4" iconFile="Data/ResourceNode/Other/Candy_Corn.png" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png" iconSize="0.5" fadeFar="8400" fadeNear="2100" DisplayName="Candy Corn"/>
-      <MarkerCategory name="Cloth" data-class="fade-synthesizer" iconFile="Data/ResourceNode/Other/Cloth.png" data-iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
-      <MarkerCategory name="Leather" data-class="fade-synthesizer" iconFile="Data/ResourceNode/Other/Leather.png" data-iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" fadeFar="5600" fadeNear="4800"/>
-      <MarkerCategory name="QuartzCrystal" data-class="fade-max" behavior="0" DisplayName="Quartz Crystal" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png" iconSize="0.5" fadeFar="25200" fadeNear="16800"/>
-      <MarkerCategory name="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" iconSize="0.5" DisplayName="Watchwork Sprocket"/>
+    <MarkerCategory name="Other" data-allowsub="true" data-class="iconsize-0.5" data-sort="true">
+      <MarkerCategory name="Candy Corn" DisplayName="Candy Corn" fadeFar="8400" fadeNear="2100" iconFile="Data/ResourceNode/Other/Candy_Corn.png" iconSize="0.5" data-class="fade-4" data-iconFile="Data/ResourceNode/Other/Candy_Corn.png"/>
+      <MarkerCategory name="Cloth" fadeFar="5600" fadeNear="4800" iconFile="Data/ResourceNode/Other/Cloth.png" iconSize="0.5" data-class="fade-synthesizer" data-iconFile="Data/ResourceNode/Other/Cloth.png"/>
+      <MarkerCategory name="Leather" fadeFar="5600" fadeNear="4800" iconFile="Data/ResourceNode/Other/Leather.png" iconSize="0.5" data-class="fade-synthesizer" data-iconFile="Data/ResourceNode/Other/Leather.png"/>
+      <MarkerCategory name="QuartzCrystal" DisplayName="Quartz Crystal" fadeFar="25200" fadeNear="16800" iconFile="Data/ResourceNode/Other/QuartzCrystal.png" iconSize="0.5" behavior="0" data-class="fade-max" data-iconFile="Data/ResourceNode/Other/QuartzCrystal.png"/>
+      <MarkerCategory name="Watchwork Sprocket" DisplayName="Watchwork Sprocket" iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png" iconSize="0.5" data-iconFile="Data/ResourceNode/Other/Watchwork_Sprocket.png"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/ResourceNode/Ore.png" data-iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
-        <MarkerCategory name="Orichalcum" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" fadeFar="25200" fadeNear="16800"/>
+        <MarkerCategory name="Orichalcum" fadeFar="25200" fadeNear="16800" iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png" behavior="0" data-class="fade-max" data-iconFile="Data/ResourceNode/Ore.Normal.Orichalcum.png"/>
         <MarkerCategory name="Mithril"/>
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Gold"/>
@@ -44,12 +44,12 @@
       <MarkerCategory name="Hard"/>
       <MarkerCategory name="Elder"/>
       <MarkerCategory name="Soft"/>
-      <MarkerCategory name="Ancient" data-class="fade-max" behavior="0" iconFile="Data/ResourceNode/Wood.Ancient.png" data-iconFile="Data/ResourceNode/Wood.Ancient.png" fadeFar="25200" fadeNear="16800"/>
+      <MarkerCategory name="Ancient" fadeFar="25200" fadeNear="16800" iconFile="Data/ResourceNode/Wood.Ancient.png" behavior="0" data-class="fade-max" data-iconFile="Data/ResourceNode/Wood.Ancient.png"/>
       <MarkerCategory name="Green"/>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png" heightOffset="1.6" fadeFar="16800" fadeNear="8400" maxSize="256">
-    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" data-allowsub="true" data-class="fade-7" iconFile="Data/Chest-MapSpecific.png" data-iconFile="Data/Chest-MapSpecific.png" fadeFar="10500" fadeNear="4200">
+  <MarkerCategory name="Chest" fadeFar="16800" fadeNear="8400" iconFile="Data/Chest.png" maxSize="256" heightOffset="1.6" data-class="fade-1 poi-chest" data-iconFile="Data/Chest.png">
+    <MarkerCategory name="MapSpecific" DisplayName="Map Specific" fadeFar="10500" fadeNear="4200" iconFile="Data/Chest-MapSpecific.png" data-allowsub="true" data-class="fade-7" data-iconFile="Data/Chest-MapSpecific.png">
       <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="AuricBasin" DisplayName="Auric Basin"/>
       <MarkerCategory name="VerdantBrink" DisplayName="Verdant Brink" iconFile="data/airshippart.png"/>
