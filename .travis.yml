@@ -1,10 +1,14 @@
 language: node_js
 node_js:
 - '9'
+before_install:
+  #- npm install -g typedoc typedoc-themes-color typedoc-plugin-nojekyll
+  - npm install -g typescript gulp ts-node
 install:
-- npm i -g gulp
+  #- npm install
+#  - npm install --no-save
 script:
-- gulp
+- npm run gulp
 deploy:
   provider: pages
   skip-cleanup: true
